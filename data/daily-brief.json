@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T03:54:26.524735Z",
+  "generated_at": "2026-06-27T00:09:13.135737Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1354-5341-ba63-263082779106&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-1354-5341-ba63-263082779106&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1009-388b-a5a2-8680b977b0fc&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-1009-388b-a5a2-8680b977b0fc&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "940a1429e63d89cf62963f3c6addd98b9941f880",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1009-388b-a5a2-8680b977b0fc&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4ace5f092722597d0e19e8a43c6b48bf99963d1f",
           "title": "点击这里进入 / Click here to enter",
@@ -30,12 +39,21 @@
           "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "940a1429e63d89cf62963f3c6addd98b9941f880",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1009-388b-a5a2-8680b977b0fc&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4ace5f092722597d0e19e8a43c6b48bf99963d1f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1354-5341-ba63-263082779106&fp=-3",
@@ -54,111 +72,50 @@
           "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-06-26T00:10:56.215822Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "latest_at": "2026-06-27T00:09:13.135737Z",
       "primary_item": {
-        "id": "4ace5f092722597d0e19e8a43c6b48bf99963d1f",
+        "id": "940a1429e63d89cf62963f3c6addd98b9941f880",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1354-5341-ba63-263082779106&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1009-388b-a5a2-8680b977b0fc&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_b6ca7e75baf6",
-      "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-      "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
-          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T22:59:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
-          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T22:59:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7954,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T22:59:45Z",
-      "latest_at": "2026-06-25T22:59:45Z",
-      "primary_item": {
-        "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
-        "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-        "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cc97c2cd299c",
-      "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-      "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
-      "primary_url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+      "story_id": "story_006c35e4141f",
+      "title": "在企业和组织报告中按采用阶段跟踪合并总数 / Track total merges by adoption phase in enterprise and organization reports",
+      "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
+      "primary_url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "21911b12003d8f4100254e885cc65209d21983f8",
-          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+          "id": "93767bf0d3b908546b5f1810d8baa64e3ed7d74c",
+          "title": "在企业和组织报告中按采用阶段跟踪合并总数 / Track total merges by adoption phase in enterprise and organization reports",
+          "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T21:41:18Z"
+          "published_at": "2026-06-26T20:55:03Z"
         }
       ],
       "source_count": 1,
@@ -167,25 +124,25 @@
       ],
       "items": [
         {
-          "id": "21911b12003d8f4100254e885cc65209d21983f8",
-          "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-          "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+          "id": "93767bf0d3b908546b5f1810d8baa64e3ed7d74c",
+          "title": "在企业和组织报告中按采用阶段跟踪合并总数 / Track total merges by adoption phase in enterprise and organization reports",
+          "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T21:41:18Z"
+          "published_at": "2026-06-26T20:55:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7409,
+        "ai_relevance": 0.87,
+        "recency": 0.8652,
         "story_heat": 0.0
       },
       "category": "official",
@@ -194,32 +151,132 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T21:41:18Z",
-      "latest_at": "2026-06-25T21:41:18Z",
+      "earliest_at": "2026-06-26T20:55:03Z",
+      "latest_at": "2026-06-26T20:55:03Z",
       "primary_item": {
-        "id": "21911b12003d8f4100254e885cc65209d21983f8",
-        "title": "Copilot 代码审查：分析深度和效率更新 / Copilot code review: Analysis depth and efficiency updates",
-        "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
+        "id": "93767bf0d3b908546b5f1810d8baa64e3ed7d74c",
+        "title": "在企业和组织报告中按采用阶段跟踪合并总数 / Track total merges by adoption phase in enterprise and organization reports",
+        "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0dfa7e4bd23b",
-      "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-      "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
-      "primary_url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+      "story_id": "story_adbd50c1b1db",
+      "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "primary_url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
+          "title": "GPT‑5.6 Sol 预览：新一代模型",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:31:54.233000Z"
+        },
+        {
+          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
+          "title": "GPT‑5.6 Sol 预览：新一代模型",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:31:54.233000Z"
+        },
+        {
+          "id": "f50b30bc2cc13996cce1036a6e197cd36063b221",
+          "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.4103,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:00:00Z",
+      "latest_at": "2026-06-26T17:31:54.233000Z",
+      "primary_item": {
+        "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+        "title": "GPT‑5.6 Sol 预览：新一代模型 / Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8d74ffd51987",
+      "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+      "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+          "id": "0559ae8717a848bacaaa30857be886e768639787",
+          "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+          "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T21:30:42Z"
+          "published_at": "2026-06-26T16:35:06Z"
         }
       ],
       "source_count": 1,
@@ -228,25 +285,25 @@
       ],
       "items": [
         {
-          "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-          "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-          "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+          "id": "0559ae8717a848bacaaa30857be886e768639787",
+          "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+          "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-25T21:30:42Z"
+          "published_at": "2026-06-26T16:35:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7335,
+        "recency": 0.6846,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,32 +312,152 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T21:30:42Z",
-      "latest_at": "2026-06-25T21:30:42Z",
+      "earliest_at": "2026-06-26T16:35:06Z",
+      "latest_at": "2026-06-26T16:35:06Z",
       "primary_item": {
-        "id": "7033636f928ed08bd94d362116c72d6dd8154517",
-        "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces / Enterprise-managed settings now support strictKnownMarketplaces in VS Code and GitHub Copilot CLI",
-        "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
+        "id": "0559ae8717a848bacaaa30857be886e768639787",
+        "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash / MAI-Code-1-Flash for Copilot Business and Copilot Enterprise",
+        "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_36a2a5f915d1",
-      "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
-      "url": "https://www.aibase.com/news/29180",
-      "primary_url": "https://www.aibase.com/news/29180",
+      "story_id": "story_85f3f6a5eb71",
+      "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+      "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+      "primary_url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T23:31:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T23:31:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9738,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T23:31:29Z",
+      "latest_at": "2026-06-26T23:31:29Z",
+      "primary_item": {
+        "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+        "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+        "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0f359af5e38c",
+      "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+      "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
+      "primary_url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
+          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+          "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T20:04:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
+          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+          "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T20:04:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8303,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T20:04:55Z",
+      "latest_at": "2026-06-26T20:04:55Z",
+      "primary_item": {
+        "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
+        "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+        "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7d1c29d1345d",
+      "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+      "url": "https://www.aibase.com/news/29203",
+      "primary_url": "https://www.aibase.com/news/29203",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
-          "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
-          "url": "https://www.aibase.com/news/29180",
+          "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
+          "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+          "url": "https://www.aibase.com/news/29203",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T18:09:13.135737Z"
         }
       ],
       "source_count": 1,
@@ -289,25 +466,25 @@
       ],
       "items": [
         {
-          "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
-          "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
-          "url": "https://www.aibase.com/news/29180",
+          "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
+          "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+          "url": "https://www.aibase.com/news/29203",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T18:09:13.135737Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -315,32 +492,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "earliest_at": "2026-06-26T18:09:13.135737Z",
+      "latest_at": "2026-06-26T18:09:13.135737Z",
       "primary_item": {
-        "id": "e00e1c14d9150f9a82af914a233c65686495cc02",
-        "title": "AGI前夜的兵马跃进:DeepSeek全线部门扩容翻倍，大模型顶尖人才争夺战再升级",
-        "url": "https://www.aibase.com/news/29180",
+        "id": "adaa5a493b87d0ceef08f2ff151dad7cd3521727",
+        "title": "AI导购精准度仅16%，上海消保委直指电商算法：别把消费者当韭菜",
+        "url": "https://www.aibase.com/news/29203",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_7276f0857e9b",
-      "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
-      "url": "https://www.aibase.com/news/29188",
-      "primary_url": "https://www.aibase.com/news/29188",
+      "story_id": "story_b5de8a57ec0d",
+      "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+      "url": "https://www.aibase.com/news/29205",
+      "primary_url": "https://www.aibase.com/news/29205",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
-          "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
-          "url": "https://www.aibase.com/news/29188",
+          "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
+          "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+          "url": "https://www.aibase.com/news/29205",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T18:09:13.135737Z"
         }
       ],
       "source_count": 1,
@@ -349,25 +526,25 @@
       ],
       "items": [
         {
-          "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
-          "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
-          "url": "https://www.aibase.com/news/29188",
+          "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
+          "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+          "url": "https://www.aibase.com/news/29205",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T18:09:13.135737Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -375,32 +552,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "earliest_at": "2026-06-26T18:09:13.135737Z",
+      "latest_at": "2026-06-26T18:09:13.135737Z",
       "primary_item": {
-        "id": "dbbf53bb374ed45a7438cb34c7ac51b9a7fb9c6d",
-        "title": "AI算力告急！联想订单积压 1500 亿，服务器市场迎来“硬核”争夺战",
-        "url": "https://www.aibase.com/news/29188",
+        "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
+        "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+        "url": "https://www.aibase.com/news/29205",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f728db756996",
-      "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
-      "url": "https://www.aibase.com/news/29172",
-      "primary_url": "https://www.aibase.com/news/29172",
+      "story_id": "story_6000d1f20189",
+      "title": "钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段",
+      "url": "https://www.aibase.com/news/29204",
+      "primary_url": "https://www.aibase.com/news/29204",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7692844f78592caf48821ea762441602eb38ddb9",
-          "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
-          "url": "https://www.aibase.com/news/29172",
+          "id": "b1934cdfb3e87ca63113a1cde52aaffc6af8930a",
+          "title": "钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段",
+          "url": "https://www.aibase.com/news/29204",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T18:09:13.135737Z"
         }
       ],
       "source_count": 1,
@@ -409,25 +586,25 @@
       ],
       "items": [
         {
-          "id": "7692844f78592caf48821ea762441602eb38ddb9",
-          "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
-          "url": "https://www.aibase.com/news/29172",
+          "id": "b1934cdfb3e87ca63113a1cde52aaffc6af8930a",
+          "title": "钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段",
+          "url": "https://www.aibase.com/news/29204",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T18:09:13.135737Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -435,32 +612,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "earliest_at": "2026-06-26T18:09:13.135737Z",
+      "latest_at": "2026-06-26T18:09:13.135737Z",
       "primary_item": {
-        "id": "7692844f78592caf48821ea762441602eb38ddb9",
-        "title": "AI赛道上演“极速追赶”：谷歌重组代码团队，强化Gemini底层基本功",
-        "url": "https://www.aibase.com/news/29172",
+        "id": "b1934cdfb3e87ca63113a1cde52aaffc6af8930a",
+        "title": "钉钉“悟空”获全球首个AI管理体系国际认证，AI治理迈入标准化新阶段",
+        "url": "https://www.aibase.com/news/29204",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2df39f94801f",
-      "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
-      "url": "https://www.aibase.com/news/29183",
-      "primary_url": "https://www.aibase.com/news/29183",
+      "story_id": "story_eaa14c52b6e0",
+      "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+      "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "primary_url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:32:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+          "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+          "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:32:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.4332,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T10:32:58Z",
+      "latest_at": "2026-06-26T10:32:58Z",
+      "primary_item": {
+        "id": "d0bdbb32d3273eeba43fbee056df49ad15963f4e",
+        "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成 / GitHub Desktop 3.6: Worktrees and deeper Copilot integration",
+        "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91989e2294aa",
+      "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+      "url": "https://www.aibase.com/news/29200",
+      "primary_url": "https://www.aibase.com/news/29200",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "026e65a50fce400098e5e0b51a82d3a677a58815",
-          "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
-          "url": "https://www.aibase.com/news/29183",
+          "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
+          "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+          "url": "https://www.aibase.com/news/29200",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T17:09:13.135737Z"
         }
       ],
       "source_count": 1,
@@ -469,25 +707,25 @@
       ],
       "items": [
         {
-          "id": "026e65a50fce400098e5e0b51a82d3a677a58815",
-          "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
-          "url": "https://www.aibase.com/news/29183",
+          "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
+          "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+          "url": "https://www.aibase.com/news/29200",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T17:09:13.135737Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7083,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -495,32 +733,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "earliest_at": "2026-06-26T17:09:13.135737Z",
+      "latest_at": "2026-06-26T17:09:13.135737Z",
       "primary_item": {
-        "id": "026e65a50fce400098e5e0b51a82d3a677a58815",
-        "title": "Adobe宣布收购视频与图像AI模型开发商Topaz Labs，深化Firefly生态布局",
-        "url": "https://www.aibase.com/news/29183",
+        "id": "adb67ea2917ecdaca9e2cfee90d831832bc025e2",
+        "title": "5 秒视频耗 10 部手机电量，AI产业正吞噬全球水电资源",
+        "url": "https://www.aibase.com/news/29200",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_78aebfc007d6",
-      "title": "Claude付费用户暴增75%，正面撕开ChatGPT消费级市场",
-      "url": "https://www.aibase.com/news/29175",
-      "primary_url": "https://www.aibase.com/news/29175",
+      "story_id": "story_962d2fa57291",
+      "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
+      "url": "https://www.aibase.com/news/29201",
+      "primary_url": "https://www.aibase.com/news/29201",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4694c8bed48d9a367cd8d22e2912f25aa67d5594",
-          "title": "Claude付费用户暴增75%，正面撕开ChatGPT消费级市场",
-          "url": "https://www.aibase.com/news/29175",
+          "id": "8e2effa7917eef498839e9b5341724efd971ea68",
+          "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
+          "url": "https://www.aibase.com/news/29201",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T17:09:13.135737Z"
         }
       ],
       "source_count": 1,
@@ -529,25 +767,25 @@
       ],
       "items": [
         {
-          "id": "4694c8bed48d9a367cd8d22e2912f25aa67d5594",
-          "title": "Claude付费用户暴增75%，正面撕开ChatGPT消费级市场",
-          "url": "https://www.aibase.com/news/29175",
+          "id": "8e2effa7917eef498839e9b5341724efd971ea68",
+          "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
+          "url": "https://www.aibase.com/news/29201",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T17:09:13.135737Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7083,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,32 +793,92 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "earliest_at": "2026-06-26T17:09:13.135737Z",
+      "latest_at": "2026-06-26T17:09:13.135737Z",
       "primary_item": {
-        "id": "4694c8bed48d9a367cd8d22e2912f25aa67d5594",
-        "title": "Claude付费用户暴增75%，正面撕开ChatGPT消费级市场",
-        "url": "https://www.aibase.com/news/29175",
+        "id": "8e2effa7917eef498839e9b5341724efd971ea68",
+        "title": "美团“小店有AI”行动落地北京，百万中小餐饮商家迎来数字化经营新助力",
+        "url": "https://www.aibase.com/news/29201",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3aaf4291510c",
-      "title": "Notion宣布将于9月22日关闭AI邮箱服务Notion Mail",
-      "url": "https://www.aibase.com/news/29190",
-      "primary_url": "https://www.aibase.com/news/29190",
+      "story_id": "story_d6501d7af258",
+      "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+      "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+      "primary_url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
+          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+          "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T16:51:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
+          "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+          "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T16:51:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6959,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T16:51:17Z",
+      "latest_at": "2026-06-26T16:51:17Z",
+      "primary_item": {
+        "id": "e59df5c947df9dfc4d8281a9db633bc034fdb2f9",
+        "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+        "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dfc61ad06edf",
+      "title": "OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子",
+      "url": "https://www.aibase.com/news/29198",
+      "primary_url": "https://www.aibase.com/news/29198",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "512526edd8e60ae88a4e54148c52e0b88016e325",
-          "title": "Notion宣布将于9月22日关闭AI邮箱服务Notion Mail",
-          "url": "https://www.aibase.com/news/29190",
+          "id": "d6fcf852e50cfabe5377e3985ee152eaf3dc08aa",
+          "title": "OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子",
+          "url": "https://www.aibase.com/news/29198",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T16:09:13.135737Z"
         }
       ],
       "source_count": 1,
@@ -589,58 +887,57 @@
       ],
       "items": [
         {
-          "id": "512526edd8e60ae88a4e54148c52e0b88016e325",
-          "title": "Notion宣布将于9月22日关闭AI邮箱服务Notion Mail",
-          "url": "https://www.aibase.com/news/29190",
+          "id": "d6fcf852e50cfabe5377e3985ee152eaf3dc08aa",
+          "title": "OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子",
+          "url": "https://www.aibase.com/news/29198",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T16:09:13.135737Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "earliest_at": "2026-06-26T16:09:13.135737Z",
+      "latest_at": "2026-06-26T16:09:13.135737Z",
       "primary_item": {
-        "id": "512526edd8e60ae88a4e54148c52e0b88016e325",
-        "title": "Notion宣布将于9月22日关闭AI邮箱服务Notion Mail",
-        "url": "https://www.aibase.com/news/29190",
+        "id": "d6fcf852e50cfabe5377e3985ee152eaf3dc08aa",
+        "title": "OpenAI Codex个人用户用量暴增 137 倍，AI编程已走出程序员圈子",
+        "url": "https://www.aibase.com/news/29198",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d4f8a2597a2d",
-      "title": "OpenAI受限发布GPT-5.0:联邦监管介入，访问权限需经政府逐个审批",
-      "url": "https://www.aibase.com/news/29174",
-      "primary_url": "https://www.aibase.com/news/29174",
+      "story_id": "story_5159b27d61b8",
+      "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+      "url": "https://www.aibase.com/news/29199",
+      "primary_url": "https://www.aibase.com/news/29199",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b09f511891e7cce2492dd16040180bf7f37943d1",
-          "title": "OpenAI受限发布GPT-5.0:联邦监管介入，访问权限需经政府逐个审批",
-          "url": "https://www.aibase.com/news/29174",
+          "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
+          "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+          "url": "https://www.aibase.com/news/29199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T16:09:13.135737Z"
         }
       ],
       "source_count": 1,
@@ -649,58 +946,175 @@
       ],
       "items": [
         {
-          "id": "b09f511891e7cce2492dd16040180bf7f37943d1",
-          "title": "OpenAI受限发布GPT-5.0:联邦监管介入，访问权限需经政府逐个审批",
-          "url": "https://www.aibase.com/news/29174",
+          "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
+          "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+          "url": "https://www.aibase.com/news/29199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T16:09:13.135737Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "earliest_at": "2026-06-26T16:09:13.135737Z",
+      "latest_at": "2026-06-26T16:09:13.135737Z",
       "primary_item": {
-        "id": "b09f511891e7cce2492dd16040180bf7f37943d1",
-        "title": "OpenAI受限发布GPT-5.0:联邦监管介入，访问权限需经政府逐个审批",
-        "url": "https://www.aibase.com/news/29174",
+        "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
+        "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
+        "url": "https://www.aibase.com/news/29199",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_64377600f0f1",
-      "title": "不给数据就割肉？谷歌强推AI训练新规",
-      "url": "https://www.aibase.com/news/29184",
-      "primary_url": "https://www.aibase.com/news/29184",
+      "story_id": "story_85a7e86ef122",
+      "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+      "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+      "primary_url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
+          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+          "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:37:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
+          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+          "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:37:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6448,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-26T15:37:43Z",
+      "latest_at": "2026-06-26T15:37:43Z",
+      "primary_item": {
+        "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
+        "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+        "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d47132200c0",
+      "title": "Anthropic Economic Index 报告：使用节奏",
+      "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+      "primary_url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c4c90d6cd63d919109debcf0033616b65b4108d7",
+          "title": "Anthropic Economic Index 报告：使用节奏",
+          "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:18:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "c4c90d6cd63d919109debcf0033616b65b4108d7",
+          "title": "Anthropic Economic Index 报告：使用节奏",
+          "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:18:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6317,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-26T15:18:56Z",
+      "latest_at": "2026-06-26T15:18:56Z",
+      "primary_item": {
+        "id": "c4c90d6cd63d919109debcf0033616b65b4108d7",
+        "title": "Anthropic Economic Index 报告：使用节奏",
+        "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ea75d6f61369",
+      "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
+      "url": "https://www.aibase.com/news/29195",
+      "primary_url": "https://www.aibase.com/news/29195",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "495a41d44980a913dd229c351803a53e1bac841e",
-          "title": "不给数据就割肉？谷歌强推AI训练新规",
-          "url": "https://www.aibase.com/news/29184",
+          "id": "41986884a8cdcddad3fa7ad2b51d4d6976144bb6",
+          "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
+          "url": "https://www.aibase.com/news/29195",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T15:09:13.135737Z"
         }
       ],
       "source_count": 1,
@@ -709,58 +1123,57 @@
       ],
       "items": [
         {
-          "id": "495a41d44980a913dd229c351803a53e1bac841e",
-          "title": "不给数据就割肉？谷歌强推AI训练新规",
-          "url": "https://www.aibase.com/news/29184",
+          "id": "41986884a8cdcddad3fa7ad2b51d4d6976144bb6",
+          "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
+          "url": "https://www.aibase.com/news/29195",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T15:09:13.135737Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.625,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "earliest_at": "2026-06-26T15:09:13.135737Z",
+      "latest_at": "2026-06-26T15:09:13.135737Z",
       "primary_item": {
-        "id": "495a41d44980a913dd229c351803a53e1bac841e",
-        "title": "不给数据就割肉？谷歌强推AI训练新规",
-        "url": "https://www.aibase.com/news/29184",
+        "id": "41986884a8cdcddad3fa7ad2b51d4d6976144bb6",
+        "title": "国产大模型再进化：Kimi 瞄准全球顶尖梯队，下一代 K3 蓄势待发",
+        "url": "https://www.aibase.com/news/29195",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a5317d6e48fa",
-      "title": "亚马逊加码印度：拟投 130 亿美元布局AI与云基础设施",
-      "url": "https://www.aibase.com/news/29191",
-      "primary_url": "https://www.aibase.com/news/29191",
+      "story_id": "story_c9552d91ad9e",
+      "title": "拖更三年万字长文，前OpenAI安全VP翁荔拆解Scaling Laws：你的模型可能喂错了数据",
+      "url": "https://www.aibase.com/news/29196",
+      "primary_url": "https://www.aibase.com/news/29196",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8f58ab7e04a003aa0286bd17ea824e6ecee3e5cc",
-          "title": "亚马逊加码印度：拟投 130 亿美元布局AI与云基础设施",
-          "url": "https://www.aibase.com/news/29191",
+          "id": "d30a4fbcc9a530300be4ff93348193339b6d2b3a",
+          "title": "拖更三年万字长文，前OpenAI安全VP翁荔拆解Scaling Laws：你的模型可能喂错了数据",
+          "url": "https://www.aibase.com/news/29196",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T15:09:13.135737Z"
         }
       ],
       "source_count": 1,
@@ -769,58 +1182,57 @@
       ],
       "items": [
         {
-          "id": "8f58ab7e04a003aa0286bd17ea824e6ecee3e5cc",
-          "title": "亚马逊加码印度：拟投 130 亿美元布局AI与云基础设施",
-          "url": "https://www.aibase.com/news/29191",
+          "id": "d30a4fbcc9a530300be4ff93348193339b6d2b3a",
+          "title": "拖更三年万字长文，前OpenAI安全VP翁荔拆解Scaling Laws：你的模型可能喂错了数据",
+          "url": "https://www.aibase.com/news/29196",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T15:09:13.135737Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.625,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "earliest_at": "2026-06-26T15:09:13.135737Z",
+      "latest_at": "2026-06-26T15:09:13.135737Z",
       "primary_item": {
-        "id": "8f58ab7e04a003aa0286bd17ea824e6ecee3e5cc",
-        "title": "亚马逊加码印度：拟投 130 亿美元布局AI与云基础设施",
-        "url": "https://www.aibase.com/news/29191",
+        "id": "d30a4fbcc9a530300be4ff93348193339b6d2b3a",
+        "title": "拖更三年万字长文，前OpenAI安全VP翁荔拆解Scaling Laws：你的模型可能喂错了数据",
+        "url": "https://www.aibase.com/news/29196",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_91675df70553",
-      "title": "坚守万亿美元底线，OpenAI被曝拟将IPO推迟至 2027 年",
-      "url": "https://www.aibase.com/news/29176",
-      "primary_url": "https://www.aibase.com/news/29176",
+      "story_id": "story_8a848e16a9ee",
+      "title": "苹果 Xcode 26.6 正式发布，编程助手迎来“谷歌 Gemini”强力外援",
+      "url": "https://www.aibase.com/news/29197",
+      "primary_url": "https://www.aibase.com/news/29197",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "588ee36650f0812da9f2c1b6778c9529e48f429e",
-          "title": "坚守万亿美元底线，OpenAI被曝拟将IPO推迟至 2027 年",
-          "url": "https://www.aibase.com/news/29176",
+          "id": "1f649038d9db235262cd4a15dfada8dee87e2ff1",
+          "title": "苹果 Xcode 26.6 正式发布，编程助手迎来“谷歌 Gemini”强力外援",
+          "url": "https://www.aibase.com/news/29197",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T15:09:13.135737Z"
         }
       ],
       "source_count": 1,
@@ -829,398 +1241,37 @@
       ],
       "items": [
         {
-          "id": "588ee36650f0812da9f2c1b6778c9529e48f429e",
-          "title": "坚守万亿美元底线，OpenAI被曝拟将IPO推迟至 2027 年",
-          "url": "https://www.aibase.com/news/29176",
+          "id": "1f649038d9db235262cd4a15dfada8dee87e2ff1",
+          "title": "苹果 Xcode 26.6 正式发布，编程助手迎来“谷歌 Gemini”强力外援",
+          "url": "https://www.aibase.com/news/29197",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
+          "published_at": "2026-06-26T15:09:13.135737Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.625,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
+      "earliest_at": "2026-06-26T15:09:13.135737Z",
+      "latest_at": "2026-06-26T15:09:13.135737Z",
       "primary_item": {
-        "id": "588ee36650f0812da9f2c1b6778c9529e48f429e",
-        "title": "坚守万亿美元底线，OpenAI被曝拟将IPO推迟至 2027 年",
-        "url": "https://www.aibase.com/news/29176",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bf4be99df368",
-      "title": "安森美 70 亿美元全股票收购Synaptics，强势布局边缘AI芯片赛道",
-      "url": "https://www.aibase.com/news/29189",
-      "primary_url": "https://www.aibase.com/news/29189",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b6ef1d086838762f6fcef3d8394d6471f649b94b",
-          "title": "安森美 70 亿美元全股票收购Synaptics，强势布局边缘AI芯片赛道",
-          "url": "https://www.aibase.com/news/29189",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b6ef1d086838762f6fcef3d8394d6471f649b94b",
-          "title": "安森美 70 亿美元全股票收购Synaptics，强势布局边缘AI芯片赛道",
-          "url": "https://www.aibase.com/news/29189",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
-      "primary_item": {
-        "id": "b6ef1d086838762f6fcef3d8394d6471f649b94b",
-        "title": "安森美 70 亿美元全股票收购Synaptics，强势布局边缘AI芯片赛道",
-        "url": "https://www.aibase.com/news/29189",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_21367a536558",
-      "title": "市场风向生变：SpaceX股价回调，OpenAI IPO推迟至明年",
-      "url": "https://www.aibase.com/news/29173",
-      "primary_url": "https://www.aibase.com/news/29173",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3fb2ceecba56d11a079783b70016ed4d70f0afd3",
-          "title": "市场风向生变：SpaceX股价回调，OpenAI IPO推迟至明年",
-          "url": "https://www.aibase.com/news/29173",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3fb2ceecba56d11a079783b70016ed4d70f0afd3",
-          "title": "市场风向生变：SpaceX股价回调，OpenAI IPO推迟至明年",
-          "url": "https://www.aibase.com/news/29173",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
-      "primary_item": {
-        "id": "3fb2ceecba56d11a079783b70016ed4d70f0afd3",
-        "title": "市场风向生变：SpaceX股价回调，OpenAI IPO推迟至明年",
-        "url": "https://www.aibase.com/news/29173",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ccdb4c008c51",
-      "title": "性能提升 475 倍！富士通推出PHOTON新架构，剑指AI算力瓶颈",
-      "url": "https://www.aibase.com/news/29177",
-      "primary_url": "https://www.aibase.com/news/29177",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1fbf3e5a0f1e4068703f22a49fdd347bd95312a8",
-          "title": "性能提升 475 倍！富士通推出PHOTON新架构，剑指AI算力瓶颈",
-          "url": "https://www.aibase.com/news/29177",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1fbf3e5a0f1e4068703f22a49fdd347bd95312a8",
-          "title": "性能提升 475 倍！富士通推出PHOTON新架构，剑指AI算力瓶颈",
-          "url": "https://www.aibase.com/news/29177",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
-      "primary_item": {
-        "id": "1fbf3e5a0f1e4068703f22a49fdd347bd95312a8",
-        "title": "性能提升 475 倍！富士通推出PHOTON新架构，剑指AI算力瓶颈",
-        "url": "https://www.aibase.com/news/29177",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_240657a3824c",
-      "title": "组建不到两月即重组，Google加码中期训练欲追赶Anthropic编码优势",
-      "url": "https://www.aibase.com/news/29178",
-      "primary_url": "https://www.aibase.com/news/29178",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a44c026a58cf2f656dd129463dedad496e6422a8",
-          "title": "组建不到两月即重组，Google加码中期训练欲追赶Anthropic编码优势",
-          "url": "https://www.aibase.com/news/29178",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a44c026a58cf2f656dd129463dedad496e6422a8",
-          "title": "组建不到两月即重组，Google加码中期训练欲追赶Anthropic编码优势",
-          "url": "https://www.aibase.com/news/29178",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
-      "primary_item": {
-        "id": "a44c026a58cf2f656dd129463dedad496e6422a8",
-        "title": "组建不到两月即重组，Google加码中期训练欲追赶Anthropic编码优势",
-        "url": "https://www.aibase.com/news/29178",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b1f72f0c3e4d",
-      "title": "美国政府要求OpenAI分阶段发布GPT-5.6，监管施压成常态",
-      "url": "https://www.aibase.com/news/29181",
-      "primary_url": "https://www.aibase.com/news/29181",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c0af0e96ae3a8db829bf3fcd06c732c283ad922a",
-          "title": "美国政府要求OpenAI分阶段发布GPT-5.6，监管施压成常态",
-          "url": "https://www.aibase.com/news/29181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c0af0e96ae3a8db829bf3fcd06c732c283ad922a",
-          "title": "美国政府要求OpenAI分阶段发布GPT-5.6，监管施压成常态",
-          "url": "https://www.aibase.com/news/29181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
-      "primary_item": {
-        "id": "c0af0e96ae3a8db829bf3fcd06c732c283ad922a",
-        "title": "美国政府要求OpenAI分阶段发布GPT-5.6，监管施压成常态",
-        "url": "https://www.aibase.com/news/29181",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9a7b834fbab0",
-      "title": "腾讯 Marvis 马维斯 iOS 版上线:掏出手机，就能远程接管你的电脑桌面",
-      "url": "https://www.aibase.com/news/29185",
-      "primary_url": "https://www.aibase.com/news/29185",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a795451a8037d93302fc6a0a6d23b65ee9520b92",
-          "title": "腾讯 Marvis 马维斯 iOS 版上线:掏出手机，就能远程接管你的电脑桌面",
-          "url": "https://www.aibase.com/news/29185",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a795451a8037d93302fc6a0a6d23b65ee9520b92",
-          "title": "腾讯 Marvis 马维斯 iOS 版上线:掏出手机，就能远程接管你的电脑桌面",
-          "url": "https://www.aibase.com/news/29185",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-26T03:54:26.524735Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T03:54:26.524735Z",
-      "latest_at": "2026-06-26T03:54:26.524735Z",
-      "primary_item": {
-        "id": "a795451a8037d93302fc6a0a6d23b65ee9520b92",
-        "title": "腾讯 Marvis 马维斯 iOS 版上线:掏出手机，就能远程接管你的电脑桌面",
-        "url": "https://www.aibase.com/news/29185",
+        "id": "1f649038d9db235262cd4a15dfada8dee87e2ff1",
+        "title": "苹果 Xcode 26.6 正式发布，编程助手迎来“谷歌 Gemini”强力外援",
+        "url": "https://www.aibase.com/news/29197",
         "source": "AIbase",
         "source_name": "AIbase"
       }
