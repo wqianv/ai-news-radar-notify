@@ -1,51 +1,130 @@
 {
-  "generated_at": "2026-06-29T00:10:25.463526Z",
+  "generated_at": "2026-06-30T00:05:10.380968Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_1ae317c00ced",
-      "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "primary_url": "https://openai.com/index/hp-frontier-partnership",
-      "source": "OpenAI News",
+      "story_id": "story_0c55289d534f",
+      "title": "点击这里进入 / Click here to enter",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1005-317e-ac87-abd68d2fa33f&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260630-1005-317e-ac87-abd68d2fa33f&fp=-3",
+      "source": "Page Fallback",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "b6f6e82e0de6099bbd47bff9f5c5727391c8d045",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1005-317e-ac87-abd68d2fa33f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "751990cb308582693aa30ce35718bb7659c57092",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1010-5092-b2de-14e7576dda62&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Page Fallback"
+      ],
+      "items": [
+        {
+          "id": "b6f6e82e0de6099bbd47bff9f5c5727391c8d045",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1005-317e-ac87-abd68d2fa33f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
+          "id": "751990cb308582693aa30ce35718bb7659c57092",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1010-5092-b2de-14e7576dda62&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T00:10:25.463526Z",
+      "latest_at": "2026-06-30T00:05:10.380968Z",
+      "primary_item": {
+        "id": "b6f6e82e0de6099bbd47bff9f5c5727391c8d045",
+        "title": "点击这里进入 / Click here to enter",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1005-317e-ac87-abd68d2fa33f&fp=-3",
+        "source": "Page Fallback",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_5a9c6b882649",
+      "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
-          "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-          "url": "https://openai.com/index/hp-frontier-partnership",
-          "source": "OpenAI News",
+          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
+          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-28T17:00:00Z"
+          "published_at": "2026-06-29T16:47:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
-          "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-          "url": "https://openai.com/index/hp-frontier-partnership",
-          "source": "OpenAI News",
+          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
+          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-28T17:00:00Z"
+          "published_at": "2026-06-29T16:47:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7011,
+        "ai_relevance": 0.95,
+        "recency": 0.6959,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,119 +133,181 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-28T17:00:00Z",
-      "latest_at": "2026-06-28T17:00:00Z",
+      "earliest_at": "2026-06-29T16:47:16Z",
+      "latest_at": "2026-06-29T16:47:16Z",
       "primary_item": {
-        "id": "fb7e1d972c19ee4878f34f4f5168a717d3418da8",
-        "title": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系 / HP Inc. launches Frontier strategic partnership with OpenAI",
-        "url": "https://openai.com/index/hp-frontier-partnership",
-        "source": "OpenAI News",
+        "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
+        "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0c55289d534f",
-      "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1010-5092-b2de-14e7576dda62&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260629-1010-5092-b2de-14e7576dda62&fp=-3",
-      "source": "Page Fallback",
-      "source_name": "AI HubToday",
+      "story_id": "story_022b5040aeb6",
+      "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
+      "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+      "primary_url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "751990cb308582693aa30ce35718bb7659c57092",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1010-5092-b2de-14e7576dda62&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
+          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
+          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
+          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:08:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Page Fallback"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "751990cb308582693aa30ce35718bb7659c57092",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1010-5092-b2de-14e7576dda62&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
+          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
+          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
+          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:08:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6689,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T00:10:25.463526Z",
-      "latest_at": "2026-06-29T00:10:25.463526Z",
+      "earliest_at": "2026-06-29T16:08:23Z",
+      "latest_at": "2026-06-29T16:08:23Z",
       "primary_item": {
-        "id": "751990cb308582693aa30ce35718bb7659c57092",
-        "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1010-5092-b2de-14e7576dda62&fp=-3",
-        "source": "Page Fallback",
-        "source_name": "AI HubToday"
+        "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
+        "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
+        "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_809ae5328b63",
-      "title": "Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度",
-      "url": "https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk",
-      "primary_url": "https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_f1de547afb62",
+      "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2eb5488740b781c3e0ef856f2e06a2a3a26a22f3",
-          "title": "Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度",
-          "url": "https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T17:03:07Z"
+          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
+          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "2eb5488740b781c3e0ef856f2e06a2a3a26a22f3",
-          "title": "Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度",
-          "url": "https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T17:03:07Z"
+          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
+          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-29T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6631,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T16:00:00Z",
+      "latest_at": "2026-06-29T16:00:00Z",
+      "primary_item": {
+        "id": "6104a52f754d1628b780723c885f853753cd4e9e",
+        "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_016fea7a781f",
+      "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+      "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+      "primary_url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
+          "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+          "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:22:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
+          "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+          "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:22:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7894,
+      "importance": 0.7894,
+      "importance_score": 0.7894,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7033,
+        "recency": 0.8871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -174,32 +315,392 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-28T17:03:07Z",
-      "latest_at": "2026-06-28T17:03:07Z",
+      "earliest_at": "2026-06-29T21:22:33Z",
+      "latest_at": "2026-06-29T21:22:33Z",
       "primary_item": {
-        "id": "2eb5488740b781c3e0ef856f2e06a2a3a26a22f3",
-        "title": "Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度",
-        "url": "https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk",
-        "source": "Nathan Lambert：Interconnects（RSS）",
+        "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
+        "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+        "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ee1ef1d81fee",
-      "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
-      "url": "https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx",
-      "primary_url": "https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx",
+      "story_id": "story_ad01905c73cb",
+      "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
+      "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+      "primary_url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+      "source": "X：Emad Mostaque (@EMostaque)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
+          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
+          "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+          "source": "X：Emad Mostaque (@EMostaque)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:06:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Emad Mostaque (@EMostaque)"
+      ],
+      "items": [
+        {
+          "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
+          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
+          "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+          "source": "X：Emad Mostaque (@EMostaque)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:06:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8761,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T21:06:43Z",
+      "latest_at": "2026-06-29T21:06:43Z",
+      "primary_item": {
+        "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
+        "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
+        "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+        "source": "X：Emad Mostaque (@EMostaque)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c45adfe3885e",
+      "title": "Rubin Ultra取消，新版尺寸性能减半",
+      "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+      "primary_url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
+          "title": "Rubin Ultra取消，新版尺寸性能减半",
+          "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:00:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：SemiAnalysis (@SemiAnalysis_)"
+      ],
+      "items": [
+        {
+          "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
+          "title": "Rubin Ultra取消，新版尺寸性能减半",
+          "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T21:00:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.872,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T21:00:47Z",
+      "latest_at": "2026-06-29T21:00:47Z",
+      "primary_item": {
+        "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
+        "title": "Rubin Ultra取消，新版尺寸性能减半",
+        "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+        "source": "X：SemiAnalysis (@SemiAnalysis_)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_83328dc63cac",
+      "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+      "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+      "primary_url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+      "source": "X：OpenClaw (@openclaw)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
+          "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+          "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+          "source": "X：OpenClaw (@openclaw)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T20:11:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenClaw (@openclaw)"
+      ],
+      "items": [
+        {
+          "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
+          "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+          "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+          "source": "X：OpenClaw (@openclaw)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T20:11:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8378,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T20:11:33Z",
+      "latest_at": "2026-06-29T20:11:33Z",
+      "primary_item": {
+        "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
+        "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+        "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+        "source": "X：OpenClaw (@openclaw)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5a598b53d4a3",
+      "title": "Claude 在 Microsoft Foundry 正式可用",
+      "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+      "primary_url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
+          "title": "Claude 在 Microsoft Foundry 正式可用",
+          "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T18:22:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
+          "title": "Claude 在 Microsoft Foundry 正式可用",
+          "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-29T18:22:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7619,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T18:22:20Z",
+      "latest_at": "2026-06-29T18:22:20Z",
+      "primary_item": {
+        "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
+        "title": "Claude 在 Microsoft Foundry 正式可用",
+        "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3c929d7451ac",
+      "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
+      "url": "https://www.aibase.com/news/29238",
+      "primary_url": "https://www.aibase.com/news/29238",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
+          "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
+          "url": "https://www.aibase.com/news/29238",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T18:05:10.380968Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
+          "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
+          "url": "https://www.aibase.com/news/29238",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T18:05:10.380968Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.75,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T18:05:10.380968Z",
+      "latest_at": "2026-06-29T18:05:10.380968Z",
+      "primary_item": {
+        "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
+        "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
+        "url": "https://www.aibase.com/news/29238",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e36b72ba54ad",
+      "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
+      "url": "https://www.aibase.com/news/29239",
+      "primary_url": "https://www.aibase.com/news/29239",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "656413e9b98619297b9ae5bafbca6186282b6ad3",
+          "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
+          "url": "https://www.aibase.com/news/29239",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T18:05:10.380968Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "656413e9b98619297b9ae5bafbca6186282b6ad3",
+          "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
+          "url": "https://www.aibase.com/news/29239",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T18:05:10.380968Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.75,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-29T18:05:10.380968Z",
+      "latest_at": "2026-06-29T18:05:10.380968Z",
+      "primary_item": {
+        "id": "656413e9b98619297b9ae5bafbca6186282b6ad3",
+        "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
+        "url": "https://www.aibase.com/news/29239",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b372cf11e8c6",
+      "title": "Qwen 3.6 27B 是本地开发的理想选择",
+      "url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
+      "primary_url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "00c97491fd352770adf838d522e01f184351cb7f",
-          "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
-          "url": "https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx",
+          "id": "5391979f26f06c3f674e0a2c31713ae90774d8fc",
+          "title": "Qwen 3.6 27B 是本地开发的理想选择",
+          "url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-28T16:58:56Z"
+          "published_at": "2026-06-29T18:03:02Z"
         }
       ],
       "source_count": 1,
@@ -208,25 +709,25 @@
       ],
       "items": [
         {
-          "id": "00c97491fd352770adf838d522e01f184351cb7f",
-          "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
-          "url": "https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx",
+          "id": "5391979f26f06c3f674e0a2c31713ae90774d8fc",
+          "title": "Qwen 3.6 27B 是本地开发的理想选择",
+          "url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-28T16:58:56Z"
+          "published_at": "2026-06-29T18:03:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7004,
+        "recency": 0.7485,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -234,1127 +735,488 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-28T16:58:56Z",
-      "latest_at": "2026-06-28T16:58:56Z",
+      "earliest_at": "2026-06-29T18:03:02Z",
+      "latest_at": "2026-06-29T18:03:02Z",
       "primary_item": {
-        "id": "00c97491fd352770adf838d522e01f184351cb7f",
-        "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
-        "url": "https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx",
+        "id": "5391979f26f06c3f674e0a2c31713ae90774d8fc",
+        "title": "Qwen 3.6 27B 是本地开发的理想选择",
+        "url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c36e601e1443",
-      "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-      "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
-      "primary_url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_5a44f079565a",
+      "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
+      "url": "https://www.aibase.com/news/29235",
+      "primary_url": "https://www.aibase.com/news/29235",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "250e1d4a5349a5d6a316be89bbfc5c43e41f2e62",
-          "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-          "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T10:50:05Z"
+          "id": "a85c5083686cfa8db817f59fd38a9329fcdc3240",
+          "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
+          "url": "https://www.aibase.com/news/29235",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T17:05:10.380968Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "250e1d4a5349a5d6a316be89bbfc5c43e41f2e62",
-          "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-          "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T10:50:05Z"
+          "id": "a85c5083686cfa8db817f59fd38a9329fcdc3240",
+          "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
+          "url": "https://www.aibase.com/news/29235",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T17:05:10.380968Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7008,
-      "importance": 0.7008,
-      "importance_score": 0.7008,
-      "importance_label": "值得关注",
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4442,
+        "recency": 0.7083,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-28T10:50:05Z",
-      "latest_at": "2026-06-28T10:50:05Z",
+      "earliest_at": "2026-06-29T17:05:10.380968Z",
+      "latest_at": "2026-06-29T17:05:10.380968Z",
       "primary_item": {
-        "id": "250e1d4a5349a5d6a316be89bbfc5c43e41f2e62",
-        "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-        "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
+        "id": "a85c5083686cfa8db817f59fd38a9329fcdc3240",
+        "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
+        "url": "https://www.aibase.com/news/29235",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ec922c144a2a",
-      "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
-      "url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo",
-      "primary_url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_aef040f70337",
+      "title": "模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路",
+      "url": "https://www.aibase.com/news/29236",
+      "primary_url": "https://www.aibase.com/news/29236",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "0d5eadb5cfaa6e000d572386aea769226f75caef",
-          "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
-          "url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T10:16:13Z"
+          "id": "0d3ed7309e01f616d477f72b7d6d997fbcfe547f",
+          "title": "模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路",
+          "url": "https://www.aibase.com/news/29236",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T17:05:10.380968Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "0d5eadb5cfaa6e000d572386aea769226f75caef",
-          "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
-          "url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T10:16:13Z"
+          "id": "0d3ed7309e01f616d477f72b7d6d997fbcfe547f",
+          "title": "模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路",
+          "url": "https://www.aibase.com/news/29236",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T17:05:10.380968Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6961,
-      "importance": 0.6961,
-      "importance_score": 0.6961,
-      "importance_label": "值得关注",
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4207,
+        "recency": 0.7083,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-28T10:16:13Z",
-      "latest_at": "2026-06-28T10:16:13Z",
+      "earliest_at": "2026-06-29T17:05:10.380968Z",
+      "latest_at": "2026-06-29T17:05:10.380968Z",
       "primary_item": {
-        "id": "0d5eadb5cfaa6e000d572386aea769226f75caef",
-        "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
-        "url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "0d3ed7309e01f616d477f72b7d6d997fbcfe547f",
+        "title": "模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路",
+        "url": "https://www.aibase.com/news/29236",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9c7fd1a6733a",
-      "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-      "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-      "primary_url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_1596e07f9a4f",
+      "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
+      "url": "https://www.aibase.com/news/29232",
+      "primary_url": "https://www.aibase.com/news/29232",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
-          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-          "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T07:44:41Z"
+          "id": "61a9d92761a3f72424da4abacbac9d5cc2def948",
+          "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
+          "url": "https://www.aibase.com/news/29232",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
-          "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-          "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T07:44:41Z"
+          "id": "61a9d92761a3f72424da4abacbac9d5cc2def948",
+          "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
+          "url": "https://www.aibase.com/news/29232",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6751,
-      "importance": 0.6751,
-      "importance_score": 0.6751,
-      "importance_label": "值得关注",
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3155,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-28T07:44:41Z",
-      "latest_at": "2026-06-28T07:44:41Z",
+      "earliest_at": "2026-06-29T16:05:10.380968Z",
+      "latest_at": "2026-06-29T16:05:10.380968Z",
       "primary_item": {
-        "id": "93476b3814ed5b990fd5c8deb6aaf10ea3c40c26",
-        "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
-        "url": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "61a9d92761a3f72424da4abacbac9d5cc2def948",
+        "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
+        "url": "https://www.aibase.com/news/29232",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8e3fe9f65d42",
-      "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-      "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
-      "primary_url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_a265e64e883e",
+      "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
+      "url": "https://www.aibase.com/news/29233",
+      "primary_url": "https://www.aibase.com/news/29233",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "623a3f2554d139895162cf2255e34c8156fcbdd6",
-          "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-          "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T03:55:17Z"
+          "id": "5044f7e7041f64bced8977605cd3eb8d721f0d72",
+          "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
+          "url": "https://www.aibase.com/news/29233",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "623a3f2554d139895162cf2255e34c8156fcbdd6",
-          "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-          "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T03:55:17Z"
+          "id": "5044f7e7041f64bced8977605cd3eb8d721f0d72",
+          "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
+          "url": "https://www.aibase.com/news/29233",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6432,
-      "importance": 0.6432,
-      "importance_score": 0.6432,
-      "importance_label": "值得关注",
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1562,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-28T03:55:17Z",
-      "latest_at": "2026-06-28T03:55:17Z",
+      "earliest_at": "2026-06-29T16:05:10.380968Z",
+      "latest_at": "2026-06-29T16:05:10.380968Z",
       "primary_item": {
-        "id": "623a3f2554d139895162cf2255e34c8156fcbdd6",
-        "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-        "url": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "5044f7e7041f64bced8977605cd3eb8d721f0d72",
+        "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
+        "url": "https://www.aibase.com/news/29233",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d7ca66dad168",
-      "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-      "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-      "primary_url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_d50a18b2d3df",
+      "title": "百度开源3B模型Unlimited OCR:5天Star破万，刷新长文档解析纪录",
+      "url": "https://www.aibase.com/news/29229",
+      "primary_url": "https://www.aibase.com/news/29229",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "8a4dc348f898cc3db0878a95a6764af81223602c",
-          "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-          "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T02:45:16Z"
+          "id": "eb3c83eb9221421fc69f7058398849fa454e51d5",
+          "title": "百度开源3B模型Unlimited OCR:5天Star破万，刷新长文档解析纪录",
+          "url": "https://www.aibase.com/news/29229",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "8a4dc348f898cc3db0878a95a6764af81223602c",
-          "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-          "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T02:45:16Z"
+          "id": "eb3c83eb9221421fc69f7058398849fa454e51d5",
+          "title": "百度开源3B模型Unlimited OCR:5天Star破万，刷新长文档解析纪录",
+          "url": "https://www.aibase.com/news/29229",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6335,
-      "importance": 0.6335,
-      "importance_score": 0.6335,
-      "importance_label": "值得关注",
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1075,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-28T02:45:16Z",
-      "latest_at": "2026-06-28T02:45:16Z",
+      "earliest_at": "2026-06-29T16:05:10.380968Z",
+      "latest_at": "2026-06-29T16:05:10.380968Z",
       "primary_item": {
-        "id": "8a4dc348f898cc3db0878a95a6764af81223602c",
-        "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-        "url": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "eb3c83eb9221421fc69f7058398849fa454e51d5",
+        "title": "百度开源3B模型Unlimited OCR:5天Star破万，刷新长文档解析纪录",
+        "url": "https://www.aibase.com/news/29229",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6c80d7901ac0",
-      "title": "在我们的基准测试中，GLM 5.2 表现优于 Claude",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-      "primary_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-      "source": "semgrep.dev",
-      "source_name": "Buzzing",
+      "story_id": "story_b69a8be2e7ff",
+      "title": "算力告急：谷歌限制 Gemini 模型调用，Meta 研发进度受阻",
+      "url": "https://www.aibase.com/news/29234",
+      "primary_url": "https://www.aibase.com/news/29234",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "04d9d5dfe9129c14a54972c31196e76d23815382",
-          "title": "在我们的基准测试中，GLM 5.2 表现优于 Claude",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "semgrep.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T21:30:51.737000Z"
-        },
-        {
-          "id": "5c4dd9081b4f42080bad1b765845f1adfd57b687",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / GLM 5.2 beats Claude in our benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-28T17:50:47Z"
-        },
-        {
-          "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "semgrep.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T15:07:19.647000Z"
-        },
-        {
-          "id": "8e34319ef1eb74791116166a162cab9c4b661141",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T14:58:01Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "semgrep.dev"
-      ],
-      "items": [
-        {
-          "id": "04d9d5dfe9129c14a54972c31196e76d23815382",
-          "title": "在我们的基准测试中，GLM 5.2 表现优于 Claude",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "semgrep.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T21:30:51.737000Z"
-        },
-        {
-          "id": "5c4dd9081b4f42080bad1b765845f1adfd57b687",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / GLM 5.2 beats Claude in our benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-28T17:50:47Z"
-        },
-        {
-          "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "semgrep.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T15:07:19.647000Z"
-        },
-        {
-          "id": "8e34319ef1eb74791116166a162cab9c4b661141",
-          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
-          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T14:58:01Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5758,
-      "importance": 0.5758,
-      "importance_score": 0.5758,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8892,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T14:58:01Z",
-      "latest_at": "2026-06-28T21:30:51.737000Z",
-      "primary_item": {
-        "id": "04d9d5dfe9129c14a54972c31196e76d23815382",
-        "title": "在我们的基准测试中，GLM 5.2 表现优于 Claude",
-        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
-        "source": "semgrep.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b7e39861955b",
-      "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-      "primary_url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-      "source": "techcrunch.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c6b25462b70e1bb9af6efd09d93072d3e3c9378a",
-          "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T21:15:02.223000Z"
-        },
-        {
-          "id": "f081a61dc1e7b58473f2de935fa56a97f50eab28",
-          "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师 / Ford rehires 'gray beard' engineers after AI falls short",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-28T19:35:57Z"
-        },
-        {
-          "id": "fd26566f565e42ac5e170b0d3f6dc7d480648a0a",
-          "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师 / Ford rehires ‘gray beard’ engineers after AI falls short",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T19:05:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "c6b25462b70e1bb9af6efd09d93072d3e3c9378a",
-          "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T21:15:02.223000Z"
-        },
-        {
-          "id": "f081a61dc1e7b58473f2de935fa56a97f50eab28",
-          "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师 / Ford rehires 'gray beard' engineers after AI falls short",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-28T19:35:57Z"
-        },
-        {
-          "id": "fd26566f565e42ac5e170b0d3f6dc7d480648a0a",
-          "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师 / Ford rehires ‘gray beard’ engineers after AI falls short",
-          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T19:05:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5486,
-      "importance": 0.5486,
-      "importance_score": 0.5486,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8782,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T19:05:39Z",
-      "latest_at": "2026-06-28T21:15:02.223000Z",
-      "primary_item": {
-        "id": "c6b25462b70e1bb9af6efd09d93072d3e3c9378a",
-        "title": "由于人工智能表现未达预期，福特重新聘请“老牌”工程师",
-        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short",
-        "source": "techcrunch.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_949ee1eb7103",
-      "title": "马斯克宣布 Grok 4.5 开启 SpaceX 与特斯拉内部私测，性能或超越 Opus",
-      "url": "https://36kr.com/newsflashes/3873481579746561?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3873481579746561?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c36c92fb442ae27fbae9cb6b2b72e9bf202d50b7",
-          "title": "马斯克宣布 Grok 4.5 开启 SpaceX 与特斯拉内部私测，性能或超越 Opus",
-          "url": "https://36kr.com/newsflashes/3873481579746561?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6bec3d685728096cbf96bb27d4f0ac69a5db0805",
-          "title": "马斯克宣布 Grok 4.5 开启 SpaceX 与特斯拉内部私测，性能或超越 Opus",
-          "url": "https://www.gelonghui.com/live/2525893",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c36c92fb442ae27fbae9cb6b2b72e9bf202d50b7",
-          "title": "马斯克宣布 Grok 4.5 开启 SpaceX 与特斯拉内部私测，性能或超越 Opus",
-          "url": "https://36kr.com/newsflashes/3873481579746561?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6bec3d685728096cbf96bb27d4f0ac69a5db0805",
-          "title": "马斯克宣布 Grok 4.5 开启 SpaceX 与特斯拉内部私测，性能或超越 Opus",
-          "url": "https://www.gelonghui.com/live/2525893",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-29T00:10:25.463526Z",
-      "latest_at": "2026-06-29T00:10:25.463526Z",
-      "primary_item": {
-        "id": "c36c92fb442ae27fbae9cb6b2b72e9bf202d50b7",
-        "title": "马斯克宣布 Grok 4.5 开启 SpaceX 与特斯拉内部私测，性能或超越 Opus",
-        "url": "https://36kr.com/newsflashes/3873481579746561?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_77e625f953f8",
-      "title": "Show HN：Bash4LLM+ – 用于 LLM API 的轻量级、无依赖的 Bash 包装器 / Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-      "url": "https://news.ycombinator.com/item?id=48710827",
-      "primary_url": "https://news.ycombinator.com/item?id=48710827",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "11cc187022a6557303856a3c6daa7422fbbc2e16",
-          "title": "Show HN：Bash4LLM+ – 用于 LLM API 的轻量级、无依赖的 Bash 包装器 / Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-          "url": "https://news.ycombinator.com/item?id=48710827",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T23:54:28.022000Z"
-        },
-        {
-          "id": "fa18136a56c06382ff96edb4d7d92b50e9717eea",
-          "title": "Show HN：Bash4LLM+ – 用于 LLM API 的轻量级、无依赖的 Bash 包装器 / Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-          "url": "https://github.com/kamaludu/bash4llm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T19:43:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "11cc187022a6557303856a3c6daa7422fbbc2e16",
-          "title": "Show HN：Bash4LLM+ – 用于 LLM API 的轻量级、无依赖的 Bash 包装器 / Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-          "url": "https://news.ycombinator.com/item?id=48710827",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T23:54:28.022000Z"
-        },
-        {
-          "id": "fa18136a56c06382ff96edb4d7d92b50e9717eea",
-          "title": "Show HN：Bash4LLM+ – 用于 LLM API 的轻量级、无依赖的 Bash 包装器 / Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-          "url": "https://github.com/kamaludu/bash4llm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T19:43:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9889,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T19:43:10Z",
-      "latest_at": "2026-06-28T23:54:28.022000Z",
-      "primary_item": {
-        "id": "11cc187022a6557303856a3c6daa7422fbbc2e16",
-        "title": "Show HN：Bash4LLM+ – 用于 LLM API 的轻量级、无依赖的 Bash 包装器 / Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-        "url": "https://news.ycombinator.com/item?id=48710827",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2f23bcceaae6",
-      "title": "显示 HN：NanoEuler – 从头开始​​使用纯 C/CUDA 的 GPT-2 比例模型 / Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-      "url": "https://news.ycombinator.com/item?id=48710778",
-      "primary_url": "https://news.ycombinator.com/item?id=48710778",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0fcc463e03f62c7aa44a943485e61c6c27fecb5d",
-          "title": "显示 HN：NanoEuler – 从头开始​​使用纯 C/CUDA 的 GPT-2 比例模型 / Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-          "url": "https://news.ycombinator.com/item?id=48710778",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T23:54:28.022000Z"
-        },
-        {
-          "id": "fd8b333820c3c2030faad2f465277cb97ca91bc9",
-          "title": "显示 HN：NanoEuler – 从头开始​​使用纯 C/CUDA 的 GPT-2 比例模型 / Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-          "url": "https://github.com/JustVugg/nanoeuler",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T19:38:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0fcc463e03f62c7aa44a943485e61c6c27fecb5d",
-          "title": "显示 HN：NanoEuler – 从头开始​​使用纯 C/CUDA 的 GPT-2 比例模型 / Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-          "url": "https://news.ycombinator.com/item?id=48710778",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-28T23:54:28.022000Z"
-        },
-        {
-          "id": "fd8b333820c3c2030faad2f465277cb97ca91bc9",
-          "title": "显示 HN：NanoEuler – 从头开始​​使用纯 C/CUDA 的 GPT-2 比例模型 / Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-          "url": "https://github.com/JustVugg/nanoeuler",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T19:38:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9889,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T19:38:14Z",
-      "latest_at": "2026-06-28T23:54:28.022000Z",
-      "primary_item": {
-        "id": "0fcc463e03f62c7aa44a943485e61c6c27fecb5d",
-        "title": "显示 HN：NanoEuler – 从头开始​​使用纯 C/CUDA 的 GPT-2 比例模型 / Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-        "url": "https://news.ycombinator.com/item?id=48710778",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_394ee1bc4021",
-      "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
-      "url": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j",
-      "primary_url": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "815bac93fa3c9e5686ef4cf51a1ccd2dfbc5321e",
-          "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
-          "url": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-28T14:00:00Z"
+          "id": "9039e7fcf3d56b5277e61097087c61cf8ab6b26f",
+          "title": "算力告急：谷歌限制 Gemini 模型调用，Meta 研发进度受阻",
+          "url": "https://www.aibase.com/news/29234",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "InfoQ CN"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "815bac93fa3c9e5686ef4cf51a1ccd2dfbc5321e",
-          "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
-          "url": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-06-28T14:00:00Z"
+          "id": "9039e7fcf3d56b5277e61097087c61cf8ab6b26f",
+          "title": "算力告急：谷歌限制 Gemini 模型调用，Meta 研发进度受阻",
+          "url": "https://www.aibase.com/news/29234",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
-      "importance_label": "值得关注",
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.5761,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-06-28T14:00:00Z",
-      "latest_at": "2026-06-28T14:00:00Z",
-      "primary_item": {
-        "id": "815bac93fa3c9e5686ef4cf51a1ccd2dfbc5321e",
-        "title": "Bedrock 平台上的 Fable 5 模型需向 Anthropic 共享推理数据",
-        "url": "https://www.infoq.cn/article/NodhKVrhWoYF9yGwm12j",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_acc0f3def671",
-      "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "primary_url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "source": "english.elpais.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "856e729c926dd4817551c31ca1cdff62575b5c65",
-          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-          "source": "english.elpais.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T22:50:52.752000Z"
-        },
-        {
-          "id": "d7b4c20f3f10cd8bb951a6f223d010c060aaae7a",
-          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件 / Professor denounces mass AI fraud on an exam at Brown",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-28T16:41:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "english.elpais.com"
-      ],
-      "items": [
-        {
-          "id": "856e729c926dd4817551c31ca1cdff62575b5c65",
-          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-          "source": "english.elpais.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T22:50:52.752000Z"
-        },
-        {
-          "id": "d7b4c20f3f10cd8bb951a6f223d010c060aaae7a",
-          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件 / Professor denounces mass AI fraud on an exam at Brown",
-          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-28T16:41:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9448,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T16:41:12Z",
-      "latest_at": "2026-06-28T22:50:52.752000Z",
-      "primary_item": {
-        "id": "856e729c926dd4817551c31ca1cdff62575b5c65",
-        "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
-        "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-        "source": "english.elpais.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b9a57bf98db2",
-      "title": "Sol 操作 Codex 时。大约 2026 年 https://t.co/bOCl1QB56x / Sol when operating Codex. Circa 2026 https://t.co/bOCl1QB56x",
-      "url": "https://x.com/thsottiaux/status/2071089307062837744",
-      "primary_url": "https://x.com/thsottiaux/status/2071089307062837744",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "564981d88ac2681983ceb3b9fa1f03717d52ec1e",
-          "title": "Sol 操作 Codex 时。大约 2026 年 https://t.co/bOCl1QB56x / Sol when operating Codex. Circa 2026 https://t.co/bOCl1QB56x",
-          "url": "https://x.com/thsottiaux/status/2071089307062837744",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-06-28T04:32:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
-      ],
-      "items": [
-        {
-          "id": "564981d88ac2681983ceb3b9fa1f03717d52ec1e",
-          "title": "Sol 操作 Codex 时。大约 2026 年 https://t.co/bOCl1QB56x / Sol when operating Codex. Circa 2026 https://t.co/bOCl1QB56x",
-          "url": "https://x.com/thsottiaux/status/2071089307062837744",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-06-28T04:32:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.1819,
-        "story_heat": 0.0
-      },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-28T04:32:24Z",
-      "latest_at": "2026-06-28T04:32:24Z",
+      "earliest_at": "2026-06-29T16:05:10.380968Z",
+      "latest_at": "2026-06-29T16:05:10.380968Z",
       "primary_item": {
-        "id": "564981d88ac2681983ceb3b9fa1f03717d52ec1e",
-        "title": "Sol 操作 Codex 时。大约 2026 年 https://t.co/bOCl1QB56x / Sol when operating Codex. Circa 2026 https://t.co/bOCl1QB56x",
-        "url": "https://x.com/thsottiaux/status/2071089307062837744",
-        "source": "Follow Builders · X · Thibault Sottiaux",
-        "source_name": "Follow Builders"
+        "id": "9039e7fcf3d56b5277e61097087c61cf8ab6b26f",
+        "title": "算力告急：谷歌限制 Gemini 模型调用，Meta 研发进度受阻",
+        "url": "https://www.aibase.com/news/29234",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b35c27dc472e",
-      "title": "94年小伙融资30亿，教AI玩游戏",
-      "url": "https://www.36kr.com/p/3871345089860866",
-      "primary_url": "https://www.36kr.com/p/3871345089860866",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
+      "story_id": "story_4f3133437005",
+      "title": "蚂蚁阿福公布减重1亿斤进展：已瘦10万斤，网友：我又拖后腿了",
+      "url": "https://www.aibase.com/news/29230",
+      "primary_url": "https://www.aibase.com/news/29230",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "558b674c588db439f656173163e07bd106d3b9a7",
-          "title": "94年小伙融资30亿，教AI玩游戏",
-          "url": "https://www.36kr.com/p/3871345089860866",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "50c7ddf787d08aa6d54e32818decea9572d7ccc5",
+          "title": "蚂蚁阿福公布减重1亿斤进展：已瘦10万斤，网友：我又拖后腿了",
+          "url": "https://www.aibase.com/news/29230",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "36氪 · 24小时热榜"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "558b674c588db439f656173163e07bd106d3b9a7",
-          "title": "94年小伙融资30亿，教AI玩游戏",
-          "url": "https://www.36kr.com/p/3871345089860866",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "50c7ddf787d08aa6d54e32818decea9572d7ccc5",
+          "title": "蚂蚁阿福公布减重1亿斤进展：已瘦10万斤，网友：我又拖后腿了",
+          "url": "https://www.aibase.com/news/29230",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-29T00:10:25.463526Z",
-      "latest_at": "2026-06-29T00:10:25.463526Z",
+      "earliest_at": "2026-06-29T16:05:10.380968Z",
+      "latest_at": "2026-06-29T16:05:10.380968Z",
       "primary_item": {
-        "id": "558b674c588db439f656173163e07bd106d3b9a7",
-        "title": "94年小伙融资30亿，教AI玩游戏",
-        "url": "https://www.36kr.com/p/3871345089860866",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
+        "id": "50c7ddf787d08aa6d54e32818decea9572d7ccc5",
+        "title": "蚂蚁阿福公布减重1亿斤进展：已瘦10万斤，网友：我又拖后腿了",
+        "url": "https://www.aibase.com/news/29230",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f6f3a723a290",
-      "title": "AI Agent 工程师入门指南",
-      "url": "https://juejin.cn/post/7654919203225649171",
-      "primary_url": "https://juejin.cn/post/7654919203225649171",
-      "source": "掘金 · 人工智能本周最热",
-      "source_name": "TopHub",
+      "story_id": "story_37776f1ad70a",
+      "title": "豆包内测社交功能:打通飞书账号，AI助手也要做熟人社交?",
+      "url": "https://www.aibase.com/news/29231",
+      "primary_url": "https://www.aibase.com/news/29231",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5639c4e88213a9eeea2a60f9cd3c1176579797c0",
-          "title": "AI Agent 工程师入门指南",
-          "url": "https://juejin.cn/post/7654919203225649171",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1f8b0b160995074ea950473a01eff0f603541a14",
+          "title": "豆包内测社交功能:打通飞书账号，AI助手也要做熟人社交?",
+          "url": "https://www.aibase.com/news/29231",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "掘金 · 人工智能本周最热"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5639c4e88213a9eeea2a60f9cd3c1176579797c0",
-          "title": "AI Agent 工程师入门指南",
-          "url": "https://juejin.cn/post/7654919203225649171",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1f8b0b160995074ea950473a01eff0f603541a14",
+          "title": "豆包内测社交功能:打通飞书账号，AI助手也要做熟人社交?",
+          "url": "https://www.aibase.com/news/29231",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-29T16:05:10.380968Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-29T00:10:25.463526Z",
-      "latest_at": "2026-06-29T00:10:25.463526Z",
+      "earliest_at": "2026-06-29T16:05:10.380968Z",
+      "latest_at": "2026-06-29T16:05:10.380968Z",
       "primary_item": {
-        "id": "5639c4e88213a9eeea2a60f9cd3c1176579797c0",
-        "title": "AI Agent 工程师入门指南",
-        "url": "https://juejin.cn/post/7654919203225649171",
-        "source": "掘金 · 人工智能本周最热",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_261a5798c79d",
-      "title": "AI 中间商Liblib，靠什么撑起 20 亿美元估值？",
-      "url": "https://www.cyzone.cn/article/838187.html",
-      "primary_url": "https://www.cyzone.cn/article/838187.html",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "68670a9bf41b20afb5860a294385dc3efe4b072b",
-          "title": "AI 中间商Liblib，靠什么撑起 20 亿美元估值？",
-          "url": "https://www.cyzone.cn/article/838187.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "68670a9bf41b20afb5860a294385dc3efe4b072b",
-          "title": "AI 中间商Liblib，靠什么撑起 20 亿美元估值？",
-          "url": "https://www.cyzone.cn/article/838187.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-06-29T00:10:25.463526Z",
-      "latest_at": "2026-06-29T00:10:25.463526Z",
-      "primary_item": {
-        "id": "68670a9bf41b20afb5860a294385dc3efe4b072b",
-        "title": "AI 中间商Liblib，靠什么撑起 20 亿美元估值？",
-        "url": "https://www.cyzone.cn/article/838187.html",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "1f8b0b160995074ea950473a01eff0f603541a14",
+        "title": "豆包内测社交功能:打通飞书账号，AI助手也要做熟人社交?",
+        "url": "https://www.aibase.com/news/29231",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
