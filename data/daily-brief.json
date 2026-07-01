@@ -1,103 +1,326 @@
 {
-  "generated_at": "2026-06-30T00:05:10.380968Z",
+  "generated_at": "2026-07-01T00:05:46.673542Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_8654826289ec",
+      "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T18:32:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T18:32:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7688,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:32:50Z",
+      "latest_at": "2026-06-30T18:32:50Z",
+      "primary_item": {
+        "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+        "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_baf3220209a7",
+      "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
+          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T17:25:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
+          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T17:25:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7223,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T17:25:51Z",
+      "latest_at": "2026-06-30T17:25:51Z",
+      "primary_item": {
+        "id": "f63297030ebe8435fd635e15f434f76869319b6f",
+        "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1005-317e-ac87-abd68d2fa33f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260630-1005-317e-ac87-abd68d2fa33f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260701-1006-12ab-b68a-33cb11d57a8d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260701-1006-12ab-b68a-33cb11d57a8d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "b6f6e82e0de6099bbd47bff9f5c5727391c8d045",
+          "id": "c8be2f4ab39112affa1cc47b65424013d5da6ec2",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1005-317e-ac87-abd68d2fa33f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "751990cb308582693aa30ce35718bb7659c57092",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1010-5092-b2de-14e7576dda62&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-1006-12ab-b68a-33cb11d57a8d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
-          "id": "b6f6e82e0de6099bbd47bff9f5c5727391c8d045",
+          "id": "c8be2f4ab39112affa1cc47b65424013d5da6ec2",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1005-317e-ac87-abd68d2fa33f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "751990cb308582693aa30ce35718bb7659c57092",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1010-5092-b2de-14e7576dda62&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260701-1006-12ab-b68a-33cb11d57a8d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T00:10:25.463526Z",
-      "latest_at": "2026-06-30T00:05:10.380968Z",
+      "earliest_at": "2026-07-01T00:05:46.673542Z",
+      "latest_at": "2026-07-01T00:05:46.673542Z",
       "primary_item": {
-        "id": "b6f6e82e0de6099bbd47bff9f5c5727391c8d045",
+        "id": "c8be2f4ab39112affa1cc47b65424013d5da6ec2",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1005-317e-ac87-abd68d2fa33f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260701-1006-12ab-b68a-33cb11d57a8d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_5a9c6b882649",
-      "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+      "story_id": "story_416bf0ef067d",
+      "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+      "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
+      "primary_url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "536a68851422847b125ea7d7c7b6095b24429a7e",
+          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+          "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T23:43:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "536a68851422847b125ea7d7c7b6095b24429a7e",
+          "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+          "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T23:43:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9846,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T23:43:32Z",
+      "latest_at": "2026-06-30T23:43:32Z",
+      "primary_item": {
+        "id": "536a68851422847b125ea7d7c7b6095b24429a7e",
+        "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
+        "url": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b2e6ee688c64",
+      "title": "Claude Sonnet 5 发布，系 Sonnet 系列最强智能体模型",
+      "url": "https://aihot.virxact.com/items/cmr1bb1gr01aeslnle1gtmrmw",
+      "primary_url": "https://aihot.virxact.com/items/cmr1bb1gr01aeslnle1gtmrmw",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1ff0523ab4fd3393eb3bfc6120a37fe4a5d92619",
+          "title": "Claude Sonnet 5 发布，系 Sonnet 系列最强智能体模型",
+          "url": "https://aihot.virxact.com/items/cmr1bb1gr01aeslnle1gtmrmw",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T23:41:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1ff0523ab4fd3393eb3bfc6120a37fe4a5d92619",
+          "title": "Claude Sonnet 5 发布，系 Sonnet 系列最强智能体模型",
+          "url": "https://aihot.virxact.com/items/cmr1bb1gr01aeslnle1gtmrmw",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T23:41:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9829,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T23:41:05Z",
+      "latest_at": "2026-06-30T23:41:05Z",
+      "primary_item": {
+        "id": "1ff0523ab4fd3393eb3bfc6120a37fe4a5d92619",
+        "title": "Claude Sonnet 5 发布，系 Sonnet 系列最强智能体模型",
+        "url": "https://aihot.virxact.com/items/cmr1bb1gr01aeslnle1gtmrmw",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_66857aac9970",
+      "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+      "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+      "primary_url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
-          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
+          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T16:47:16Z"
+          "published_at": "2026-06-30T16:00:19Z"
         }
       ],
       "source_count": 1,
@@ -106,25 +329,25 @@
       ],
       "items": [
         {
-          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
-          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
+          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T16:47:16Z"
+          "published_at": "2026-06-30T16:00:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6959,
+        "ai_relevance": 0.91,
+        "recency": 0.6629,
         "story_heat": 0.0
       },
       "category": "official",
@@ -133,32 +356,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T16:47:16Z",
-      "latest_at": "2026-06-29T16:47:16Z",
+      "earliest_at": "2026-06-30T16:00:19Z",
+      "latest_at": "2026-06-30T16:00:19Z",
       "primary_item": {
-        "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
-        "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
+        "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
+        "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+        "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_022b5040aeb6",
-      "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-      "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-      "primary_url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+      "story_id": "story_0b9cb68fce80",
+      "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
+      "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+          "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
+          "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
+          "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T16:08:23Z"
+          "published_at": "2026-06-30T16:42:21Z"
         }
       ],
       "source_count": 1,
@@ -167,25 +390,25 @@
       ],
       "items": [
         {
-          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+          "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
+          "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
+          "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T16:08:23Z"
+          "published_at": "2026-06-30T16:42:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6689,
+        "recency": 0.6921,
         "story_heat": 0.0
       },
       "category": "official",
@@ -194,47 +417,168 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T16:08:23Z",
-      "latest_at": "2026-06-29T16:08:23Z",
+      "earliest_at": "2026-06-30T16:42:21Z",
+      "latest_at": "2026-06-30T16:42:21Z",
       "primary_item": {
-        "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-        "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-        "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
+        "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
+        "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
+        "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f1de547afb62",
-      "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_242f284fb3f3",
+      "title": "AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题",
+      "url": "https://aihot.virxact.com/items/cmr190seo00nsslnlxmfddenz",
+      "primary_url": "https://aihot.virxact.com/items/cmr190seo00nsslnlxmfddenz",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:00:00Z"
+          "id": "43322c6aa3f98f565e4dbcf151369b08d086b975",
+          "title": "AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题",
+          "url": "https://aihot.virxact.com/items/cmr190seo00nsslnlxmfddenz",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T22:32:34Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "X：AI Safety Memes (@AISafetyMemes)"
       ],
       "items": [
         {
-          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-          "source": "Google AI Blog",
+          "id": "43322c6aa3f98f565e4dbcf151369b08d086b975",
+          "title": "AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题",
+          "url": "https://aihot.virxact.com/items/cmr190seo00nsslnlxmfddenz",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T22:32:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9353,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T22:32:34Z",
+      "latest_at": "2026-06-30T22:32:34Z",
+      "primary_item": {
+        "id": "43322c6aa3f98f565e4dbcf151369b08d086b975",
+        "title": "AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题",
+        "url": "https://aihot.virxact.com/items/cmr190seo00nsslnlxmfddenz",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a6720de068e4",
+      "title": "发布：侧边栏导航和每个资产的下载计数 / Releases: Sidebar navigation and per-asset download counts",
+      "url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
+      "primary_url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "39e34106d05e9da40ed4faa72f00a9e157a73e2b",
+          "title": "发布：侧边栏导航和每个资产的下载计数 / Releases: Sidebar navigation and per-asset download counts",
+          "url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-29T16:00:00Z"
+          "published_at": "2026-06-30T16:36:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "39e34106d05e9da40ed4faa72f00a9e157a73e2b",
+          "title": "发布：侧边栏导航和每个资产的下载计数 / Releases: Sidebar navigation and per-asset download counts",
+          "url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T16:36:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6877,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T16:36:06Z",
+      "latest_at": "2026-06-30T16:36:06Z",
+      "primary_item": {
+        "id": "39e34106d05e9da40ed4faa72f00a9e157a73e2b",
+        "title": "发布：侧边栏导航和每个资产的下载计数 / Releases: Sidebar navigation and per-asset download counts",
+        "url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ef7eb6a30414",
+      "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
+      "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b289077459097c40473999515d248be3b047e5c8",
+          "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
+          "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T16:00:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b289077459097c40473999515d248be3b047e5c8",
+          "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
+          "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T16:00:17Z"
         }
       ],
       "item_count": 1,
@@ -246,7 +590,7 @@
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6631,
+        "recency": 0.6629,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,59 +599,181 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T16:00:00Z",
-      "latest_at": "2026-06-29T16:00:00Z",
+      "earliest_at": "2026-06-30T16:00:17Z",
+      "latest_at": "2026-06-30T16:00:17Z",
       "primary_item": {
-        "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-        "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-        "source": "Google AI Blog",
+        "id": "b289077459097c40473999515d248be3b047e5c8",
+        "title": "开源许可证合规性处于公共预览版 / Open source license compliance is in public preview",
+        "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_016fea7a781f",
-      "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
-      "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-      "primary_url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_626d4a79e36c",
+      "title": "Upcoming cloud data retention policy for closed security alerts",
+      "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+      "primary_url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
-          "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
-          "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:22:33Z"
+          "id": "fc3d343ce8ebdc0f8718623e8dc96573759b023f",
+          "title": "Upcoming cloud data retention policy for closed security alerts",
+          "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T13:24:21Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
-          "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
-          "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:22:33Z"
+          "id": "fc3d343ce8ebdc0f8718623e8dc96573759b023f",
+          "title": "Upcoming cloud data retention policy for closed security alerts",
+          "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T13:24:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7894,
-      "importance": 0.7894,
-      "importance_score": 0.7894,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.5546,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T13:24:21Z",
+      "latest_at": "2026-06-30T13:24:21Z",
+      "primary_item": {
+        "id": "fc3d343ce8ebdc0f8718623e8dc96573759b023f",
+        "title": "Upcoming cloud data retention policy for closed security alerts",
+        "url": "https://github.blog/changelog/2026-06-30-cloud-data-retention-policy-for-closed-security-alerts",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2a376defa06a",
+      "title": "Dependabot no longer infers .npmrc",
+      "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
+      "primary_url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "73e2655ce2239f3653dbbd152004dcbcb4e2c30f",
+          "title": "Dependabot no longer infers .npmrc",
+          "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T13:53:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "73e2655ce2239f3653dbbd152004dcbcb4e2c30f",
+          "title": "Dependabot no longer infers .npmrc",
+          "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T13:53:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.575,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T13:53:48Z",
+      "latest_at": "2026-06-30T13:53:48Z",
+      "primary_item": {
+        "id": "73e2655ce2239f3653dbbd152004dcbcb4e2c30f",
+        "title": "Dependabot no longer infers .npmrc",
+        "url": "https://github.blog/changelog/2026-06-30-dependabot-no-longer-infers-npmrc",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d885838b8bf8",
+      "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
+      "url": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
+      "primary_url": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
+      "source": "X：NotebookLM (@NotebookLM)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c423ee9d14ac1441299c8720eafbcd92832e2a8",
+          "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
+          "url": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
+          "source": "X：NotebookLM (@NotebookLM)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T19:44:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：NotebookLM (@NotebookLM)"
+      ],
+      "items": [
+        {
+          "id": "0c423ee9d14ac1441299c8720eafbcd92832e2a8",
+          "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
+          "url": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
+          "source": "X：NotebookLM (@NotebookLM)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T19:44:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8871,
+        "recency": 0.8187,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -315,272 +781,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T21:22:33Z",
-      "latest_at": "2026-06-29T21:22:33Z",
+      "earliest_at": "2026-06-30T19:44:44Z",
+      "latest_at": "2026-06-30T19:44:44Z",
       "primary_item": {
-        "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
-        "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
-        "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-        "source": "Claude：Blog（网页）",
+        "id": "0c423ee9d14ac1441299c8720eafbcd92832e2a8",
+        "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
+        "url": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
+        "source": "X：NotebookLM (@NotebookLM)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ad01905c73cb",
-      "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-      "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
-      "primary_url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
-      "source": "X：Emad Mostaque (@EMostaque)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
-          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-          "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
-          "source": "X：Emad Mostaque (@EMostaque)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:06:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Emad Mostaque (@EMostaque)"
-      ],
-      "items": [
-        {
-          "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
-          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-          "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
-          "source": "X：Emad Mostaque (@EMostaque)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:06:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8761,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T21:06:43Z",
-      "latest_at": "2026-06-29T21:06:43Z",
-      "primary_item": {
-        "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
-        "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-        "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
-        "source": "X：Emad Mostaque (@EMostaque)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c45adfe3885e",
-      "title": "Rubin Ultra取消，新版尺寸性能减半",
-      "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
-      "primary_url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
-      "source": "X：SemiAnalysis (@SemiAnalysis_)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
-          "title": "Rubin Ultra取消，新版尺寸性能减半",
-          "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:00:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：SemiAnalysis (@SemiAnalysis_)"
-      ],
-      "items": [
-        {
-          "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
-          "title": "Rubin Ultra取消，新版尺寸性能减半",
-          "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:00:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.872,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T21:00:47Z",
-      "latest_at": "2026-06-29T21:00:47Z",
-      "primary_item": {
-        "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
-        "title": "Rubin Ultra取消，新版尺寸性能减半",
-        "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
-        "source": "X：SemiAnalysis (@SemiAnalysis_)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_83328dc63cac",
-      "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-      "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-      "primary_url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-      "source": "X：OpenClaw (@openclaw)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
-          "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-          "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T20:11:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenClaw (@openclaw)"
-      ],
-      "items": [
-        {
-          "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
-          "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-          "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T20:11:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8378,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T20:11:33Z",
-      "latest_at": "2026-06-29T20:11:33Z",
-      "primary_item": {
-        "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
-        "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-        "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-        "source": "X：OpenClaw (@openclaw)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5a598b53d4a3",
-      "title": "Claude 在 Microsoft Foundry 正式可用",
-      "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-      "primary_url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
-          "title": "Claude 在 Microsoft Foundry 正式可用",
-          "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T18:22:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
-          "title": "Claude 在 Microsoft Foundry 正式可用",
-          "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T18:22:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7619,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T18:22:20Z",
-      "latest_at": "2026-06-29T18:22:20Z",
-      "primary_item": {
-        "id": "b1b685ef03d6e306f107d8ba5c5432e254340712",
-        "title": "Claude 在 Microsoft Foundry 正式可用",
-        "url": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3c929d7451ac",
-      "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
-      "url": "https://www.aibase.com/news/29238",
-      "primary_url": "https://www.aibase.com/news/29238",
+      "story_id": "story_7eaad8c16868",
+      "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
+      "url": "https://www.aibase.com/news/29276",
+      "primary_url": "https://www.aibase.com/news/29276",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
-          "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
-          "url": "https://www.aibase.com/news/29238",
+          "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
+          "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
+          "url": "https://www.aibase.com/news/29276",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-29T18:05:10.380968Z"
+          "published_at": "2026-06-30T18:05:46.673542Z"
         }
       ],
       "source_count": 1,
@@ -589,13 +815,13 @@
       ],
       "items": [
         {
-          "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
-          "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
-          "url": "https://www.aibase.com/news/29238",
+          "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
+          "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
+          "url": "https://www.aibase.com/news/29276",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-29T18:05:10.380968Z"
+          "published_at": "2026-06-30T18:05:46.673542Z"
         }
       ],
       "item_count": 1,
@@ -615,32 +841,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T18:05:10.380968Z",
-      "latest_at": "2026-06-29T18:05:10.380968Z",
+      "earliest_at": "2026-06-30T18:05:46.673542Z",
+      "latest_at": "2026-06-30T18:05:46.673542Z",
       "primary_item": {
-        "id": "b8f99068327c4484e45da31786bd0464a2de8b49",
-        "title": "六成英国消费者：一次错误就不再信任 AI 购物助手",
-        "url": "https://www.aibase.com/news/29238",
+        "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
+        "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
+        "url": "https://www.aibase.com/news/29276",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e36b72ba54ad",
-      "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
-      "url": "https://www.aibase.com/news/29239",
-      "primary_url": "https://www.aibase.com/news/29239",
+      "story_id": "story_bedec3827b0a",
+      "title": "联想 ThinkPad P1 AI 2026 正式发布：重塑超便携高性能移动工作站标杆",
+      "url": "https://www.aibase.com/news/29277",
+      "primary_url": "https://www.aibase.com/news/29277",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "656413e9b98619297b9ae5bafbca6186282b6ad3",
-          "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
-          "url": "https://www.aibase.com/news/29239",
+          "id": "6ce7c0f4cd7f3c03e0a901d0a0ca5bf80bcc1ce1",
+          "title": "联想 ThinkPad P1 AI 2026 正式发布：重塑超便携高性能移动工作站标杆",
+          "url": "https://www.aibase.com/news/29277",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-29T18:05:10.380968Z"
+          "published_at": "2026-06-30T18:05:46.673542Z"
         }
       ],
       "source_count": 1,
@@ -649,13 +875,13 @@
       ],
       "items": [
         {
-          "id": "656413e9b98619297b9ae5bafbca6186282b6ad3",
-          "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
-          "url": "https://www.aibase.com/news/29239",
+          "id": "6ce7c0f4cd7f3c03e0a901d0a0ca5bf80bcc1ce1",
+          "title": "联想 ThinkPad P1 AI 2026 正式发布：重塑超便携高性能移动工作站标杆",
+          "url": "https://www.aibase.com/news/29277",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-29T18:05:10.380968Z"
+          "published_at": "2026-06-30T18:05:46.673542Z"
         }
       ],
       "item_count": 1,
@@ -675,59 +901,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T18:05:10.380968Z",
-      "latest_at": "2026-06-29T18:05:10.380968Z",
+      "earliest_at": "2026-06-30T18:05:46.673542Z",
+      "latest_at": "2026-06-30T18:05:46.673542Z",
       "primary_item": {
-        "id": "656413e9b98619297b9ae5bafbca6186282b6ad3",
-        "title": "太空算力新地标：北京太空算力创新中心揭牌，开启“星载 AI”协同新时代",
-        "url": "https://www.aibase.com/news/29239",
+        "id": "6ce7c0f4cd7f3c03e0a901d0a0ca5bf80bcc1ce1",
+        "title": "联想 ThinkPad P1 AI 2026 正式发布：重塑超便携高性能移动工作站标杆",
+        "url": "https://www.aibase.com/news/29277",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b372cf11e8c6",
-      "title": "Qwen 3.6 27B 是本地开发的理想选择",
-      "url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
-      "primary_url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_ba31fc6e5e6b",
+      "title": "Claude Sonnet 5 发布",
+      "url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+      "primary_url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+      "source": "Anthropic：Newsroom（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5391979f26f06c3f674e0a2c31713ae90774d8fc",
-          "title": "Qwen 3.6 27B 是本地开发的理想选择",
-          "url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "63c193b45cc7afc63e02d7fb4952866670c47d7c",
+          "title": "Claude Sonnet 5 发布",
+          "url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T18:03:02Z"
+          "published_at": "2026-06-30T18:02:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
-          "id": "5391979f26f06c3f674e0a2c31713ae90774d8fc",
-          "title": "Qwen 3.6 27B 是本地开发的理想选择",
-          "url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "63c193b45cc7afc63e02d7fb4952866670c47d7c",
+          "title": "Claude Sonnet 5 发布",
+          "url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-29T18:03:02Z"
+          "published_at": "2026-06-30T18:02:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7485,
+        "recency": 0.7474,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -735,59 +961,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T18:03:02Z",
-      "latest_at": "2026-06-29T18:03:02Z",
+      "earliest_at": "2026-06-30T18:02:06Z",
+      "latest_at": "2026-06-30T18:02:06Z",
       "primary_item": {
-        "id": "5391979f26f06c3f674e0a2c31713ae90774d8fc",
-        "title": "Qwen 3.6 27B 是本地开发的理想选择",
-        "url": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "63c193b45cc7afc63e02d7fb4952866670c47d7c",
+        "title": "Claude Sonnet 5 发布",
+        "url": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5a44f079565a",
-      "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
-      "url": "https://www.aibase.com/news/29235",
-      "primary_url": "https://www.aibase.com/news/29235",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2ae783a46924",
+      "title": "Acti 将 AI 智能体直接放入手机键盘",
+      "url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
+      "primary_url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a85c5083686cfa8db817f59fd38a9329fcdc3240",
-          "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
-          "url": "https://www.aibase.com/news/29235",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T17:05:10.380968Z"
+          "id": "a10f523c4555bb0117b58e4d65b203e2b505cb61",
+          "title": "Acti 将 AI 智能体直接放入手机键盘",
+          "url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:52:46Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "a85c5083686cfa8db817f59fd38a9329fcdc3240",
-          "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
-          "url": "https://www.aibase.com/news/29235",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T17:05:10.380968Z"
+          "id": "a10f523c4555bb0117b58e4d65b203e2b505cb61",
+          "title": "Acti 将 AI 智能体直接放入手机键盘",
+          "url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:52:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7083,
+        "recency": 0.741,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,59 +1021,120 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T17:05:10.380968Z",
-      "latest_at": "2026-06-29T17:05:10.380968Z",
+      "earliest_at": "2026-06-30T17:52:46Z",
+      "latest_at": "2026-06-30T17:52:46Z",
       "primary_item": {
-        "id": "a85c5083686cfa8db817f59fd38a9329fcdc3240",
-        "title": "OceanBase发布湖库一体AI数据库:让Agent真正“读懂”企业",
-        "url": "https://www.aibase.com/news/29235",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "a10f523c4555bb0117b58e4d65b203e2b505cb61",
+        "title": "Acti 将 AI 智能体直接放入手机键盘",
+        "url": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_aef040f70337",
-      "title": "模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路",
-      "url": "https://www.aibase.com/news/29236",
-      "primary_url": "https://www.aibase.com/news/29236",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_fb435a036a32",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "primary_url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0d3ed7309e01f616d477f72b7d6d997fbcfe547f",
-          "title": "模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路",
-          "url": "https://www.aibase.com/news/29236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T17:05:10.380968Z"
+          "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
+          "title": "How ChatGPT adoption has expanded",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T09:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "0d3ed7309e01f616d477f72b7d6d997fbcfe547f",
-          "title": "模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路",
-          "url": "https://www.aibase.com/news/29236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T17:05:10.380968Z"
+          "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
+          "title": "How ChatGPT adoption has expanded",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T09:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.371,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T09:00:00Z",
+      "latest_at": "2026-06-30T09:00:00Z",
+      "primary_item": {
+        "id": "56eb64e8d4ec5647b793abb42dfa25fc53541d6b",
+        "title": "How ChatGPT adoption has expanded",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5107d0631ddb",
+      "title": "Claude Science 科研工作台正式上线",
+      "url": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
+      "primary_url": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a5399595d5bc11ceced1276eb4e86c5c8f3d640",
+          "title": "Claude Science 科研工作台正式上线",
+          "url": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:32:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "0a5399595d5bc11ceced1276eb4e86c5c8f3d640",
+          "title": "Claude Science 科研工作台正式上线",
+          "url": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:32:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7083,
+        "recency": 0.7266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -855,368 +1142,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T17:05:10.380968Z",
-      "latest_at": "2026-06-29T17:05:10.380968Z",
+      "earliest_at": "2026-06-30T17:32:06Z",
+      "latest_at": "2026-06-30T17:32:06Z",
       "primary_item": {
-        "id": "0d3ed7309e01f616d477f72b7d6d997fbcfe547f",
-        "title": "模型变小，能力不减：新浪VibeThinker-3B 开源，AI 推理迎来“轻量化”新思路",
-        "url": "https://www.aibase.com/news/29236",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "0a5399595d5bc11ceced1276eb4e86c5c8f3d640",
+        "title": "Claude Science 科研工作台正式上线",
+        "url": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_1596e07f9a4f",
-      "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
-      "url": "https://www.aibase.com/news/29232",
-      "primary_url": "https://www.aibase.com/news/29232",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_0d5c22d2002f",
+      "title": "Claude Code 入门：智能体循环",
+      "url": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
+      "primary_url": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "61a9d92761a3f72424da4abacbac9d5cc2def948",
-          "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
-          "url": "https://www.aibase.com/news/29232",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
+          "id": "8b25d26a2defccdc62c0a3fba0f32b45f034adfb",
+          "title": "Claude Code 入门：智能体循环",
+          "url": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:28:28Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "61a9d92761a3f72424da4abacbac9d5cc2def948",
-          "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
-          "url": "https://www.aibase.com/news/29232",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
+          "id": "8b25d26a2defccdc62c0a3fba0f32b45f034adfb",
+          "title": "Claude Code 入门：智能体循环",
+          "url": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T17:28:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.7241,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-06-29T16:05:10.380968Z",
-      "latest_at": "2026-06-29T16:05:10.380968Z",
+      "earliest_at": "2026-06-30T17:28:28Z",
+      "latest_at": "2026-06-30T17:28:28Z",
       "primary_item": {
-        "id": "61a9d92761a3f72424da4abacbac9d5cc2def948",
-        "title": "AI急先锋：产能告急，三星拟在韩国光州扩建先进半导体封装厂",
-        "url": "https://www.aibase.com/news/29232",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a265e64e883e",
-      "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
-      "url": "https://www.aibase.com/news/29233",
-      "primary_url": "https://www.aibase.com/news/29233",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5044f7e7041f64bced8977605cd3eb8d721f0d72",
-          "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
-          "url": "https://www.aibase.com/news/29233",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5044f7e7041f64bced8977605cd3eb8d721f0d72",
-          "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
-          "url": "https://www.aibase.com/news/29233",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T16:05:10.380968Z",
-      "latest_at": "2026-06-29T16:05:10.380968Z",
-      "primary_item": {
-        "id": "5044f7e7041f64bced8977605cd3eb8d721f0d72",
-        "title": "传记片《人工智能》再生变数：亚马逊影业宣布放弃发行",
-        "url": "https://www.aibase.com/news/29233",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d50a18b2d3df",
-      "title": "百度开源3B模型Unlimited OCR:5天Star破万，刷新长文档解析纪录",
-      "url": "https://www.aibase.com/news/29229",
-      "primary_url": "https://www.aibase.com/news/29229",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eb3c83eb9221421fc69f7058398849fa454e51d5",
-          "title": "百度开源3B模型Unlimited OCR:5天Star破万，刷新长文档解析纪录",
-          "url": "https://www.aibase.com/news/29229",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "eb3c83eb9221421fc69f7058398849fa454e51d5",
-          "title": "百度开源3B模型Unlimited OCR:5天Star破万，刷新长文档解析纪录",
-          "url": "https://www.aibase.com/news/29229",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T16:05:10.380968Z",
-      "latest_at": "2026-06-29T16:05:10.380968Z",
-      "primary_item": {
-        "id": "eb3c83eb9221421fc69f7058398849fa454e51d5",
-        "title": "百度开源3B模型Unlimited OCR:5天Star破万，刷新长文档解析纪录",
-        "url": "https://www.aibase.com/news/29229",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b69a8be2e7ff",
-      "title": "算力告急：谷歌限制 Gemini 模型调用，Meta 研发进度受阻",
-      "url": "https://www.aibase.com/news/29234",
-      "primary_url": "https://www.aibase.com/news/29234",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9039e7fcf3d56b5277e61097087c61cf8ab6b26f",
-          "title": "算力告急：谷歌限制 Gemini 模型调用，Meta 研发进度受阻",
-          "url": "https://www.aibase.com/news/29234",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9039e7fcf3d56b5277e61097087c61cf8ab6b26f",
-          "title": "算力告急：谷歌限制 Gemini 模型调用，Meta 研发进度受阻",
-          "url": "https://www.aibase.com/news/29234",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T16:05:10.380968Z",
-      "latest_at": "2026-06-29T16:05:10.380968Z",
-      "primary_item": {
-        "id": "9039e7fcf3d56b5277e61097087c61cf8ab6b26f",
-        "title": "算力告急：谷歌限制 Gemini 模型调用，Meta 研发进度受阻",
-        "url": "https://www.aibase.com/news/29234",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4f3133437005",
-      "title": "蚂蚁阿福公布减重1亿斤进展：已瘦10万斤，网友：我又拖后腿了",
-      "url": "https://www.aibase.com/news/29230",
-      "primary_url": "https://www.aibase.com/news/29230",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "50c7ddf787d08aa6d54e32818decea9572d7ccc5",
-          "title": "蚂蚁阿福公布减重1亿斤进展：已瘦10万斤，网友：我又拖后腿了",
-          "url": "https://www.aibase.com/news/29230",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "50c7ddf787d08aa6d54e32818decea9572d7ccc5",
-          "title": "蚂蚁阿福公布减重1亿斤进展：已瘦10万斤，网友：我又拖后腿了",
-          "url": "https://www.aibase.com/news/29230",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T16:05:10.380968Z",
-      "latest_at": "2026-06-29T16:05:10.380968Z",
-      "primary_item": {
-        "id": "50c7ddf787d08aa6d54e32818decea9572d7ccc5",
-        "title": "蚂蚁阿福公布减重1亿斤进展：已瘦10万斤，网友：我又拖后腿了",
-        "url": "https://www.aibase.com/news/29230",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_37776f1ad70a",
-      "title": "豆包内测社交功能:打通飞书账号，AI助手也要做熟人社交?",
-      "url": "https://www.aibase.com/news/29231",
-      "primary_url": "https://www.aibase.com/news/29231",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1f8b0b160995074ea950473a01eff0f603541a14",
-          "title": "豆包内测社交功能:打通飞书账号，AI助手也要做熟人社交?",
-          "url": "https://www.aibase.com/news/29231",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1f8b0b160995074ea950473a01eff0f603541a14",
-          "title": "豆包内测社交功能:打通飞书账号，AI助手也要做熟人社交?",
-          "url": "https://www.aibase.com/news/29231",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-29T16:05:10.380968Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T16:05:10.380968Z",
-      "latest_at": "2026-06-29T16:05:10.380968Z",
-      "primary_item": {
-        "id": "1f8b0b160995074ea950473a01eff0f603541a14",
-        "title": "豆包内测社交功能:打通飞书账号，AI助手也要做熟人社交?",
-        "url": "https://www.aibase.com/news/29231",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "8b25d26a2defccdc62c0a3fba0f32b45f034adfb",
+        "title": "Claude Code 入门：智能体循环",
+        "url": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     }
   ]
