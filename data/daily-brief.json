@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-07-07T23:58:11.132524Z",
+  "generated_at": "2026-07-09T00:11:28.994252Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ca9a2a21da07",
-      "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "primary_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "source": "Hugging Face Blog",
+      "story_id": "story_450af95c2f12",
+      "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
-          "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
-          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-          "source": "Hugging Face Blog",
+          "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
+          "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T21:15:33Z"
+          "published_at": "2026-07-08T21:11:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
-          "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
-          "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-          "source": "Hugging Face Blog",
+          "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
+          "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T21:15:33Z"
+          "published_at": "2026-07-08T21:11:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8624,
-      "importance": 0.8624,
-      "importance_score": 0.8624,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8871,
+        "ai_relevance": 0.91,
+        "recency": 0.8753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,59 +54,181 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T21:15:33Z",
-      "latest_at": "2026-07-07T21:15:33Z",
+      "earliest_at": "2026-07-08T21:11:56Z",
+      "latest_at": "2026-07-08T21:11:56Z",
       "primary_item": {
-        "id": "a27838ed16dc940a8e8d6435c5fe2120004c3976",
-        "title": "一键从 Hugging Face 到 Amazon SageMaker Studio / From Hugging Face to Amazon SageMaker Studio in one click",
-        "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+        "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
+        "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+        "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_702ce39ddd2e",
+      "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+      "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
+          "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T20:38:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
+          "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T20:38:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8524,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T20:38:56Z",
+      "latest_at": "2026-07-08T20:38:56Z",
+      "primary_item": {
+        "id": "b1c22ddc68b9d1d390d4b2c798a61fc06f567154",
+        "title": "通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置 / Deploy managed Copilot settings via MDM in VS Code and CLI",
+        "url": "https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5535aeb9eb9d",
+      "title": "代理商数据 / Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "primary_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+          "title": "代理商数据 / Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:16:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+          "title": "代理商数据 / Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:16:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7115,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T17:16:05Z",
+      "latest_at": "2026-07-08T17:16:05Z",
+      "primary_item": {
+        "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+        "title": "代理商数据 / Data for Agents",
+        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_024a3808c07a",
-      "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "primary_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face Blog",
+      "story_id": "story_018ea2c4b8d0",
+      "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+      "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-          "source": "Hugging Face Blog",
+          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T15:20:06Z"
+          "published_at": "2026-07-08T21:30:35Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-          "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-          "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-          "source": "Hugging Face Blog",
+          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T15:20:06Z"
+          "published_at": "2026-07-08T21:30:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6402,
+        "ai_relevance": 0.87,
+        "recency": 0.8883,
         "story_heat": 0.0
       },
       "category": "official",
@@ -115,28 +237,150 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T15:20:06Z",
-      "latest_at": "2026-07-07T15:20:06Z",
+      "earliest_at": "2026-07-08T21:30:35Z",
+      "latest_at": "2026-07-08T21:30:35Z",
       "primary_item": {
-        "id": "a9e61d5a2500f0d4413fe328a5011a671700f83d",
-        "title": "Foundry 托管计算上的拥抱脸部模型 / Hugging Face Models on Foundry Managed Compute",
-        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-        "source": "Hugging Face Blog",
+        "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+        "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+        "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ce2436329e7b",
+      "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+      "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T20:50:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T20:50:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8602,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T20:50:07Z",
+      "latest_at": "2026-07-08T20:50:07Z",
+      "primary_item": {
+        "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+        "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+        "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2f563a485d38",
+      "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+      "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T18:24:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+          "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+          "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T18:24:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7593,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T18:24:55Z",
+      "latest_at": "2026-07-08T18:24:55Z",
+      "primary_item": {
+        "id": "2ec70553aca65f7b2e45acb2b77522e61919b5ab",
+        "title": "Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布 / GitHub Copilot in Visual Studio Code, June 2026 releases",
+        "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0958-3405-a15e-e7f906a6edfe&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-0958-3405-a15e-e7f906a6edfe&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260709-1011-5372-b8eb-3e721d7452b1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260709-1011-5372-b8eb-3e721d7452b1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "a4c52d090816fa3fd81efb0d83d420b99d120c02",
+          "id": "305e57edb298637f05116b11b99d53e1e8ce0cdb",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0958-3405-a15e-e7f906a6edfe&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260709-1011-5372-b8eb-3e721d7452b1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -149,9 +393,9 @@
       ],
       "items": [
         {
-          "id": "a4c52d090816fa3fd81efb0d83d420b99d120c02",
+          "id": "305e57edb298637f05116b11b99d53e1e8ce0cdb",
           "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0958-3405-a15e-e7f906a6edfe&fp=-3",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260709-1011-5372-b8eb-3e721d7452b1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -175,181 +419,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T23:58:11.132524Z",
-      "latest_at": "2026-07-07T23:58:11.132524Z",
+      "earliest_at": "2026-07-09T00:11:28.994252Z",
+      "latest_at": "2026-07-09T00:11:28.994252Z",
       "primary_item": {
-        "id": "a4c52d090816fa3fd81efb0d83d420b99d120c02",
+        "id": "305e57edb298637f05116b11b99d53e1e8ce0cdb",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0958-3405-a15e-e7f906a6edfe&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260709-1011-5372-b8eb-3e721d7452b1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_7722e8723f31",
-      "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
-      "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-      "primary_url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-      "source": "GitHub Changelog",
+      "story_id": "story_c2a416d6e7fa",
+      "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
-          "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
-          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-          "source": "GitHub Changelog",
+          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
+          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T17:09:29Z"
+          "published_at": "2026-07-08T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
-          "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
-          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-          "source": "GitHub Changelog",
+          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
+          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T17:09:29Z"
+          "published_at": "2026-07-08T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7162,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T17:09:29Z",
-      "latest_at": "2026-07-07T17:09:29Z",
-      "primary_item": {
-        "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
-        "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
-        "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7d245f6dc1a1",
-      "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-      "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-      "primary_url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-          "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T16:43:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-          "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-          "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T16:43:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6978,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T16:43:04Z",
-      "latest_at": "2026-07-07T16:43:04Z",
-      "primary_item": {
-        "id": "241042dea6a55d963f919ff9b2298da461c3f942",
-        "title": "秘密扫描扩展元数据和多部分验证 / Secret scanning extended metadata and multipart validation",
-        "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5b541b9a66cd",
-      "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "primary_url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:10:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:10:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6334,
+        "recency": 0.6587,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,32 +480,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T15:10:14Z",
-      "latest_at": "2026-07-07T15:10:14Z",
+      "earliest_at": "2026-07-08T16:00:00Z",
+      "latest_at": "2026-07-08T16:00:00Z",
       "primary_item": {
-        "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-        "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-        "source": "GitHub Changelog",
+        "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
+        "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_18e9ce98bcc6",
-      "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-      "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-      "primary_url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+      "story_id": "story_9f01a69db3b0",
+      "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+      "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
+      "primary_url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T14:51:13Z"
+          "published_at": "2026-07-08T17:05:06Z"
         }
       ],
       "source_count": 1,
@@ -392,86 +514,25 @@
       ],
       "items": [
         {
-          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+          "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+          "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+          "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T14:51:13Z"
+          "published_at": "2026-07-08T17:05:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6202,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T14:51:13Z",
-      "latest_at": "2026-07-07T14:51:13Z",
-      "primary_item": {
-        "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-        "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-        "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_32d22c096387",
-      "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-      "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-      "primary_url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:15:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:15:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6373,
+        "recency": 0.7039,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,179 +541,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T15:15:54Z",
-      "latest_at": "2026-07-07T15:15:54Z",
+      "earliest_at": "2026-07-08T17:05:06Z",
+      "latest_at": "2026-07-08T17:05:06Z",
       "primary_item": {
-        "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-        "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-        "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+        "id": "01f5f39b2f7bcd3fbf2344a0feccff60cd006aad",
+        "title": "setup-java v5.5.0：签名验证、Kona JDK 和 Maven 修复 / setup-java v5.5.0: signature verification, Kona JDK, and Maven fixes",
+        "url": "https://github.blog/changelog/2026-07-08-setup-java-v5-5-0-signature-verification-kona-jdk-and-maven-fixes",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_db893fc62a8e",
-      "title": "Krea 2 身份保留功能上线",
-      "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-      "primary_url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
-          "title": "Krea 2 身份保留功能上线",
-          "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T20:22:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
-          "title": "Krea 2 身份保留功能上线",
-          "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T20:22:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8504,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T20:22:46Z",
-      "latest_at": "2026-07-07T20:22:46Z",
-      "primary_item": {
-        "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
-        "title": "Krea 2 身份保留功能上线",
-        "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-        "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b39e53757bd9",
-      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-      "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-      "primary_url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
-          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T19:33:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
-          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T19:33:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8165,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T19:33:53Z",
-      "latest_at": "2026-07-07T19:33:53Z",
-      "primary_item": {
-        "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
-        "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-        "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f7eb2a868aac",
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "source": "Google AI Blog",
+      "story_id": "story_dfe713495d65",
+      "title": "npm install-time security and GAT bypass2fa deprecation",
+      "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
+      "primary_url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-          "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-          "source": "Google AI Blog",
+          "id": "3b7c7ed42b52bc9ade924f40fbb594c3a618c853",
+          "title": "npm install-time security and GAT bypass2fa deprecation",
+          "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T08:54:00Z"
+          "published_at": "2026-07-08T15:00:40Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-          "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-          "source": "Google AI Blog",
+          "id": "3b7c7ed42b52bc9ade924f40fbb594c3a618c853",
+          "title": "npm install-time security and GAT bypass2fa deprecation",
+          "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T08:54:00Z"
+          "published_at": "2026-07-08T15:00:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.3721,
+        "ai_relevance": 0.87,
+        "recency": 0.6175,
         "story_heat": 0.0
       },
       "category": "official",
@@ -661,92 +602,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T08:54:00Z",
-      "latest_at": "2026-07-07T08:54:00Z",
+      "earliest_at": "2026-07-08T15:00:40Z",
+      "latest_at": "2026-07-08T15:00:40Z",
       "primary_item": {
-        "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-        "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-        "source": "Google AI Blog",
+        "id": "3b7c7ed42b52bc9ade924f40fbb594c3a618c853",
+        "title": "npm install-time security and GAT bypass2fa deprecation",
+        "url": "https://github.blog/changelog/2026-07-08-npm-install-time-security-and-gat-bypass2fa-deprecation",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_87f69b1f29d7",
-      "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-      "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-      "primary_url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T18:35:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T18:35:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7762,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T18:35:58Z",
-      "latest_at": "2026-07-07T18:35:58Z",
-      "primary_item": {
-        "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-        "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-        "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6e07258dc312",
-      "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-      "url": "https://www.aibase.com/news/29443",
-      "primary_url": "https://www.aibase.com/news/29443",
+      "story_id": "story_1cbf923b5fd5",
+      "title": "OpenAI高薪挖投行人才：年薪 139 万加股权，要用AI重塑华尔街",
+      "url": "https://www.aibase.com/news/29472",
+      "primary_url": "https://www.aibase.com/news/29472",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
-          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-          "url": "https://www.aibase.com/news/29443",
+          "id": "c4df6aca649351a4c197167ba56b14f45ff325a3",
+          "title": "OpenAI高薪挖投行人才：年薪 139 万加股权，要用AI重塑华尔街",
+          "url": "https://www.aibase.com/news/29472",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T17:58:11.132524Z"
+          "published_at": "2026-07-08T18:11:28.994252Z"
         }
       ],
       "source_count": 1,
@@ -755,13 +636,13 @@
       ],
       "items": [
         {
-          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
-          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-          "url": "https://www.aibase.com/news/29443",
+          "id": "c4df6aca649351a4c197167ba56b14f45ff325a3",
+          "title": "OpenAI高薪挖投行人才：年薪 139 万加股权，要用AI重塑华尔街",
+          "url": "https://www.aibase.com/news/29472",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T17:58:11.132524Z"
+          "published_at": "2026-07-08T18:11:28.994252Z"
         }
       ],
       "item_count": 1,
@@ -781,152 +662,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T17:58:11.132524Z",
-      "latest_at": "2026-07-07T17:58:11.132524Z",
+      "earliest_at": "2026-07-08T18:11:28.994252Z",
+      "latest_at": "2026-07-08T18:11:28.994252Z",
       "primary_item": {
-        "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
-        "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-        "url": "https://www.aibase.com/news/29443",
+        "id": "c4df6aca649351a4c197167ba56b14f45ff325a3",
+        "title": "OpenAI高薪挖投行人才：年薪 139 万加股权，要用AI重塑华尔街",
+        "url": "https://www.aibase.com/news/29472",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_fccdd33eac80",
-      "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-      "url": "https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua",
-      "primary_url": "https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_634d04b72ccb",
+      "title": "GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2487583a21e312e585ad53d0338b8efd93bc9e94",
-          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-          "url": "https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:52:12Z"
+          "id": "c7270fda48482cfd737d63200627b9103fa60835",
+          "title": "GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T09:45:22Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "2487583a21e312e585ad53d0338b8efd93bc9e94",
-          "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-          "url": "https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:52:12Z"
+          "id": "c7270fda48482cfd737d63200627b9103fa60835",
+          "title": "GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T09:45:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "行业动态",
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7458,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.3985,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T17:52:12Z",
-      "latest_at": "2026-07-07T17:52:12Z",
+      "earliest_at": "2026-07-08T09:45:22Z",
+      "latest_at": "2026-07-08T09:45:22Z",
       "primary_item": {
-        "id": "2487583a21e312e585ad53d0338b8efd93bc9e94",
-        "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-        "url": "https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "c7270fda48482cfd737d63200627b9103fa60835",
+        "title": "GitHub Mobile: Fix merge conflicts with Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-08-github-mobile-fix-merge-conflicts-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ccfc900bc193",
-      "title": "NotebookLM短视频概览正式上线",
-      "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-      "primary_url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f8af11111c8cd99293ea955766fd0ca3438c04d0",
-          "title": "NotebookLM短视频概览正式上线",
-          "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-          "source": "X：NotebookLM (@NotebookLM)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:48:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：NotebookLM (@NotebookLM)"
-      ],
-      "items": [
-        {
-          "id": "f8af11111c8cd99293ea955766fd0ca3438c04d0",
-          "title": "NotebookLM短视频概览正式上线",
-          "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-          "source": "X：NotebookLM (@NotebookLM)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:48:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7435,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T17:48:50Z",
-      "latest_at": "2026-07-07T17:48:50Z",
-      "primary_item": {
-        "id": "f8af11111c8cd99293ea955766fd0ca3438c04d0",
-        "title": "NotebookLM短视频概览正式上线",
-        "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-        "source": "X：NotebookLM (@NotebookLM)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a4218777eae6",
-      "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
-      "url": "https://www.aibase.com/news/29441",
-      "primary_url": "https://www.aibase.com/news/29441",
+      "story_id": "story_e509acca5d2f",
+      "title": "安全警报：Claude Code 被曝存在安全后门，官方已启动紧急修复",
+      "url": "https://www.aibase.com/news/29469",
+      "primary_url": "https://www.aibase.com/news/29469",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
-          "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
-          "url": "https://www.aibase.com/news/29441",
+          "id": "92c1a0fe98533a5f83b015659adcdbbf9d25fe80",
+          "title": "安全警报：Claude Code 被曝存在安全后门，官方已启动紧急修复",
+          "url": "https://www.aibase.com/news/29469",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T16:58:11.132524Z"
+          "published_at": "2026-07-08T17:11:28.994252Z"
         }
       ],
       "source_count": 1,
@@ -935,13 +757,13 @@
       ],
       "items": [
         {
-          "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
-          "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
-          "url": "https://www.aibase.com/news/29441",
+          "id": "92c1a0fe98533a5f83b015659adcdbbf9d25fe80",
+          "title": "安全警报：Claude Code 被曝存在安全后门，官方已启动紧急修复",
+          "url": "https://www.aibase.com/news/29469",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-07T16:58:11.132524Z"
+          "published_at": "2026-07-08T17:11:28.994252Z"
         }
       ],
       "item_count": 1,
@@ -961,59 +783,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T16:58:11.132524Z",
-      "latest_at": "2026-07-07T16:58:11.132524Z",
+      "earliest_at": "2026-07-08T17:11:28.994252Z",
+      "latest_at": "2026-07-08T17:11:28.994252Z",
       "primary_item": {
-        "id": "5b09696939bd7f16f17a15eb7f9b3fd1a3547c6f",
-        "title": "气象预警再升级：“妈祖”大模型已覆盖全球 40 余国",
-        "url": "https://www.aibase.com/news/29441",
+        "id": "92c1a0fe98533a5f83b015659adcdbbf9d25fe80",
+        "title": "安全警报：Claude Code 被曝存在安全后门，官方已启动紧急修复",
+        "url": "https://www.aibase.com/news/29469",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c88eb10854ca",
-      "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
-      "url": "https://aihot.virxact.com/items/cmraw21y401jhihog3tcrfsp4",
-      "primary_url": "https://aihot.virxact.com/items/cmraw21y401jhihog3tcrfsp4",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_b00bd2bc6d5f",
+      "title": "淘宝闪购高管炮轰行业现状：电商App没有AI交互能力，用户的真实需求被\"憋\"住了",
+      "url": "https://www.aibase.com/news/29468",
+      "primary_url": "https://www.aibase.com/news/29468",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5b6f5384c71689b132c99247d325c4cf537674fc",
-          "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
-          "url": "https://aihot.virxact.com/items/cmraw21y401jhihog3tcrfsp4",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:50:50Z"
+          "id": "dcc8622a7535b0542e6a3cd5caab8eadc5861388",
+          "title": "淘宝闪购高管炮轰行业现状：电商App没有AI交互能力，用户的真实需求被\"憋\"住了",
+          "url": "https://www.aibase.com/news/29468",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T17:11:28.994252Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5b6f5384c71689b132c99247d325c4cf537674fc",
-          "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
-          "url": "https://aihot.virxact.com/items/cmraw21y401jhihog3tcrfsp4",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:50:50Z"
+          "id": "dcc8622a7535b0542e6a3cd5caab8eadc5861388",
+          "title": "淘宝闪购高管炮轰行业现状：电商App没有AI交互能力，用户的真实需求被\"憋\"住了",
+          "url": "https://www.aibase.com/news/29468",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T17:11:28.994252Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7032,
+        "recency": 0.7083,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1021,191 +843,371 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T16:50:50Z",
-      "latest_at": "2026-07-07T16:50:50Z",
+      "earliest_at": "2026-07-08T17:11:28.994252Z",
+      "latest_at": "2026-07-08T17:11:28.994252Z",
       "primary_item": {
-        "id": "5b6f5384c71689b132c99247d325c4cf537674fc",
-        "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
-        "url": "https://aihot.virxact.com/items/cmraw21y401jhihog3tcrfsp4",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
+        "id": "dcc8622a7535b0542e6a3cd5caab8eadc5861388",
+        "title": "淘宝闪购高管炮轰行业现状：电商App没有AI交互能力，用户的真实需求被\"憋\"住了",
+        "url": "https://www.aibase.com/news/29468",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8d0507c0eb59",
-      "title": "Claude Cowork 向移动端和网页端开放",
-      "url": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6",
-      "primary_url": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_938362203d1a",
+      "title": "腾讯Hy3 编程评测出炉：参数只有对手五分之一，代码能力却与DeepSeek-V4-Pro打平",
+      "url": "https://www.aibase.com/news/29471",
+      "primary_url": "https://www.aibase.com/news/29471",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "06a47e009b134fad20f3907e2f1e55a80476bdcf",
-          "title": "Claude Cowork 向移动端和网页端开放",
-          "url": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:24:13Z"
+          "id": "5be8a3781223582c8472abb798c3ae04db3cf1ac",
+          "title": "腾讯Hy3 编程评测出炉：参数只有对手五分之一，代码能力却与DeepSeek-V4-Pro打平",
+          "url": "https://www.aibase.com/news/29471",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T17:11:28.994252Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "06a47e009b134fad20f3907e2f1e55a80476bdcf",
-          "title": "Claude Cowork 向移动端和网页端开放",
-          "url": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:24:13Z"
+          "id": "5be8a3781223582c8472abb798c3ae04db3cf1ac",
+          "title": "腾讯Hy3 编程评测出炉：参数只有对手五分之一，代码能力却与DeepSeek-V4-Pro打平",
+          "url": "https://www.aibase.com/news/29471",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T17:11:28.994252Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6847,
+        "recency": 0.7083,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T17:11:28.994252Z",
+      "latest_at": "2026-07-08T17:11:28.994252Z",
+      "primary_item": {
+        "id": "5be8a3781223582c8472abb798c3ae04db3cf1ac",
+        "title": "腾讯Hy3 编程评测出炉：参数只有对手五分之一，代码能力却与DeepSeek-V4-Pro打平",
+        "url": "https://www.aibase.com/news/29471",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0c8f668136ff",
+      "title": "GitHub Mobile: Live notifications for Copilot CLI sessions",
+      "url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions",
+      "primary_url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a6d307ffa926be03ed5ab65a80f738c50789dab7",
+          "title": "GitHub Mobile: Live notifications for Copilot CLI sessions",
+          "url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T09:45:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a6d307ffa926be03ed5ab65a80f738c50789dab7",
+          "title": "GitHub Mobile: Live notifications for Copilot CLI sessions",
+          "url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T09:45:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.3984,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T09:45:09Z",
+      "latest_at": "2026-07-08T09:45:09Z",
+      "primary_item": {
+        "id": "a6d307ffa926be03ed5ab65a80f738c50789dab7",
+        "title": "GitHub Mobile: Live notifications for Copilot CLI sessions",
+        "url": "https://github.blog/changelog/2026-07-08-github-mobile-live-notifications-for-copilot-cli-sessions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1a33b32337b2",
+      "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+      "url": "https://www.aibase.com/news/29467",
+      "primary_url": "https://www.aibase.com/news/29467",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f7da06c556e704c41c797fe23a85b0986f5a62bc",
+          "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+          "url": "https://www.aibase.com/news/29467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T16:11:28.994252Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f7da06c556e704c41c797fe23a85b0986f5a62bc",
+          "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+          "url": "https://www.aibase.com/news/29467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T16:11:28.994252Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T16:24:13Z",
-      "latest_at": "2026-07-07T16:24:13Z",
+      "earliest_at": "2026-07-08T16:11:28.994252Z",
+      "latest_at": "2026-07-08T16:11:28.994252Z",
       "primary_item": {
-        "id": "06a47e009b134fad20f3907e2f1e55a80476bdcf",
-        "title": "Claude Cowork 向移动端和网页端开放",
-        "url": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
+        "id": "f7da06c556e704c41c797fe23a85b0986f5a62bc",
+        "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+        "url": "https://www.aibase.com/news/29467",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9ba64119f987",
-      "title": "人们如何使用Claude Cowork",
-      "url": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
-      "primary_url": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_d905a116f6e3",
+      "title": "Steam玩家对AI没那么抗拒：43%表示可以接受，仅8%绝对不碰",
+      "url": "https://www.aibase.com/news/29466",
+      "primary_url": "https://www.aibase.com/news/29466",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "812501053a9577b46c82afe8073634f5e1650747",
-          "title": "人们如何使用Claude Cowork",
-          "url": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:24:13Z"
+          "id": "d9784e2c888352132969140ba9021e4362bc18c2",
+          "title": "Steam玩家对AI没那么抗拒：43%表示可以接受，仅8%绝对不碰",
+          "url": "https://www.aibase.com/news/29466",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T16:11:28.994252Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "812501053a9577b46c82afe8073634f5e1650747",
-          "title": "人们如何使用Claude Cowork",
-          "url": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:24:13Z"
+          "id": "d9784e2c888352132969140ba9021e4362bc18c2",
+          "title": "Steam玩家对AI没那么抗拒：43%表示可以接受，仅8%绝对不碰",
+          "url": "https://www.aibase.com/news/29466",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T16:11:28.994252Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6847,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T16:24:13Z",
-      "latest_at": "2026-07-07T16:24:13Z",
+      "earliest_at": "2026-07-08T16:11:28.994252Z",
+      "latest_at": "2026-07-08T16:11:28.994252Z",
       "primary_item": {
-        "id": "812501053a9577b46c82afe8073634f5e1650747",
-        "title": "人们如何使用Claude Cowork",
-        "url": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
+        "id": "d9784e2c888352132969140ba9021e4362bc18c2",
+        "title": "Steam玩家对AI没那么抗拒：43%表示可以接受，仅8%绝对不碰",
+        "url": "https://www.aibase.com/news/29466",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c7c15137bded",
-      "title": "Rowboat：开源、本地优先的桌面AI助手",
-      "url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
-      "primary_url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
+      "story_id": "story_bd7e01710e60",
+      "title": "美国企业“弃用”头部AI：中国模型凭借高性价比突围",
+      "url": "https://www.aibase.com/news/29465",
+      "primary_url": "https://www.aibase.com/news/29465",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d601ae53bcc4dd55d7143832535db6f647f1789a",
-          "title": "Rowboat：开源、本地优先的桌面AI助手",
-          "url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:10:44Z"
+          "id": "872a6a0456404980d155e117ac50846833d4b5e0",
+          "title": "美国企业“弃用”头部AI：中国模型凭借高性价比突围",
+          "url": "https://www.aibase.com/news/29465",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T16:11:28.994252Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News：AI 热帖"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d601ae53bcc4dd55d7143832535db6f647f1789a",
-          "title": "Rowboat：开源、本地优先的桌面AI助手",
-          "url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:10:44Z"
+          "id": "872a6a0456404980d155e117ac50846833d4b5e0",
+          "title": "美国企业“弃用”头部AI：中国模型凭借高性价比突围",
+          "url": "https://www.aibase.com/news/29465",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T16:11:28.994252Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6754,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-07T16:10:44Z",
-      "latest_at": "2026-07-07T16:10:44Z",
+      "earliest_at": "2026-07-08T16:11:28.994252Z",
+      "latest_at": "2026-07-08T16:11:28.994252Z",
       "primary_item": {
-        "id": "d601ae53bcc4dd55d7143832535db6f647f1789a",
-        "title": "Rowboat：开源、本地优先的桌面AI助手",
-        "url": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
+        "id": "872a6a0456404980d155e117ac50846833d4b5e0",
+        "title": "美国企业“弃用”头部AI：中国模型凭借高性价比突围",
+        "url": "https://www.aibase.com/news/29465",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1f4fda0f31b1",
+      "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+      "url": "https://www.aibase.com/news/29462",
+      "primary_url": "https://www.aibase.com/news/29462",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ddd02c1813df9d6a91eab631f2481cab8eb062fb",
+          "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+          "url": "https://www.aibase.com/news/29462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T15:11:28.994252Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ddd02c1813df9d6a91eab631f2481cab8eb062fb",
+          "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+          "url": "https://www.aibase.com/news/29462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T15:11:28.994252Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T15:11:28.994252Z",
+      "latest_at": "2026-07-08T15:11:28.994252Z",
+      "primary_item": {
+        "id": "ddd02c1813df9d6a91eab631f2481cab8eb062fb",
+        "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+        "url": "https://www.aibase.com/news/29462",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
