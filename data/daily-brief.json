@@ -1,362 +1,24 @@
 {
-  "generated_at": "2026-07-21T23:56:07.690354Z",
+  "generated_at": "2026-07-23T00:00:59.977167Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_20b0eb2d5c14",
-      "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "primary_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T07:00:00Z"
-        },
-        {
-          "id": "29119a66f1868a2b558b802e2d4078dcfc2660fb",
-          "title": "OpenAI模型突破安全沙箱，入侵Hugging Face获取数据以通过测试",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T21:47:48.098000Z"
-        },
-        {
-          "id": "fba18341e51c956c08af218056c9ebec7d33e0fd",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T20:43:27.075000Z"
-        },
-        {
-          "id": "966b3c0d8e2b38c51fa30a9dd478de6824d3ad4a",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:38:04Z"
-        },
-        {
-          "id": "db9d67dc5cd5c793b75ca2ce586be1942a5ff124",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:09:52Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Lobsters (技术社区)",
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T07:00:00Z"
-        },
-        {
-          "id": "29119a66f1868a2b558b802e2d4078dcfc2660fb",
-          "title": "OpenAI模型突破安全沙箱，入侵Hugging Face获取数据以通过测试",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T21:47:48.098000Z"
-        },
-        {
-          "id": "fba18341e51c956c08af218056c9ebec7d33e0fd",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T20:43:27.075000Z"
-        },
-        {
-          "id": "966b3c0d8e2b38c51fa30a9dd478de6824d3ad4a",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:38:04Z"
-        },
-        {
-          "id": "db9d67dc5cd5c793b75ca2ce586be1942a5ff124",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:09:52Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8439,
-      "importance": 0.8439,
-      "importance_score": 0.8439,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.2944,
-        "story_heat": 1.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T07:00:00Z",
-      "latest_at": "2026-07-21T21:47:48.098000Z",
-      "primary_item": {
-        "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
-        "title": "OpenAI 与 Hugging Face 合作应对安全事件 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0c55289d534f",
-      "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0956-3143-a16d-7cf14886c55a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260722-0956-3143-a16d-7cf14886c55a&fp=-3",
-      "source": "Page Fallback",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "3890367d2029b8b7c4376d49859124b4988ea0c7",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0956-3143-a16d-7cf14886c55a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9c65d9b6d313648226548d9cf341d3ccf76c526b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0956-4559-bc8a-9785b1f20fd2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Page Fallback"
-      ],
-      "items": [
-        {
-          "id": "3890367d2029b8b7c4376d49859124b4988ea0c7",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0956-3143-a16d-7cf14886c55a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9c65d9b6d313648226548d9cf341d3ccf76c526b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0956-4559-bc8a-9785b1f20fd2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T23:56:20.003097Z",
-      "latest_at": "2026-07-21T23:56:07.690354Z",
-      "primary_item": {
-        "id": "3890367d2029b8b7c4376d49859124b4988ea0c7",
-        "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0956-3143-a16d-7cf14886c55a&fp=-3",
-        "source": "Page Fallback",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_d42362617c64",
-      "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.711,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T17:00:00Z",
-      "latest_at": "2026-07-21T17:00:00Z",
-      "primary_item": {
-        "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-        "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6e1bc4c47003",
-      "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
-          "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T15:04:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
-          "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T15:04:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6308,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T15:04:31Z",
-      "latest_at": "2026-07-21T15:04:31Z",
-      "primary_item": {
-        "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
-        "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.6 Flash is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1651413fdb6b",
-      "title": "如何使用画布构建互动体验 / How to build interactive experiences with canvases",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+      "story_id": "story_d8ab4e37a1c1",
+      "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
       "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "745db95b1d162f18bd2873a87d91b5ea44b48e94",
-          "title": "如何使用画布构建互动体验 / How to build interactive experiences with canvases",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-21T16:00:00Z"
+          "published_at": "2026-07-22T19:00:00Z"
         }
       ],
       "source_count": 1,
@@ -365,25 +27,25 @@
       ],
       "items": [
         {
-          "id": "745db95b1d162f18bd2873a87d91b5ea44b48e94",
-          "title": "如何使用画布构建互动体验 / How to build interactive experiences with canvases",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-21T16:00:00Z"
+          "published_at": "2026-07-22T19:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6694,
+        "recency": 0.791,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,59 +54,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T16:00:00Z",
-      "latest_at": "2026-07-21T16:00:00Z",
+      "earliest_at": "2026-07-22T19:00:00Z",
+      "latest_at": "2026-07-22T19:00:00Z",
       "primary_item": {
-        "id": "745db95b1d162f18bd2873a87d91b5ea44b48e94",
-        "title": "如何使用画布构建互动体验 / How to build interactive experiences with canvases",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+        "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+        "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+        "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_be9c0fe02c6f",
-      "title": "OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite",
-      "url": "https://aihot.virxact.com/items/cmrv7y3de002lbi8rsqvvaoq1",
-      "primary_url": "https://aihot.virxact.com/items/cmrv7y3de002lbi8rsqvvaoq1",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
+      "story_id": "story_0c55289d534f",
+      "title": "点击这里进入 / Click here to enter",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1001-383f-933e-b9a5ea13adca&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260723-1001-383f-933e-b9a5ea13adca&fp=-3",
+      "source": "Page Fallback",
+      "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "749cd1be971b39cfc9dcb543c8b39848eaaa1b7b",
-          "title": "OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite",
-          "url": "https://aihot.virxact.com/items/cmrv7y3de002lbi8rsqvvaoq1",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T21:54:19Z"
+          "id": "ad7da771b1153e890e17f2d83426eb8a946b94bc",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1001-383f-933e-b9a5ea13adca&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenRouter (@OpenRouter)"
+        "Page Fallback"
       ],
       "items": [
         {
-          "id": "749cd1be971b39cfc9dcb543c8b39848eaaa1b7b",
-          "title": "OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite",
-          "url": "https://aihot.virxact.com/items/cmrv7y3de002lbi8rsqvvaoq1",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T21:54:19Z"
+          "id": "ad7da771b1153e890e17f2d83426eb8a946b94bc",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1001-383f-933e-b9a5ea13adca&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9154,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -452,59 +114,201 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T21:54:19Z",
-      "latest_at": "2026-07-21T21:54:19Z",
+      "earliest_at": "2026-07-23T00:00:59.977167Z",
+      "latest_at": "2026-07-23T00:00:59.977167Z",
       "primary_item": {
-        "id": "749cd1be971b39cfc9dcb543c8b39848eaaa1b7b",
-        "title": "OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite",
-        "url": "https://aihot.virxact.com/items/cmrv7y3de002lbi8rsqvvaoq1",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
+        "id": "ad7da771b1153e890e17f2d83426eb8a946b94bc",
+        "title": "点击这里进入 / Click here to enter",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1001-383f-933e-b9a5ea13adca&fp=-3",
+        "source": "Page Fallback",
+        "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_cbe63d3c4c10",
-      "title": "OpenAI 与 HuggingFace 调查安全事件",
-      "url": "https://aihot.virxact.com/items/cmrv3o16m002zbizaeiffviyj",
-      "primary_url": "https://aihot.virxact.com/items/cmrv3o16m002zbizaeiffviyj",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_3710e649c509",
+      "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "06fe742a2e285afa571c72907d6ee60cc06ad799",
-          "title": "OpenAI 与 HuggingFace 调查安全事件",
-          "url": "https://aihot.virxact.com/items/cmrv3o16m002zbizaeiffviyj",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:05:06Z"
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI (@OpenAI)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "06fe742a2e285afa571c72907d6ee60cc06ad799",
-          "title": "OpenAI 与 HuggingFace 调查安全事件",
-          "url": "https://aihot.virxact.com/items/cmrv3o16m002zbizaeiffviyj",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:05:06Z"
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6811,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T16:21:47Z",
+      "latest_at": "2026-07-22T16:21:47Z",
+      "primary_item": {
+        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+        "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_482712912042",
+      "title": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+      "primary_url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d153609eb57845646058e7718e14183113f17a91",
+          "title": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:38:54Z"
+        },
+        {
+          "id": "6455cb01f12eeec7cf0e56dc41b5e06e9d009007",
+          "title": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分 / Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d153609eb57845646058e7718e14183113f17a91",
+          "title": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:38:54Z"
+        },
+        {
+          "id": "6455cb01f12eeec7cf0e56dc41b5e06e9d009007",
+          "title": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分 / Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.568,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T13:38:54Z",
+      "latest_at": "2026-07-23T00:00:59.977167Z",
+      "primary_item": {
+        "id": "d153609eb57845646058e7718e14183113f17a91",
+        "title": "加速科学发现的前沿：Google 对创世纪任务的 4000 万美元承诺 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_16ee08f8531c",
+      "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
+      "url": "https://aihot.virxact.com/items/cmrwm7xsg0058robhvqflbjll",
+      "primary_url": "https://aihot.virxact.com/items/cmrwm7xsg0058robhvqflbjll",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "84f57ba7d0d489d4721b37b03352b23c69842cf8",
+          "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
+          "url": "https://aihot.virxact.com/items/cmrwm7xsg0058robhvqflbjll",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T21:00:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "84f57ba7d0d489d4721b37b03352b23c69842cf8",
+          "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
+          "url": "https://aihot.virxact.com/items/cmrwm7xsg0058robhvqflbjll",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T21:00:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7869,
+      "importance": 0.7869,
+      "importance_score": 0.7869,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8396,
+        "recency": 0.8745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -512,32 +316,335 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T20:05:06Z",
-      "latest_at": "2026-07-21T20:05:06Z",
+      "earliest_at": "2026-07-22T21:00:17Z",
+      "latest_at": "2026-07-22T21:00:17Z",
       "primary_item": {
-        "id": "06fe742a2e285afa571c72907d6ee60cc06ad799",
-        "title": "OpenAI 与 HuggingFace 调查安全事件",
-        "url": "https://aihot.virxact.com/items/cmrv3o16m002zbizaeiffviyj",
-        "source": "X：OpenAI (@OpenAI)",
+        "id": "84f57ba7d0d489d4721b37b03352b23c69842cf8",
+        "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
+        "url": "https://aihot.virxact.com/items/cmrwm7xsg0058robhvqflbjll",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_e4340db2f4dd",
-      "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-      "url": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2",
-      "primary_url": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2",
+      "story_id": "story_1d793ca53d31",
+      "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "primary_url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.628,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T15:05:19Z",
+      "latest_at": "2026-07-22T15:05:19Z",
+      "primary_item": {
+        "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+        "title": "即将到来的 GHES 变化会影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+        "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_130e23c4bd2f",
+      "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "primary_url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
+          "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
+          "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.541,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T13:00:00Z",
+      "latest_at": "2026-07-22T13:00:00Z",
+      "primary_item": {
+        "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
+        "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
+        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a177050c7456",
+      "title": "Alphabet Q2：AI 投资推动营收增长 24%，Gemini 月活达 9.5 亿",
+      "url": "https://aihot.virxact.com/items/cmrwj872b001droqli3w3cya0",
+      "primary_url": "https://aihot.virxact.com/items/cmrwj872b001droqli3w3cya0",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8e8c60252b807cbfdf3d85e60bce39e92a3103ce",
+          "title": "Alphabet Q2：AI 投资推动营收增长 24%，Gemini 月活达 9.5 亿",
+          "url": "https://aihot.virxact.com/items/cmrwj872b001droqli3w3cya0",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T20:05:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sundar Pichai (@sundarpichai)"
+      ],
+      "items": [
+        {
+          "id": "8e8c60252b807cbfdf3d85e60bce39e92a3103ce",
+          "title": "Alphabet Q2：AI 投资推动营收增长 24%，Gemini 月活达 9.5 亿",
+          "url": "https://aihot.virxact.com/items/cmrwj872b001droqli3w3cya0",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T20:05:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8364,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T20:05:23Z",
+      "latest_at": "2026-07-22T20:05:23Z",
+      "primary_item": {
+        "id": "8e8c60252b807cbfdf3d85e60bce39e92a3103ce",
+        "title": "Alphabet Q2：AI 投资推动营收增长 24%，Gemini 月活达 9.5 亿",
+        "url": "https://aihot.virxact.com/items/cmrwj872b001droqli3w3cya0",
+        "source": "X：Sundar Pichai (@sundarpichai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7477f0422171",
+      "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+      "url": "https://aihot.virxact.com/items/cmrwi1je4022froj05zaqigov",
+      "primary_url": "https://aihot.virxact.com/items/cmrwi1je4022froj05zaqigov",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4afb960e43b326f8443e84d74b2e72b1ecc47f24",
+          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+          "url": "https://aihot.virxact.com/items/cmrwi1je4022froj05zaqigov",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:33:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4afb960e43b326f8443e84d74b2e72b1ecc47f24",
+          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+          "url": "https://aihot.virxact.com/items/cmrwi1je4022froj05zaqigov",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:33:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8144,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T19:33:48Z",
+      "latest_at": "2026-07-22T19:33:48Z",
+      "primary_item": {
+        "id": "4afb960e43b326f8443e84d74b2e72b1ecc47f24",
+        "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+        "url": "https://aihot.virxact.com/items/cmrwi1je4022froj05zaqigov",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_844ec17c6121",
+      "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+      "primary_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+          "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+          "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.541,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T13:00:00Z",
+      "latest_at": "2026-07-22T13:00:00Z",
+      "primary_item": {
+        "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+        "title": "Galaxy Unpacked 2026 的 3 项 Google 更新 / 3 Google updates from Galaxy Unpacked 2026",
+        "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3b9fc043d741",
+      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+      "url": "https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09",
+      "primary_url": "https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "525b61349636a6bf0b37cb19013327368e12ec2b",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "url": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2",
+          "id": "bd22261353fdc7a106e6f98d0c09b674d6bc6bfc",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "url": "https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T19:39:29Z"
+          "published_at": "2026-07-22T18:51:32Z"
         }
       ],
       "source_count": 1,
@@ -546,25 +653,25 @@
       ],
       "items": [
         {
-          "id": "525b61349636a6bf0b37cb19013327368e12ec2b",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "url": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2",
+          "id": "bd22261353fdc7a106e6f98d0c09b674d6bc6bfc",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "url": "https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T19:39:29Z"
+          "published_at": "2026-07-22T18:51:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8218,
+        "recency": 0.7851,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -572,32 +679,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T19:39:29Z",
-      "latest_at": "2026-07-21T19:39:29Z",
+      "earliest_at": "2026-07-22T18:51:32Z",
+      "latest_at": "2026-07-22T18:51:32Z",
       "primary_item": {
-        "id": "525b61349636a6bf0b37cb19013327368e12ec2b",
-        "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-        "url": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2",
+        "id": "bd22261353fdc7a106e6f98d0c09b674d6bc6bfc",
+        "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+        "url": "https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_cd2b0c797786",
-      "title": "五大科技巨头隐性债务激增至 1.65 万亿美元，投资风险加剧！",
-      "url": "https://www.aibase.com/news/29767",
-      "primary_url": "https://www.aibase.com/news/29767",
+      "story_id": "story_e26eabffaa96",
+      "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+      "url": "https://www.aibase.com/news/29806",
+      "primary_url": "https://www.aibase.com/news/29806",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "351fbff459f0350787461b4ff60c51ea9f2e2fcd",
-          "title": "五大科技巨头隐性债务激增至 1.65 万亿美元，投资风险加剧！",
-          "url": "https://www.aibase.com/news/29767",
+          "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
+          "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+          "url": "https://www.aibase.com/news/29806",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T18:56:07.690354Z"
+          "published_at": "2026-07-22T18:00:59.977167Z"
         }
       ],
       "source_count": 1,
@@ -606,193 +713,13 @@
       ],
       "items": [
         {
-          "id": "351fbff459f0350787461b4ff60c51ea9f2e2fcd",
-          "title": "五大科技巨头隐性债务激增至 1.65 万亿美元，投资风险加剧！",
-          "url": "https://www.aibase.com/news/29767",
+          "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
+          "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+          "url": "https://www.aibase.com/news/29806",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T18:56:07.690354Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T18:56:07.690354Z",
-      "latest_at": "2026-07-21T18:56:07.690354Z",
-      "primary_item": {
-        "id": "351fbff459f0350787461b4ff60c51ea9f2e2fcd",
-        "title": "五大科技巨头隐性债务激增至 1.65 万亿美元，投资风险加剧！",
-        "url": "https://www.aibase.com/news/29767",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_234dc9df4c2d",
-      "title": "Laguna S 2.1 免费开源上线 OpenCode",
-      "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-      "primary_url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-      "source": "X：opencode (@opencode)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "322fe8fcb1d61eefb189f3ce9efa7f28be1b5770",
-          "title": "Laguna S 2.1 免费开源上线 OpenCode",
-          "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-          "source": "X：opencode (@opencode)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T18:17:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：opencode (@opencode)"
-      ],
-      "items": [
-        {
-          "id": "322fe8fcb1d61eefb189f3ce9efa7f28be1b5770",
-          "title": "Laguna S 2.1 免费开源上线 OpenCode",
-          "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-          "source": "X：opencode (@opencode)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T18:17:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7646,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T18:17:06Z",
-      "latest_at": "2026-07-21T18:17:06Z",
-      "primary_item": {
-        "id": "322fe8fcb1d61eefb189f3ce9efa7f28be1b5770",
-        "title": "Laguna S 2.1 免费开源上线 OpenCode",
-        "url": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-        "source": "X：opencode (@opencode)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_67183efcfb0e",
-      "title": "OpenAI 发布奖励寻求行为新研究",
-      "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-      "primary_url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d1afe926f2decfbf434f9e43c7bb5b32eb51d86c",
-          "title": "OpenAI 发布奖励寻求行为新研究",
-          "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T18:05:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "d1afe926f2decfbf434f9e43c7bb5b32eb51d86c",
-          "title": "OpenAI 发布奖励寻求行为新研究",
-          "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T18:05:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7566,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T18:05:38Z",
-      "latest_at": "2026-07-21T18:05:38Z",
-      "primary_item": {
-        "id": "d1afe926f2decfbf434f9e43c7bb5b32eb51d86c",
-        "title": "OpenAI 发布奖励寻求行为新研究",
-        "url": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b9222b9b54ba",
-      "title": "​打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务",
-      "url": "https://www.aibase.com/news/29765",
-      "primary_url": "https://www.aibase.com/news/29765",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f96fe8af5625dd5cb4bdaa4c195af6031f55fc3a",
-          "title": "​打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务",
-          "url": "https://www.aibase.com/news/29765",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T17:56:07.690354Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f96fe8af5625dd5cb4bdaa4c195af6031f55fc3a",
-          "title": "​打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务",
-          "url": "https://www.aibase.com/news/29765",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T17:56:07.690354Z"
+          "published_at": "2026-07-22T18:00:59.977167Z"
         }
       ],
       "item_count": 1,
@@ -812,32 +739,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:56:07.690354Z",
-      "latest_at": "2026-07-21T17:56:07.690354Z",
+      "earliest_at": "2026-07-22T18:00:59.977167Z",
+      "latest_at": "2026-07-22T18:00:59.977167Z",
       "primary_item": {
-        "id": "f96fe8af5625dd5cb4bdaa4c195af6031f55fc3a",
-        "title": "​打破专用模型桎梏！谷歌 DeepMind 发布 GenCeption，一个 AI 搞定五大视觉任务",
-        "url": "https://www.aibase.com/news/29765",
+        "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
+        "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
+        "url": "https://www.aibase.com/news/29806",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_08b54a4bcfe8",
-      "title": "宇树科技发布UnifoLM-OminiA-0.3，实现人形机器人多任务自主执行",
-      "url": "https://www.aibase.com/news/29766",
-      "primary_url": "https://www.aibase.com/news/29766",
+      "story_id": "story_7eba12590249",
+      "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
+      "url": "https://www.aibase.com/news/29805",
+      "primary_url": "https://www.aibase.com/news/29805",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4f274a6f3237792c997c408dbe2b309c931c8d4e",
-          "title": "宇树科技发布UnifoLM-OminiA-0.3，实现人形机器人多任务自主执行",
-          "url": "https://www.aibase.com/news/29766",
+          "id": "3396a2a369fc91e41894a092dd8d5ed78978ae1e",
+          "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
+          "url": "https://www.aibase.com/news/29805",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T17:56:07.690354Z"
+          "published_at": "2026-07-22T18:00:59.977167Z"
         }
       ],
       "source_count": 1,
@@ -846,13 +773,13 @@
       ],
       "items": [
         {
-          "id": "4f274a6f3237792c997c408dbe2b309c931c8d4e",
-          "title": "宇树科技发布UnifoLM-OminiA-0.3，实现人形机器人多任务自主执行",
-          "url": "https://www.aibase.com/news/29766",
+          "id": "3396a2a369fc91e41894a092dd8d5ed78978ae1e",
+          "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
+          "url": "https://www.aibase.com/news/29805",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T17:56:07.690354Z"
+          "published_at": "2026-07-22T18:00:59.977167Z"
         }
       ],
       "item_count": 1,
@@ -872,32 +799,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:56:07.690354Z",
-      "latest_at": "2026-07-21T17:56:07.690354Z",
+      "earliest_at": "2026-07-22T18:00:59.977167Z",
+      "latest_at": "2026-07-22T18:00:59.977167Z",
       "primary_item": {
-        "id": "4f274a6f3237792c997c408dbe2b309c931c8d4e",
-        "title": "宇树科技发布UnifoLM-OminiA-0.3，实现人形机器人多任务自主执行",
-        "url": "https://www.aibase.com/news/29766",
+        "id": "3396a2a369fc91e41894a092dd8d5ed78978ae1e",
+        "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
+        "url": "https://www.aibase.com/news/29805",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3332926a0841",
-      "title": "消息称智元机器人据悉冲刺IPO，目标估值200亿美元",
-      "url": "https://www.aibase.com/news/29764",
-      "primary_url": "https://www.aibase.com/news/29764",
+      "story_id": "story_1f057cbede4c",
+      "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
+      "url": "https://www.aibase.com/news/29808",
+      "primary_url": "https://www.aibase.com/news/29808",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4cc463ad2fbc2d9e078cf22926973696da31bdf4",
-          "title": "消息称智元机器人据悉冲刺IPO，目标估值200亿美元",
-          "url": "https://www.aibase.com/news/29764",
+          "id": "b7c219ef6e1173c63976698c56d9950c0364f363",
+          "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
+          "url": "https://www.aibase.com/news/29808",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T17:56:07.690354Z"
+          "published_at": "2026-07-22T18:00:59.977167Z"
         }
       ],
       "source_count": 1,
@@ -906,13 +833,13 @@
       ],
       "items": [
         {
-          "id": "4cc463ad2fbc2d9e078cf22926973696da31bdf4",
-          "title": "消息称智元机器人据悉冲刺IPO，目标估值200亿美元",
-          "url": "https://www.aibase.com/news/29764",
+          "id": "b7c219ef6e1173c63976698c56d9950c0364f363",
+          "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
+          "url": "https://www.aibase.com/news/29808",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T17:56:07.690354Z"
+          "published_at": "2026-07-22T18:00:59.977167Z"
         }
       ],
       "item_count": 1,
@@ -932,32 +859,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:56:07.690354Z",
-      "latest_at": "2026-07-21T17:56:07.690354Z",
+      "earliest_at": "2026-07-22T18:00:59.977167Z",
+      "latest_at": "2026-07-22T18:00:59.977167Z",
       "primary_item": {
-        "id": "4cc463ad2fbc2d9e078cf22926973696da31bdf4",
-        "title": "消息称智元机器人据悉冲刺IPO，目标估值200亿美元",
-        "url": "https://www.aibase.com/news/29764",
+        "id": "b7c219ef6e1173c63976698c56d9950c0364f363",
+        "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
+        "url": "https://www.aibase.com/news/29808",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8ca248849360",
-      "title": "美国大模型抄了DeepSeek作业：性能没赢、价格更贵，却精准卡住了美国企业的合规刚需",
-      "url": "https://www.aibase.com/news/29763",
-      "primary_url": "https://www.aibase.com/news/29763",
+      "story_id": "story_451a96df2cc8",
+      "title": "微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台",
+      "url": "https://www.aibase.com/news/29807",
+      "primary_url": "https://www.aibase.com/news/29807",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8d491490dc77db9585de27704d12b1cf2daef5ce",
-          "title": "美国大模型抄了DeepSeek作业：性能没赢、价格更贵，却精准卡住了美国企业的合规刚需",
-          "url": "https://www.aibase.com/news/29763",
+          "id": "c825d852a4be7c6105058434f102fc65ff335bd8",
+          "title": "微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台",
+          "url": "https://www.aibase.com/news/29807",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T17:56:07.690354Z"
+          "published_at": "2026-07-22T18:00:59.977167Z"
         }
       ],
       "source_count": 1,
@@ -966,13 +893,13 @@
       ],
       "items": [
         {
-          "id": "8d491490dc77db9585de27704d12b1cf2daef5ce",
-          "title": "美国大模型抄了DeepSeek作业：性能没赢、价格更贵，却精准卡住了美国企业的合规刚需",
-          "url": "https://www.aibase.com/news/29763",
+          "id": "c825d852a4be7c6105058434f102fc65ff335bd8",
+          "title": "微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台",
+          "url": "https://www.aibase.com/news/29807",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T17:56:07.690354Z"
+          "published_at": "2026-07-22T18:00:59.977167Z"
         }
       ],
       "item_count": 1,
@@ -992,59 +919,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:56:07.690354Z",
-      "latest_at": "2026-07-21T17:56:07.690354Z",
+      "earliest_at": "2026-07-22T18:00:59.977167Z",
+      "latest_at": "2026-07-22T18:00:59.977167Z",
       "primary_item": {
-        "id": "8d491490dc77db9585de27704d12b1cf2daef5ce",
-        "title": "美国大模型抄了DeepSeek作业：性能没赢、价格更贵，却精准卡住了美国企业的合规刚需",
-        "url": "https://www.aibase.com/news/29763",
+        "id": "c825d852a4be7c6105058434f102fc65ff335bd8",
+        "title": "微软测试月之暗面 Kimi K3，或将引入 Copilot 与 Azure 平台",
+        "url": "https://www.aibase.com/news/29807",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_431daaf1f7ed",
-      "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
-      "url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9",
-      "primary_url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9",
-      "source": "Claude：Blog（网页）",
+      "story_id": "story_0a87cd13b5a2",
+      "title": "微软 MagenticLite 模型全面开源",
+      "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+      "primary_url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+      "source": "X：Microsoft Research (@MSFTResearch)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3b939eb0c679a40469923550aeb24dc99a08434f",
-          "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
-          "url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9",
-          "source": "Claude：Blog（网页）",
+          "id": "4f8bd931522fb41e3924bb032107136c25fea917",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+          "source": "X：Microsoft Research (@MSFTResearch)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T17:54:42Z"
+          "published_at": "2026-07-22T17:57:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "X：Microsoft Research (@MSFTResearch)"
       ],
       "items": [
         {
-          "id": "3b939eb0c679a40469923550aeb24dc99a08434f",
-          "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
-          "url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9",
-          "source": "Claude：Blog（网页）",
+          "id": "4f8bd931522fb41e3924bb032107136c25fea917",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+          "source": "X：Microsoft Research (@MSFTResearch)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T17:54:42Z"
+          "published_at": "2026-07-22T17:57:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.749,
+        "recency": 0.7479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,59 +979,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:54:42Z",
-      "latest_at": "2026-07-21T17:54:42Z",
+      "earliest_at": "2026-07-22T17:57:57Z",
+      "latest_at": "2026-07-22T17:57:57Z",
       "primary_item": {
-        "id": "3b939eb0c679a40469923550aeb24dc99a08434f",
-        "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
-        "url": "https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9",
-        "source": "Claude：Blog（网页）",
+        "id": "4f8bd931522fb41e3924bb032107136c25fea917",
+        "title": "微软 MagenticLite 模型全面开源",
+        "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+        "source": "X：Microsoft Research (@MSFTResearch)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_6ec849783226",
-      "title": "xAI 推出 Grok for Outlook 加载项",
-      "url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-      "primary_url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-      "source": "xAI：News（网页）",
+      "story_id": "story_f9f5ddd3b797",
+      "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+      "url": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+      "primary_url": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2c36e3d33c79bff59b16f6d96e15f91effa6b696",
-          "title": "xAI 推出 Grok for Outlook 加载项",
-          "url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-          "source": "xAI：News（网页）",
+          "id": "c6036841b979f99412971c11d56bfefda89803a0",
+          "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+          "url": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T17:22:49Z"
+          "published_at": "2026-07-22T17:30:44Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "xAI：News（网页）"
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
       ],
       "items": [
         {
-          "id": "2c36e3d33c79bff59b16f6d96e15f91effa6b696",
-          "title": "xAI 推出 Grok for Outlook 加载项",
-          "url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-          "source": "xAI：News（网页）",
+          "id": "c6036841b979f99412971c11d56bfefda89803a0",
+          "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+          "url": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T17:22:49Z"
+          "published_at": "2026-07-22T17:30:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7269,
+        "recency": 0.729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1112,59 +1039,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:22:49Z",
-      "latest_at": "2026-07-21T17:22:49Z",
+      "earliest_at": "2026-07-22T17:30:44Z",
+      "latest_at": "2026-07-22T17:30:44Z",
       "primary_item": {
-        "id": "2c36e3d33c79bff59b16f6d96e15f91effa6b696",
-        "title": "xAI 推出 Grok for Outlook 加载项",
-        "url": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-        "source": "xAI：News（网页）",
+        "id": "c6036841b979f99412971c11d56bfefda89803a0",
+        "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+        "url": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_30ce283d3e0c",
-      "title": "Claude 不是编译器--它比编译器更好",
-      "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-      "primary_url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_0b061dcff925",
+      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+      "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+      "primary_url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+      "source": "Anthropic：Newsroom（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5c9d0b7eeaf97f2f1c2503d97800911b75372bbf",
-          "title": "Claude 不是编译器--它比编译器更好",
-          "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "1ea4458ad903d8da0a63ddb0491bdfa44b5dc62e",
+          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+          "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T17:15:35Z"
+          "published_at": "2026-07-22T17:23:31Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
-          "id": "5c9d0b7eeaf97f2f1c2503d97800911b75372bbf",
-          "title": "Claude 不是编译器--它比编译器更好",
-          "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "1ea4458ad903d8da0a63ddb0491bdfa44b5dc62e",
+          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+          "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T17:15:35Z"
+          "published_at": "2026-07-22T17:23:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7218,
+        "recency": 0.724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1172,92 +1099,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:15:35Z",
-      "latest_at": "2026-07-21T17:15:35Z",
+      "earliest_at": "2026-07-22T17:23:31Z",
+      "latest_at": "2026-07-22T17:23:31Z",
       "primary_item": {
-        "id": "5c9d0b7eeaf97f2f1c2503d97800911b75372bbf",
-        "title": "Claude 不是编译器--它比编译器更好",
-        "url": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "1ea4458ad903d8da0a63ddb0491bdfa44b5dc62e",
+        "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+        "url": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ce951ce40ef4",
-      "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-      "url": "https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds",
-      "primary_url": "https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_108e4a92a72a",
+      "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+      "url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
+      "primary_url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f411c36c3ad7175244d35189924ec3aedcfe1033",
-          "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-          "url": "https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "28ce40ce72b30cb0c2a287db4526ff579ffabe4a",
+          "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T17:11:50Z"
+          "published_at": "2026-07-22T14:12:49Z"
+        },
+        {
+          "id": "c0e9c6d55f0e10cb78d59b4e3cd92bbf9f28ef50",
+          "title": "OpenAI 拟投资 200 亿美元在美国新建数据中心，到 2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://www.ithome.com/0/980/322.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T14:12:49Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "f411c36c3ad7175244d35189924ec3aedcfe1033",
-          "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-          "url": "https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "28ce40ce72b30cb0c2a287db4526ff579ffabe4a",
+          "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T17:11:50Z"
+          "published_at": "2026-07-22T14:12:49Z"
+        },
+        {
+          "id": "c0e9c6d55f0e10cb78d59b4e3cd92bbf9f28ef50",
+          "title": "OpenAI 拟投资 200 亿美元在美国新建数据中心，到 2030 年算力支出预期上调至近 7500 亿美元",
+          "url": "https://www.ithome.com/0/980/322.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T14:12:49Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7192,
-        "story_heat": 0.0
+        "recency": 0.5915,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:11:50Z",
-      "latest_at": "2026-07-21T17:11:50Z",
+      "earliest_at": "2026-07-22T14:12:49Z",
+      "latest_at": "2026-07-22T14:12:49Z",
       "primary_item": {
-        "id": "f411c36c3ad7175244d35189924ec3aedcfe1033",
-        "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-        "url": "https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "28ce40ce72b30cb0c2a287db4526ff579ffabe4a",
+        "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
+        "url": "https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_d127e2322390",
-      "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
-      "url": "https://www.aibase.com/news/29760",
-      "primary_url": "https://www.aibase.com/news/29760",
+      "story_id": "story_06839c774259",
+      "title": "Substack 接入 Pangram 检测工具，上线网页与移动端 AI 文本识别功能",
+      "url": "https://www.aibase.com/news/29801",
+      "primary_url": "https://www.aibase.com/news/29801",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
-          "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
-          "url": "https://www.aibase.com/news/29760",
+          "id": "3498e5733dc322553f266a0e400f009e8d344d4a",
+          "title": "Substack 接入 Pangram 检测工具，上线网页与移动端 AI 文本识别功能",
+          "url": "https://www.aibase.com/news/29801",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T16:56:07.690354Z"
+          "published_at": "2026-07-22T17:00:59.977167Z"
         }
       ],
       "source_count": 1,
@@ -1266,13 +1213,13 @@
       ],
       "items": [
         {
-          "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
-          "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
-          "url": "https://www.aibase.com/news/29760",
+          "id": "3498e5733dc322553f266a0e400f009e8d344d4a",
+          "title": "Substack 接入 Pangram 检测工具，上线网页与移动端 AI 文本识别功能",
+          "url": "https://www.aibase.com/news/29801",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T16:56:07.690354Z"
+          "published_at": "2026-07-22T17:00:59.977167Z"
         }
       ],
       "item_count": 1,
@@ -1292,12 +1239,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T16:56:07.690354Z",
-      "latest_at": "2026-07-21T16:56:07.690354Z",
+      "earliest_at": "2026-07-22T17:00:59.977167Z",
+      "latest_at": "2026-07-22T17:00:59.977167Z",
       "primary_item": {
-        "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
-        "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
-        "url": "https://www.aibase.com/news/29760",
+        "id": "3498e5733dc322553f266a0e400f009e8d344d4a",
+        "title": "Substack 接入 Pangram 检测工具，上线网页与移动端 AI 文本识别功能",
+        "url": "https://www.aibase.com/news/29801",
         "source": "AIbase",
         "source_name": "AIbase"
       }
