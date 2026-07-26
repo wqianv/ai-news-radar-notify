@@ -1,77 +1,25 @@
 {
-  "generated_at": "2026-07-25T00:04:21.796048Z",
+  "generated_at": "2026-07-26T00:01:25.474135Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_67c184ed18ef",
-      "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T16:40:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-          "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T16:40:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6915,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T16:40:04Z",
-      "latest_at": "2026-07-24T16:40:04Z",
-      "primary_item": {
-        "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-        "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1004-433d-b200-934738ff3188&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-1004-433d-b200-934738ff3188&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1001-467d-b814-92bf2a5c1574&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-1001-467d-b814-92bf2a5c1574&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "97c81bad07e8c07d60f3959fe38a0bd0e6f0ebf7",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1001-467d-b814-92bf2a5c1574&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "c5abba70c585a1e9164335b3ceb643227af3530f",
           "title": "点击这里进入 / Click here to enter",
@@ -82,12 +30,21 @@
           "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "97c81bad07e8c07d60f3959fe38a0bd0e6f0ebf7",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1001-467d-b814-92bf2a5c1574&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "c5abba70c585a1e9164335b3ceb643227af3530f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1004-433d-b200-934738ff3188&fp=-3",
@@ -97,1102 +54,1248 @@
           "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-07-25T00:04:21.796048Z",
-      "latest_at": "2026-07-25T00:04:21.796048Z",
+      "latest_at": "2026-07-26T00:01:25.474135Z",
       "primary_item": {
-        "id": "c5abba70c585a1e9164335b3ceb643227af3530f",
+        "id": "97c81bad07e8c07d60f3959fe38a0bd0e6f0ebf7",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1004-433d-b200-934738ff3188&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1001-467d-b814-92bf2a5c1574&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_a93f595d6f60",
-      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-      "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-      "primary_url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-      "source": "Midjourney：Updates（RSS）",
+      "story_id": "story_3a7049903389",
+      "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+      "url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+      "primary_url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
-          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-          "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-          "source": "Midjourney：Updates（RSS）",
+          "id": "48833ca639b6c3331ad5af84fb52dbba46bce3f0",
+          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+          "url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-24T22:18:48Z"
+          "published_at": "2026-07-25T13:45:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Midjourney：Updates（RSS）"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
-          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-          "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-          "source": "Midjourney：Updates（RSS）",
+          "id": "48833ca639b6c3331ad5af84fb52dbba46bce3f0",
+          "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+          "url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-24T22:18:48Z"
+          "published_at": "2026-07-25T13:45:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "recency": 0.5725,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T22:18:48Z",
-      "latest_at": "2026-07-24T22:18:48Z",
+      "earliest_at": "2026-07-25T13:45:50Z",
+      "latest_at": "2026-07-25T13:45:50Z",
       "primary_item": {
-        "id": "e5f7ba2590076b4eea100d58b6cf5f4ea6e0efb4",
-        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-        "url": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
-        "source": "Midjourney：Updates（RSS）",
+        "id": "48833ca639b6c3331ad5af84fb52dbba46bce3f0",
+        "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+        "url": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_0d0ad2c6f93e",
-      "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-      "url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
-      "primary_url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_fd7969533d87",
+      "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+      "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+      "primary_url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "df526b8ac39ecd88aa7681862b2c6e0b2646389a",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "052a35b513283955aba5f613c1a50c3093101961",
+          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-24T19:07:52Z"
+          "published_at": "2026-07-25T01:08:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "df526b8ac39ecd88aa7681862b2c6e0b2646389a",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "052a35b513283955aba5f613c1a50c3093101961",
+          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+          "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-24T19:07:52Z"
+          "published_at": "2026-07-25T01:08:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
-      "importance_label": "行业动态",
+      "score": 0.6214,
+      "importance": 0.6214,
+      "importance_score": 0.6214,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7941,
+        "recency": 0.0468,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T19:07:52Z",
-      "latest_at": "2026-07-24T19:07:52Z",
+      "earliest_at": "2026-07-25T01:08:45Z",
+      "latest_at": "2026-07-25T01:08:45Z",
       "primary_item": {
-        "id": "df526b8ac39ecd88aa7681862b2c6e0b2646389a",
-        "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "052a35b513283955aba5f613c1a50c3093101961",
+        "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+        "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_0b0a0e69a075",
-      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-      "url": "https://www.aibase.com/news/29881",
-      "primary_url": "https://www.aibase.com/news/29881",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_81e43f035001",
+      "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+      "url": "https://news.ycombinator.com/item?id=49051361",
+      "primary_url": "https://news.ycombinator.com/item?id=49051361",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T19:04:21.796048Z"
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:36:09.455000Z"
+        },
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:42:35Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "claude.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T19:04:21.796048Z"
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:36:09.455000Z"
+        },
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:42:35Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5695,
+      "importance": 0.5695,
+      "importance_score": 0.5695,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7917,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9825,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-24T19:04:21.796048Z",
-      "latest_at": "2026-07-24T19:04:21.796048Z",
+      "earliest_at": "2026-07-25T20:42:35Z",
+      "latest_at": "2026-07-25T23:36:09.455000Z",
       "primary_item": {
-        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "url": "https://www.aibase.com/news/29881",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+        "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+        "url": "https://news.ycombinator.com/item?id=49051361",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_538fbca60cb9",
-      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-      "url": "https://www.aibase.com/news/29879",
-      "primary_url": "https://www.aibase.com/news/29879",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_5f284decdfa5",
+      "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://news.ycombinator.com/item?id=49050512",
+      "primary_url": "https://news.ycombinator.com/item?id=49050512",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "url": "https://www.aibase.com/news/29879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T18:04:21.796048Z"
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:36:09.455000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "url": "https://www.aibase.com/news/29879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T18:04:21.796048Z"
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:36:09.455000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9825,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-24T18:04:21.796048Z",
-      "latest_at": "2026-07-24T18:04:21.796048Z",
+      "earliest_at": "2026-07-25T18:59:50Z",
+      "latest_at": "2026-07-25T23:36:09.455000Z",
       "primary_item": {
-        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "url": "https://www.aibase.com/news/29879",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+        "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+        "url": "https://news.ycombinator.com/item?id=49050512",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_55dc522f59b8",
-      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-      "url": "https://www.aibase.com/news/29880",
-      "primary_url": "https://www.aibase.com/news/29880",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6876b0340723",
+      "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+      "url": "https://news.ycombinator.com/item?id=49052570",
+      "primary_url": "https://news.ycombinator.com/item?id=49052570",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T18:04:21.796048Z"
+          "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://news.ycombinator.com/item?id=49052570",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:36:09.455000Z"
+        },
+        {
+          "id": "b94c39ffbed50009079b6ba3090b0928aa8eed84",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T22:51:10Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T18:04:21.796048Z"
+          "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://news.ycombinator.com/item?id=49052570",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:36:09.455000Z"
+        },
+        {
+          "id": "b94c39ffbed50009079b6ba3090b0928aa8eed84",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T22:51:10Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9825,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-24T18:04:21.796048Z",
-      "latest_at": "2026-07-24T18:04:21.796048Z",
+      "earliest_at": "2026-07-25T22:51:10Z",
+      "latest_at": "2026-07-25T23:36:09.455000Z",
       "primary_item": {
-        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "url": "https://www.aibase.com/news/29880",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+        "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+        "url": "https://news.ycombinator.com/item?id=49052570",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_dcc5acfbea94",
-      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-      "url": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
-      "primary_url": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_7df8f24194b8",
+      "title": "如何放置🙈ChatGPT Work 在全球范围内适用于移动/网络/桌面上的所有付费计划。可能已经在您的手机上。在您的 ChatGPT 上安装喷气背包 / How to put this🙈ChatGPT Work is available globally for all paid plans across mobile/web/desktop. Probably already on your phone. Puts a jetpack on your ChatGPT",
+      "url": "https://x.com/thsottiaux/status/2080876712439747052",
+      "primary_url": "https://x.com/thsottiaux/status/2080876712439747052",
+      "source": "Follow Builders · X · Thibault Sottiaux",
+      "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "86cdfc196fa98f70152efb26d018250c939a9591",
-          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-          "url": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:25:50Z"
+          "id": "c9cacf92b578d06f36e6e0b0d891c2491f7fca7c",
+          "title": "如何放置🙈ChatGPT Work 在全球范围内适用于移动/网络/桌面上的所有付费计划。可能已经在您的手机上。在您的 ChatGPT 上安装喷气背包 / How to put this🙈ChatGPT Work is available globally for all paid plans across mobile/web/desktop. Probably already on your phone. Puts a jetpack on your ChatGPT",
+          "url": "https://x.com/thsottiaux/status/2080876712439747052",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-25T04:44:03Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "Follow Builders · X · Thibault Sottiaux"
       ],
       "items": [
         {
-          "id": "86cdfc196fa98f70152efb26d018250c939a9591",
-          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-          "url": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:25:50Z"
+          "id": "c9cacf92b578d06f36e6e0b0d891c2491f7fca7c",
+          "title": "如何放置🙈ChatGPT Work 在全球范围内适用于移动/网络/桌面上的所有付费计划。可能已经在您的手机上。在您的 ChatGPT 上安装喷气背包 / How to put this🙈ChatGPT Work is available globally for all paid plans across mobile/web/desktop. Probably already on your phone. Puts a jetpack on your ChatGPT",
+          "url": "https://x.com/thsottiaux/status/2080876712439747052",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-25T04:44:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
-      "importance_label": "行业动态",
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7232,
+        "source_tier": 0.62,
+        "ai_relevance": 0.81,
+        "recency": 0.1963,
         "story_heat": 0.0
       },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T17:25:50Z",
-      "latest_at": "2026-07-24T17:25:50Z",
-      "primary_item": {
-        "id": "86cdfc196fa98f70152efb26d018250c939a9591",
-        "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-        "url": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f92768603c53",
-      "title": "Anthropic 发布 Claude Opus 5",
-      "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
-      "primary_url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "40a9ca72d773e2f295edcdf7eb1f7f577c92cea8",
-          "title": "Anthropic 发布 Claude Opus 5",
-          "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:24:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "40a9ca72d773e2f295edcdf7eb1f7f577c92cea8",
-          "title": "Anthropic 发布 Claude Opus 5",
-          "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:24:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7223,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T17:24:25Z",
-      "latest_at": "2026-07-24T17:24:25Z",
-      "primary_item": {
-        "id": "40a9ca72d773e2f295edcdf7eb1f7f577c92cea8",
-        "title": "Anthropic 发布 Claude Opus 5",
-        "url": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8c85cad462e6",
-      "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-      "url": "https://www.aibase.com/news/29877",
-      "primary_url": "https://www.aibase.com/news/29877",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "59cda7b7c747964fd514cc6ab0465d0d8a39c572",
-          "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "url": "https://www.aibase.com/news/29877",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:04:21.796048Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "59cda7b7c747964fd514cc6ab0465d0d8a39c572",
-          "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "url": "https://www.aibase.com/news/29877",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:04:21.796048Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T17:04:21.796048Z",
-      "latest_at": "2026-07-24T17:04:21.796048Z",
-      "primary_item": {
-        "id": "59cda7b7c747964fd514cc6ab0465d0d8a39c572",
-        "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-        "url": "https://www.aibase.com/news/29877",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0d93824837c0",
-      "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-      "url": "https://www.aibase.com/news/29878",
-      "primary_url": "https://www.aibase.com/news/29878",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-          "url": "https://www.aibase.com/news/29878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:04:21.796048Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-          "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-          "url": "https://www.aibase.com/news/29878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T17:04:21.796048Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T17:04:21.796048Z",
-      "latest_at": "2026-07-24T17:04:21.796048Z",
-      "primary_item": {
-        "id": "58659f5dd3dc74b843ffc89831f0c02c19ce26ec",
-        "title": "菲尔兹奖新得主齐默尔曼官宣加入OpenAI，数学最高荣誉得主转向AI安全",
-        "url": "https://www.aibase.com/news/29878",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c06b6ea2597f",
-      "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-      "url": "https://www.aibase.com/news/29875",
-      "primary_url": "https://www.aibase.com/news/29875",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
-          "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-          "url": "https://www.aibase.com/news/29875",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T16:04:21.796048Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
-          "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-          "url": "https://www.aibase.com/news/29875",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T16:04:21.796048Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T16:04:21.796048Z",
-      "latest_at": "2026-07-24T16:04:21.796048Z",
+      "earliest_at": "2026-07-25T04:44:03Z",
+      "latest_at": "2026-07-25T04:44:03Z",
       "primary_item": {
-        "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
-        "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-        "url": "https://www.aibase.com/news/29875",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "c9cacf92b578d06f36e6e0b0d891c2491f7fca7c",
+        "title": "如何放置🙈ChatGPT Work 在全球范围内适用于移动/网络/桌面上的所有付费计划。可能已经在您的手机上。在您的 ChatGPT 上安装喷气背包 / How to put this🙈ChatGPT Work is available globally for all paid plans across mobile/web/desktop. Probably already on your phone. Puts a jetpack on your ChatGPT",
+        "url": "https://x.com/thsottiaux/status/2080876712439747052",
+        "source": "Follow Builders · X · Thibault Sottiaux",
+        "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_873422d44d8d",
-      "title": "新晋菲尔兹奖得主IMO 满分天才 Tsimerman 官宣加入 OpenAI",
-      "url": "https://www.aibase.com/news/29873",
-      "primary_url": "https://www.aibase.com/news/29873",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_22668fba1dd4",
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "url": "https://www.qbitai.com/2026/07/460234.html",
+      "primary_url": "https://www.qbitai.com/2026/07/460234.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "1bf24d99e85b11331d2ca00fa0eddbf198f1a396",
-          "title": "新晋菲尔兹奖得主IMO 满分天才 Tsimerman 官宣加入 OpenAI",
-          "url": "https://www.aibase.com/news/29873",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T16:04:21.796048Z"
+          "id": "9a68d32e3182782e0e7349ffa39ecf438d570ef9",
+          "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+          "url": "https://www.qbitai.com/2026/07/460234.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "量子位 · 每日最新"
       ],
       "items": [
         {
-          "id": "1bf24d99e85b11331d2ca00fa0eddbf198f1a396",
-          "title": "新晋菲尔兹奖得主IMO 满分天才 Tsimerman 官宣加入 OpenAI",
-          "url": "https://www.aibase.com/news/29873",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T16:04:21.796048Z"
+          "id": "9a68d32e3182782e0e7349ffa39ecf438d570ef9",
+          "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+          "url": "https://www.qbitai.com/2026/07/460234.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "source_tier": 0.32,
+        "ai_relevance": 0.66,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-24T16:04:21.796048Z",
-      "latest_at": "2026-07-24T16:04:21.796048Z",
+      "earliest_at": "2026-07-26T00:01:25.474135Z",
+      "latest_at": "2026-07-26T00:01:25.474135Z",
       "primary_item": {
-        "id": "1bf24d99e85b11331d2ca00fa0eddbf198f1a396",
-        "title": "新晋菲尔兹奖得主IMO 满分天才 Tsimerman 官宣加入 OpenAI",
-        "url": "https://www.aibase.com/news/29873",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "9a68d32e3182782e0e7349ffa39ecf438d570ef9",
+        "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+        "url": "https://www.qbitai.com/2026/07/460234.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_c2ee1abe0fa1",
-      "title": "黑森林实验室放出 Flux3：首个原生生成音频的多模态基础模型，20 秒音画同步一次成型",
-      "url": "https://www.aibase.com/news/29874",
-      "primary_url": "https://www.aibase.com/news/29874",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a92321595322",
+      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "primary_url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "f1d2de8632045bd02dcfbd194503a3ce3a6ce738",
-          "title": "黑森林实验室放出 Flux3：首个原生生成音频的多模态基础模型，20 秒音画同步一次成型",
-          "url": "https://www.aibase.com/news/29874",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T16:04:21.796048Z"
+          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T21:18:06Z"
+        },
+        {
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T18:15:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Daring Fireball",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T21:18:06Z"
+        },
+        {
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T18:15:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8866,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T18:15:12Z",
+      "latest_at": "2026-07-25T21:18:06Z",
+      "primary_item": {
+        "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
+        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+        "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_c84e5590a1f5",
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "url": "https://www.qbitai.com/2026/07/460892.html",
+      "primary_url": "https://www.qbitai.com/2026/07/460892.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "16ac00b21b125ff431d88f20d3ac5a041d0a73ce",
+          "title": "100%开源！吴恩达做了个个人桌面Agent",
+          "url": "https://www.qbitai.com/2026/07/460892.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "量子位 · 每日最新"
       ],
       "items": [
         {
-          "id": "f1d2de8632045bd02dcfbd194503a3ce3a6ce738",
-          "title": "黑森林实验室放出 Flux3：首个原生生成音频的多模态基础模型，20 秒音画同步一次成型",
-          "url": "https://www.aibase.com/news/29874",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T16:04:21.796048Z"
+          "id": "16ac00b21b125ff431d88f20d3ac5a041d0a73ce",
+          "title": "100%开源！吴恩达做了个个人桌面Agent",
+          "url": "https://www.qbitai.com/2026/07/460892.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-24T16:04:21.796048Z",
-      "latest_at": "2026-07-24T16:04:21.796048Z",
+      "earliest_at": "2026-07-26T00:01:25.474135Z",
+      "latest_at": "2026-07-26T00:01:25.474135Z",
       "primary_item": {
-        "id": "f1d2de8632045bd02dcfbd194503a3ce3a6ce738",
-        "title": "黑森林实验室放出 Flux3：首个原生生成音频的多模态基础模型，20 秒音画同步一次成型",
-        "url": "https://www.aibase.com/news/29874",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "16ac00b21b125ff431d88f20d3ac5a041d0a73ce",
+        "title": "100%开源！吴恩达做了个个人桌面Agent",
+        "url": "https://www.qbitai.com/2026/07/460892.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_c2294f4348a1",
-      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-      "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-      "primary_url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_28756c9039f9",
+      "title": "2 个月估值从 88 亿暴涨到 680 亿！最大 AI 中转站 OpenRouter 或被收购",
+      "url": "https://hub.baai.ac.cn/view/56623",
+      "primary_url": "https://hub.baai.ac.cn/view/56623",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "e2cbf2ad211736d2aaa6f4eb04287a88052d29fb",
-          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-          "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T15:25:45Z"
+          "id": "9c68b3bb214cb5d42de55b3fc8b6f7c947b60b5f",
+          "title": "2 个月估值从 88 亿暴涨到 680 亿！最大 AI 中转站 OpenRouter 或被收购",
+          "url": "https://hub.baai.ac.cn/view/56623",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "e2cbf2ad211736d2aaa6f4eb04287a88052d29fb",
-          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-          "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T15:25:45Z"
+          "id": "9c68b3bb214cb5d42de55b3fc8b6f7c947b60b5f",
+          "title": "2 个月估值从 88 亿暴涨到 680 亿！最大 AI 中转站 OpenRouter 或被收购",
+          "url": "https://hub.baai.ac.cn/view/56623",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6399,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-24T15:25:45Z",
-      "latest_at": "2026-07-24T15:25:45Z",
+      "earliest_at": "2026-07-26T00:01:25.474135Z",
+      "latest_at": "2026-07-26T00:01:25.474135Z",
       "primary_item": {
-        "id": "e2cbf2ad211736d2aaa6f4eb04287a88052d29fb",
-        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-        "url": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
+        "id": "9c68b3bb214cb5d42de55b3fc8b6f7c947b60b5f",
+        "title": "2 个月估值从 88 亿暴涨到 680 亿！最大 AI 中转站 OpenRouter 或被收购",
+        "url": "https://hub.baai.ac.cn/view/56623",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_86a897ea7bdc",
-      "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-      "url": "https://www.aibase.com/news/29868",
-      "primary_url": "https://www.aibase.com/news/29868",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_44a63d88e089",
+      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+      "url": "https://www.36kr.com/p/3910351337821318",
+      "primary_url": "https://www.36kr.com/p/3910351337821318",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "url": "https://www.aibase.com/news/29868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T15:04:21.796048Z"
+          "id": "647584204616186cb5c014ebb50041b1173f8954",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "url": "https://www.36kr.com/p/3910351337821318",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "36氪 · 24小时热榜"
       ],
       "items": [
         {
-          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "url": "https://www.aibase.com/news/29868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T15:04:21.796048Z"
+          "id": "647584204616186cb5c014ebb50041b1173f8954",
+          "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "url": "https://www.36kr.com/p/3910351337821318",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.625,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-24T15:04:21.796048Z",
-      "latest_at": "2026-07-24T15:04:21.796048Z",
+      "earliest_at": "2026-07-26T00:01:25.474135Z",
+      "latest_at": "2026-07-26T00:01:25.474135Z",
       "primary_item": {
-        "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-        "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-        "url": "https://www.aibase.com/news/29868",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "647584204616186cb5c014ebb50041b1173f8954",
+        "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+        "url": "https://www.36kr.com/p/3910351337821318",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_898952157f6d",
-      "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-      "url": "https://www.aibase.com/news/29867",
-      "primary_url": "https://www.aibase.com/news/29867",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_f6f0b21aa3e6",
+      "title": "ChatGPT 中的健康状况 / Health in ChatGPT",
+      "url": "https://www.producthunt.com/products/openai",
+      "primary_url": "https://www.producthunt.com/products/openai",
+      "source": "producthunt",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
-          "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-          "url": "https://www.aibase.com/news/29867",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T15:04:21.796048Z"
+          "id": "c28abd5850ae2ac5b93177166f3ec11afcb7483c",
+          "title": "ChatGPT 中的健康状况 / Health in ChatGPT",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:01:50.301000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "producthunt"
       ],
       "items": [
         {
-          "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
-          "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-          "url": "https://www.aibase.com/news/29867",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T15:04:21.796048Z"
+          "id": "c28abd5850ae2ac5b93177166f3ec11afcb7483c",
+          "title": "ChatGPT 中的健康状况 / Health in ChatGPT",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:01:50.301000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.625,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-24T15:04:21.796048Z",
-      "latest_at": "2026-07-24T15:04:21.796048Z",
+      "earliest_at": "2026-07-26T00:01:50.301000Z",
+      "latest_at": "2026-07-26T00:01:50.301000Z",
       "primary_item": {
-        "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
-        "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
-        "url": "https://www.aibase.com/news/29867",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "c28abd5850ae2ac5b93177166f3ec11afcb7483c",
+        "title": "ChatGPT 中的健康状况 / Health in ChatGPT",
+        "url": "https://www.producthunt.com/products/openai",
+        "source": "producthunt",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_4efe088ce067",
-      "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-      "url": "https://www.aibase.com/news/29870",
-      "primary_url": "https://www.aibase.com/news/29870",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_205f3795c620",
+      "title": "Claude Opus 5来了，Fable 5性能、一半价格",
+      "url": "https://www.36kr.com/p/3910352916256129",
+      "primary_url": "https://www.36kr.com/p/3910352916256129",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "url": "https://www.aibase.com/news/29870",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T15:04:21.796048Z"
+          "id": "a0f1229e0c81287d856c73732d3d59aadc12e8a9",
+          "title": "Claude Opus 5来了，Fable 5性能、一半价格",
+          "url": "https://www.36kr.com/p/3910352916256129",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "36氪 · 24小时热榜"
       ],
       "items": [
         {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "url": "https://www.aibase.com/news/29870",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T15:04:21.796048Z"
+          "id": "a0f1229e0c81287d856c73732d3d59aadc12e8a9",
+          "title": "Claude Opus 5来了，Fable 5性能、一半价格",
+          "url": "https://www.36kr.com/p/3910352916256129",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.625,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-24T15:04:21.796048Z",
-      "latest_at": "2026-07-24T15:04:21.796048Z",
+      "earliest_at": "2026-07-26T00:01:25.474135Z",
+      "latest_at": "2026-07-26T00:01:25.474135Z",
       "primary_item": {
-        "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-        "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "url": "https://www.aibase.com/news/29870",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "a0f1229e0c81287d856c73732d3d59aadc12e8a9",
+        "title": "Claude Opus 5来了，Fable 5性能、一半价格",
+        "url": "https://www.36kr.com/p/3910352916256129",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_7a7e14fea42d",
-      "title": "快手入局AI互动内容赛道，开放首批创作者招募",
-      "url": "https://www.aibase.com/news/29872",
-      "primary_url": "https://www.aibase.com/news/29872",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_0e80d4baea02",
+      "title": "ClipStudios.AI",
+      "url": "https://www.producthunt.com/products/clipstudios",
+      "primary_url": "https://www.producthunt.com/products/clipstudios",
+      "source": "producthunt",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "584922469d7218571f7a6a04bc7fcbf21ac24ffe",
-          "title": "快手入局AI互动内容赛道，开放首批创作者招募",
-          "url": "https://www.aibase.com/news/29872",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T15:04:21.796048Z"
+          "id": "db6596010dd75971b2974558d7ef2f18e4b8b45b",
+          "title": "ClipStudios.AI",
+          "url": "https://www.producthunt.com/products/clipstudios",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:01:50.301000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "producthunt"
       ],
       "items": [
         {
-          "id": "584922469d7218571f7a6a04bc7fcbf21ac24ffe",
-          "title": "快手入局AI互动内容赛道，开放首批创作者招募",
-          "url": "https://www.aibase.com/news/29872",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T15:04:21.796048Z"
+          "id": "db6596010dd75971b2974558d7ef2f18e4b8b45b",
+          "title": "ClipStudios.AI",
+          "url": "https://www.producthunt.com/products/clipstudios",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:01:50.301000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.625,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-24T15:04:21.796048Z",
-      "latest_at": "2026-07-24T15:04:21.796048Z",
+      "earliest_at": "2026-07-26T00:01:50.301000Z",
+      "latest_at": "2026-07-26T00:01:50.301000Z",
       "primary_item": {
-        "id": "584922469d7218571f7a6a04bc7fcbf21ac24ffe",
-        "title": "快手入局AI互动内容赛道，开放首批创作者招募",
-        "url": "https://www.aibase.com/news/29872",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "db6596010dd75971b2974558d7ef2f18e4b8b45b",
+        "title": "ClipStudios.AI",
+        "url": "https://www.producthunt.com/products/clipstudios",
+        "source": "producthunt",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_951f5312ba21",
-      "title": "支持产品问答与辅助决策，苹果 Apple Store 应用拟推 AI 虚拟购物助手",
-      "url": "https://www.aibase.com/news/29869",
-      "primary_url": "https://www.aibase.com/news/29869",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e5031881b256",
+      "title": "Drifty - 上下文感知人工智能时间跟踪器 / Drifty - Context Aware AI Time Tracker",
+      "url": "https://www.producthunt.com/products/drifty-auto-ai-time-tracker",
+      "primary_url": "https://www.producthunt.com/products/drifty-auto-ai-time-tracker",
+      "source": "producthunt",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "89054297a4e51be3bb9cc6dcd02268c4fb2f5b57",
-          "title": "支持产品问答与辅助决策，苹果 Apple Store 应用拟推 AI 虚拟购物助手",
-          "url": "https://www.aibase.com/news/29869",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T15:04:21.796048Z"
+          "id": "8d8b15a6f8777862b6723d855c8e61e3998e009a",
+          "title": "Drifty - 上下文感知人工智能时间跟踪器 / Drifty - Context Aware AI Time Tracker",
+          "url": "https://www.producthunt.com/products/drifty-auto-ai-time-tracker",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:01:50.301000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "producthunt"
       ],
       "items": [
         {
-          "id": "89054297a4e51be3bb9cc6dcd02268c4fb2f5b57",
-          "title": "支持产品问答与辅助决策，苹果 Apple Store 应用拟推 AI 虚拟购物助手",
-          "url": "https://www.aibase.com/news/29869",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T15:04:21.796048Z"
+          "id": "8d8b15a6f8777862b6723d855c8e61e3998e009a",
+          "title": "Drifty - 上下文感知人工智能时间跟踪器 / Drifty - Context Aware AI Time Tracker",
+          "url": "https://www.producthunt.com/products/drifty-auto-ai-time-tracker",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:01:50.301000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.625,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-07-24T15:04:21.796048Z",
-      "latest_at": "2026-07-24T15:04:21.796048Z",
+      "earliest_at": "2026-07-26T00:01:50.301000Z",
+      "latest_at": "2026-07-26T00:01:50.301000Z",
       "primary_item": {
-        "id": "89054297a4e51be3bb9cc6dcd02268c4fb2f5b57",
-        "title": "支持产品问答与辅助决策，苹果 Apple Store 应用拟推 AI 虚拟购物助手",
-        "url": "https://www.aibase.com/news/29869",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "8d8b15a6f8777862b6723d855c8e61e3998e009a",
+        "title": "Drifty - 上下文感知人工智能时间跟踪器 / Drifty - Context Aware AI Time Tracker",
+        "url": "https://www.producthunt.com/products/drifty-auto-ai-time-tracker",
+        "source": "producthunt",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_05db4790ab70",
+      "title": "OpenAI下一代模型，被曝8月提前上线",
+      "url": "https://www.36kr.com/p/3910793600734599",
+      "primary_url": "https://www.36kr.com/p/3910793600734599",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a688a89b95e9eef80a1cd7264aeeca47beed62e6",
+          "title": "OpenAI下一代模型，被曝8月提前上线",
+          "url": "https://www.36kr.com/p/3910793600734599",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "36氪 · 24小时热榜"
+      ],
+      "items": [
+        {
+          "id": "a688a89b95e9eef80a1cd7264aeeca47beed62e6",
+          "title": "OpenAI下一代模型，被曝8月提前上线",
+          "url": "https://www.36kr.com/p/3910793600734599",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-26T00:01:25.474135Z",
+      "latest_at": "2026-07-26T00:01:25.474135Z",
+      "primary_item": {
+        "id": "a688a89b95e9eef80a1cd7264aeeca47beed62e6",
+        "title": "OpenAI下一代模型，被曝8月提前上线",
+        "url": "https://www.36kr.com/p/3910793600734599",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6313fad5f5ae",
+      "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
+      "url": "https://hub.baai.ac.cn/view/56620",
+      "primary_url": "https://hub.baai.ac.cn/view/56620",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "06bd88cbdafcfc0c187f49040d167ad832c7acc5",
+          "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
+          "url": "https://hub.baai.ac.cn/view/56620",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "06bd88cbdafcfc0c187f49040d167ad832c7acc5",
+          "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
+          "url": "https://hub.baai.ac.cn/view/56620",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-26T00:01:25.474135Z",
+      "latest_at": "2026-07-26T00:01:25.474135Z",
+      "primary_item": {
+        "id": "06bd88cbdafcfc0c187f49040d167ad832c7acc5",
+        "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
+        "url": "https://hub.baai.ac.cn/view/56620",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4d5da1abe9d0",
+      "title": "Ruff v0.16.0 发布：默认规则集大幅扩展，新增数百条检查规则",
+      "url": "https://simonwillison.net/2026/Jul/25/ruff",
+      "primary_url": "https://simonwillison.net/2026/Jul/25/ruff",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "52cf925f47e02051a1e0dd1150ae1fc68abefbe8",
+          "title": "Ruff v0.16.0 发布：默认规则集大幅扩展，新增数百条检查规则",
+          "url": "https://simonwillison.net/2026/Jul/25/ruff",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "52cf925f47e02051a1e0dd1150ae1fc68abefbe8",
+          "title": "Ruff v0.16.0 发布：默认规则集大幅扩展，新增数百条检查规则",
+          "url": "https://simonwillison.net/2026/Jul/25/ruff",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-26T00:01:25.474135Z",
+      "latest_at": "2026-07-26T00:01:25.474135Z",
+      "primary_item": {
+        "id": "52cf925f47e02051a1e0dd1150ae1fc68abefbe8",
+        "title": "Ruff v0.16.0 发布：默认规则集大幅扩展，新增数百条检查规则",
+        "url": "https://simonwillison.net/2026/Jul/25/ruff",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_69ae1e647d79",
+      "title": "为什么 AI 大厂的人，都跑去做生命科学了？",
+      "url": "https://www.mittrchina.com/news/detail/16687",
+      "primary_url": "https://www.mittrchina.com/news/detail/16687",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "befd53b330a5f048757b08b3e44787fe0e61a081",
+          "title": "为什么 AI 大厂的人，都跑去做生命科学了？",
+          "url": "https://www.mittrchina.com/news/detail/16687",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "befd53b330a5f048757b08b3e44787fe0e61a081",
+          "title": "为什么 AI 大厂的人，都跑去做生命科学了？",
+          "url": "https://www.mittrchina.com/news/detail/16687",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-07-26T00:01:25.474135Z",
+      "latest_at": "2026-07-26T00:01:25.474135Z",
+      "primary_item": {
+        "id": "befd53b330a5f048757b08b3e44787fe0e61a081",
+        "title": "为什么 AI 大厂的人，都跑去做生命科学了？",
+        "url": "https://www.mittrchina.com/news/detail/16687",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
