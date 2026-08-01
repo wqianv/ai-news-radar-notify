@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-07-31T00:02:42.869392Z",
+  "generated_at": "2026-08-01T00:02:27.084384Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_570402ed1c5f",
-      "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-      "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-      "primary_url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "story_id": "story_337d712579d2",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T19:14:22Z"
+          "published_at": "2026-07-31T20:04:01Z"
         }
       ],
       "source_count": 1,
@@ -27,167 +27,25 @@
       ],
       "items": [
         {
-          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T19:14:22Z"
+          "published_at": "2026-07-31T20:04:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7998,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T19:14:22Z",
-      "latest_at": "2026-07-30T19:14:22Z",
-      "primary_item": {
-        "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-        "title": "GitHub Models 现已退役 / GitHub Models is now retired",
-        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7a6592c940a7",
-      "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
-          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T16:14:29Z"
-        },
-        {
-          "id": "4ede2134cd60a326511fc2cdf149250014832652",
-          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked PRs are now live on GitHub",
-          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-30T16:26:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Changelog",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
-          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T16:14:29Z"
-        },
-        {
-          "id": "4ede2134cd60a326511fc2cdf149250014832652",
-          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked PRs are now live on GitHub",
-          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-30T16:26:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6748,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T16:14:29Z",
-      "latest_at": "2026-07-30T16:26:16Z",
-      "primary_item": {
-        "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-        "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
-        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8871db2f43d8",
-      "title": "GitHub Copilot 应用程序中的堆叠会话和拉取请求 / Stacked sessions and pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-          "title": "GitHub Copilot 应用程序中的堆叠会话和拉取请求 / Stacked sessions and pull requests in the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:30:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-          "title": "GitHub Copilot 应用程序中的堆叠会话和拉取请求 / Stacked sessions and pull requests in the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:30:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7276,
+        "recency": 0.8344,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,32 +54,214 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T17:30:24Z",
-      "latest_at": "2026-07-30T17:30:24Z",
+      "earliest_at": "2026-07-31T20:04:01Z",
+      "latest_at": "2026-07-31T20:04:01Z",
       "primary_item": {
-        "id": "599d265292a80d46f3762173a3ae6bf662966bad",
-        "title": "GitHub Copilot 应用程序中的堆叠会话和拉取请求 / Stacked sessions and pull requests in the GitHub Copilot app",
-        "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-        "source": "GitHub AI & ML",
+        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_4e7bda422948",
-      "title": "Anthropic 发现 Claude 在网络安全评估中真实入侵外部系统并上传恶意软件至 PyPI",
-      "url": "https://aihot.virxact.com/items/cms8650ic00p3rot0fziccgws",
-      "primary_url": "https://aihot.virxact.com/items/cms8650ic00p3rot0fziccgws",
+      "story_id": "story_3bde4c44877d",
+      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7565,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T18:11:50Z",
+      "latest_at": "2026-07-31T18:11:50Z",
+      "primary_item": {
+        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_40a9fce1f45e",
+      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6968,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T16:45:50Z",
+      "latest_at": "2026-07-31T16:45:50Z",
+      "primary_item": {
+        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fc0530ff6826",
+      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+      "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+      "primary_url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0d063573dd8b598e4b34e7ba2f3c59e50aecf8ba",
+          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+          "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:38:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "0d063573dd8b598e4b34e7ba2f3c59e50aecf8ba",
+          "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+          "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T21:38:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8997,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T21:38:05Z",
+      "latest_at": "2026-07-31T21:38:05Z",
+      "primary_item": {
+        "id": "0d063573dd8b598e4b34e7ba2f3c59e50aecf8ba",
+        "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+        "url": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ac39d2ddcafc",
+      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+      "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
+      "primary_url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
       "source": "Simon Willison 博客",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b0db0b010c69600bf4be6041feaf47d63459f3de",
-          "title": "Anthropic 发现 Claude 在网络安全评估中真实入侵外部系统并上传恶意软件至 PyPI",
-          "url": "https://aihot.virxact.com/items/cms8650ic00p3rot0fziccgws",
+          "id": "227440df1a78ba1b85f631ba017e91d637977309",
+          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+          "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
           "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T23:41:29Z"
+          "published_at": "2026-07-31T21:15:23Z"
         }
       ],
       "source_count": 1,
@@ -230,25 +270,25 @@
       ],
       "items": [
         {
-          "id": "b0db0b010c69600bf4be6041feaf47d63459f3de",
-          "title": "Anthropic 发现 Claude 在网络安全评估中真实入侵外部系统并上传恶意软件至 PyPI",
-          "url": "https://aihot.virxact.com/items/cms8650ic00p3rot0fziccgws",
+          "id": "227440df1a78ba1b85f631ba017e91d637977309",
+          "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+          "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
           "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T23:41:29Z"
+          "published_at": "2026-07-31T21:15:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9853,
+        "recency": 0.884,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -256,120 +296,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T23:41:29Z",
-      "latest_at": "2026-07-30T23:41:29Z",
+      "earliest_at": "2026-07-31T21:15:23Z",
+      "latest_at": "2026-07-31T21:15:23Z",
       "primary_item": {
-        "id": "b0db0b010c69600bf4be6041feaf47d63459f3de",
-        "title": "Anthropic 发现 Claude 在网络安全评估中真实入侵外部系统并上传恶意软件至 PyPI",
-        "url": "https://aihot.virxact.com/items/cms8650ic00p3rot0fziccgws",
+        "id": "227440df1a78ba1b85f631ba017e91d637977309",
+        "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+        "url": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_af33f72d4acf",
-      "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-      "primary_url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:39:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:39:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7341,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T17:39:46Z",
-      "latest_at": "2026-07-30T17:39:46Z",
-      "primary_item": {
-        "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-        "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
-        "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3d599ed4b876",
-      "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
-      "url": "https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i",
-      "primary_url": "https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i",
-      "source": "X：Anthropic (@AnthropicAI)",
+      "story_id": "story_ceacf4cb4c8e",
+      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+      "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+      "primary_url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5111eca1565bec4b17271a21c0953e970c8f9e96",
-          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
-          "url": "https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i",
-          "source": "X：Anthropic (@AnthropicAI)",
+          "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T23:02:34Z"
+          "published_at": "2026-07-31T20:25:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Anthropic (@AnthropicAI)"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "5111eca1565bec4b17271a21c0953e970c8f9e96",
-          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
-          "url": "https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i",
-          "source": "X：Anthropic (@AnthropicAI)",
+          "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T23:02:34Z"
+          "published_at": "2026-07-31T20:25:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9582,
+        "recency": 0.8492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -377,454 +356,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T23:02:34Z",
-      "latest_at": "2026-07-30T23:02:34Z",
+      "earliest_at": "2026-07-31T20:25:20Z",
+      "latest_at": "2026-07-31T20:25:20Z",
       "primary_item": {
-        "id": "5111eca1565bec4b17271a21c0953e970c8f9e96",
-        "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
-        "url": "https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i",
-        "source": "X：Anthropic (@AnthropicAI)",
+        "id": "094372bb8dcf343bf9d06a955a29a63091b5102c",
+        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "url": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_fb76181fc482",
-      "title": "GitHub Copilot in Visual Studio — July update",
-      "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-      "primary_url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
-          "title": "GitHub Copilot in Visual Studio — July update",
-          "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:01:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
-          "title": "GitHub Copilot in Visual Studio — July update",
-          "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:01:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6244,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T15:01:48Z",
-      "latest_at": "2026-07-30T15:01:48Z",
-      "primary_item": {
-        "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
-        "title": "GitHub Copilot in Visual Studio — July update",
-        "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9cb4cbdb834e",
-      "title": "Limit remote control to managed devices",
-      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "primary_url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-          "title": "Limit remote control to managed devices",
-          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T14:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-          "title": "Limit remote control to managed devices",
-          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T14:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6195,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T14:54:47Z",
-      "latest_at": "2026-07-30T14:54:47Z",
-      "primary_item": {
-        "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-        "title": "Limit remote control to managed devices",
-        "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4639f250fb53",
-      "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-      "url": "https://aihot.virxact.com/items/cms7yt12z02fdro20rgzdgpdy",
-      "primary_url": "https://aihot.virxact.com/items/cms7yt12z02fdro20rgzdgpdy",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "458752874b766a2e3bbef7748cd511b459dbdf71",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-          "url": "https://aihot.virxact.com/items/cms7yt12z02fdro20rgzdgpdy",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T20:26:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "458752874b766a2e3bbef7748cd511b459dbdf71",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-          "url": "https://aihot.virxact.com/items/cms7yt12z02fdro20rgzdgpdy",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T20:26:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8499,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T20:26:38Z",
-      "latest_at": "2026-07-30T20:26:38Z",
-      "primary_item": {
-        "id": "458752874b766a2e3bbef7748cd511b459dbdf71",
-        "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-        "url": "https://aihot.virxact.com/items/cms7yt12z02fdro20rgzdgpdy",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e04c7251977f",
-      "title": "Gemini Spark 集成 Chrome 自动浏览功能",
-      "url": "https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi",
-      "primary_url": "https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "977eb0cbd6006dce27aa7e12d5560787faa7fa28",
-          "title": "Gemini Spark 集成 Chrome 自动浏览功能",
-          "url": "https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T20:15:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "977eb0cbd6006dce27aa7e12d5560787faa7fa28",
-          "title": "Gemini Spark 集成 Chrome 自动浏览功能",
-          "url": "https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T20:15:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8422,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T20:15:28Z",
-      "latest_at": "2026-07-30T20:15:28Z",
-      "primary_item": {
-        "id": "977eb0cbd6006dce27aa7e12d5560787faa7fa28",
-        "title": "Gemini Spark 集成 Chrome 自动浏览功能",
-        "url": "https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5de785eb71b4",
-      "title": "Google Earth 集成 Nano Banana 2 图像生成",
-      "url": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
-      "primary_url": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "644e006dfecd2d40f90f79f370096bb3c27a91bf",
-          "title": "Google Earth 集成 Nano Banana 2 图像生成",
-          "url": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T18:53:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "644e006dfecd2d40f90f79f370096bb3c27a91bf",
-          "title": "Google Earth 集成 Nano Banana 2 图像生成",
-          "url": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T18:53:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.785,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T18:53:09Z",
-      "latest_at": "2026-07-30T18:53:09Z",
-      "primary_item": {
-        "id": "644e006dfecd2d40f90f79f370096bb3c27a91bf",
-        "title": "Google Earth 集成 Nano Banana 2 图像生成",
-        "url": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b395bdbb822a",
-      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-      "url": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
-      "primary_url": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5afc7667286ac8df87a01c525f5e1626216c1cf0",
-          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-          "url": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:32:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "5afc7667286ac8df87a01c525f5e1626216c1cf0",
-          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-          "url": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:32:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7294,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T17:32:59Z",
-      "latest_at": "2026-07-30T17:32:59Z",
-      "primary_item": {
-        "id": "5afc7667286ac8df87a01c525f5e1626216c1cf0",
-        "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-        "url": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7de0dde055c4",
-      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-      "url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
-      "primary_url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "789d609ff4cb8a66749e3fcac034b5846985c785",
-          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-          "url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:30:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "789d609ff4cb8a66749e3fcac034b5846985c785",
-          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-          "url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:30:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7276,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T17:30:24Z",
-      "latest_at": "2026-07-30T17:30:24Z",
-      "primary_item": {
-        "id": "789d609ff4cb8a66749e3fcac034b5846985c785",
-        "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-        "url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_71ca6c85c9c5",
-      "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-      "url": "https://www.aibase.com/news/30014",
-      "primary_url": "https://www.aibase.com/news/30014",
+      "story_id": "story_cec1665200b4",
+      "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+      "url": "https://www.aibase.com/news/30048",
+      "primary_url": "https://www.aibase.com/news/30048",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
-          "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-          "url": "https://www.aibase.com/news/30014",
+          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "url": "https://www.aibase.com/news/30048",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T17:02:42.869392Z"
+          "published_at": "2026-07-31T18:02:27.084384Z"
         }
       ],
       "source_count": 1,
@@ -833,25 +390,25 @@
       ],
       "items": [
         {
-          "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
-          "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-          "url": "https://www.aibase.com/news/30014",
+          "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+          "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+          "url": "https://www.aibase.com/news/30048",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T17:02:42.869392Z"
+          "published_at": "2026-07-31T18:02:27.084384Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7083,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -859,32 +416,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T17:02:42.869392Z",
-      "latest_at": "2026-07-30T17:02:42.869392Z",
+      "earliest_at": "2026-07-31T18:02:27.084384Z",
+      "latest_at": "2026-07-31T18:02:27.084384Z",
       "primary_item": {
-        "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
-        "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-        "url": "https://www.aibase.com/news/30014",
+        "id": "93dfcbeffa11751d1f91f27a102e05e3016bacd0",
+        "title": "微信公众号推出 AI\"一键排版\"：自动分段、生成小标题、匹配配图三步到位",
+        "url": "https://www.aibase.com/news/30048",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8ab9010e1e3f",
-      "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
-      "url": "https://www.aibase.com/news/30013",
-      "primary_url": "https://www.aibase.com/news/30013",
+      "story_id": "story_157edb3ab0b6",
+      "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+      "url": "https://www.aibase.com/news/30049",
+      "primary_url": "https://www.aibase.com/news/30049",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
-          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
-          "url": "https://www.aibase.com/news/30013",
+          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "url": "https://www.aibase.com/news/30049",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T17:02:42.869392Z"
+          "published_at": "2026-07-31T18:02:27.084384Z"
         }
       ],
       "source_count": 1,
@@ -893,25 +450,25 @@
       ],
       "items": [
         {
-          "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
-          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
-          "url": "https://www.aibase.com/news/30013",
+          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+          "url": "https://www.aibase.com/news/30049",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T17:02:42.869392Z"
+          "published_at": "2026-07-31T18:02:27.084384Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7083,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -919,92 +476,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T17:02:42.869392Z",
-      "latest_at": "2026-07-30T17:02:42.869392Z",
+      "earliest_at": "2026-07-31T18:02:27.084384Z",
+      "latest_at": "2026-07-31T18:02:27.084384Z",
       "primary_item": {
-        "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
-        "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
-        "url": "https://www.aibase.com/news/30013",
+        "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
+        "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
+        "url": "https://www.aibase.com/news/30049",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_094dc1ad93b6",
-      "title": "Perplexity Computer 推出 Projects 功能",
-      "url": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
-      "primary_url": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0bd34f995f69b84c7037139f9d8de04ce43bbbc3",
-          "title": "Perplexity Computer 推出 Projects 功能",
-          "url": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T16:54:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "0bd34f995f69b84c7037139f9d8de04ce43bbbc3",
-          "title": "Perplexity Computer 推出 Projects 功能",
-          "url": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T16:54:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7028,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T16:54:48Z",
-      "latest_at": "2026-07-30T16:54:48Z",
-      "primary_item": {
-        "id": "0bd34f995f69b84c7037139f9d8de04ce43bbbc3",
-        "title": "Perplexity Computer 推出 Projects 功能",
-        "url": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5986d58198e9",
-      "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-      "url": "https://www.aibase.com/news/30011",
-      "primary_url": "https://www.aibase.com/news/30011",
+      "story_id": "story_1d8c8536827c",
+      "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+      "url": "https://www.aibase.com/news/30047",
+      "primary_url": "https://www.aibase.com/news/30047",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "url": "https://www.aibase.com/news/30011",
+          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "url": "https://www.aibase.com/news/30047",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T16:02:42.869392Z"
+          "published_at": "2026-07-31T16:02:27.084384Z"
         }
       ],
       "source_count": 1,
@@ -1013,13 +510,13 @@
       ],
       "items": [
         {
-          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "url": "https://www.aibase.com/news/30011",
+          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "url": "https://www.aibase.com/news/30047",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T16:02:42.869392Z"
+          "published_at": "2026-07-31T16:02:27.084384Z"
         }
       ],
       "item_count": 1,
@@ -1038,32 +535,32 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T16:02:42.869392Z",
-      "latest_at": "2026-07-30T16:02:42.869392Z",
+      "earliest_at": "2026-07-31T16:02:27.084384Z",
+      "latest_at": "2026-07-31T16:02:27.084384Z",
       "primary_item": {
-        "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-        "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-        "url": "https://www.aibase.com/news/30011",
+        "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+        "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+        "url": "https://www.aibase.com/news/30047",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f94517e704d2",
-      "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-      "url": "https://www.aibase.com/news/30009",
-      "primary_url": "https://www.aibase.com/news/30009",
+      "story_id": "story_0953aebca729",
+      "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+      "url": "https://www.aibase.com/news/30044",
+      "primary_url": "https://www.aibase.com/news/30044",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
-          "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-          "url": "https://www.aibase.com/news/30009",
+          "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
+          "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+          "url": "https://www.aibase.com/news/30044",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T16:02:42.869392Z"
+          "published_at": "2026-07-31T16:02:27.084384Z"
         }
       ],
       "source_count": 1,
@@ -1072,13 +569,13 @@
       ],
       "items": [
         {
-          "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
-          "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-          "url": "https://www.aibase.com/news/30009",
+          "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
+          "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+          "url": "https://www.aibase.com/news/30044",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T16:02:42.869392Z"
+          "published_at": "2026-07-31T16:02:27.084384Z"
         }
       ],
       "item_count": 1,
@@ -1097,32 +594,32 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T16:02:42.869392Z",
-      "latest_at": "2026-07-30T16:02:42.869392Z",
+      "earliest_at": "2026-07-31T16:02:27.084384Z",
+      "latest_at": "2026-07-31T16:02:27.084384Z",
       "primary_item": {
-        "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
-        "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
-        "url": "https://www.aibase.com/news/30009",
+        "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
+        "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+        "url": "https://www.aibase.com/news/30044",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_90105d6e1279",
-      "title": "打造会学习的AI客服：Encore AI获 3000 万美元A轮融资，掘金企业对话数据",
-      "url": "https://www.aibase.com/news/30010",
-      "primary_url": "https://www.aibase.com/news/30010",
+      "story_id": "story_72d30b731ced",
+      "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
+      "url": "https://www.aibase.com/news/30040",
+      "primary_url": "https://www.aibase.com/news/30040",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "41a21038156240739cc1c5409cd1f1e2f9cee899",
-          "title": "打造会学习的AI客服：Encore AI获 3000 万美元A轮融资，掘金企业对话数据",
-          "url": "https://www.aibase.com/news/30010",
+          "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
+          "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
+          "url": "https://www.aibase.com/news/30040",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T16:02:42.869392Z"
+          "published_at": "2026-07-31T16:02:27.084384Z"
         }
       ],
       "source_count": 1,
@@ -1131,13 +628,13 @@
       ],
       "items": [
         {
-          "id": "41a21038156240739cc1c5409cd1f1e2f9cee899",
-          "title": "打造会学习的AI客服：Encore AI获 3000 万美元A轮融资，掘金企业对话数据",
-          "url": "https://www.aibase.com/news/30010",
+          "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
+          "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
+          "url": "https://www.aibase.com/news/30040",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T16:02:42.869392Z"
+          "published_at": "2026-07-31T16:02:27.084384Z"
         }
       ],
       "item_count": 1,
@@ -1156,32 +653,32 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T16:02:42.869392Z",
-      "latest_at": "2026-07-30T16:02:42.869392Z",
+      "earliest_at": "2026-07-31T16:02:27.084384Z",
+      "latest_at": "2026-07-31T16:02:27.084384Z",
       "primary_item": {
-        "id": "41a21038156240739cc1c5409cd1f1e2f9cee899",
-        "title": "打造会学习的AI客服：Encore AI获 3000 万美元A轮融资，掘金企业对话数据",
-        "url": "https://www.aibase.com/news/30010",
+        "id": "2cc1223af2f0cee57a2e93e4e060f7d5d303b2b3",
+        "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
+        "url": "https://www.aibase.com/news/30040",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3fd859d60784",
-      "title": "纳德拉公开摊牌：别只信 OpenAI 和 Anthropic，微软要做最便宜的那个",
-      "url": "https://www.aibase.com/news/30008",
-      "primary_url": "https://www.aibase.com/news/30008",
+      "story_id": "story_c666711b89d3",
+      "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
+      "url": "https://www.aibase.com/news/30045",
+      "primary_url": "https://www.aibase.com/news/30045",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "28e38cef4569ffd77bde757b112e73ffd4c01e45",
-          "title": "纳德拉公开摊牌：别只信 OpenAI 和 Anthropic，微软要做最便宜的那个",
-          "url": "https://www.aibase.com/news/30008",
+          "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
+          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
+          "url": "https://www.aibase.com/news/30045",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T16:02:42.869392Z"
+          "published_at": "2026-07-31T16:02:27.084384Z"
         }
       ],
       "source_count": 1,
@@ -1190,13 +687,13 @@
       ],
       "items": [
         {
-          "id": "28e38cef4569ffd77bde757b112e73ffd4c01e45",
-          "title": "纳德拉公开摊牌：别只信 OpenAI 和 Anthropic，微软要做最便宜的那个",
-          "url": "https://www.aibase.com/news/30008",
+          "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
+          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
+          "url": "https://www.aibase.com/news/30045",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T16:02:42.869392Z"
+          "published_at": "2026-07-31T16:02:27.084384Z"
         }
       ],
       "item_count": 1,
@@ -1215,12 +712,484 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-30T16:02:42.869392Z",
-      "latest_at": "2026-07-30T16:02:42.869392Z",
+      "earliest_at": "2026-07-31T16:02:27.084384Z",
+      "latest_at": "2026-07-31T16:02:27.084384Z",
       "primary_item": {
-        "id": "28e38cef4569ffd77bde757b112e73ffd4c01e45",
-        "title": "纳德拉公开摊牌：别只信 OpenAI 和 Anthropic，微软要做最便宜的那个",
-        "url": "https://www.aibase.com/news/30008",
+        "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
+        "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
+        "url": "https://www.aibase.com/news/30045",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_490e6cc7228f",
+      "title": "特斯拉中国车机正式接入豆包大模型",
+      "url": "https://www.aibase.com/news/30042",
+      "primary_url": "https://www.aibase.com/news/30042",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4895c54370dac756b7ceea5fed5d1e204f406b0f",
+          "title": "特斯拉中国车机正式接入豆包大模型",
+          "url": "https://www.aibase.com/news/30042",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T16:02:27.084384Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4895c54370dac756b7ceea5fed5d1e204f406b0f",
+          "title": "特斯拉中国车机正式接入豆包大模型",
+          "url": "https://www.aibase.com/news/30042",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T16:02:27.084384Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T16:02:27.084384Z",
+      "latest_at": "2026-07-31T16:02:27.084384Z",
+      "primary_item": {
+        "id": "4895c54370dac756b7ceea5fed5d1e204f406b0f",
+        "title": "特斯拉中国车机正式接入豆包大模型",
+        "url": "https://www.aibase.com/news/30042",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5bb7bd93b518",
+      "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
+      "url": "https://www.aibase.com/news/30041",
+      "primary_url": "https://www.aibase.com/news/30041",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
+          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
+          "url": "https://www.aibase.com/news/30041",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T16:02:27.084384Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
+          "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
+          "url": "https://www.aibase.com/news/30041",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T16:02:27.084384Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T16:02:27.084384Z",
+      "latest_at": "2026-07-31T16:02:27.084384Z",
+      "primary_item": {
+        "id": "2f1ee219ee82a980a69cbe42dbafbe0c791adfb4",
+        "title": "韩国最大 AI 模型问世：LG 发布 7500 亿参数 K-EXAONE 2.0，Apache 开源直面中国模型",
+        "url": "https://www.aibase.com/news/30041",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_714304ab85b2",
+      "title": "颠覆影视创作！字节跳动王牌模型Seedance 2. 5 正式发布， 30 秒一镜成片时代来了",
+      "url": "https://www.aibase.com/news/30043",
+      "primary_url": "https://www.aibase.com/news/30043",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f1dd54bc8ee9576b462cdc95840d321f5f89e281",
+          "title": "颠覆影视创作！字节跳动王牌模型Seedance 2. 5 正式发布， 30 秒一镜成片时代来了",
+          "url": "https://www.aibase.com/news/30043",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T16:02:27.084384Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f1dd54bc8ee9576b462cdc95840d321f5f89e281",
+          "title": "颠覆影视创作！字节跳动王牌模型Seedance 2. 5 正式发布， 30 秒一镜成片时代来了",
+          "url": "https://www.aibase.com/news/30043",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T16:02:27.084384Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T16:02:27.084384Z",
+      "latest_at": "2026-07-31T16:02:27.084384Z",
+      "primary_item": {
+        "id": "f1dd54bc8ee9576b462cdc95840d321f5f89e281",
+        "title": "颠覆影视创作！字节跳动王牌模型Seedance 2. 5 正式发布， 30 秒一镜成片时代来了",
+        "url": "https://www.aibase.com/news/30043",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4dc05d078763",
+      "title": "animated-voiceover 开源：一人干翻动画工作室",
+      "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+      "primary_url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b664853e386d98e600049d818bf008c371beff7e",
+          "title": "animated-voiceover 开源：一人干翻动画工作室",
+          "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T16:01:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "b664853e386d98e600049d818bf008c371beff7e",
+          "title": "animated-voiceover 开源：一人干翻动画工作室",
+          "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T16:01:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6662,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T16:01:51Z",
+      "latest_at": "2026-07-31T16:01:51Z",
+      "primary_item": {
+        "id": "b664853e386d98e600049d818bf008c371beff7e",
+        "title": "animated-voiceover 开源：一人干翻动画工作室",
+        "url": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_57752590bd93",
+      "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+      "url": "https://www.aibase.com/news/30039",
+      "primary_url": "https://www.aibase.com/news/30039",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "url": "https://www.aibase.com/news/30039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T15:02:27.084384Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "url": "https://www.aibase.com/news/30039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T15:02:27.084384Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T15:02:27.084384Z",
+      "latest_at": "2026-07-31T15:02:27.084384Z",
+      "primary_item": {
+        "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+        "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+        "url": "https://www.aibase.com/news/30039",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f460f990aa88",
+      "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+      "url": "https://www.aibase.com/news/30036",
+      "primary_url": "https://www.aibase.com/news/30036",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
+          "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+          "url": "https://www.aibase.com/news/30036",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T15:02:27.084384Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
+          "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+          "url": "https://www.aibase.com/news/30036",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T15:02:27.084384Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T15:02:27.084384Z",
+      "latest_at": "2026-07-31T15:02:27.084384Z",
+      "primary_item": {
+        "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
+        "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+        "url": "https://www.aibase.com/news/30036",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f549bb43bb02",
+      "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
+      "url": "https://www.aibase.com/news/30037",
+      "primary_url": "https://www.aibase.com/news/30037",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "928478f4884a4538616f43d223f9c0a5fe21e709",
+          "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
+          "url": "https://www.aibase.com/news/30037",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T15:02:27.084384Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "928478f4884a4538616f43d223f9c0a5fe21e709",
+          "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
+          "url": "https://www.aibase.com/news/30037",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T15:02:27.084384Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T15:02:27.084384Z",
+      "latest_at": "2026-07-31T15:02:27.084384Z",
+      "primary_item": {
+        "id": "928478f4884a4538616f43d223f9c0a5fe21e709",
+        "title": "告别盲目像素预测：PhiZero开创“物理语言”先河，让AI世界模型学会像人一样思考",
+        "url": "https://www.aibase.com/news/30037",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c6475ced3318",
+      "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
+      "url": "https://www.aibase.com/news/30038",
+      "primary_url": "https://www.aibase.com/news/30038",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3e749f97546d4a2faf9f23f6da14bf44130aaa8c",
+          "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
+          "url": "https://www.aibase.com/news/30038",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T15:02:27.084384Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3e749f97546d4a2faf9f23f6da14bf44130aaa8c",
+          "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
+          "url": "https://www.aibase.com/news/30038",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T15:02:27.084384Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T15:02:27.084384Z",
+      "latest_at": "2026-07-31T15:02:27.084384Z",
+      "primary_item": {
+        "id": "3e749f97546d4a2faf9f23f6da14bf44130aaa8c",
+        "title": "阿里发布语音识别新模型，医疗词汇\"听中率\"破 95%，曾拿全球最低错字率",
+        "url": "https://www.aibase.com/news/30038",
         "source": "AIbase",
         "source_name": "AIbase"
       }
