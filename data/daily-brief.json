@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-04T00:09:44.242765Z",
+  "generated_at": "2026-08-05T00:03:41.591849Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_36483847691e",
-      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "story_id": "story_75f2ee9bfb96",
+      "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
+      "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
+      "primary_url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
+          "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
+          "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
+          "published_at": "2026-08-04T19:09:32Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +27,25 @@
       ],
       "items": [
         {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
+          "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
+          "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
+          "published_at": "2026-08-04T19:09:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.8507,
-      "importance_score": 0.8507,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9484,
+        "ai_relevance": 0.91,
+        "recency": 0.7957,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,92 +54,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T22:55:29Z",
-      "latest_at": "2026-08-03T22:55:29Z",
+      "earliest_at": "2026-08-04T19:09:32Z",
+      "latest_at": "2026-08-04T19:09:32Z",
       "primary_item": {
-        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+        "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
+        "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
+        "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_9eeac8490556",
-      "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
-      "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
-      "primary_url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_8dda83992e79",
+      "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "36b45e08a8250edd0fa6cdbc84fa80b2b8318390",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
-          "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T23:19:50Z"
+          "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
+          "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:02:34Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "36b45e08a8250edd0fa6cdbc84fa80b2b8318390",
-          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
-          "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T23:19:50Z"
+          "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
+          "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:02:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
-      "importance_label": "行业动态",
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9653,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7909,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T23:19:50Z",
-      "latest_at": "2026-08-03T23:19:50Z",
+      "earliest_at": "2026-08-04T19:02:34Z",
+      "latest_at": "2026-08-04T19:02:34Z",
       "primary_item": {
-        "id": "36b45e08a8250edd0fa6cdbc84fa80b2b8318390",
-        "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业&quot;马克思主义&quot;",
-        "url": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
+        "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_61a162b6e7ab",
-      "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "story_id": "story_353fa9ae93b8",
+      "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+      "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
+      "primary_url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
+          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
+          "published_at": "2026-08-04T19:15:23Z"
         }
       ],
       "source_count": 1,
@@ -148,25 +149,25 @@
       ],
       "items": [
         {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
+          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
+          "published_at": "2026-08-04T19:15:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7047,
+        "recency": 0.7998,
         "story_heat": 0.0
       },
       "category": "official",
@@ -175,59 +176,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T17:04:32Z",
-      "latest_at": "2026-08-03T17:04:32Z",
+      "earliest_at": "2026-08-04T19:15:23Z",
+      "latest_at": "2026-08-04T19:15:23Z",
       "primary_item": {
-        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-        "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
-        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+        "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
+        "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+        "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_02b5220d9272",
-      "title": "GPT-Live实时音频新架构发布",
-      "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-      "primary_url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-      "source": "X：Greg Brockman (@gdb)",
+      "story_id": "story_79eb4c3dd123",
+      "title": "Replit 环境智能：免提示词自动生成设计",
+      "url": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
+      "primary_url": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
+      "source": "X：Replit (@Replit)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "76b6bec425254f9d88ee65562a6d1120b2105e81",
-          "title": "GPT-Live实时音频新架构发布",
-          "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-          "source": "X：Greg Brockman (@gdb)",
+          "id": "40af1aba70ef10b470df34cc2b9daabac5e448b2",
+          "title": "Replit 环境智能：免提示词自动生成设计",
+          "url": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
+          "source": "X：Replit (@Replit)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
+          "published_at": "2026-08-04T22:00:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Greg Brockman (@gdb)"
+        "X：Replit (@Replit)"
       ],
       "items": [
         {
-          "id": "76b6bec425254f9d88ee65562a6d1120b2105e81",
-          "title": "GPT-Live实时音频新架构发布",
-          "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-          "source": "X：Greg Brockman (@gdb)",
+          "id": "40af1aba70ef10b470df34cc2b9daabac5e448b2",
+          "title": "Replit 环境智能：免提示词自动生成设计",
+          "url": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
+          "source": "X：Replit (@Replit)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
+          "published_at": "2026-08-04T22:00:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9279,
+        "recency": 0.9142,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -235,32 +236,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T22:25:53Z",
-      "latest_at": "2026-08-03T22:25:53Z",
+      "earliest_at": "2026-08-04T22:00:10Z",
+      "latest_at": "2026-08-04T22:00:10Z",
       "primary_item": {
-        "id": "76b6bec425254f9d88ee65562a6d1120b2105e81",
-        "title": "GPT-Live实时音频新架构发布",
-        "url": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-        "source": "X：Greg Brockman (@gdb)",
+        "id": "40af1aba70ef10b470df34cc2b9daabac5e448b2",
+        "title": "Replit 环境智能：免提示词自动生成设计",
+        "url": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
+        "source": "X：Replit (@Replit)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_545d6c402c71",
-      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "story_id": "story_6ac81b78de9d",
+      "title": "Upcoming deprecation of GitHub Spark on github.com",
+      "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
+      "primary_url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+          "title": "Upcoming deprecation of GitHub Spark on github.com",
+          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
+          "published_at": "2026-08-04T15:54:47Z"
         }
       ],
       "source_count": 1,
@@ -269,25 +270,25 @@
       ],
       "items": [
         {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+          "title": "Upcoming deprecation of GitHub Spark on github.com",
+          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
+          "published_at": "2026-08-04T15:54:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.683,
+        "recency": 0.6605,
         "story_heat": 0.0
       },
       "category": "official",
@@ -296,59 +297,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T16:33:13Z",
-      "latest_at": "2026-08-03T16:33:13Z",
+      "earliest_at": "2026-08-04T15:54:47Z",
+      "latest_at": "2026-08-04T15:54:47Z",
       "primary_item": {
-        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
+        "title": "Upcoming deprecation of GitHub Spark on github.com",
+        "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0417c5bf90f3",
-      "title": "Claude Code 连接器可复用至 Artifacts",
-      "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-      "primary_url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-      "source": "X：Thariq (@trq212)",
+      "story_id": "story_ca48ba9fe950",
+      "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+      "url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
+      "primary_url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
+      "source": "Simon Willison 博客",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "01a372fc2744bf34c46d8c12e93c0e37b2387993",
-          "title": "Claude Code 连接器可复用至 Artifacts",
-          "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-          "source": "X：Thariq (@trq212)",
+          "id": "862662f77e4c44e0c10933663a288947915c80f8",
+          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+          "url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T21:13:53Z"
+          "published_at": "2026-08-04T19:10:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Thariq (@trq212)"
+        "Simon Willison 博客"
       ],
       "items": [
         {
-          "id": "01a372fc2744bf34c46d8c12e93c0e37b2387993",
-          "title": "Claude Code 连接器可复用至 Artifacts",
-          "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-          "source": "X：Thariq (@trq212)",
+          "id": "862662f77e4c44e0c10933663a288947915c80f8",
+          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+          "url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T21:13:53Z"
+          "published_at": "2026-08-04T19:10:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.7962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -356,632 +357,215 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T21:13:53Z",
-      "latest_at": "2026-08-03T21:13:53Z",
+      "earliest_at": "2026-08-04T19:10:09Z",
+      "latest_at": "2026-08-04T19:10:09Z",
       "primary_item": {
-        "id": "01a372fc2744bf34c46d8c12e93c0e37b2387993",
-        "title": "Claude Code 连接器可复用至 Artifacts",
-        "url": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-        "source": "X：Thariq (@trq212)",
+        "id": "862662f77e4c44e0c10933663a288947915c80f8",
+        "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+        "url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
+        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_df199a5296df",
-      "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-      "url": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-      "primary_url": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-      "source": "Runway：News（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_d3753d032c98",
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7a2c21d86f257577de2d547209a1721114498b49",
-          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-          "url": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T20:12:03Z"
+          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
+          "title": "The latest AI news we announced in July 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T13:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Runway：News（网页）"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "7a2c21d86f257577de2d547209a1721114498b49",
-          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-          "url": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-          "source": "Runway：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T20:12:03Z"
+          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
+          "title": "The latest AI news we announced in July 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T13:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
-      "importance_label": "行业动态",
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8349,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5391,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T20:12:03Z",
-      "latest_at": "2026-08-03T20:12:03Z",
+      "earliest_at": "2026-08-04T13:00:00Z",
+      "latest_at": "2026-08-04T13:00:00Z",
       "primary_item": {
-        "id": "7a2c21d86f257577de2d547209a1721114498b49",
-        "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-        "url": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-        "source": "Runway：News（网页）",
-        "source_name": "AI HOT"
+        "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
+        "title": "The latest AI news we announced in July 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_76b2cc8ec141",
-      "title": "微软开源 Orchard 智能体训练框架",
-      "url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-      "primary_url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "source_name": "AI HOT",
+      "story_id": "story_1964f5d9b9fc",
+      "title": "Customize Dependabot pull request branch names",
+      "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+      "primary_url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "26cf8f2f219dc5e8961561c4278b2804570ff298",
-          "title": "微软开源 Orchard 智能体训练框架",
-          "url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T19:43:28Z"
+          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
+          "title": "Customize Dependabot pull request branch names",
+          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T12:57:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Microsoft Research (@MSFTResearch)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "26cf8f2f219dc5e8961561c4278b2804570ff298",
-          "title": "微软开源 Orchard 智能体训练框架",
-          "url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T19:43:28Z"
+          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
+          "title": "Customize Dependabot pull request branch names",
+          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T12:57:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
-      "importance_label": "行业动态",
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8151,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5372,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T19:43:28Z",
-      "latest_at": "2026-08-03T19:43:28Z",
+      "earliest_at": "2026-08-04T12:57:18Z",
+      "latest_at": "2026-08-04T12:57:18Z",
       "primary_item": {
-        "id": "26cf8f2f219dc5e8961561c4278b2804570ff298",
-        "title": "微软开源 Orchard 智能体训练框架",
-        "url": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-        "source": "X：Microsoft Research (@MSFTResearch)",
-        "source_name": "AI HOT"
+        "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
+        "title": "Customize Dependabot pull request branch names",
+        "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_19115cd7fab6",
-      "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-      "url": "https://www.aibase.com/news/30081",
-      "primary_url": "https://www.aibase.com/news/30081",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_488ecd2560ee",
+      "title": "Code coverage automatic enablement in Code Quality settings",
+      "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
+      "primary_url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "url": "https://www.aibase.com/news/30081",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T18:09:44.242765Z"
+          "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
+          "title": "Code coverage automatic enablement in Code Quality settings",
+          "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T12:36:32Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "url": "https://www.aibase.com/news/30081",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T18:09:44.242765Z"
+          "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
+          "title": "Code coverage automatic enablement in Code Quality settings",
+          "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T12:36:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5228,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T18:09:44.242765Z",
-      "latest_at": "2026-08-03T18:09:44.242765Z",
+      "earliest_at": "2026-08-04T12:36:32Z",
+      "latest_at": "2026-08-04T12:36:32Z",
       "primary_item": {
-        "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-        "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-        "url": "https://www.aibase.com/news/30081",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
+        "title": "Code coverage automatic enablement in Code Quality settings",
+        "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_635dd29f4505",
-      "title": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
-      "url": "https://www.aibase.com/news/30083",
-      "primary_url": "https://www.aibase.com/news/30083",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "22d30d8b6132beddf2b7d919f3b78e2b2c6f9224",
-          "title": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
-          "url": "https://www.aibase.com/news/30083",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T18:09:44.242765Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "22d30d8b6132beddf2b7d919f3b78e2b2c6f9224",
-          "title": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
-          "url": "https://www.aibase.com/news/30083",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T18:09:44.242765Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T18:09:44.242765Z",
-      "latest_at": "2026-08-03T18:09:44.242765Z",
-      "primary_item": {
-        "id": "22d30d8b6132beddf2b7d919f3b78e2b2c6f9224",
-        "title": "月之暗面否认“最早于本月内提交香港 IPO 申请”传闻",
-        "url": "https://www.aibase.com/news/30083",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_eb5192c3f285",
-      "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-      "url": "https://www.aibase.com/news/30082",
-      "primary_url": "https://www.aibase.com/news/30082",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6f2fa9e453b458d4d1b5e74035c9dc0909088931",
-          "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-          "url": "https://www.aibase.com/news/30082",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T18:09:44.242765Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6f2fa9e453b458d4d1b5e74035c9dc0909088931",
-          "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-          "url": "https://www.aibase.com/news/30082",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T18:09:44.242765Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T18:09:44.242765Z",
-      "latest_at": "2026-08-03T18:09:44.242765Z",
-      "primary_item": {
-        "id": "6f2fa9e453b458d4d1b5e74035c9dc0909088931",
-        "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-        "url": "https://www.aibase.com/news/30082",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_786089639204",
-      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
-      "url": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0",
-      "primary_url": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1d29a34355672255d89625025b46f85bdedfb0b1",
-          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
-          "url": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T17:38:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1d29a34355672255d89625025b46f85bdedfb0b1",
-          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
-          "url": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T17:38:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7285,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T17:38:45Z",
-      "latest_at": "2026-08-03T17:38:45Z",
-      "primary_item": {
-        "id": "1d29a34355672255d89625025b46f85bdedfb0b1",
-        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
-        "url": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_aacf50845682",
-      "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-      "url": "https://www.aibase.com/news/30076",
-      "primary_url": "https://www.aibase.com/news/30076",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
-          "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "url": "https://www.aibase.com/news/30076",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T17:09:44.242765Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
-          "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "url": "https://www.aibase.com/news/30076",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T17:09:44.242765Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T17:09:44.242765Z",
-      "latest_at": "2026-08-03T17:09:44.242765Z",
-      "primary_item": {
-        "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
-        "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-        "url": "https://www.aibase.com/news/30076",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cef2cc708b3e",
-      "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-      "url": "https://www.aibase.com/news/30078",
-      "primary_url": "https://www.aibase.com/news/30078",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c5357842007b62e9404544dc1119ed664675d994",
-          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "url": "https://www.aibase.com/news/30078",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T17:09:44.242765Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c5357842007b62e9404544dc1119ed664675d994",
-          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "url": "https://www.aibase.com/news/30078",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T17:09:44.242765Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T17:09:44.242765Z",
-      "latest_at": "2026-08-03T17:09:44.242765Z",
-      "primary_item": {
-        "id": "c5357842007b62e9404544dc1119ed664675d994",
-        "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "url": "https://www.aibase.com/news/30078",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_39c31bbcdc27",
-      "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-      "url": "https://www.aibase.com/news/30079",
-      "primary_url": "https://www.aibase.com/news/30079",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "url": "https://www.aibase.com/news/30079",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T17:09:44.242765Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "url": "https://www.aibase.com/news/30079",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T17:09:44.242765Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T17:09:44.242765Z",
-      "latest_at": "2026-08-03T17:09:44.242765Z",
-      "primary_item": {
-        "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-        "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-        "url": "https://www.aibase.com/news/30079",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_740a8ac055ff",
-      "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-      "url": "https://www.aibase.com/news/30077",
-      "primary_url": "https://www.aibase.com/news/30077",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
-          "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "url": "https://www.aibase.com/news/30077",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T17:09:44.242765Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
-          "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "url": "https://www.aibase.com/news/30077",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T17:09:44.242765Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T17:09:44.242765Z",
-      "latest_at": "2026-08-03T17:09:44.242765Z",
-      "primary_item": {
-        "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
-        "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-        "url": "https://www.aibase.com/news/30077",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_25da7430e13d",
-      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-      "url": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1",
-      "primary_url": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1",
+      "story_id": "story_604dc2b3a374",
+      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+      "url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
+      "primary_url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2060aa67e1ee99deede429a856d2e445712159d6",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "url": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1",
+          "id": "07b519016a6976a0b625b7fdd66d5c52ea1d66ff",
+          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T16:24:45Z"
+          "published_at": "2026-08-04T18:17:29Z"
         }
       ],
       "source_count": 1,
@@ -990,57 +574,58 @@
       ],
       "items": [
         {
-          "id": "2060aa67e1ee99deede429a856d2e445712159d6",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "url": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1",
+          "id": "07b519016a6976a0b625b7fdd66d5c52ea1d66ff",
+          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+          "url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T16:24:45Z"
+          "published_at": "2026-08-04T18:17:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6771,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-03T16:24:45Z",
-      "latest_at": "2026-08-03T16:24:45Z",
+      "earliest_at": "2026-08-04T18:17:29Z",
+      "latest_at": "2026-08-04T18:17:29Z",
       "primary_item": {
-        "id": "2060aa67e1ee99deede429a856d2e445712159d6",
-        "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-        "url": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1",
+        "id": "07b519016a6976a0b625b7fdd66d5c52ea1d66ff",
+        "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+        "url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7f91778b66c2",
-      "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
-      "url": "https://www.aibase.com/news/30075",
-      "primary_url": "https://www.aibase.com/news/30075",
+      "story_id": "story_bf0398764b76",
+      "title": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
+      "url": "https://www.aibase.com/news/30109",
+      "primary_url": "https://www.aibase.com/news/30109",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f59bfc236f3c1225600055a79c51a55866c87545",
-          "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
-          "url": "https://www.aibase.com/news/30075",
+          "id": "7aae5fe93fdce2bbe8a3d83adece2841ceee83d9",
+          "title": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
+          "url": "https://www.aibase.com/news/30109",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T16:09:44.242765Z"
+          "published_at": "2026-08-04T18:03:41.591849Z"
         }
       ],
       "source_count": 1,
@@ -1049,57 +634,58 @@
       ],
       "items": [
         {
-          "id": "f59bfc236f3c1225600055a79c51a55866c87545",
-          "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
-          "url": "https://www.aibase.com/news/30075",
+          "id": "7aae5fe93fdce2bbe8a3d83adece2841ceee83d9",
+          "title": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
+          "url": "https://www.aibase.com/news/30109",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T16:09:44.242765Z"
+          "published_at": "2026-08-04T18:03:41.591849Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-03T16:09:44.242765Z",
-      "latest_at": "2026-08-03T16:09:44.242765Z",
+      "earliest_at": "2026-08-04T18:03:41.591849Z",
+      "latest_at": "2026-08-04T18:03:41.591849Z",
       "primary_item": {
-        "id": "f59bfc236f3c1225600055a79c51a55866c87545",
-        "title": "2.5 万亿韩元砸向 AI 算力基建，韩国国家 AI 计算中心破土动工剑指 2028",
-        "url": "https://www.aibase.com/news/30075",
+        "id": "7aae5fe93fdce2bbe8a3d83adece2841ceee83d9",
+        "title": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
+        "url": "https://www.aibase.com/news/30109",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e7c3a3bdfe1c",
-      "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-      "url": "https://www.aibase.com/news/30073",
-      "primary_url": "https://www.aibase.com/news/30073",
+      "story_id": "story_a5e004b3644f",
+      "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+      "url": "https://www.aibase.com/news/30110",
+      "primary_url": "https://www.aibase.com/news/30110",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
-          "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-          "url": "https://www.aibase.com/news/30073",
+          "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+          "url": "https://www.aibase.com/news/30110",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T16:09:44.242765Z"
+          "published_at": "2026-08-04T18:03:41.591849Z"
         }
       ],
       "source_count": 1,
@@ -1108,57 +694,178 @@
       ],
       "items": [
         {
-          "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
-          "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-          "url": "https://www.aibase.com/news/30073",
+          "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+          "url": "https://www.aibase.com/news/30110",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T16:09:44.242765Z"
+          "published_at": "2026-08-04T18:03:41.591849Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-03T16:09:44.242765Z",
-      "latest_at": "2026-08-03T16:09:44.242765Z",
+      "earliest_at": "2026-08-04T18:03:41.591849Z",
+      "latest_at": "2026-08-04T18:03:41.591849Z",
       "primary_item": {
-        "id": "24e6236a56146f5340b2c703f9cdaec44e19db80",
-        "title": "AI助手“元宝”升级图片理解能力 “遇事拍一张”覆盖生活全场景刚需",
-        "url": "https://www.aibase.com/news/30073",
+        "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
+        "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
+        "url": "https://www.aibase.com/news/30110",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8e3f233c3306",
-      "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-      "url": "https://www.aibase.com/news/30072",
-      "primary_url": "https://www.aibase.com/news/30072",
+      "story_id": "story_2c66473919b3",
+      "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+      "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
+      "primary_url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "385fd25f5c38bb9bf94112b44355580a87a91603",
+          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+          "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:54:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "385fd25f5c38bb9bf94112b44355580a87a91603",
+          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+          "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:54:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7433,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T17:54:06Z",
+      "latest_at": "2026-08-04T17:54:06Z",
+      "primary_item": {
+        "id": "385fd25f5c38bb9bf94112b44355580a87a91603",
+        "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+        "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d811da7ba846",
+      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+      "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
+      "primary_url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4b989d8ac8bca2aac185e7faabe1079b5d9f0574",
+          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+          "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:51:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "4b989d8ac8bca2aac185e7faabe1079b5d9f0574",
+          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+          "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T17:51:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7413,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T17:51:09Z",
+      "latest_at": "2026-08-04T17:51:09Z",
+      "primary_item": {
+        "id": "4b989d8ac8bca2aac185e7faabe1079b5d9f0574",
+        "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+        "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d3bfa0347390",
+      "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+      "url": "https://www.aibase.com/news/30107",
+      "primary_url": "https://www.aibase.com/news/30107",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
-          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-          "url": "https://www.aibase.com/news/30072",
+          "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
+          "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "url": "https://www.aibase.com/news/30107",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T16:09:44.242765Z"
+          "published_at": "2026-08-04T17:03:41.591849Z"
         }
       ],
       "source_count": 1,
@@ -1167,13 +874,314 @@
       ],
       "items": [
         {
-          "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
-          "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-          "url": "https://www.aibase.com/news/30072",
+          "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
+          "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+          "url": "https://www.aibase.com/news/30107",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-03T16:09:44.242765Z"
+          "published_at": "2026-08-04T17:03:41.591849Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7083,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T17:03:41.591849Z",
+      "latest_at": "2026-08-04T17:03:41.591849Z",
+      "primary_item": {
+        "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
+        "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
+        "url": "https://www.aibase.com/news/30107",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_468690ebbddb",
+      "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+      "url": "https://www.aibase.com/news/30108",
+      "primary_url": "https://www.aibase.com/news/30108",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
+          "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+          "url": "https://www.aibase.com/news/30108",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T17:03:41.591849Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
+          "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+          "url": "https://www.aibase.com/news/30108",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T17:03:41.591849Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7083,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T17:03:41.591849Z",
+      "latest_at": "2026-08-04T17:03:41.591849Z",
+      "primary_item": {
+        "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
+        "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+        "url": "https://www.aibase.com/news/30108",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9ceda4fbc4c7",
+      "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+      "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+      "primary_url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+          "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T10:57:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+          "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T10:57:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.4541,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T10:57:39Z",
+      "latest_at": "2026-08-04T10:57:39Z",
+      "primary_item": {
+        "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+        "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+        "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5c12b7304d75",
+      "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+      "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
+      "primary_url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eedc4ec4075f3daaeaa12c17a5d71a4813bce1f0",
+          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+          "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:47:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "eedc4ec4075f3daaeaa12c17a5d71a4813bce1f0",
+          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+          "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:47:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6969,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T16:47:18Z",
+      "latest_at": "2026-08-04T16:47:18Z",
+      "primary_item": {
+        "id": "eedc4ec4075f3daaeaa12c17a5d71a4813bce1f0",
+        "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+        "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0f6716b459c8",
+      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+      "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
+      "primary_url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "32731d1d02a428e2ceb4bbba0167a0ca77b4e71a",
+          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+          "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:45:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "32731d1d02a428e2ceb4bbba0167a0ca77b4e71a",
+          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+          "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:45:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6954,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T16:45:02Z",
+      "latest_at": "2026-08-04T16:45:02Z",
+      "primary_item": {
+        "id": "32731d1d02a428e2ceb4bbba0167a0ca77b4e71a",
+        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+        "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8602bbfa5733",
+      "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+      "url": "https://www.aibase.com/news/30102",
+      "primary_url": "https://www.aibase.com/news/30102",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
+          "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+          "url": "https://www.aibase.com/news/30102",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T16:03:41.591849Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
+          "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+          "url": "https://www.aibase.com/news/30102",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T16:03:41.591849Z"
         }
       ],
       "item_count": 1,
@@ -1192,12 +1200,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T16:09:44.242765Z",
-      "latest_at": "2026-08-03T16:09:44.242765Z",
+      "earliest_at": "2026-08-04T16:03:41.591849Z",
+      "latest_at": "2026-08-04T16:03:41.591849Z",
       "primary_item": {
-        "id": "98976399b9e5b24bc239dbb80a4401d88c609bdb",
-        "title": "IBM 报告：四分之一数据泄露由 AI 攻击造成，单笔损失高出均值 20%",
-        "url": "https://www.aibase.com/news/30072",
+        "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
+        "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
+        "url": "https://www.aibase.com/news/30102",
         "source": "AIbase",
         "source_name": "AIbase"
       }
