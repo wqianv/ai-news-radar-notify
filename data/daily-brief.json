@@ -1,222 +1,99 @@
 {
-  "generated_at": "2026-08-05T00:03:41.591849Z",
+  "generated_at": "2026-08-06T00:00:05.324662Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_75f2ee9bfb96",
-      "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
-      "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-      "primary_url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
-          "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
-          "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:09:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
-          "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
-          "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:09:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7957,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T19:09:32Z",
-      "latest_at": "2026-08-04T19:09:32Z",
-      "primary_item": {
-        "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
-        "title": "停用 Copilot Billing Preview 应用程序 / Retiring the Copilot Billing Preview app",
-        "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8dda83992e79",
-      "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
-          "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:02:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
-          "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:02:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7909,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T19:02:34Z",
-      "latest_at": "2026-08-04T19:02:34Z",
-      "primary_item": {
-        "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
-        "title": "GitHub 法律团队如何使用 Copilot CLI 简化其工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_353fa9ae93b8",
-      "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-      "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-      "primary_url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
-          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:15:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
-          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:15:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7998,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T19:15:23Z",
-      "latest_at": "2026-08-04T19:15:23Z",
-      "primary_item": {
-        "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
-        "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-        "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_79eb4c3dd123",
-      "title": "Replit 环境智能：免提示词自动生成设计",
-      "url": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
-      "primary_url": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
-      "source": "X：Replit (@Replit)",
+      "story_id": "story_85fe4a428fcc",
+      "title": "OpenAI 披露智能体集群秘密协作事件",
+      "url": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
+      "primary_url": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "40af1aba70ef10b470df34cc2b9daabac5e448b2",
-          "title": "Replit 环境智能：免提示词自动生成设计",
-          "url": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
-          "source": "X：Replit (@Replit)",
+          "id": "2e806bacc1d2b64f5248c42f3871f45efd9f1e16",
+          "title": "OpenAI 披露智能体集群秘密协作事件",
+          "url": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T22:00:10Z"
+          "published_at": "2026-08-05T22:21:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Replit (@Replit)"
+        "X：AI Safety Memes (@AISafetyMemes)"
       ],
       "items": [
         {
-          "id": "40af1aba70ef10b470df34cc2b9daabac5e448b2",
-          "title": "Replit 环境智能：免提示词自动生成设计",
-          "url": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
-          "source": "X：Replit (@Replit)",
+          "id": "2e806bacc1d2b64f5248c42f3871f45efd9f1e16",
+          "title": "OpenAI 披露智能体集群秘密协作事件",
+          "url": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T22:00:10Z"
+          "published_at": "2026-08-05T22:21:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9314,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T22:21:18Z",
+      "latest_at": "2026-08-05T22:21:18Z",
+      "primary_item": {
+        "id": "2e806bacc1d2b64f5248c42f3871f45efd9f1e16",
+        "title": "OpenAI 披露智能体集群秘密协作事件",
+        "url": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c401c52c8049",
+      "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+      "url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
+      "primary_url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "231a4684e7aa1ac43e6acfae125d196a55cc95e0",
+          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+          "url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T21:56:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "231a4684e7aa1ac43e6acfae125d196a55cc95e0",
+          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+          "url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T21:56:03Z"
         }
       ],
       "item_count": 1,
@@ -228,7 +105,7 @@
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.9139,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -236,336 +113,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T22:00:10Z",
-      "latest_at": "2026-08-04T22:00:10Z",
+      "earliest_at": "2026-08-05T21:56:03Z",
+      "latest_at": "2026-08-05T21:56:03Z",
       "primary_item": {
-        "id": "40af1aba70ef10b470df34cc2b9daabac5e448b2",
-        "title": "Replit 环境智能：免提示词自动生成设计",
-        "url": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
-        "source": "X：Replit (@Replit)",
+        "id": "231a4684e7aa1ac43e6acfae125d196a55cc95e0",
+        "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+        "url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_6ac81b78de9d",
-      "title": "Upcoming deprecation of GitHub Spark on github.com",
-      "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-      "primary_url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
-          "title": "Upcoming deprecation of GitHub Spark on github.com",
-          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T15:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
-          "title": "Upcoming deprecation of GitHub Spark on github.com",
-          "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T15:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6605,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T15:54:47Z",
-      "latest_at": "2026-08-04T15:54:47Z",
-      "primary_item": {
-        "id": "cc948a6a9b3fea7e9e643c9e22db508aa9971c51",
-        "title": "Upcoming deprecation of GitHub Spark on github.com",
-        "url": "https://github.blog/changelog/2026-08-04-upcoming-deprecation-of-github-spark-on-github-com",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ca48ba9fe950",
-      "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-      "url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
-      "primary_url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "862662f77e4c44e0c10933663a288947915c80f8",
-          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-          "url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T19:10:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "862662f77e4c44e0c10933663a288947915c80f8",
-          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-          "url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T19:10:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7962,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T19:10:09Z",
-      "latest_at": "2026-08-04T19:10:09Z",
-      "primary_item": {
-        "id": "862662f77e4c44e0c10933663a288947915c80f8",
-        "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-        "url": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d3753d032c98",
-      "title": "The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "The latest AI news we announced in July 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "The latest AI news we announced in July 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5391,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:00:00Z",
-      "latest_at": "2026-08-04T13:00:00Z",
-      "primary_item": {
-        "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-        "title": "The latest AI news we announced in July 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1964f5d9b9fc",
-      "title": "Customize Dependabot pull request branch names",
-      "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
-      "primary_url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
-          "title": "Customize Dependabot pull request branch names",
-          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T12:57:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
-          "title": "Customize Dependabot pull request branch names",
-          "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T12:57:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5372,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T12:57:18Z",
-      "latest_at": "2026-08-04T12:57:18Z",
-      "primary_item": {
-        "id": "14fc4f77a67ad6e0a78f6d500bced5789e4e4175",
-        "title": "Customize Dependabot pull request branch names",
-        "url": "https://github.blog/changelog/2026-08-04-customize-dependabot-pull-request-branch-names",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_488ecd2560ee",
-      "title": "Code coverage automatic enablement in Code Quality settings",
-      "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-      "primary_url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
-          "title": "Code coverage automatic enablement in Code Quality settings",
-          "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T12:36:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
-          "title": "Code coverage automatic enablement in Code Quality settings",
-          "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T12:36:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5228,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T12:36:32Z",
-      "latest_at": "2026-08-04T12:36:32Z",
-      "primary_item": {
-        "id": "4c43ca4008d6b3bf3680cd6604e51ded87351c75",
-        "title": "Code coverage automatic enablement in Code Quality settings",
-        "url": "https://github.blog/changelog/2026-08-04-code-coverage-automatic-enablement-in-code-quality-settings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_604dc2b3a374",
-      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-      "url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
-      "primary_url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
+      "story_id": "story_4a5dba867805",
+      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+      "url": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
+      "primary_url": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "07b519016a6976a0b625b7fdd66d5c52ea1d66ff",
-          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-          "url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
+          "id": "bbc952a4f5fa7d8335ca29d86e157d13ddb6aaca",
+          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+          "url": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T18:17:29Z"
+          "published_at": "2026-08-05T21:11:36Z"
         }
       ],
       "source_count": 1,
@@ -574,25 +147,25 @@
       ],
       "items": [
         {
-          "id": "07b519016a6976a0b625b7fdd66d5c52ea1d66ff",
-          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-          "url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
+          "id": "bbc952a4f5fa7d8335ca29d86e157d13ddb6aaca",
+          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+          "url": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T18:17:29Z"
+          "published_at": "2026-08-05T21:11:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7596,
+        "recency": 0.883,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -600,179 +173,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T18:17:29Z",
-      "latest_at": "2026-08-04T18:17:29Z",
+      "earliest_at": "2026-08-05T21:11:36Z",
+      "latest_at": "2026-08-05T21:11:36Z",
       "primary_item": {
-        "id": "07b519016a6976a0b625b7fdd66d5c52ea1d66ff",
-        "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-        "url": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
+        "id": "bbc952a4f5fa7d8335ca29d86e157d13ddb6aaca",
+        "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+        "url": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_bf0398764b76",
-      "title": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
-      "url": "https://www.aibase.com/news/30109",
-      "primary_url": "https://www.aibase.com/news/30109",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7aae5fe93fdce2bbe8a3d83adece2841ceee83d9",
-          "title": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
-          "url": "https://www.aibase.com/news/30109",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T18:03:41.591849Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7aae5fe93fdce2bbe8a3d83adece2841ceee83d9",
-          "title": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
-          "url": "https://www.aibase.com/news/30109",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T18:03:41.591849Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T18:03:41.591849Z",
-      "latest_at": "2026-08-04T18:03:41.591849Z",
-      "primary_item": {
-        "id": "7aae5fe93fdce2bbe8a3d83adece2841ceee83d9",
-        "title": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
-        "url": "https://www.aibase.com/news/30109",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a5e004b3644f",
-      "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
-      "url": "https://www.aibase.com/news/30110",
-      "primary_url": "https://www.aibase.com/news/30110",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
-          "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
-          "url": "https://www.aibase.com/news/30110",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T18:03:41.591849Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
-          "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
-          "url": "https://www.aibase.com/news/30110",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T18:03:41.591849Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T18:03:41.591849Z",
-      "latest_at": "2026-08-04T18:03:41.591849Z",
-      "primary_item": {
-        "id": "7b90a7e0736812f02651e3d1875d0b7ab21ab912",
-        "title": "腾讯混元发布 Hy ASR 3.0 preview：语音识别不再逐字硬转，而是真的听懂了语境",
-        "url": "https://www.aibase.com/news/30110",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2c66473919b3",
-      "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-      "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-      "primary_url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-      "source": "X：OpenRouter (@OpenRouter)",
+      "story_id": "story_6ea463545c94",
+      "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
+      "url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
+      "primary_url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "385fd25f5c38bb9bf94112b44355580a87a91603",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-          "source": "X：OpenRouter (@OpenRouter)",
+          "id": "d721fa9873210d6406ede3a5174cf55f982dec43",
+          "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
+          "url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
+          "published_at": "2026-08-05T21:11:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenRouter (@OpenRouter)"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "385fd25f5c38bb9bf94112b44355580a87a91603",
-          "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-          "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-          "source": "X：OpenRouter (@OpenRouter)",
+          "id": "d721fa9873210d6406ede3a5174cf55f982dec43",
+          "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
+          "url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T17:54:06Z"
+          "published_at": "2026-08-05T21:11:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7433,
+        "recency": 0.883,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,59 +233,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T17:54:06Z",
-      "latest_at": "2026-08-04T17:54:06Z",
+      "earliest_at": "2026-08-05T21:11:36Z",
+      "latest_at": "2026-08-05T21:11:36Z",
       "primary_item": {
-        "id": "385fd25f5c38bb9bf94112b44355580a87a91603",
-        "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-        "url": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-        "source": "X：OpenRouter (@OpenRouter)",
+        "id": "d721fa9873210d6406ede3a5174cf55f982dec43",
+        "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
+        "url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_d811da7ba846",
-      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-      "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-      "primary_url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "story_id": "story_5b393b9c1568",
+      "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+      "url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
+      "primary_url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
+      "source": "Simon Willison 博客",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4b989d8ac8bca2aac185e7faabe1079b5d9f0574",
-          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-          "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "id": "27b97d19163a318515fe399285abc08ed10cd822",
+          "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+          "url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T17:51:09Z"
+          "published_at": "2026-08-05T19:42:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
+        "Simon Willison 博客"
       ],
       "items": [
         {
-          "id": "4b989d8ac8bca2aac185e7faabe1079b5d9f0574",
-          "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-          "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "id": "27b97d19163a318515fe399285abc08ed10cd822",
+          "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+          "url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T17:51:09Z"
+          "published_at": "2026-08-05T19:42:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7413,
+        "recency": 0.8212,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -840,32 +293,92 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T17:51:09Z",
-      "latest_at": "2026-08-04T17:51:09Z",
+      "earliest_at": "2026-08-05T19:42:38Z",
+      "latest_at": "2026-08-05T19:42:38Z",
       "primary_item": {
-        "id": "4b989d8ac8bca2aac185e7faabe1079b5d9f0574",
-        "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-        "url": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "id": "27b97d19163a318515fe399285abc08ed10cd822",
+        "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+        "url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
+        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_d3bfa0347390",
-      "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-      "url": "https://www.aibase.com/news/30107",
-      "primary_url": "https://www.aibase.com/news/30107",
+      "story_id": "story_45c2a453fd14",
+      "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
+      "url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
+      "primary_url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
+      "source": "X：Jeff Dean (@JeffDean)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2f2ac6bd2a7f14dcf550bcc6583fde74a09b8af5",
+          "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
+          "url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
+          "source": "X：Jeff Dean (@JeffDean)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T19:20:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jeff Dean (@JeffDean)"
+      ],
+      "items": [
+        {
+          "id": "2f2ac6bd2a7f14dcf550bcc6583fde74a09b8af5",
+          "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
+          "url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
+          "source": "X：Jeff Dean (@JeffDean)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T19:20:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8056,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T19:20:06Z",
+      "latest_at": "2026-08-05T19:20:06Z",
+      "primary_item": {
+        "id": "2f2ac6bd2a7f14dcf550bcc6583fde74a09b8af5",
+        "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
+        "url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
+        "source": "X：Jeff Dean (@JeffDean)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f1960244e082",
+      "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+      "url": "https://www.aibase.com/news/30135",
+      "primary_url": "https://www.aibase.com/news/30135",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
-          "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-          "url": "https://www.aibase.com/news/30107",
+          "id": "ae4dd952a5d884bf72caf654fb5a3a7f22061645",
+          "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+          "url": "https://www.aibase.com/news/30135",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T17:03:41.591849Z"
+          "published_at": "2026-08-05T17:00:05.324662Z"
         }
       ],
       "source_count": 1,
@@ -874,13 +387,13 @@
       ],
       "items": [
         {
-          "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
-          "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-          "url": "https://www.aibase.com/news/30107",
+          "id": "ae4dd952a5d884bf72caf654fb5a3a7f22061645",
+          "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+          "url": "https://www.aibase.com/news/30135",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T17:03:41.591849Z"
+          "published_at": "2026-08-05T17:00:05.324662Z"
         }
       ],
       "item_count": 1,
@@ -900,32 +413,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T17:03:41.591849Z",
-      "latest_at": "2026-08-04T17:03:41.591849Z",
+      "earliest_at": "2026-08-05T17:00:05.324662Z",
+      "latest_at": "2026-08-05T17:00:05.324662Z",
       "primary_item": {
-        "id": "cdd855132b5e66d70bfc7ad3e99beb4bf6ecf3a9",
-        "title": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-        "url": "https://www.aibase.com/news/30107",
+        "id": "ae4dd952a5d884bf72caf654fb5a3a7f22061645",
+        "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
+        "url": "https://www.aibase.com/news/30135",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_468690ebbddb",
-      "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
-      "url": "https://www.aibase.com/news/30108",
-      "primary_url": "https://www.aibase.com/news/30108",
+      "story_id": "story_a81431320936",
+      "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
+      "url": "https://www.aibase.com/news/30138",
+      "primary_url": "https://www.aibase.com/news/30138",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
-          "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
-          "url": "https://www.aibase.com/news/30108",
+          "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
+          "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
+          "url": "https://www.aibase.com/news/30138",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T17:03:41.591849Z"
+          "published_at": "2026-08-05T17:00:05.324662Z"
         }
       ],
       "source_count": 1,
@@ -934,13 +447,13 @@
       ],
       "items": [
         {
-          "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
-          "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
-          "url": "https://www.aibase.com/news/30108",
+          "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
+          "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
+          "url": "https://www.aibase.com/news/30138",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T17:03:41.591849Z"
+          "published_at": "2026-08-05T17:00:05.324662Z"
         }
       ],
       "item_count": 1,
@@ -960,213 +473,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T17:03:41.591849Z",
-      "latest_at": "2026-08-04T17:03:41.591849Z",
+      "earliest_at": "2026-08-05T17:00:05.324662Z",
+      "latest_at": "2026-08-05T17:00:05.324662Z",
       "primary_item": {
-        "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
-        "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
-        "url": "https://www.aibase.com/news/30108",
+        "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
+        "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
+        "url": "https://www.aibase.com/news/30138",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9ceda4fbc4c7",
-      "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-      "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
-      "primary_url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
-          "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T10:57:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
-          "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T10:57:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4541,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T10:57:39Z",
-      "latest_at": "2026-08-04T10:57:39Z",
-      "primary_item": {
-        "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
-        "title": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
-        "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5c12b7304d75",
-      "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-      "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
-      "primary_url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eedc4ec4075f3daaeaa12c17a5d71a4813bce1f0",
-          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-          "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:47:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "eedc4ec4075f3daaeaa12c17a5d71a4813bce1f0",
-          "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-          "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:47:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6969,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T16:47:18Z",
-      "latest_at": "2026-08-04T16:47:18Z",
-      "primary_item": {
-        "id": "eedc4ec4075f3daaeaa12c17a5d71a4813bce1f0",
-        "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
-        "url": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0f6716b459c8",
-      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-      "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-      "primary_url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "32731d1d02a428e2ceb4bbba0167a0ca77b4e71a",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "32731d1d02a428e2ceb4bbba0167a0ca77b4e71a",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6954,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T16:45:02Z",
-      "latest_at": "2026-08-04T16:45:02Z",
-      "primary_item": {
-        "id": "32731d1d02a428e2ceb4bbba0167a0ca77b4e71a",
-        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-        "url": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8602bbfa5733",
-      "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-      "url": "https://www.aibase.com/news/30102",
-      "primary_url": "https://www.aibase.com/news/30102",
+      "story_id": "story_7f22b96adc0a",
+      "title": "腾讯混元 Hy ASR3.0 预览版发布：从\"听清\"到\"听懂\"，方言词错率压到 3%",
+      "url": "https://www.aibase.com/news/30137",
+      "primary_url": "https://www.aibase.com/news/30137",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
-          "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-          "url": "https://www.aibase.com/news/30102",
+          "id": "3a0d824ab69a82237f63801532b24d759fb01f35",
+          "title": "腾讯混元 Hy ASR3.0 预览版发布：从\"听清\"到\"听懂\"，方言词错率压到 3%",
+          "url": "https://www.aibase.com/news/30137",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T16:03:41.591849Z"
+          "published_at": "2026-08-05T17:00:05.324662Z"
         }
       ],
       "source_count": 1,
@@ -1175,13 +507,251 @@
       ],
       "items": [
         {
-          "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
-          "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-          "url": "https://www.aibase.com/news/30102",
+          "id": "3a0d824ab69a82237f63801532b24d759fb01f35",
+          "title": "腾讯混元 Hy ASR3.0 预览版发布：从\"听清\"到\"听懂\"，方言词错率压到 3%",
+          "url": "https://www.aibase.com/news/30137",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T16:03:41.591849Z"
+          "published_at": "2026-08-05T17:00:05.324662Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7083,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T17:00:05.324662Z",
+      "latest_at": "2026-08-05T17:00:05.324662Z",
+      "primary_item": {
+        "id": "3a0d824ab69a82237f63801532b24d759fb01f35",
+        "title": "腾讯混元 Hy ASR3.0 预览版发布：从\"听清\"到\"听懂\"，方言词错率压到 3%",
+        "url": "https://www.aibase.com/news/30137",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_91bbdbfb121f",
+      "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+      "url": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
+      "primary_url": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c9e4ee012b64686c102e9a4026a69be0db4f1b1a",
+          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+          "url": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:39:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "c9e4ee012b64686c102e9a4026a69be0db4f1b1a",
+          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+          "url": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:39:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6943,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T16:39:55Z",
+      "latest_at": "2026-08-05T16:39:55Z",
+      "primary_item": {
+        "id": "c9e4ee012b64686c102e9a4026a69be0db4f1b1a",
+        "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+        "url": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ccf3e9dace96",
+      "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+      "url": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
+      "primary_url": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "24378fcab4483b7ecfb10c1f74f00ca5f859de76",
+          "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+          "url": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:23:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "24378fcab4483b7ecfb10c1f74f00ca5f859de76",
+          "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+          "url": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:23:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.683,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T16:23:34Z",
+      "latest_at": "2026-08-05T16:23:34Z",
+      "primary_item": {
+        "id": "24378fcab4483b7ecfb10c1f74f00ca5f859de76",
+        "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+        "url": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8f4ab579bcc7",
+      "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
+      "url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
+      "primary_url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "50240a6531a72eb4dc52be39a69ad0792f000ed0",
+          "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
+          "url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:04:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Demis Hassabis (@demishassabis)"
+      ],
+      "items": [
+        {
+          "id": "50240a6531a72eb4dc52be39a69ad0792f000ed0",
+          "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
+          "url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T16:04:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6701,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T16:04:58Z",
+      "latest_at": "2026-08-05T16:04:58Z",
+      "primary_item": {
+        "id": "50240a6531a72eb4dc52be39a69ad0792f000ed0",
+        "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
+        "url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_aed2ee455d40",
+      "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+      "url": "https://www.aibase.com/news/30132",
+      "primary_url": "https://www.aibase.com/news/30132",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
+          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "url": "https://www.aibase.com/news/30132",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T16:00:05.324662Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
+          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+          "url": "https://www.aibase.com/news/30132",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T16:00:05.324662Z"
         }
       ],
       "item_count": 1,
@@ -1200,12 +770,425 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T16:03:41.591849Z",
-      "latest_at": "2026-08-04T16:03:41.591849Z",
+      "earliest_at": "2026-08-05T16:00:05.324662Z",
+      "latest_at": "2026-08-05T16:00:05.324662Z",
       "primary_item": {
-        "id": "5d8ae9b533d4048a702e5b519354d4efd8887ca8",
-        "title": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-        "url": "https://www.aibase.com/news/30102",
+        "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
+        "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+        "url": "https://www.aibase.com/news/30132",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_07535e596c05",
+      "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+      "url": "https://www.aibase.com/news/30134",
+      "primary_url": "https://www.aibase.com/news/30134",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "720ea29c877b647278422f2bd6badd24b0b46327",
+          "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "url": "https://www.aibase.com/news/30134",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T16:00:05.324662Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "720ea29c877b647278422f2bd6badd24b0b46327",
+          "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "url": "https://www.aibase.com/news/30134",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T16:00:05.324662Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T16:00:05.324662Z",
+      "latest_at": "2026-08-05T16:00:05.324662Z",
+      "primary_item": {
+        "id": "720ea29c877b647278422f2bd6badd24b0b46327",
+        "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+        "url": "https://www.aibase.com/news/30134",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_845e4fec9d1e",
+      "title": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
+      "url": "https://www.aibase.com/news/30133",
+      "primary_url": "https://www.aibase.com/news/30133",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "54e8a9f29628a2672d31d54946736519a38998a0",
+          "title": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
+          "url": "https://www.aibase.com/news/30133",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T16:00:05.324662Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "54e8a9f29628a2672d31d54946736519a38998a0",
+          "title": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
+          "url": "https://www.aibase.com/news/30133",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T16:00:05.324662Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T16:00:05.324662Z",
+      "latest_at": "2026-08-05T16:00:05.324662Z",
+      "primary_item": {
+        "id": "54e8a9f29628a2672d31d54946736519a38998a0",
+        "title": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
+        "url": "https://www.aibase.com/news/30133",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_df0c9d1fbfff",
+      "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+      "url": "https://www.aibase.com/news/30130",
+      "primary_url": "https://www.aibase.com/news/30130",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "45d71f070884471c1302c577a523eae2763a2385",
+          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+          "url": "https://www.aibase.com/news/30130",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T15:00:05.324662Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "45d71f070884471c1302c577a523eae2763a2385",
+          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+          "url": "https://www.aibase.com/news/30130",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T15:00:05.324662Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T15:00:05.324662Z",
+      "latest_at": "2026-08-05T15:00:05.324662Z",
+      "primary_item": {
+        "id": "45d71f070884471c1302c577a523eae2763a2385",
+        "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+        "url": "https://www.aibase.com/news/30130",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_547d18873ccf",
+      "title": "创纪录!今年共8位普利策奖得主及入围者申报使用人工智能",
+      "url": "https://www.aibase.com/news/30131",
+      "primary_url": "https://www.aibase.com/news/30131",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "966faae91f436a322e2da7b8defc3be72cbe81d2",
+          "title": "创纪录!今年共8位普利策奖得主及入围者申报使用人工智能",
+          "url": "https://www.aibase.com/news/30131",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T15:00:05.324662Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "966faae91f436a322e2da7b8defc3be72cbe81d2",
+          "title": "创纪录!今年共8位普利策奖得主及入围者申报使用人工智能",
+          "url": "https://www.aibase.com/news/30131",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T15:00:05.324662Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T15:00:05.324662Z",
+      "latest_at": "2026-08-05T15:00:05.324662Z",
+      "primary_item": {
+        "id": "966faae91f436a322e2da7b8defc3be72cbe81d2",
+        "title": "创纪录!今年共8位普利策奖得主及入围者申报使用人工智能",
+        "url": "https://www.aibase.com/news/30131",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fe84bbe8cf96",
+      "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+      "url": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
+      "primary_url": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "46127bfa5ed2e6712a039dd75d8d3f964660dde1",
+          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "url": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T14:30:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "46127bfa5ed2e6712a039dd75d8d3f964660dde1",
+          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "url": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T14:30:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6047,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T14:30:53Z",
+      "latest_at": "2026-08-05T14:30:53Z",
+      "primary_item": {
+        "id": "46127bfa5ed2e6712a039dd75d8d3f964660dde1",
+        "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+        "url": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ad7da1732805",
+      "title": "一签约5.2万元!机器人独角兽宇树科技冲击科创板，发行价预估超百元",
+      "url": "https://www.aibase.com/news/30129",
+      "primary_url": "https://www.aibase.com/news/30129",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c374674091da5da5a5a915fcee284957e7033ec5",
+          "title": "一签约5.2万元!机器人独角兽宇树科技冲击科创板，发行价预估超百元",
+          "url": "https://www.aibase.com/news/30129",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T14:00:05.324662Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c374674091da5da5a5a915fcee284957e7033ec5",
+          "title": "一签约5.2万元!机器人独角兽宇树科技冲击科创板，发行价预估超百元",
+          "url": "https://www.aibase.com/news/30129",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T14:00:05.324662Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T14:00:05.324662Z",
+      "latest_at": "2026-08-05T14:00:05.324662Z",
+      "primary_item": {
+        "id": "c374674091da5da5a5a915fcee284957e7033ec5",
+        "title": "一签约5.2万元!机器人独角兽宇树科技冲击科创板，发行价预估超百元",
+        "url": "https://www.aibase.com/news/30129",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_010dbb9e014f",
+      "title": "字节 Seed 甩出 SeedRealtime：音视频全双工大模型上车豆包，边看边听边说不再\"卡拍\"",
+      "url": "https://www.aibase.com/news/30128",
+      "primary_url": "https://www.aibase.com/news/30128",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b767ecec75dfae1005fa7a3e238dc90105949c49",
+          "title": "字节 Seed 甩出 SeedRealtime：音视频全双工大模型上车豆包，边看边听边说不再\"卡拍\"",
+          "url": "https://www.aibase.com/news/30128",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T14:00:05.324662Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b767ecec75dfae1005fa7a3e238dc90105949c49",
+          "title": "字节 Seed 甩出 SeedRealtime：音视频全双工大模型上车豆包，边看边听边说不再\"卡拍\"",
+          "url": "https://www.aibase.com/news/30128",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T14:00:05.324662Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T14:00:05.324662Z",
+      "latest_at": "2026-08-05T14:00:05.324662Z",
+      "primary_item": {
+        "id": "b767ecec75dfae1005fa7a3e238dc90105949c49",
+        "title": "字节 Seed 甩出 SeedRealtime：音视频全双工大模型上车豆包，边看边听边说不再\"卡拍\"",
+        "url": "https://www.aibase.com/news/30128",
         "source": "AIbase",
         "source_name": "AIbase"
       }
