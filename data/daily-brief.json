@@ -1,805 +1,24 @@
 {
-  "generated_at": "2026-08-07T01:41:42.297991Z",
+  "generated_at": "2026-08-07T23:34:12.995929Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_866cc4b0d022",
-      "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-      "url": "https://www.aibase.com/news/30175",
-      "primary_url": "https://www.aibase.com/news/30175",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
-          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-          "url": "https://www.aibase.com/news/30175",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        },
-        {
-          "id": "7f4396c5b255def172b7007f6496fbf124643e01",
-          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-          "url": "https://www.aibase.com/zh/news/30175",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
-          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-          "url": "https://www.aibase.com/news/30175",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        },
-        {
-          "id": "7f4396c5b255def172b7007f6496fbf124643e01",
-          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-          "url": "https://www.aibase.com/zh/news/30175",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
-        "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
-        "url": "https://www.aibase.com/news/30175",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d4ed1bf391cc",
-      "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-      "url": "https://www.aibase.com/news/30176",
-      "primary_url": "https://www.aibase.com/news/30176",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
-          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "url": "https://www.aibase.com/news/30176",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        },
-        {
-          "id": "40aa8df3dad2886f18c5f3633e29f8d74b97f7e7",
-          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "url": "https://www.aibase.com/zh/news/30176",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
-          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "url": "https://www.aibase.com/news/30176",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        },
-        {
-          "id": "40aa8df3dad2886f18c5f3633e29f8d74b97f7e7",
-          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-          "url": "https://www.aibase.com/zh/news/30176",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
-        "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
-        "url": "https://www.aibase.com/news/30176",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6462ac5c219e",
-      "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-      "url": "https://www.aibase.com/news/30177",
-      "primary_url": "https://www.aibase.com/news/30177",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
-          "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-          "url": "https://www.aibase.com/news/30177",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        },
-        {
-          "id": "a1af74b03be235aa23df06115f7002e2c57e96a3",
-          "title": "Suno 宣布为 AI 歌曲添加水印，并签署版权检测协议",
-          "url": "https://www.aibase.com/zh/news/30177",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
-          "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-          "url": "https://www.aibase.com/news/30177",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        },
-        {
-          "id": "a1af74b03be235aa23df06115f7002e2c57e96a3",
-          "title": "Suno 宣布为 AI 歌曲添加水印，并签署版权检测协议",
-          "url": "https://www.aibase.com/zh/news/30177",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
-        "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
-        "url": "https://www.aibase.com/news/30177",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4427aa482e81",
-      "title": "GitHub Copilot 应用程序中的斜线命令指南 / A guide to slash commands in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
-          "title": "GitHub Copilot 应用程序中的斜线命令指南 / A guide to slash commands in the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T19:49:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
-          "title": "GitHub Copilot 应用程序中的斜线命令指南 / A guide to slash commands in the GitHub Copilot app",
-          "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T19:49:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7555,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T19:49:34Z",
-      "latest_at": "2026-08-06T19:49:34Z",
-      "primary_item": {
-        "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
-        "title": "GitHub Copilot 应用程序中的斜线命令指南 / A guide to slash commands in the GitHub Copilot app",
-        "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0b8cb8210dfe",
-      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-      "url": "https://www.aibase.com/news/30180",
-      "primary_url": "https://www.aibase.com/news/30180",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "url": "https://www.aibase.com/news/30180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-          "url": "https://www.aibase.com/news/30180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
-        "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-        "url": "https://www.aibase.com/news/30180",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_787f791136d5",
-      "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-      "url": "https://www.aibase.com/news/30179",
-      "primary_url": "https://www.aibase.com/news/30179",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
-          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-          "url": "https://www.aibase.com/news/30179",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
-          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-          "url": "https://www.aibase.com/news/30179",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
-        "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
-        "url": "https://www.aibase.com/news/30179",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f74b9696a5fc",
-      "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-      "url": "https://www.aibase.com/news/30174",
-      "primary_url": "https://www.aibase.com/news/30174",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "16a11e98480f3f30f0853e2e9692c715d24b12db",
-          "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-          "url": "https://www.aibase.com/news/30174",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "16a11e98480f3f30f0853e2e9692c715d24b12db",
-          "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-          "url": "https://www.aibase.com/news/30174",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "16a11e98480f3f30f0853e2e9692c715d24b12db",
-        "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
-        "url": "https://www.aibase.com/news/30174",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c587e8a94e2b",
-      "title": "OpenAI取消ChatGPT文本聊天限制，GPT-5.6系列模型全面升级",
-      "url": "https://www.aibase.com/news/30173",
-      "primary_url": "https://www.aibase.com/news/30173",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dc6cca5156d7c6ab51f66d55a4457ea0a0cc64f2",
-          "title": "OpenAI取消ChatGPT文本聊天限制，GPT-5.6系列模型全面升级",
-          "url": "https://www.aibase.com/news/30173",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "dc6cca5156d7c6ab51f66d55a4457ea0a0cc64f2",
-          "title": "OpenAI取消ChatGPT文本聊天限制，GPT-5.6系列模型全面升级",
-          "url": "https://www.aibase.com/news/30173",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "dc6cca5156d7c6ab51f66d55a4457ea0a0cc64f2",
-        "title": "OpenAI取消ChatGPT文本聊天限制，GPT-5.6系列模型全面升级",
-        "url": "https://www.aibase.com/news/30173",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e8c4dc910dad",
-      "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
-      "url": "https://www.aibase.com/news/30181",
-      "primary_url": "https://www.aibase.com/news/30181",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f82c996e1adcd30933f74889c59a25322c024946",
-          "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
-          "url": "https://www.aibase.com/news/30181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f82c996e1adcd30933f74889c59a25322c024946",
-          "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
-          "url": "https://www.aibase.com/news/30181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "f82c996e1adcd30933f74889c59a25322c024946",
-        "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
-        "url": "https://www.aibase.com/news/30181",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e5803146cef6",
-      "title": "字节跳动讨论训练超5万亿参数大模型，规模或超国内现有最大模型",
-      "url": "https://www.aibase.com/news/30172",
-      "primary_url": "https://www.aibase.com/news/30172",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9126e99fab2708ddb139084e99b8af504cea4aa9",
-          "title": "字节跳动讨论训练超5万亿参数大模型，规模或超国内现有最大模型",
-          "url": "https://www.aibase.com/news/30172",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9126e99fab2708ddb139084e99b8af504cea4aa9",
-          "title": "字节跳动讨论训练超5万亿参数大模型，规模或超国内现有最大模型",
-          "url": "https://www.aibase.com/news/30172",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "9126e99fab2708ddb139084e99b8af504cea4aa9",
-        "title": "字节跳动讨论训练超5万亿参数大模型，规模或超国内现有最大模型",
-        "url": "https://www.aibase.com/news/30172",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_efccda88c063",
-      "title": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
-      "url": "https://www.aibase.com/news/30178",
-      "primary_url": "https://www.aibase.com/news/30178",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bac5e3d26cbcfeee1e0791692e0c632d9887b95f",
-          "title": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
-          "url": "https://www.aibase.com/news/30178",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bac5e3d26cbcfeee1e0791692e0c632d9887b95f",
-          "title": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
-          "url": "https://www.aibase.com/news/30178",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "bac5e3d26cbcfeee1e0791692e0c632d9887b95f",
-        "title": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
-        "url": "https://www.aibase.com/news/30178",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fa59b28a5c70",
-      "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-      "url": "https://www.aibase.com/news/30182",
-      "primary_url": "https://www.aibase.com/news/30182",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9513636bd5be73287a8d12b757c53569406cb040",
-          "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-          "url": "https://www.aibase.com/news/30182",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9513636bd5be73287a8d12b757c53569406cb040",
-          "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-          "url": "https://www.aibase.com/news/30182",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T01:41:42.297991Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T01:41:42.297991Z",
-      "latest_at": "2026-08-07T01:41:42.297991Z",
-      "primary_item": {
-        "id": "9513636bd5be73287a8d12b757c53569406cb040",
-        "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
-        "url": "https://www.aibase.com/news/30182",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2b2f00c5abe1",
-      "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "story_id": "story_4eef4078b0c6",
+      "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+          "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T17:27:25Z"
+          "published_at": "2026-08-07T21:05:37Z"
         }
       ],
       "source_count": 1,
@@ -808,25 +27,25 @@
       ],
       "items": [
         {
-          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+          "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T17:27:25Z"
+          "published_at": "2026-08-07T21:05:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.8524,
+      "importance": 0.8524,
+      "importance_score": 0.8524,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6567,
+        "recency": 0.8968,
         "story_heat": 0.0
       },
       "category": "official",
@@ -835,132 +54,538 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T17:27:25Z",
-      "latest_at": "2026-08-06T17:27:25Z",
+      "earliest_at": "2026-08-07T21:05:37Z",
+      "latest_at": "2026-08-07T21:05:37Z",
       "primary_item": {
-        "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-        "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+        "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+        "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0f0c1961f93e",
-      "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI News",
+      "story_id": "story_f1f3f6f098ab",
+      "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "OpenAI News",
+          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
+          "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T10:00:00Z"
-        },
-        {
-          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "125c52798ba5d13eeea63add39b10826497d82a9",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-06T17:02:04Z"
+          "published_at": "2026-08-07T20:49:26Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News",
-        "openai.com"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "OpenAI News",
+          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
+          "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-06T10:00:00Z"
-        },
-        {
-          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "125c52798ba5d13eeea63add39b10826497d82a9",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-06T17:02:04Z"
+          "published_at": "2026-08-07T20:49:26Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8501,
+      "importance": 0.8501,
+      "importance_score": 0.8501,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.346,
-        "story_heat": 0.5
+        "ai_relevance": 0.91,
+        "recency": 0.8856,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T10:00:00Z",
-      "latest_at": "2026-08-06T23:01:28.628000Z",
+      "earliest_at": "2026-08-07T20:49:26Z",
+      "latest_at": "2026-08-07T20:49:26Z",
       "primary_item": {
-        "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
-        "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-        "source": "OpenAI News",
+        "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
+        "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_805405d0427d",
-      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-      "url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
-      "primary_url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+      "story_id": "story_fe0607b1a1dc",
+      "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
+      "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
+      "primary_url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
+          "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
+          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T21:40:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
+          "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
+          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T21:40:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8451,
+      "importance": 0.8451,
+      "importance_score": 0.8451,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9207,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T21:40:03Z",
+      "latest_at": "2026-08-07T21:40:03Z",
+      "primary_item": {
+        "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
+        "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
+        "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8ce398d73cfe",
+      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+      "url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
+      "primary_url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36d800b0fadf54290e8653f7f4a7ea55f8c5cc10",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T23:08:56Z"
+        },
+        {
+          "id": "eb570e9d3cd768c8425a4207a49780b9a1a0e6f3",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "url": "https://www.ithome.com/0/987/221.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-07T23:08:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "36d800b0fadf54290e8653f7f4a7ea55f8c5cc10",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T23:08:56Z"
+        },
+        {
+          "id": "eb570e9d3cd768c8425a4207a49780b9a1a0e6f3",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "url": "https://www.ithome.com/0/987/221.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-07T23:08:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9824,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T23:08:56Z",
+      "latest_at": "2026-08-07T23:08:56Z",
+      "primary_item": {
+        "id": "36d800b0fadf54290e8653f7f4a7ea55f8c5cc10",
+        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1256b7011cc5",
+      "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T18:20:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T18:20:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T18:20:47Z",
+      "latest_at": "2026-08-07T18:20:47Z",
+      "primary_item": {
+        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+        "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_999235830ad8",
+      "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+      "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "primary_url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:33:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:33:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7493,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T17:33:14Z",
+      "latest_at": "2026-08-07T17:33:14Z",
+      "primary_item": {
+        "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+        "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_523078d0c9f7",
+      "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7226,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T16:54:47Z",
+      "latest_at": "2026-08-07T16:54:47Z",
+      "primary_item": {
+        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+        "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_10bf651dfc42",
+      "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T15:07:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T15:07:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6481,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T15:07:25Z",
+      "latest_at": "2026-08-07T15:07:25Z",
+      "primary_item": {
+        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+        "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_33102fd111ff",
+      "title": "Claude Code 会话间可互发消息",
+      "url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
+      "primary_url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4034fecfc456e0eb6b4cfb849471e9304f356084",
+          "title": "Claude Code 会话间可互发消息",
+          "url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T19:55:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "4034fecfc456e0eb6b4cfb849471e9304f356084",
+          "title": "Claude Code 会话间可互发消息",
+          "url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T19:55:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.848,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T19:55:17Z",
+      "latest_at": "2026-08-07T19:55:17Z",
+      "primary_item": {
+        "id": "4034fecfc456e0eb6b4cfb849471e9304f356084",
+        "title": "Claude Code 会话间可互发消息",
+        "url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_832fa0d503bf",
+      "title": "Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器",
+      "url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
+      "primary_url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "01f41bf094a8643afb723525e4a531a57683951e",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+          "id": "60f42052202714c10133ab1f646ba5415ae00e9d",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器",
+          "url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T23:01:28Z"
+          "published_at": "2026-08-07T18:54:34Z"
         }
       ],
       "source_count": 1,
@@ -969,25 +594,25 @@
       ],
       "items": [
         {
-          "id": "01f41bf094a8643afb723525e4a531a57683951e",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+          "id": "60f42052202714c10133ab1f646ba5415ae00e9d",
+          "title": "Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器",
+          "url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T23:01:28Z"
+          "published_at": "2026-08-07T18:54:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8887,
+        "recency": 0.8058,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -995,59 +620,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T23:01:28Z",
-      "latest_at": "2026-08-06T23:01:28Z",
+      "earliest_at": "2026-08-07T18:54:34Z",
+      "latest_at": "2026-08-07T18:54:34Z",
       "primary_item": {
-        "id": "01f41bf094a8643afb723525e4a531a57683951e",
-        "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-        "url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+        "id": "60f42052202714c10133ab1f646ba5415ae00e9d",
+        "title": "Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器",
+        "url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5979b9ce70d9",
-      "title": "GitHub Copilot 应用中的斜杠命令使用指南",
-      "url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
-      "primary_url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
-      "source": "GitHub Blog",
+      "story_id": "story_d121d6396648",
+      "title": "OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型",
+      "url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
+      "primary_url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
+      "source": "X：OpenAI (@OpenAI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ee34d6983cd172a31eacf6d121921b21ec7a37c6",
-          "title": "GitHub Copilot 应用中的斜杠命令使用指南",
-          "url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
-          "source": "GitHub Blog",
+          "id": "6314efa24eefe0ba4f77d7958b8c13ed521816e0",
+          "title": "OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型",
+          "url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
+          "source": "X：OpenAI (@OpenAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T19:49:34Z"
+          "published_at": "2026-08-07T18:52:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Blog"
+        "X：OpenAI (@OpenAI)"
       ],
       "items": [
         {
-          "id": "ee34d6983cd172a31eacf6d121921b21ec7a37c6",
-          "title": "GitHub Copilot 应用中的斜杠命令使用指南",
-          "url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
-          "source": "GitHub Blog",
+          "id": "6314efa24eefe0ba4f77d7958b8c13ed521816e0",
+          "title": "OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型",
+          "url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
+          "source": "X：OpenAI (@OpenAI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T19:49:34Z"
+          "published_at": "2026-08-07T18:52:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7555,
+        "recency": 0.8046,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1055,59 +680,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T19:49:34Z",
-      "latest_at": "2026-08-06T19:49:34Z",
+      "earliest_at": "2026-08-07T18:52:48Z",
+      "latest_at": "2026-08-07T18:52:48Z",
       "primary_item": {
-        "id": "ee34d6983cd172a31eacf6d121921b21ec7a37c6",
-        "title": "GitHub Copilot 应用中的斜杠命令使用指南",
-        "url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
-        "source": "GitHub Blog",
+        "id": "6314efa24eefe0ba4f77d7958b8c13ed521816e0",
+        "title": "OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型",
+        "url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
+        "source": "X：OpenAI (@OpenAI)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_8447dd404c0c",
-      "title": "科学家首次用AI制造新病毒",
-      "url": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
-      "primary_url": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "story_id": "story_15d42117f4eb",
+      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+      "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
+      "primary_url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b15a5c4056182dbeabef4bdff1a70d58b42be357",
-          "title": "科学家首次用AI制造新病毒",
-          "url": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "id": "2692486c3353b85d969b9776a33adb5c80827850",
+          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+          "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T19:27:41Z"
+          "published_at": "2026-08-07T17:51:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
+        "LMSYS：Blog（Chatbot Arena 团队）"
       ],
       "items": [
         {
-          "id": "b15a5c4056182dbeabef4bdff1a70d58b42be357",
-          "title": "科学家首次用AI制造新病毒",
-          "url": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "id": "2692486c3353b85d969b9776a33adb5c80827850",
+          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+          "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-06T19:27:41Z"
+          "published_at": "2026-08-07T17:51:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7403,
+        "recency": 0.7619,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1115,91 +740,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T19:27:41Z",
-      "latest_at": "2026-08-06T19:27:41Z",
+      "earliest_at": "2026-08-07T17:51:24Z",
+      "latest_at": "2026-08-07T17:51:24Z",
       "primary_item": {
-        "id": "b15a5c4056182dbeabef4bdff1a70d58b42be357",
-        "title": "科学家首次用AI制造新病毒",
-        "url": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "id": "2692486c3353b85d969b9776a33adb5c80827850",
+        "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+        "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_1d792353466b",
-      "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-      "url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
-      "primary_url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ca92c48e6d8282817d7a18e7987f93666f155696",
-          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-          "url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T16:53:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ca92c48e6d8282817d7a18e7987f93666f155696",
-          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-          "url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T16:53:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.633,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T16:53:12Z",
-      "latest_at": "2026-08-06T16:53:12Z",
-      "primary_item": {
-        "id": "ca92c48e6d8282817d7a18e7987f93666f155696",
-        "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-        "url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0e837b78a70b",
-      "title": "AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议",
-      "url": "https://www.aibase.com/news/30168",
-      "primary_url": "https://www.aibase.com/news/30168",
+      "story_id": "story_4c412f1fef52",
+      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+      "url": "https://www.aibase.com/news/30199",
+      "primary_url": "https://www.aibase.com/news/30199",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7d20f293c3d1571c3187688e88f628eb948d6dc3",
-          "title": "AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议",
-          "url": "https://www.aibase.com/news/30168",
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "url": "https://www.aibase.com/news/30199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T16:41:42.297991Z"
+          "published_at": "2026-08-07T17:34:12.995929Z"
         }
       ],
       "source_count": 1,
@@ -1208,57 +774,118 @@
       ],
       "items": [
         {
-          "id": "7d20f293c3d1571c3187688e88f628eb948d6dc3",
-          "title": "AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议",
-          "url": "https://www.aibase.com/news/30168",
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "url": "https://www.aibase.com/news/30199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T16:41:42.297991Z"
+          "published_at": "2026-08-07T17:34:12.995929Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.625,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-06T16:41:42.297991Z",
-      "latest_at": "2026-08-06T16:41:42.297991Z",
+      "earliest_at": "2026-08-07T17:34:12.995929Z",
+      "latest_at": "2026-08-07T17:34:12.995929Z",
       "primary_item": {
-        "id": "7d20f293c3d1571c3187688e88f628eb948d6dc3",
-        "title": "AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议",
-        "url": "https://www.aibase.com/news/30168",
+        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "url": "https://www.aibase.com/news/30199",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_722df8b4fec8",
-      "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-      "url": "https://www.aibase.com/news/30170",
-      "primary_url": "https://www.aibase.com/news/30170",
+      "story_id": "story_2fa2933dd115",
+      "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+      "url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
+      "primary_url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
+      "source": "LangChain：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e10f60271426836baea5770a263d7c0e32468f3f",
+          "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+          "url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T17:24:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LangChain：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e10f60271426836baea5770a263d7c0e32468f3f",
+          "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+          "url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T17:24:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.743,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T17:24:06Z",
+      "latest_at": "2026-08-07T17:24:06Z",
+      "primary_item": {
+        "id": "e10f60271426836baea5770a263d7c0e32468f3f",
+        "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+        "url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
+        "source": "LangChain：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_879b36b11e4d",
+      "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+      "url": "https://www.aibase.com/news/30197",
+      "primary_url": "https://www.aibase.com/news/30197",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5b91f9e709cb7df1a21281407449218e4936766f",
-          "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-          "url": "https://www.aibase.com/news/30170",
+          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
+          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "url": "https://www.aibase.com/news/30197",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T16:41:42.297991Z"
+          "published_at": "2026-08-07T16:34:12.995929Z"
         }
       ],
       "source_count": 1,
@@ -1267,13 +894,309 @@
       ],
       "items": [
         {
-          "id": "5b91f9e709cb7df1a21281407449218e4936766f",
-          "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-          "url": "https://www.aibase.com/news/30170",
+          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
+          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "url": "https://www.aibase.com/news/30197",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-06T16:41:42.297991Z"
+          "published_at": "2026-08-07T16:34:12.995929Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7083,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T16:34:12.995929Z",
+      "latest_at": "2026-08-07T16:34:12.995929Z",
+      "primary_item": {
+        "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
+        "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+        "url": "https://www.aibase.com/news/30197",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_514162b004ef",
+      "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+      "url": "https://www.aibase.com/news/30194",
+      "primary_url": "https://www.aibase.com/news/30194",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
+          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+          "url": "https://www.aibase.com/news/30194",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T15:34:12.995929Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
+          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+          "url": "https://www.aibase.com/news/30194",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T15:34:12.995929Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T15:34:12.995929Z",
+      "latest_at": "2026-08-07T15:34:12.995929Z",
+      "primary_item": {
+        "id": "98608447a616cc19373034f3ef86c4e5f0966422",
+        "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
+        "url": "https://www.aibase.com/news/30194",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_928b508ef6e5",
+      "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
+      "url": "https://www.aibase.com/news/30195",
+      "primary_url": "https://www.aibase.com/news/30195",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4ba25ba0379f6756a471111b185864f54a223381",
+          "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
+          "url": "https://www.aibase.com/news/30195",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T15:34:12.995929Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4ba25ba0379f6756a471111b185864f54a223381",
+          "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
+          "url": "https://www.aibase.com/news/30195",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T15:34:12.995929Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T15:34:12.995929Z",
+      "latest_at": "2026-08-07T15:34:12.995929Z",
+      "primary_item": {
+        "id": "4ba25ba0379f6756a471111b185864f54a223381",
+        "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
+        "url": "https://www.aibase.com/news/30195",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dc346c5ea0de",
+      "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+      "url": "https://www.aibase.com/news/30193",
+      "primary_url": "https://www.aibase.com/news/30193",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
+          "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+          "url": "https://www.aibase.com/news/30193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T15:34:12.995929Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
+          "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+          "url": "https://www.aibase.com/news/30193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T15:34:12.995929Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T15:34:12.995929Z",
+      "latest_at": "2026-08-07T15:34:12.995929Z",
+      "primary_item": {
+        "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
+        "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
+        "url": "https://www.aibase.com/news/30193",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d2df922b8b97",
+      "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+      "url": "https://www.aibase.com/news/30196",
+      "primary_url": "https://www.aibase.com/news/30196",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
+          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "url": "https://www.aibase.com/news/30196",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T15:34:12.995929Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
+          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+          "url": "https://www.aibase.com/news/30196",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T15:34:12.995929Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T15:34:12.995929Z",
+      "latest_at": "2026-08-07T15:34:12.995929Z",
+      "primary_item": {
+        "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
+        "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
+        "url": "https://www.aibase.com/news/30196",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0076256a5916",
+      "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+      "url": "https://www.aibase.com/news/30192",
+      "primary_url": "https://www.aibase.com/news/30192",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
+          "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "url": "https://www.aibase.com/news/30192",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T14:34:12.995929Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
+          "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "url": "https://www.aibase.com/news/30192",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T14:34:12.995929Z"
         }
       ],
       "item_count": 1,
@@ -1292,12 +1215,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-06T16:41:42.297991Z",
-      "latest_at": "2026-08-06T16:41:42.297991Z",
+      "earliest_at": "2026-08-07T14:34:12.995929Z",
+      "latest_at": "2026-08-07T14:34:12.995929Z",
       "primary_item": {
-        "id": "5b91f9e709cb7df1a21281407449218e4936766f",
-        "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
-        "url": "https://www.aibase.com/news/30170",
+        "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
+        "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+        "url": "https://www.aibase.com/news/30192",
         "source": "AIbase",
         "source_name": "AIbase"
       }
