@@ -1,24 +1,1086 @@
 {
-  "generated_at": "2026-08-06T00:00:05.324662Z",
+  "generated_at": "2026-08-07T01:41:42.297991Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_85fe4a428fcc",
-      "title": "OpenAI 披露智能体集群秘密协作事件",
-      "url": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
-      "primary_url": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
+      "story_id": "story_866cc4b0d022",
+      "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+      "url": "https://www.aibase.com/news/30175",
+      "primary_url": "https://www.aibase.com/news/30175",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
+          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+          "url": "https://www.aibase.com/news/30175",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        },
+        {
+          "id": "7f4396c5b255def172b7007f6496fbf124643e01",
+          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+          "url": "https://www.aibase.com/zh/news/30175",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
+          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+          "url": "https://www.aibase.com/news/30175",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        },
+        {
+          "id": "7f4396c5b255def172b7007f6496fbf124643e01",
+          "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+          "url": "https://www.aibase.com/zh/news/30175",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "1a3825ffd11841e0b6c93f55360a7b9fddb2d6d2",
+        "title": "OpenAI 最快下周发布新旗舰模型 Astra：GPT-4.5 以来最大预训练，主攻智能体协同",
+        "url": "https://www.aibase.com/news/30175",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d4ed1bf391cc",
+      "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
+      "url": "https://www.aibase.com/news/30176",
+      "primary_url": "https://www.aibase.com/news/30176",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
+          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
+          "url": "https://www.aibase.com/news/30176",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        },
+        {
+          "id": "40aa8df3dad2886f18c5f3633e29f8d74b97f7e7",
+          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
+          "url": "https://www.aibase.com/zh/news/30176",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
+          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
+          "url": "https://www.aibase.com/news/30176",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        },
+        {
+          "id": "40aa8df3dad2886f18c5f3633e29f8d74b97f7e7",
+          "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
+          "url": "https://www.aibase.com/zh/news/30176",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "f5fbb07e46c7143ec077542b2b1638ac130cfc26",
+        "title": "OpenAI 首款硬件真容浮现：冰球大小无屏设计，售价 300 至 400 美元",
+        "url": "https://www.aibase.com/news/30176",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6462ac5c219e",
+      "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
+      "url": "https://www.aibase.com/news/30177",
+      "primary_url": "https://www.aibase.com/news/30177",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
+          "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
+          "url": "https://www.aibase.com/news/30177",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        },
+        {
+          "id": "a1af74b03be235aa23df06115f7002e2c57e96a3",
+          "title": "Suno 宣布为 AI 歌曲添加水印，并签署版权检测协议",
+          "url": "https://www.aibase.com/zh/news/30177",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
+          "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
+          "url": "https://www.aibase.com/news/30177",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        },
+        {
+          "id": "a1af74b03be235aa23df06115f7002e2c57e96a3",
+          "title": "Suno 宣布为 AI 歌曲添加水印，并签署版权检测协议",
+          "url": "https://www.aibase.com/zh/news/30177",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "ed0854d9a4a04b814411f3b19a21de98979f727d",
+        "title": "Suno 宣布给 AI 歌曲加水印，还签了版权检测协议",
+        "url": "https://www.aibase.com/news/30177",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4427aa482e81",
+      "title": "GitHub Copilot 应用程序中的斜线命令指南 / A guide to slash commands in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
+          "title": "GitHub Copilot 应用程序中的斜线命令指南 / A guide to slash commands in the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T19:49:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
+          "title": "GitHub Copilot 应用程序中的斜线命令指南 / A guide to slash commands in the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T19:49:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7555,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T19:49:34Z",
+      "latest_at": "2026-08-06T19:49:34Z",
+      "primary_item": {
+        "id": "d5900b5b899d712c3656d676da0a85d7b1eabf74",
+        "title": "GitHub Copilot 应用程序中的斜线命令指南 / A guide to slash commands in the GitHub Copilot app",
+        "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0b8cb8210dfe",
+      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+      "url": "https://www.aibase.com/news/30180",
+      "primary_url": "https://www.aibase.com/news/30180",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "url": "https://www.aibase.com/news/30180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+          "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+          "url": "https://www.aibase.com/news/30180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "79186ad6f93f38e10ee07e8d71918f5e41e95fb2",
+        "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
+        "url": "https://www.aibase.com/news/30180",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_787f791136d5",
+      "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+      "url": "https://www.aibase.com/news/30179",
+      "primary_url": "https://www.aibase.com/news/30179",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
+          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "url": "https://www.aibase.com/news/30179",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
+          "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+          "url": "https://www.aibase.com/news/30179",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "ab35fc0f41df5525e287bd5e933496841ae1ac7c",
+        "title": "ChatGPT 大更新：免费用户升级 GPT-5.6 Luna 并将开放无限畅聊，付费用户获思考深度调节",
+        "url": "https://www.aibase.com/news/30179",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f74b9696a5fc",
+      "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
+      "url": "https://www.aibase.com/news/30174",
+      "primary_url": "https://www.aibase.com/news/30174",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "16a11e98480f3f30f0853e2e9692c715d24b12db",
+          "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
+          "url": "https://www.aibase.com/news/30174",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "16a11e98480f3f30f0853e2e9692c715d24b12db",
+          "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
+          "url": "https://www.aibase.com/news/30174",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "16a11e98480f3f30f0853e2e9692c715d24b12db",
+        "title": "OpenAI AI智能音箱曝光:甜甜圈造型，售价预计300至400美元",
+        "url": "https://www.aibase.com/news/30174",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c587e8a94e2b",
+      "title": "OpenAI取消ChatGPT文本聊天限制，GPT-5.6系列模型全面升级",
+      "url": "https://www.aibase.com/news/30173",
+      "primary_url": "https://www.aibase.com/news/30173",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dc6cca5156d7c6ab51f66d55a4457ea0a0cc64f2",
+          "title": "OpenAI取消ChatGPT文本聊天限制，GPT-5.6系列模型全面升级",
+          "url": "https://www.aibase.com/news/30173",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dc6cca5156d7c6ab51f66d55a4457ea0a0cc64f2",
+          "title": "OpenAI取消ChatGPT文本聊天限制，GPT-5.6系列模型全面升级",
+          "url": "https://www.aibase.com/news/30173",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "dc6cca5156d7c6ab51f66d55a4457ea0a0cc64f2",
+        "title": "OpenAI取消ChatGPT文本聊天限制，GPT-5.6系列模型全面升级",
+        "url": "https://www.aibase.com/news/30173",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e8c4dc910dad",
+      "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+      "url": "https://www.aibase.com/news/30181",
+      "primary_url": "https://www.aibase.com/news/30181",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f82c996e1adcd30933f74889c59a25322c024946",
+          "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "url": "https://www.aibase.com/news/30181",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f82c996e1adcd30933f74889c59a25322c024946",
+          "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+          "url": "https://www.aibase.com/news/30181",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "f82c996e1adcd30933f74889c59a25322c024946",
+        "title": "字节押注 5 万亿参数大模型：超 Kimi K3 和 Qwen 3.8-Max，张一鸣内部下令严禁蒸馏",
+        "url": "https://www.aibase.com/news/30181",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e5803146cef6",
+      "title": "字节跳动讨论训练超5万亿参数大模型，规模或超国内现有最大模型",
+      "url": "https://www.aibase.com/news/30172",
+      "primary_url": "https://www.aibase.com/news/30172",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9126e99fab2708ddb139084e99b8af504cea4aa9",
+          "title": "字节跳动讨论训练超5万亿参数大模型，规模或超国内现有最大模型",
+          "url": "https://www.aibase.com/news/30172",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9126e99fab2708ddb139084e99b8af504cea4aa9",
+          "title": "字节跳动讨论训练超5万亿参数大模型，规模或超国内现有最大模型",
+          "url": "https://www.aibase.com/news/30172",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "9126e99fab2708ddb139084e99b8af504cea4aa9",
+        "title": "字节跳动讨论训练超5万亿参数大模型，规模或超国内现有最大模型",
+        "url": "https://www.aibase.com/news/30172",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_efccda88c063",
+      "title": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
+      "url": "https://www.aibase.com/news/30178",
+      "primary_url": "https://www.aibase.com/news/30178",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bac5e3d26cbcfeee1e0791692e0c632d9887b95f",
+          "title": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
+          "url": "https://www.aibase.com/news/30178",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bac5e3d26cbcfeee1e0791692e0c632d9887b95f",
+          "title": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
+          "url": "https://www.aibase.com/news/30178",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "bac5e3d26cbcfeee1e0791692e0c632d9887b95f",
+        "title": "宇树科技IPO战略配售曝光:DeepSeek获配93.3万股，锁定36个月",
+        "url": "https://www.aibase.com/news/30178",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fa59b28a5c70",
+      "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+      "url": "https://www.aibase.com/news/30182",
+      "primary_url": "https://www.aibase.com/news/30182",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9513636bd5be73287a8d12b757c53569406cb040",
+          "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+          "url": "https://www.aibase.com/news/30182",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9513636bd5be73287a8d12b757c53569406cb040",
+          "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+          "url": "https://www.aibase.com/news/30182",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T01:41:42.297991Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T01:41:42.297991Z",
+      "latest_at": "2026-08-07T01:41:42.297991Z",
+      "primary_item": {
+        "id": "9513636bd5be73287a8d12b757c53569406cb040",
+        "title": "微软AI收入七成来自OpenAI，财年贡献金额达241亿美元",
+        "url": "https://www.aibase.com/news/30182",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2b2f00c5abe1",
+      "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T17:27:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+          "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T17:27:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6567,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T17:27:25Z",
+      "latest_at": "2026-08-06T17:27:25Z",
+      "primary_item": {
+        "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+        "title": "Kimi K3 现已在 GitHub Copilot 中提供 / Kimi K3 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0f0c1961f93e",
+      "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T10:00:00Z"
+        },
+        {
+          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        },
+        {
+          "id": "125c52798ba5d13eeea63add39b10826497d82a9",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-06T17:02:04Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T10:00:00Z"
+        },
+        {
+          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        },
+        {
+          "id": "125c52798ba5d13eeea63add39b10826497d82a9",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-06T17:02:04Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.346,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T10:00:00Z",
+      "latest_at": "2026-08-06T23:01:28.628000Z",
+      "primary_item": {
+        "id": "f93ec6f48fe52e81c65afa79e0da2ba5fffd251c",
+        "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_805405d0427d",
+      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+      "url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+      "primary_url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "01f41bf094a8643afb723525e4a531a57683951e",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T23:01:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "01f41bf094a8643afb723525e4a531a57683951e",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T23:01:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8887,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T23:01:28Z",
+      "latest_at": "2026-08-06T23:01:28Z",
+      "primary_item": {
+        "id": "01f41bf094a8643afb723525e4a531a57683951e",
+        "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+        "url": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5979b9ce70d9",
+      "title": "GitHub Copilot 应用中的斜杠命令使用指南",
+      "url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
+      "primary_url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee34d6983cd172a31eacf6d121921b21ec7a37c6",
+          "title": "GitHub Copilot 应用中的斜杠命令使用指南",
+          "url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T19:49:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "ee34d6983cd172a31eacf6d121921b21ec7a37c6",
+          "title": "GitHub Copilot 应用中的斜杠命令使用指南",
+          "url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T19:49:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7555,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T19:49:34Z",
+      "latest_at": "2026-08-06T19:49:34Z",
+      "primary_item": {
+        "id": "ee34d6983cd172a31eacf6d121921b21ec7a37c6",
+        "title": "GitHub Copilot 应用中的斜杠命令使用指南",
+        "url": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8447dd404c0c",
+      "title": "科学家首次用AI制造新病毒",
+      "url": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
+      "primary_url": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
       "source": "X：AI Safety Memes (@AISafetyMemes)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2e806bacc1d2b64f5248c42f3871f45efd9f1e16",
-          "title": "OpenAI 披露智能体集群秘密协作事件",
-          "url": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
+          "id": "b15a5c4056182dbeabef4bdff1a70d58b42be357",
+          "title": "科学家首次用AI制造新病毒",
+          "url": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
           "source": "X：AI Safety Memes (@AISafetyMemes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T22:21:18Z"
+          "published_at": "2026-08-06T19:27:41Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +1089,25 @@
       ],
       "items": [
         {
-          "id": "2e806bacc1d2b64f5248c42f3871f45efd9f1e16",
-          "title": "OpenAI 披露智能体集群秘密协作事件",
-          "url": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
+          "id": "b15a5c4056182dbeabef4bdff1a70d58b42be357",
+          "title": "科学家首次用AI制造新病毒",
+          "url": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
           "source": "X：AI Safety Memes (@AISafetyMemes)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T22:21:18Z"
+          "published_at": "2026-08-06T19:27:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9314,
+        "recency": 0.7403,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -53,690 +1115,91 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T22:21:18Z",
-      "latest_at": "2026-08-05T22:21:18Z",
+      "earliest_at": "2026-08-06T19:27:41Z",
+      "latest_at": "2026-08-06T19:27:41Z",
       "primary_item": {
-        "id": "2e806bacc1d2b64f5248c42f3871f45efd9f1e16",
-        "title": "OpenAI 披露智能体集群秘密协作事件",
-        "url": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
+        "id": "b15a5c4056182dbeabef4bdff1a70d58b42be357",
+        "title": "科学家首次用AI制造新病毒",
+        "url": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
         "source": "X：AI Safety Memes (@AISafetyMemes)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c401c52c8049",
-      "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-      "url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
-      "primary_url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
-      "source": "MarkTechPost（RSS）",
+      "story_id": "story_1d792353466b",
+      "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+      "url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
+      "primary_url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
+      "source": "Google Developers Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "231a4684e7aa1ac43e6acfae125d196a55cc95e0",
-          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-          "url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
-          "source": "MarkTechPost（RSS）",
+          "id": "ca92c48e6d8282817d7a18e7987f93666f155696",
+          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+          "url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
+          "source": "Google Developers Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T21:56:03Z"
+          "published_at": "2026-08-06T16:53:12Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "Google Developers Blog（RSS）"
       ],
       "items": [
         {
-          "id": "231a4684e7aa1ac43e6acfae125d196a55cc95e0",
-          "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-          "url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
-          "source": "MarkTechPost（RSS）",
+          "id": "ca92c48e6d8282817d7a18e7987f93666f155696",
+          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+          "url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
+          "source": "Google Developers Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T21:56:03Z"
+          "published_at": "2026-08-06T16:53:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9139,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T21:56:03Z",
-      "latest_at": "2026-08-05T21:56:03Z",
-      "primary_item": {
-        "id": "231a4684e7aa1ac43e6acfae125d196a55cc95e0",
-        "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-        "url": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4a5dba867805",
-      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-      "url": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
-      "primary_url": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bbc952a4f5fa7d8335ca29d86e157d13ddb6aaca",
-          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-          "url": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T21:11:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "bbc952a4f5fa7d8335ca29d86e157d13ddb6aaca",
-          "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-          "url": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T21:11:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.883,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T21:11:36Z",
-      "latest_at": "2026-08-05T21:11:36Z",
-      "primary_item": {
-        "id": "bbc952a4f5fa7d8335ca29d86e157d13ddb6aaca",
-        "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-        "url": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6ea463545c94",
-      "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-      "url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
-      "primary_url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d721fa9873210d6406ede3a5174cf55f982dec43",
-          "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-          "url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T21:11:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "d721fa9873210d6406ede3a5174cf55f982dec43",
-          "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-          "url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T21:11:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.883,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T21:11:36Z",
-      "latest_at": "2026-08-05T21:11:36Z",
-      "primary_item": {
-        "id": "d721fa9873210d6406ede3a5174cf55f982dec43",
-        "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-        "url": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5b393b9c1568",
-      "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
-      "url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
-      "primary_url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "27b97d19163a318515fe399285abc08ed10cd822",
-          "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
-          "url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T19:42:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "27b97d19163a318515fe399285abc08ed10cd822",
-          "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
-          "url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T19:42:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8212,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T19:42:38Z",
-      "latest_at": "2026-08-05T19:42:38Z",
-      "primary_item": {
-        "id": "27b97d19163a318515fe399285abc08ed10cd822",
-        "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
-        "url": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_45c2a453fd14",
-      "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
-      "url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
-      "primary_url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
-      "source": "X：Jeff Dean (@JeffDean)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f2ac6bd2a7f14dcf550bcc6583fde74a09b8af5",
-          "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
-          "url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
-          "source": "X：Jeff Dean (@JeffDean)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T19:20:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Jeff Dean (@JeffDean)"
-      ],
-      "items": [
-        {
-          "id": "2f2ac6bd2a7f14dcf550bcc6583fde74a09b8af5",
-          "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
-          "url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
-          "source": "X：Jeff Dean (@JeffDean)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T19:20:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8056,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T19:20:06Z",
-      "latest_at": "2026-08-05T19:20:06Z",
-      "primary_item": {
-        "id": "2f2ac6bd2a7f14dcf550bcc6583fde74a09b8af5",
-        "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
-        "url": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
-        "source": "X：Jeff Dean (@JeffDean)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f1960244e082",
-      "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
-      "url": "https://www.aibase.com/news/30135",
-      "primary_url": "https://www.aibase.com/news/30135",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ae4dd952a5d884bf72caf654fb5a3a7f22061645",
-          "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
-          "url": "https://www.aibase.com/news/30135",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T17:00:05.324662Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ae4dd952a5d884bf72caf654fb5a3a7f22061645",
-          "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
-          "url": "https://www.aibase.com/news/30135",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T17:00:05.324662Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T17:00:05.324662Z",
-      "latest_at": "2026-08-05T17:00:05.324662Z",
-      "primary_item": {
-        "id": "ae4dd952a5d884bf72caf654fb5a3a7f22061645",
-        "title": "即梦 AI 接入 Seedance 2.5 并上线 Maya/Blender 插件，字节打通 AI 视频专业创作全链路",
-        "url": "https://www.aibase.com/news/30135",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a81431320936",
-      "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
-      "url": "https://www.aibase.com/news/30138",
-      "primary_url": "https://www.aibase.com/news/30138",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
-          "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
-          "url": "https://www.aibase.com/news/30138",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T17:00:05.324662Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
-          "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
-          "url": "https://www.aibase.com/news/30138",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T17:00:05.324662Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T17:00:05.324662Z",
-      "latest_at": "2026-08-05T17:00:05.324662Z",
-      "primary_item": {
-        "id": "c40f22f91adbb51d4d4e11098e8d3271a444591c",
-        "title": "无需云端API!手机即可本地运行，Liquid AI推出端侧智能体模型LFM2.5",
-        "url": "https://www.aibase.com/news/30138",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7f22b96adc0a",
-      "title": "腾讯混元 Hy ASR3.0 预览版发布：从\"听清\"到\"听懂\"，方言词错率压到 3%",
-      "url": "https://www.aibase.com/news/30137",
-      "primary_url": "https://www.aibase.com/news/30137",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3a0d824ab69a82237f63801532b24d759fb01f35",
-          "title": "腾讯混元 Hy ASR3.0 预览版发布：从\"听清\"到\"听懂\"，方言词错率压到 3%",
-          "url": "https://www.aibase.com/news/30137",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T17:00:05.324662Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3a0d824ab69a82237f63801532b24d759fb01f35",
-          "title": "腾讯混元 Hy ASR3.0 预览版发布：从\"听清\"到\"听懂\"，方言词错率压到 3%",
-          "url": "https://www.aibase.com/news/30137",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T17:00:05.324662Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T17:00:05.324662Z",
-      "latest_at": "2026-08-05T17:00:05.324662Z",
-      "primary_item": {
-        "id": "3a0d824ab69a82237f63801532b24d759fb01f35",
-        "title": "腾讯混元 Hy ASR3.0 预览版发布：从\"听清\"到\"听懂\"，方言词错率压到 3%",
-        "url": "https://www.aibase.com/news/30137",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_91bbdbfb121f",
-      "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
-      "url": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
-      "primary_url": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c9e4ee012b64686c102e9a4026a69be0db4f1b1a",
-          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
-          "url": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T16:39:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "c9e4ee012b64686c102e9a4026a69be0db4f1b1a",
-          "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
-          "url": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T16:39:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6943,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T16:39:55Z",
-      "latest_at": "2026-08-05T16:39:55Z",
-      "primary_item": {
-        "id": "c9e4ee012b64686c102e9a4026a69be0db4f1b1a",
-        "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
-        "url": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ccf3e9dace96",
-      "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-      "url": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
-      "primary_url": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "24378fcab4483b7ecfb10c1f74f00ca5f859de76",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "url": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T16:23:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "24378fcab4483b7ecfb10c1f74f00ca5f859de76",
-          "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-          "url": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T16:23:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.683,
+        "recency": 0.633,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-05T16:23:34Z",
-      "latest_at": "2026-08-05T16:23:34Z",
+      "earliest_at": "2026-08-06T16:53:12Z",
+      "latest_at": "2026-08-06T16:53:12Z",
       "primary_item": {
-        "id": "24378fcab4483b7ecfb10c1f74f00ca5f859de76",
-        "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-        "url": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "ca92c48e6d8282817d7a18e7987f93666f155696",
+        "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+        "url": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
+        "source": "Google Developers Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_8f4ab579bcc7",
-      "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
-      "url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
-      "primary_url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
-      "source": "X：Demis Hassabis (@demishassabis)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "50240a6531a72eb4dc52be39a69ad0792f000ed0",
-          "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
-          "url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
-          "source": "X：Demis Hassabis (@demishassabis)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T16:04:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Demis Hassabis (@demishassabis)"
-      ],
-      "items": [
-        {
-          "id": "50240a6531a72eb4dc52be39a69ad0792f000ed0",
-          "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
-          "url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
-          "source": "X：Demis Hassabis (@demishassabis)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T16:04:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T16:04:58Z",
-      "latest_at": "2026-08-05T16:04:58Z",
-      "primary_item": {
-        "id": "50240a6531a72eb4dc52be39a69ad0792f000ed0",
-        "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
-        "url": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
-        "source": "X：Demis Hassabis (@demishassabis)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_aed2ee455d40",
-      "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-      "url": "https://www.aibase.com/news/30132",
-      "primary_url": "https://www.aibase.com/news/30132",
+      "story_id": "story_0e837b78a70b",
+      "title": "AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议",
+      "url": "https://www.aibase.com/news/30168",
+      "primary_url": "https://www.aibase.com/news/30168",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "url": "https://www.aibase.com/news/30132",
+          "id": "7d20f293c3d1571c3187688e88f628eb948d6dc3",
+          "title": "AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议",
+          "url": "https://www.aibase.com/news/30168",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-05T16:00:05.324662Z"
+          "published_at": "2026-08-06T16:41:42.297991Z"
         }
       ],
       "source_count": 1,
@@ -745,190 +1208,13 @@
       ],
       "items": [
         {
-          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "url": "https://www.aibase.com/news/30132",
+          "id": "7d20f293c3d1571c3187688e88f628eb948d6dc3",
+          "title": "AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议",
+          "url": "https://www.aibase.com/news/30168",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-05T16:00:05.324662Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T16:00:05.324662Z",
-      "latest_at": "2026-08-05T16:00:05.324662Z",
-      "primary_item": {
-        "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-        "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-        "url": "https://www.aibase.com/news/30132",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_07535e596c05",
-      "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
-      "url": "https://www.aibase.com/news/30134",
-      "primary_url": "https://www.aibase.com/news/30134",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "720ea29c877b647278422f2bd6badd24b0b46327",
-          "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
-          "url": "https://www.aibase.com/news/30134",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T16:00:05.324662Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "720ea29c877b647278422f2bd6badd24b0b46327",
-          "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
-          "url": "https://www.aibase.com/news/30134",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T16:00:05.324662Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T16:00:05.324662Z",
-      "latest_at": "2026-08-05T16:00:05.324662Z",
-      "primary_item": {
-        "id": "720ea29c877b647278422f2bd6badd24b0b46327",
-        "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
-        "url": "https://www.aibase.com/news/30134",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_845e4fec9d1e",
-      "title": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
-      "url": "https://www.aibase.com/news/30133",
-      "primary_url": "https://www.aibase.com/news/30133",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "54e8a9f29628a2672d31d54946736519a38998a0",
-          "title": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
-          "url": "https://www.aibase.com/news/30133",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T16:00:05.324662Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "54e8a9f29628a2672d31d54946736519a38998a0",
-          "title": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
-          "url": "https://www.aibase.com/news/30133",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T16:00:05.324662Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T16:00:05.324662Z",
-      "latest_at": "2026-08-05T16:00:05.324662Z",
-      "primary_item": {
-        "id": "54e8a9f29628a2672d31d54946736519a38998a0",
-        "title": "无问芯穹牵手 MiniMax：从推理效能到 Token 服务，国产大模型上下游抱团共建",
-        "url": "https://www.aibase.com/news/30133",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_df0c9d1fbfff",
-      "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-      "url": "https://www.aibase.com/news/30130",
-      "primary_url": "https://www.aibase.com/news/30130",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "45d71f070884471c1302c577a523eae2763a2385",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "url": "https://www.aibase.com/news/30130",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T15:00:05.324662Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "45d71f070884471c1302c577a523eae2763a2385",
-          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-          "url": "https://www.aibase.com/news/30130",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T15:00:05.324662Z"
+          "published_at": "2026-08-06T16:41:42.297991Z"
         }
       ],
       "item_count": 1,
@@ -947,32 +1233,32 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-05T15:00:05.324662Z",
-      "latest_at": "2026-08-05T15:00:05.324662Z",
+      "earliest_at": "2026-08-06T16:41:42.297991Z",
+      "latest_at": "2026-08-06T16:41:42.297991Z",
       "primary_item": {
-        "id": "45d71f070884471c1302c577a523eae2763a2385",
-        "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
-        "url": "https://www.aibase.com/news/30130",
+        "id": "7d20f293c3d1571c3187688e88f628eb948d6dc3",
+        "title": "AI算力争夺战再升级！Anthropic与AI云初创公司Volta签100亿美元协议",
+        "url": "https://www.aibase.com/news/30168",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_547d18873ccf",
-      "title": "创纪录!今年共8位普利策奖得主及入围者申报使用人工智能",
-      "url": "https://www.aibase.com/news/30131",
-      "primary_url": "https://www.aibase.com/news/30131",
+      "story_id": "story_722df8b4fec8",
+      "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
+      "url": "https://www.aibase.com/news/30170",
+      "primary_url": "https://www.aibase.com/news/30170",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "966faae91f436a322e2da7b8defc3be72cbe81d2",
-          "title": "创纪录!今年共8位普利策奖得主及入围者申报使用人工智能",
-          "url": "https://www.aibase.com/news/30131",
+          "id": "5b91f9e709cb7df1a21281407449218e4936766f",
+          "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
+          "url": "https://www.aibase.com/news/30170",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-05T15:00:05.324662Z"
+          "published_at": "2026-08-06T16:41:42.297991Z"
         }
       ],
       "source_count": 1,
@@ -981,13 +1267,13 @@
       ],
       "items": [
         {
-          "id": "966faae91f436a322e2da7b8defc3be72cbe81d2",
-          "title": "创纪录!今年共8位普利策奖得主及入围者申报使用人工智能",
-          "url": "https://www.aibase.com/news/30131",
+          "id": "5b91f9e709cb7df1a21281407449218e4936766f",
+          "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
+          "url": "https://www.aibase.com/news/30170",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-05T15:00:05.324662Z"
+          "published_at": "2026-08-06T16:41:42.297991Z"
         }
       ],
       "item_count": 1,
@@ -1006,189 +1292,12 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-05T15:00:05.324662Z",
-      "latest_at": "2026-08-05T15:00:05.324662Z",
+      "earliest_at": "2026-08-06T16:41:42.297991Z",
+      "latest_at": "2026-08-06T16:41:42.297991Z",
       "primary_item": {
-        "id": "966faae91f436a322e2da7b8defc3be72cbe81d2",
-        "title": "创纪录!今年共8位普利策奖得主及入围者申报使用人工智能",
-        "url": "https://www.aibase.com/news/30131",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fe84bbe8cf96",
-      "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-      "url": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
-      "primary_url": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "46127bfa5ed2e6712a039dd75d8d3f964660dde1",
-          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "url": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T14:30:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "46127bfa5ed2e6712a039dd75d8d3f964660dde1",
-          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "url": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T14:30:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6047,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T14:30:53Z",
-      "latest_at": "2026-08-05T14:30:53Z",
-      "primary_item": {
-        "id": "46127bfa5ed2e6712a039dd75d8d3f964660dde1",
-        "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-        "url": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ad7da1732805",
-      "title": "一签约5.2万元!机器人独角兽宇树科技冲击科创板，发行价预估超百元",
-      "url": "https://www.aibase.com/news/30129",
-      "primary_url": "https://www.aibase.com/news/30129",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c374674091da5da5a5a915fcee284957e7033ec5",
-          "title": "一签约5.2万元!机器人独角兽宇树科技冲击科创板，发行价预估超百元",
-          "url": "https://www.aibase.com/news/30129",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T14:00:05.324662Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c374674091da5da5a5a915fcee284957e7033ec5",
-          "title": "一签约5.2万元!机器人独角兽宇树科技冲击科创板，发行价预估超百元",
-          "url": "https://www.aibase.com/news/30129",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T14:00:05.324662Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5833,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T14:00:05.324662Z",
-      "latest_at": "2026-08-05T14:00:05.324662Z",
-      "primary_item": {
-        "id": "c374674091da5da5a5a915fcee284957e7033ec5",
-        "title": "一签约5.2万元!机器人独角兽宇树科技冲击科创板，发行价预估超百元",
-        "url": "https://www.aibase.com/news/30129",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_010dbb9e014f",
-      "title": "字节 Seed 甩出 SeedRealtime：音视频全双工大模型上车豆包，边看边听边说不再\"卡拍\"",
-      "url": "https://www.aibase.com/news/30128",
-      "primary_url": "https://www.aibase.com/news/30128",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b767ecec75dfae1005fa7a3e238dc90105949c49",
-          "title": "字节 Seed 甩出 SeedRealtime：音视频全双工大模型上车豆包，边看边听边说不再\"卡拍\"",
-          "url": "https://www.aibase.com/news/30128",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T14:00:05.324662Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b767ecec75dfae1005fa7a3e238dc90105949c49",
-          "title": "字节 Seed 甩出 SeedRealtime：音视频全双工大模型上车豆包，边看边听边说不再\"卡拍\"",
-          "url": "https://www.aibase.com/news/30128",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T14:00:05.324662Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5833,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T14:00:05.324662Z",
-      "latest_at": "2026-08-05T14:00:05.324662Z",
-      "primary_item": {
-        "id": "b767ecec75dfae1005fa7a3e238dc90105949c49",
-        "title": "字节 Seed 甩出 SeedRealtime：音视频全双工大模型上车豆包，边看边听边说不再\"卡拍\"",
-        "url": "https://www.aibase.com/news/30128",
+        "id": "5b91f9e709cb7df1a21281407449218e4936766f",
+        "title": "OpenAI 强硬回击苹果窃密诉讼：称指控毫无根据，斥苹果借诉讼掩盖人才短板",
+        "url": "https://www.aibase.com/news/30170",
         "source": "AIbase",
         "source_name": "AIbase"
       }
