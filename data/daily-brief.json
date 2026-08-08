@@ -1,216 +1,33 @@
 {
-  "generated_at": "2026-08-07T23:34:12.995929Z",
+  "generated_at": "2026-08-08T23:29:08.657237Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_4eef4078b0c6",
-      "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-          "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:05:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-          "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:05:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8968,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T21:05:37Z",
-      "latest_at": "2026-08-07T21:05:37Z",
-      "primary_item": {
-        "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-        "title": "副驾驶影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-        "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f1f3f6f098ab",
-      "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-          "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T20:49:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-          "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T20:49:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8501,
-      "importance": 0.8501,
-      "importance_score": 0.8501,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8856,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T20:49:26Z",
-      "latest_at": "2026-08-07T20:49:26Z",
-      "primary_item": {
-        "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-        "title": "副驾驶代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-        "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fe0607b1a1dc",
-      "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-      "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "primary_url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-          "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:40:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-          "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:40:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8451,
-      "importance": 0.8451,
-      "importance_score": 0.8451,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9207,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T21:40:03Z",
-      "latest_at": "2026-08-07T21:40:03Z",
-      "primary_item": {
-        "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-        "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-        "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8ce398d73cfe",
-      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-      "url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
-      "primary_url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
+      "story_id": "story_f5f4233a6e75",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
+      "primary_url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "36d800b0fadf54290e8653f7f4a7ea55f8c5cc10",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
+          "id": "415c8fda121711d3b1f059aadae9aae71242bf83",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
+          "published_at": "2026-08-08T22:46:14Z"
         },
         {
-          "id": "eb570e9d3cd768c8425a4207a49780b9a1a0e6f3",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "url": "https://www.ithome.com/0/987/221.htm",
+          "id": "e3762adbecfc92d514b72ebb63ccc721b34a25aa",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://www.ithome.com/0/987/452.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-07T23:08:56Z"
+          "published_at": "2026-08-08T22:46:14Z"
         }
       ],
       "source_count": 2,
@@ -220,34 +37,34 @@
       ],
       "items": [
         {
-          "id": "36d800b0fadf54290e8653f7f4a7ea55f8c5cc10",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
+          "id": "415c8fda121711d3b1f059aadae9aae71242bf83",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
+          "published_at": "2026-08-08T22:46:14Z"
         },
         {
-          "id": "eb570e9d3cd768c8425a4207a49780b9a1a0e6f3",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "url": "https://www.ithome.com/0/987/221.htm",
+          "id": "e3762adbecfc92d514b72ebb63ccc721b34a25aa",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "url": "https://www.ithome.com/0/987/452.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-07T23:08:56Z"
+          "published_at": "2026-08-08T22:46:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9824,
+        "recency": 0.9702,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -256,303 +73,139 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T23:08:56Z",
-      "latest_at": "2026-08-07T23:08:56Z",
+      "earliest_at": "2026-08-08T22:46:14Z",
+      "latest_at": "2026-08-08T22:46:14Z",
       "primary_item": {
-        "id": "36d800b0fadf54290e8653f7f4a7ea55f8c5cc10",
-        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "url": "https://aihot.virxact.com/items/cmsjk6eiz0byoroo5cc4bcwg6",
+        "id": "415c8fda121711d3b1f059aadae9aae71242bf83",
+        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "url": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_1256b7011cc5",
-      "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7823,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T18:20:47Z",
-      "latest_at": "2026-08-07T18:20:47Z",
-      "primary_item": {
-        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-        "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_999235830ad8",
-      "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-      "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-      "primary_url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T17:33:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T17:33:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7493,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T17:33:14Z",
-      "latest_at": "2026-08-07T17:33:14Z",
-      "primary_item": {
-        "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-        "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-        "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_523078d0c9f7",
-      "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7226,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T16:54:47Z",
-      "latest_at": "2026-08-07T16:54:47Z",
-      "primary_item": {
-        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-        "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_10bf651dfc42",
-      "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6481,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T15:07:25Z",
-      "latest_at": "2026-08-07T15:07:25Z",
-      "primary_item": {
-        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-        "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_33102fd111ff",
-      "title": "Claude Code 会话间可互发消息",
-      "url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
-      "primary_url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
-      "source": "X：Claude Devs (@ClaudeDevs)",
+      "story_id": "story_10f59a98f1f0",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;",
+      "url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
+      "primary_url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4034fecfc456e0eb6b4cfb849471e9304f356084",
-          "title": "Claude Code 会话间可互发消息",
-          "url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
-          "source": "X：Claude Devs (@ClaudeDevs)",
+          "id": "a18e9213a914e24e19b8a05db7167a9877d6fc0e",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;",
+          "url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
+          "published_at": "2026-08-08T13:38:40Z"
+        },
+        {
+          "id": "682068a11714b8eea5aae54179de865fdd172a09",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T13:38:40Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "4034fecfc456e0eb6b4cfb849471e9304f356084",
-          "title": "Claude Code 会话间可互发消息",
-          "url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
-          "source": "X：Claude Devs (@ClaudeDevs)",
+          "id": "a18e9213a914e24e19b8a05db7167a9877d6fc0e",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;",
+          "url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
+          "published_at": "2026-08-08T13:38:40Z"
+        },
+        {
+          "id": "682068a11714b8eea5aae54179de865fdd172a09",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1:1000 近乎“误差”",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T13:38:40Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.848,
+        "recency": 0.5899,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T13:38:40Z",
+      "latest_at": "2026-08-08T13:38:40Z",
+      "primary_item": {
+        "id": "a18e9213a914e24e19b8a05db7167a9877d6fc0e",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎&quot;误差&quot;",
+        "url": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b1a52d1798e0",
+      "title": "Grok Imagine 图像编辑迎来重大升级",
+      "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+      "primary_url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8b87069b47b8d925d0f2d76b76a8f72225e56c88",
+          "title": "Grok Imagine 图像编辑迎来重大升级",
+          "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T16:27:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "8b87069b47b8d925d0f2d76b76a8f72225e56c88",
+          "title": "Grok Imagine 图像编辑迎来重大升级",
+          "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T16:27:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7074,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -560,32 +213,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T19:55:17Z",
-      "latest_at": "2026-08-07T19:55:17Z",
+      "earliest_at": "2026-08-08T16:27:48Z",
+      "latest_at": "2026-08-08T16:27:48Z",
       "primary_item": {
-        "id": "4034fecfc456e0eb6b4cfb849471e9304f356084",
-        "title": "Claude Code 会话间可互发消息",
-        "url": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
-        "source": "X：Claude Devs (@ClaudeDevs)",
+        "id": "8b87069b47b8d925d0f2d76b76a8f72225e56c88",
+        "title": "Grok Imagine 图像编辑迎来重大升级",
+        "url": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_832fa0d503bf",
-      "title": "Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器",
-      "url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
-      "primary_url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
+      "story_id": "story_9ea9b47d3f75",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+      "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
+      "primary_url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "60f42052202714c10133ab1f646ba5415ae00e9d",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器",
-          "url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
+          "id": "c628e9d6ba369bfb65a8eb2a4690f64dfaccbf4c",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34Z"
+          "published_at": "2026-08-08T14:38:40Z"
         }
       ],
       "source_count": 1,
@@ -594,635 +247,1097 @@
       ],
       "items": [
         {
-          "id": "60f42052202714c10133ab1f646ba5415ae00e9d",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器",
-          "url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
+          "id": "c628e9d6ba369bfb65a8eb2a4690f64dfaccbf4c",
+          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34Z"
+          "published_at": "2026-08-08T14:38:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8058,
+        "recency": 0.6316,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-07T18:54:34Z",
-      "latest_at": "2026-08-07T18:54:34Z",
+      "earliest_at": "2026-08-08T14:38:40Z",
+      "latest_at": "2026-08-08T14:38:40Z",
       "primary_item": {
-        "id": "60f42052202714c10133ab1f646ba5415ae00e9d",
-        "title": "Kitesurf：一款在 V8 隔离环境中运行的&quot;代理优先&quot;浏览器",
-        "url": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
+        "id": "c628e9d6ba369bfb65a8eb2a4690f64dfaccbf4c",
+        "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+        "url": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_d121d6396648",
-      "title": "OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型",
-      "url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
-      "primary_url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
-      "source": "X：OpenAI (@OpenAI)",
+      "story_id": "story_95a223d2f509",
+      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+      "url": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7",
+      "primary_url": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7",
+      "source": "Ars Technica：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6314efa24eefe0ba4f77d7958b8c13ed521816e0",
-          "title": "OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型",
-          "url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
-          "source": "X：OpenAI (@OpenAI)",
+          "id": "5ffa7930ecf4be4d6f8676af9e1c6789e575807c",
+          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+          "url": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T18:52:48Z"
+          "published_at": "2026-08-08T11:05:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI (@OpenAI)"
+        "Ars Technica：AI（RSS）"
       ],
       "items": [
         {
-          "id": "6314efa24eefe0ba4f77d7958b8c13ed521816e0",
-          "title": "OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型",
-          "url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
-          "source": "X：OpenAI (@OpenAI)",
+          "id": "5ffa7930ecf4be4d6f8676af9e1c6789e575807c",
+          "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+          "url": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7",
+          "source": "Ars Technica：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T18:52:48Z"
+          "published_at": "2026-08-08T11:05:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
-      "importance_label": "行业动态",
+      "score": 0.7088,
+      "importance": 0.7088,
+      "importance_score": 0.7088,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8046,
+        "recency": 0.4838,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-07T18:52:48Z",
-      "latest_at": "2026-08-07T18:52:48Z",
+      "earliest_at": "2026-08-08T11:05:50Z",
+      "latest_at": "2026-08-08T11:05:50Z",
       "primary_item": {
-        "id": "6314efa24eefe0ba4f77d7958b8c13ed521816e0",
-        "title": "OpenAI 将 Astra 列为首个&quot;关键&quot;网络安全模型",
-        "url": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
-        "source": "X：OpenAI (@OpenAI)",
+        "id": "5ffa7930ecf4be4d6f8676af9e1c6789e575807c",
+        "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+        "url": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7",
+        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_15d42117f4eb",
-      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-      "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-      "primary_url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "story_id": "story_3a8bdc0a5adc",
+      "title": "苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身",
+      "url": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r",
+      "primary_url": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2692486c3353b85d969b9776a33adb5c80827850",
-          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-          "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "id": "da8ab7bcfb221ebe4c818911e2195641a9f99749",
+          "title": "苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身",
+          "url": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T17:51:24Z"
+          "published_at": "2026-08-08T08:25:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "2692486c3353b85d969b9776a33adb5c80827850",
-          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-          "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "id": "da8ab7bcfb221ebe4c818911e2195641a9f99749",
+          "title": "苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身",
+          "url": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T17:51:24Z"
+          "published_at": "2026-08-08T08:25:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
-      "importance_label": "行业动态",
+      "score": 0.6864,
+      "importance": 0.6864,
+      "importance_score": 0.6864,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7619,
+        "recency": 0.3722,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-07T17:51:24Z",
-      "latest_at": "2026-08-07T17:51:24Z",
+      "earliest_at": "2026-08-08T08:25:11Z",
+      "latest_at": "2026-08-08T08:25:11Z",
       "primary_item": {
-        "id": "2692486c3353b85d969b9776a33adb5c80827850",
-        "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-        "url": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "id": "da8ab7bcfb221ebe4c818911e2195641a9f99749",
+        "title": "苹果 Mac 简体中文支持文档更新，&quot;Apple 智能&quot;阿里千问扩展现身",
+        "url": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_4c412f1fef52",
-      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-      "url": "https://www.aibase.com/news/30199",
-      "primary_url": "https://www.aibase.com/news/30199",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_18b0dbee24c9",
+      "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+      "primary_url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "url": "https://www.aibase.com/news/30199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T17:34:12.995929Z"
+          "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T22:36:03Z"
+        },
+        {
+          "id": "5fcf0d1d4fafe097ae51e9cbf30fd81d3da8ea2e",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Readhub · AI",
+        "Simon Willison"
       ],
       "items": [
         {
-          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-          "url": "https://www.aibase.com/news/30199",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T17:34:12.995929Z"
+          "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T22:36:03Z"
+        },
+        {
+          "id": "5fcf0d1d4fafe097ae51e9cbf30fd81d3da8ea2e",
+          "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置",
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6306,
+      "importance": 0.6306,
+      "importance_score": 0.6306,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9631,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T17:34:12.995929Z",
-      "latest_at": "2026-08-07T17:34:12.995929Z",
+      "earliest_at": "2026-08-08T22:36:03Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
       "primary_item": {
-        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
-        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
-        "url": "https://www.aibase.com/news/30199",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "8eebc4ddea1ef85bc7f855bf3e28f34da8a15992",
+        "title": "Claude Code 的 Auto 模式将成为 Pro、Max 和 Team 套餐的默认设置 / Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+        "url": "https://simonwillison.net/2026/Aug/8/auto-mode",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_2fa2933dd115",
-      "title": "LangChain 推出 Managed Deep Agents 公开测试版",
-      "url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
-      "primary_url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_6ce826369197",
+      "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "url": "https://news.ycombinator.com/item?id=49224294",
+      "primary_url": "https://news.ycombinator.com/item?id=49224294",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "e10f60271426836baea5770a263d7c0e32468f3f",
-          "title": "LangChain 推出 Managed Deep Agents 公开测试版",
-          "url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:24:06Z"
+          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
+          "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "url": "https://news.ycombinator.com/item?id=49224294",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T23:18:05.348000Z"
+        },
+        {
+          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "mezha.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T19:26:49.887000Z"
+        },
+        {
+          "id": "7f09339289c3e2eb26beaf046fd0da9168756765",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T18:09:31Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "LangChain：Blog（RSS）"
+        "Hacker News · 24h最热",
+        "hackernews",
+        "mezha.net"
       ],
       "items": [
         {
-          "id": "e10f60271426836baea5770a263d7c0e32468f3f",
-          "title": "LangChain 推出 Managed Deep Agents 公开测试版",
-          "url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:24:06Z"
+          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
+          "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "url": "https://news.ycombinator.com/item?id=49224294",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T23:18:05.348000Z"
+        },
+        {
+          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "mezha.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T19:26:49.887000Z"
+        },
+        {
+          "id": "7f09339289c3e2eb26beaf046fd0da9168756765",
+          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-08T18:09:31Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5715,
+      "importance": 0.5715,
+      "importance_score": 0.5715,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.743,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9923,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T17:24:06Z",
-      "latest_at": "2026-08-07T17:24:06Z",
+      "earliest_at": "2026-08-08T18:09:31Z",
+      "latest_at": "2026-08-08T23:18:05.348000Z",
       "primary_item": {
-        "id": "e10f60271426836baea5770a263d7c0e32468f3f",
-        "title": "LangChain 推出 Managed Deep Agents 公开测试版",
-        "url": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
+        "id": "415c5d98e638ad6b96353f679325f05e221f3479",
+        "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+        "url": "https://news.ycombinator.com/item?id=49224294",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_879b36b11e4d",
-      "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-      "url": "https://www.aibase.com/news/30197",
-      "primary_url": "https://www.aibase.com/news/30197",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1a760225a988",
+      "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+      "primary_url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "url": "https://www.aibase.com/news/30197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T16:34:12.995929Z"
+          "id": "e86ae004a2a9788ff0163d44250a29e68572acf7",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
+          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T23:18:05.348000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Readhub · AI",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "url": "https://www.aibase.com/news/30197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T16:34:12.995929Z"
+          "id": "e86ae004a2a9788ff0163d44250a29e68572acf7",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b5fc60704b2aa5162388492b379dd00d2b12aea4",
+          "title": "OpenAI 对 Hugging Face 的意外攻击的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T23:18:05.348000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T16:34:12.995929Z",
-      "latest_at": "2026-08-07T16:34:12.995929Z",
+      "earliest_at": "2026-08-08T23:18:05.348000Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
       "primary_item": {
-        "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-        "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-        "url": "https://www.aibase.com/news/30197",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "e86ae004a2a9788ff0163d44250a29e68572acf7",
+        "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_514162b004ef",
-      "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-      "url": "https://www.aibase.com/news/30194",
-      "primary_url": "https://www.aibase.com/news/30194",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_7356e5d63521",
+      "title": "faaah（文件系统作为人工智能处理器）",
+      "url": "https://github.com/sebastiancarlos/faaah",
+      "primary_url": "https://github.com/sebastiancarlos/faaah",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "url": "https://www.aibase.com/news/30194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T15:34:12.995929Z"
+          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
+          "title": "faaah（文件系统作为人工智能处理器）",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:10:34.737000Z"
+        },
+        {
+          "id": "9530c3c6ba6a85ae3aabdbbbe8978396e6fcc887",
+          "title": "faaah（文件系统作为人工智能处理器） / faaah (Filesystem As An AI Handler)",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T23:07:20Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Lobsters (技术社区)",
+        "github.com"
       ],
       "items": [
         {
-          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "url": "https://www.aibase.com/news/30194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T15:34:12.995929Z"
+          "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
+          "title": "faaah（文件系统作为人工智能处理器）",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T23:10:34.737000Z"
+        },
+        {
+          "id": "9530c3c6ba6a85ae3aabdbbbe8978396e6fcc887",
+          "title": "faaah（文件系统作为人工智能处理器） / faaah (Filesystem As An AI Handler)",
+          "url": "https://github.com/sebastiancarlos/faaah",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T23:07:20Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9871,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T15:34:12.995929Z",
-      "latest_at": "2026-08-07T15:34:12.995929Z",
+      "earliest_at": "2026-08-08T23:07:20Z",
+      "latest_at": "2026-08-08T23:10:34.737000Z",
       "primary_item": {
-        "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-        "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-        "url": "https://www.aibase.com/news/30194",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "5390c1a5a16d96de7d8f737dac27b47d415ac99a",
+        "title": "faaah（文件系统作为人工智能处理器）",
+        "url": "https://github.com/sebastiancarlos/faaah",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_928b508ef6e5",
-      "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-      "url": "https://www.aibase.com/news/30195",
-      "primary_url": "https://www.aibase.com/news/30195",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_5ea6f9702779",
+      "title": "修订提示可优化工业级大型语言模型（LLM）流程",
+      "url": "https://revisionprompting.info",
+      "primary_url": "https://revisionprompting.info",
+      "source": "revisionprompting.info",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "4ba25ba0379f6756a471111b185864f54a223381",
-          "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-          "url": "https://www.aibase.com/news/30195",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T15:34:12.995929Z"
+          "id": "5a93128431f50bd022715c4bc4e8a4494637b5f3",
+          "title": "修订提示可优化工业级大型语言模型（LLM）流程",
+          "url": "https://revisionprompting.info",
+          "source": "revisionprompting.info",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T20:30:34.501000Z"
+        },
+        {
+          "id": "e204df48455943545dc273f3e2b6c17d35e35e10",
+          "title": "修订提示可优化工业级大型语言模型（LLM）流程 / Revision Prompting improves industrial LLM processes",
+          "url": "https://revisionprompting.info",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T20:20:42Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Lobsters (技术社区)",
+        "revisionprompting.info"
       ],
       "items": [
         {
-          "id": "4ba25ba0379f6756a471111b185864f54a223381",
-          "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-          "url": "https://www.aibase.com/news/30195",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T15:34:12.995929Z"
+          "id": "5a93128431f50bd022715c4bc4e8a4494637b5f3",
+          "title": "修订提示可优化工业级大型语言模型（LLM）流程",
+          "url": "https://revisionprompting.info",
+          "source": "revisionprompting.info",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T20:30:34.501000Z"
+        },
+        {
+          "id": "e204df48455943545dc273f3e2b6c17d35e35e10",
+          "title": "修订提示可优化工业级大型语言模型（LLM）流程 / Revision Prompting improves industrial LLM processes",
+          "url": "https://revisionprompting.info",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T20:20:42Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.67,
+        "recency": 0.876,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-07T15:34:12.995929Z",
-      "latest_at": "2026-08-07T15:34:12.995929Z",
+      "earliest_at": "2026-08-08T20:20:42Z",
+      "latest_at": "2026-08-08T20:30:34.501000Z",
       "primary_item": {
-        "id": "4ba25ba0379f6756a471111b185864f54a223381",
-        "title": "小米智能摄像机 4 Max AI 变焦版现货开售：塞了一颗 AI 大模型进去，定价 799 元",
-        "url": "https://www.aibase.com/news/30195",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "5a93128431f50bd022715c4bc4e8a4494637b5f3",
+        "title": "修订提示可优化工业级大型语言模型（LLM）流程",
+        "url": "https://revisionprompting.info",
+        "source": "revisionprompting.info",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_dc346c5ea0de",
-      "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-      "url": "https://www.aibase.com/news/30193",
-      "primary_url": "https://www.aibase.com/news/30193",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_cc10a3549472",
+      "title": "AI 电诈入侵华尔街，2000 亿规模对冲基金遇袭！",
+      "url": "https://hub.baai.ac.cn/view/56990",
+      "primary_url": "https://hub.baai.ac.cn/view/56990",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
-          "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-          "url": "https://www.aibase.com/news/30193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T15:34:12.995929Z"
+          "id": "80cd6ce4013df9f4713924f53314822160ca73a5",
+          "title": "AI 电诈入侵华尔街，2000 亿规模对冲基金遇袭！",
+          "url": "https://hub.baai.ac.cn/view/56990",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
-          "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-          "url": "https://www.aibase.com/news/30193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T15:34:12.995929Z"
+          "id": "80cd6ce4013df9f4713924f53314822160ca73a5",
+          "title": "AI 电诈入侵华尔街，2000 亿规模对冲基金遇袭！",
+          "url": "https://hub.baai.ac.cn/view/56990",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-07T15:34:12.995929Z",
-      "latest_at": "2026-08-07T15:34:12.995929Z",
+      "earliest_at": "2026-08-08T23:29:08.657237Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
       "primary_item": {
-        "id": "bae7f943d97a82b0a5cea0cf9e9e860a3814bb09",
-        "title": "影石 GO Ultra 上线 AI 语音助手：分区域接入千问与 Gemini，拇指相机变身个人 AI 入口",
-        "url": "https://www.aibase.com/news/30193",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "80cd6ce4013df9f4713924f53314822160ca73a5",
+        "title": "AI 电诈入侵华尔街，2000 亿规模对冲基金遇袭！",
+        "url": "https://hub.baai.ac.cn/view/56990",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_d2df922b8b97",
-      "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-      "url": "https://www.aibase.com/news/30196",
-      "primary_url": "https://www.aibase.com/news/30196",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_37befd55c4d5",
+      "title": "Cursor，即将彻底消失？",
+      "url": "https://www.36kr.com/p/3930343633141121",
+      "primary_url": "https://www.36kr.com/p/3930343633141121",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-          "url": "https://www.aibase.com/news/30196",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T15:34:12.995929Z"
+          "id": "84aef3fe9508bc7f534041aec794c1eb6189b7ef",
+          "title": "Cursor，即将彻底消失？",
+          "url": "https://www.36kr.com/p/3930343633141121",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "36氪 · 24小时热榜"
       ],
       "items": [
         {
-          "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-          "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-          "url": "https://www.aibase.com/news/30196",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T15:34:12.995929Z"
+          "id": "84aef3fe9508bc7f534041aec794c1eb6189b7ef",
+          "title": "Cursor，即将彻底消失？",
+          "url": "https://www.36kr.com/p/3930343633141121",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-07T15:34:12.995929Z",
-      "latest_at": "2026-08-07T15:34:12.995929Z",
+      "earliest_at": "2026-08-08T23:29:08.657237Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
       "primary_item": {
-        "id": "2fb1db985c2cbc78b0b6b46d02c17a713ccc8a5a",
-        "title": "火山引擎上线Seedance2.5API，视频生成能力全面升级",
-        "url": "https://www.aibase.com/news/30196",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "84aef3fe9508bc7f534041aec794c1eb6189b7ef",
+        "title": "Cursor，即将彻底消失？",
+        "url": "https://www.36kr.com/p/3930343633141121",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_0076256a5916",
-      "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-      "url": "https://www.aibase.com/news/30192",
-      "primary_url": "https://www.aibase.com/news/30192",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_b956161f7f9c",
+      "title": "Jeff Dean 单飞后首次公开亮相：谈 Gemini、创业与 AI4S，以及什么技术值得赌五年",
+      "url": "https://www.mittrchina.com/news/detail/16753",
+      "primary_url": "https://www.mittrchina.com/news/detail/16753",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
-          "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-          "url": "https://www.aibase.com/news/30192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T14:34:12.995929Z"
+          "id": "e471f810f272eb86829706dab0d559b8a44930b7",
+          "title": "Jeff Dean 单飞后首次公开亮相：谈 Gemini、创业与 AI4S，以及什么技术值得赌五年",
+          "url": "https://www.mittrchina.com/news/detail/16753",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
-          "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-          "url": "https://www.aibase.com/news/30192",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T14:34:12.995929Z"
+          "id": "e471f810f272eb86829706dab0d559b8a44930b7",
+          "title": "Jeff Dean 单飞后首次公开亮相：谈 Gemini、创业与 AI4S，以及什么技术值得赌五年",
+          "url": "https://www.mittrchina.com/news/detail/16753",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.625,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-07T14:34:12.995929Z",
-      "latest_at": "2026-08-07T14:34:12.995929Z",
+      "earliest_at": "2026-08-08T23:29:08.657237Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
       "primary_item": {
-        "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
-        "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-        "url": "https://www.aibase.com/news/30192",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "e471f810f272eb86829706dab0d559b8a44930b7",
+        "title": "Jeff Dean 单飞后首次公开亮相：谈 Gemini、创业与 AI4S，以及什么技术值得赌五年",
+        "url": "https://www.mittrchina.com/news/detail/16753",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1d64a77fce7d",
+      "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+      "url": "https://www.qbitai.com/2026/08/468338.html",
+      "primary_url": "https://www.qbitai.com/2026/08/468338.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fa1c9dc8ff9b78a8e18a5245c59b1ca1e52a4c4a",
+          "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+          "url": "https://www.qbitai.com/2026/08/468338.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "fa1c9dc8ff9b78a8e18a5245c59b1ca1e52a4c4a",
+          "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+          "url": "https://www.qbitai.com/2026/08/468338.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-08T23:29:08.657237Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
+      "primary_item": {
+        "id": "fa1c9dc8ff9b78a8e18a5245c59b1ca1e52a4c4a",
+        "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
+        "url": "https://www.qbitai.com/2026/08/468338.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7fd3caa7f1b2",
+      "title": "Meta 大牛带清北 00 后天团！下一代 Seedance 长这样？",
+      "url": "https://hub.baai.ac.cn/view/56992",
+      "primary_url": "https://hub.baai.ac.cn/view/56992",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a5aaf80f04a882a983fe7655ffd811f2fd387ece",
+          "title": "Meta 大牛带清北 00 后天团！下一代 Seedance 长这样？",
+          "url": "https://hub.baai.ac.cn/view/56992",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a5aaf80f04a882a983fe7655ffd811f2fd387ece",
+          "title": "Meta 大牛带清北 00 后天团！下一代 Seedance 长这样？",
+          "url": "https://hub.baai.ac.cn/view/56992",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-08T23:29:08.657237Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
+      "primary_item": {
+        "id": "a5aaf80f04a882a983fe7655ffd811f2fd387ece",
+        "title": "Meta 大牛带清北 00 后天团！下一代 Seedance 长这样？",
+        "url": "https://hub.baai.ac.cn/view/56992",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_d99a7da5ae31",
+      "title": "Science 重磅：AI 首次生成完整噬菌体基因组，可存活、能抑菌",
+      "url": "https://hub.baai.ac.cn/view/56974",
+      "primary_url": "https://hub.baai.ac.cn/view/56974",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e1bcde4981e86978553d8aa902eaca8167479e45",
+          "title": "Science 重磅：AI 首次生成完整噬菌体基因组，可存活、能抑菌",
+          "url": "https://hub.baai.ac.cn/view/56974",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e1bcde4981e86978553d8aa902eaca8167479e45",
+          "title": "Science 重磅：AI 首次生成完整噬菌体基因组，可存活、能抑菌",
+          "url": "https://hub.baai.ac.cn/view/56974",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-08T23:29:08.657237Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
+      "primary_item": {
+        "id": "e1bcde4981e86978553d8aa902eaca8167479e45",
+        "title": "Science 重磅：AI 首次生成完整噬菌体基因组，可存活、能抑菌",
+        "url": "https://hub.baai.ac.cn/view/56974",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_ab058b3ce67f",
+      "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "url": "https://www.qbitai.com/2026/08/468305.html",
+      "primary_url": "https://www.qbitai.com/2026/08/468305.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6d205692eeebd19264ef8cf72ad73f8ae54dcc37",
+          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+          "url": "https://www.qbitai.com/2026/08/468305.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "6d205692eeebd19264ef8cf72ad73f8ae54dcc37",
+          "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+          "url": "https://www.qbitai.com/2026/08/468305.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-08T23:29:08.657237Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
+      "primary_item": {
+        "id": "6d205692eeebd19264ef8cf72ad73f8ae54dcc37",
+        "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+        "url": "https://www.qbitai.com/2026/08/468305.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6fb9d15bddde",
+      "title": "个人电脑玩AI-15让5060 Ti给你打工——MiniMax H3 本地部署实录：一个自带录音棚的视频模型，和它的 NVFP4 瘦身奇遇",
+      "url": "https://juejin.cn/post/7669726629519360015",
+      "primary_url": "https://juejin.cn/post/7669726629519360015",
+      "source": "掘金 · 人工智能本周最热",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3fd5abd1e9c16b9491c84637c6f6e17202e22aff",
+          "title": "个人电脑玩AI-15让5060 Ti给你打工——MiniMax H3 本地部署实录：一个自带录音棚的视频模型，和它的 NVFP4 瘦身奇遇",
+          "url": "https://juejin.cn/post/7669726629519360015",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "掘金 · 人工智能本周最热"
+      ],
+      "items": [
+        {
+          "id": "3fd5abd1e9c16b9491c84637c6f6e17202e22aff",
+          "title": "个人电脑玩AI-15让5060 Ti给你打工——MiniMax H3 本地部署实录：一个自带录音棚的视频模型，和它的 NVFP4 瘦身奇遇",
+          "url": "https://juejin.cn/post/7669726629519360015",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-08T23:29:08.657237Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
+      "primary_item": {
+        "id": "3fd5abd1e9c16b9491c84637c6f6e17202e22aff",
+        "title": "个人电脑玩AI-15让5060 Ti给你打工——MiniMax H3 本地部署实录：一个自带录音棚的视频模型，和它的 NVFP4 瘦身奇遇",
+        "url": "https://juejin.cn/post/7669726629519360015",
+        "source": "掘金 · 人工智能本周最热",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7e6662958478",
+      "title": "他用 AI 给「人造太阳」装大脑，加速聚变超导磁体设计与控制",
+      "url": "https://www.mittrchina.com/news/detail/16751",
+      "primary_url": "https://www.mittrchina.com/news/detail/16751",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "b8c92686c6f85500877aee095c1ce0b41d925fd2",
+          "title": "他用 AI 给「人造太阳」装大脑，加速聚变超导磁体设计与控制",
+          "url": "https://www.mittrchina.com/news/detail/16751",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b8c92686c6f85500877aee095c1ce0b41d925fd2",
+          "title": "他用 AI 给「人造太阳」装大脑，加速聚变超导磁体设计与控制",
+          "url": "https://www.mittrchina.com/news/detail/16751",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-08T23:29:08.657237Z",
+      "latest_at": "2026-08-08T23:29:08.657237Z",
+      "primary_item": {
+        "id": "b8c92686c6f85500877aee095c1ce0b41d925fd2",
+        "title": "他用 AI 给「人造太阳」装大脑，加速聚变超导磁体设计与控制",
+        "url": "https://www.mittrchina.com/news/detail/16751",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
