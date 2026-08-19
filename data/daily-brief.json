@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-18T23:21:59.995947Z",
+  "generated_at": "2026-08-19T23:28:05.491542Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_2fa84a60a1c6",
-      "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "story_id": "story_9c847fb68fda",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
+          "published_at": "2026-08-19T21:09:30Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +27,25 @@
       ],
       "items": [
         {
-          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-          "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T21:57:30Z"
+          "published_at": "2026-08-19T21:09:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9413,
+        "recency": 0.9038,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,92 +54,154 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T21:57:30Z",
-      "latest_at": "2026-08-18T21:57:30Z",
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
       "primary_item": {
-        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
-        "title": "按令牌类型撤销凭证和取消授权 / Credential revocation and deauthorization by token type",
-        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_e0ca9f72fd96",
-      "title": "Claude 如何加速蛋白质设计与分析化学研究",
-      "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-      "primary_url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_bf6c17b1a987",
+      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7e12fa32cf1375e0e733447b966d94cb53dc59b6",
-          "title": "Claude 如何加速蛋白质设计与分析化学研究",
-          "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T22:27:16Z"
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "7e12fa32cf1375e0e733447b966d94cb53dc59b6",
-          "title": "Claude 如何加速蛋白质设计与分析化学研究",
-          "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T22:27:16Z"
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
-      "importance_label": "行业动态",
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.962,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7655,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T22:27:16Z",
-      "latest_at": "2026-08-18T22:27:16Z",
+      "earliest_at": "2026-08-19T17:50:23Z",
+      "latest_at": "2026-08-19T17:50:23Z",
       "primary_item": {
-        "id": "7e12fa32cf1375e0e733447b966d94cb53dc59b6",
-        "title": "Claude 如何加速蛋白质设计与分析化学研究",
-        "url": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
+        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_a37ffe7a8328",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-      "primary_url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
+      "story_id": "story_314cb75fe2f0",
+      "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+          "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8138,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T19:00:00Z",
+      "latest_at": "2026-08-19T19:00:00Z",
+      "primary_item": {
+        "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
+        "title": "通过搜索提升学习水平的 5 种新方法 / 5 new ways to level up your learning with Search",
+        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_65a7bbb63632",
+      "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+      "url": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
+      "primary_url": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9224fe85a65f2bef92a38e7d6ef66b6f0871171e",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
+          "id": "60ad26412cce471c49f0065e93f2c97e40bf234c",
+          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "url": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01Z"
+          "published_at": "2026-08-19T21:42:09Z"
         }
       ],
       "source_count": 1,
@@ -148,25 +210,25 @@
       ],
       "items": [
         {
-          "id": "9224fe85a65f2bef92a38e7d6ef66b6f0871171e",
-          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-          "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
+          "id": "60ad26412cce471c49f0065e93f2c97e40bf234c",
+          "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+          "url": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-18T21:26:01Z"
+          "published_at": "2026-08-19T21:42:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9195,
+        "recency": 0.9264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -174,59 +236,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T21:26:01Z",
-      "latest_at": "2026-08-18T21:26:01Z",
+      "earliest_at": "2026-08-19T21:42:09Z",
+      "latest_at": "2026-08-19T21:42:09Z",
       "primary_item": {
-        "id": "9224fe85a65f2bef92a38e7d6ef66b6f0871171e",
-        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-        "url": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
+        "id": "60ad26412cce471c49f0065e93f2c97e40bf234c",
+        "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
+        "url": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_cb42027e58e5",
-      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-      "url": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
-      "primary_url": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
-      "source": "X：Claude (@claudeai)",
+      "story_id": "story_271b55ec5d90",
+      "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+      "url": "https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8",
+      "primary_url": "https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8",
+      "source": "X：Sky Computing Lab (@haoailab)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3ae143dd46583646415db0c3f2905a746c1e7893",
-          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-          "url": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
-          "source": "X：Claude (@claudeai)",
+          "id": "c5b2153136d5e8af0c465665bda80b128b9bb1bd",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "url": "https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8",
+          "source": "X：Sky Computing Lab (@haoailab)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-18T20:06:01Z"
+          "published_at": "2026-08-19T20:42:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Claude (@claudeai)"
+        "X：Sky Computing Lab (@haoailab)"
       ],
       "items": [
         {
-          "id": "3ae143dd46583646415db0c3f2905a746c1e7893",
-          "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-          "url": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
-          "source": "X：Claude (@claudeai)",
+          "id": "c5b2153136d5e8af0c465665bda80b128b9bb1bd",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "url": "https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8",
+          "source": "X：Sky Computing Lab (@haoailab)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-18T20:06:01Z"
+          "published_at": "2026-08-19T20:42:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8639,
+        "recency": 0.8853,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -234,92 +296,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T20:06:01Z",
-      "latest_at": "2026-08-18T20:06:01Z",
+      "earliest_at": "2026-08-19T20:42:57Z",
+      "latest_at": "2026-08-19T20:42:57Z",
       "primary_item": {
-        "id": "3ae143dd46583646415db0c3f2905a746c1e7893",
-        "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-        "url": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
-        "source": "X：Claude (@claudeai)",
+        "id": "c5b2153136d5e8af0c465665bda80b128b9bb1bd",
+        "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+        "url": "https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8",
+        "source": "X：Sky Computing Lab (@haoailab)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9f4082bd48d9",
-      "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-      "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
-      "primary_url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_f65a703c4519",
+      "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+      "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+      "primary_url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bb8d3b673b958a140f695205e82b3da4fbcaf7b9",
-          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-          "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T19:26:08Z"
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T12:56:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "bb8d3b673b958a140f695205e82b3da4fbcaf7b9",
-          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-          "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T19:26:08Z"
+          "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+          "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+          "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T12:56:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
-      "importance_label": "行业动态",
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8362,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5617,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T19:26:08Z",
-      "latest_at": "2026-08-18T19:26:08Z",
+      "earliest_at": "2026-08-19T12:56:57Z",
+      "latest_at": "2026-08-19T12:56:57Z",
       "primary_item": {
-        "id": "bb8d3b673b958a140f695205e82b3da4fbcaf7b9",
-        "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-        "url": "https://aihot.virxact.com/items/cmsz1zjiy013pro3f1e0aafra",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
+        "id": "52ef45c1784e20e142910f5a0f3a0f9f9bc3454f",
+        "title": "跟踪组织代码质量趋势 / Track organization code quality trends",
+        "url": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_419c5ccbb523",
-      "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-      "url": "https://www.aibase.com/news/30444",
-      "primary_url": "https://www.aibase.com/news/30444",
+      "story_id": "story_1925db59761e",
+      "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+      "url": "https://www.aibase.com/news/30476",
+      "primary_url": "https://www.aibase.com/news/30476",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "url": "https://www.aibase.com/news/30444",
+          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "url": "https://www.aibase.com/news/30476",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:21:59.995947Z"
+          "published_at": "2026-08-19T18:28:05.491542Z"
         }
       ],
       "source_count": 1,
@@ -328,13 +391,13 @@
       ],
       "items": [
         {
-          "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-          "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-          "url": "https://www.aibase.com/news/30444",
+          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "url": "https://www.aibase.com/news/30476",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T18:21:59.995947Z"
+          "published_at": "2026-08-19T18:28:05.491542Z"
         }
       ],
       "item_count": 1,
@@ -354,59 +417,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T18:21:59.995947Z",
-      "latest_at": "2026-08-18T18:21:59.995947Z",
+      "earliest_at": "2026-08-19T18:28:05.491542Z",
+      "latest_at": "2026-08-19T18:28:05.491542Z",
       "primary_item": {
-        "id": "9bcd16c1b13d51f16d7cfc25ea452ef7a75489c2",
-        "title": "微信密集上新：AI 入口增至 16 个，转账撤回也有新玩法",
-        "url": "https://www.aibase.com/news/30444",
+        "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+        "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+        "url": "https://www.aibase.com/news/30476",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a4adc2a70a31",
-      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-      "url": "https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78",
-      "primary_url": "https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78",
-      "source": "Hugging Face：Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_6dc9eab969a9",
+      "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+      "url": "https://www.aibase.com/news/30477",
+      "primary_url": "https://www.aibase.com/news/30477",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5cb1b655126d0df7f72744360d8c5844a7b1413a",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "url": "https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:09:38Z"
+          "id": "47dfe46d593272d962a767f28e71df130221a9f4",
+          "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+          "url": "https://www.aibase.com/news/30477",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T18:28:05.491542Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face：Blog（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5cb1b655126d0df7f72744360d8c5844a7b1413a",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "url": "https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:09:38Z"
+          "id": "47dfe46d593272d962a767f28e71df130221a9f4",
+          "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+          "url": "https://www.aibase.com/news/30477",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T18:28:05.491542Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7831,
+        "recency": 0.7917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,32 +477,92 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T18:09:38Z",
-      "latest_at": "2026-08-18T18:09:38Z",
+      "earliest_at": "2026-08-19T18:28:05.491542Z",
+      "latest_at": "2026-08-19T18:28:05.491542Z",
       "primary_item": {
-        "id": "5cb1b655126d0df7f72744360d8c5844a7b1413a",
-        "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-        "url": "https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78",
-        "source": "Hugging Face：Blog（RSS）",
+        "id": "47dfe46d593272d962a767f28e71df130221a9f4",
+        "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+        "url": "https://www.aibase.com/news/30477",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_93c709cb0adb",
+      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+      "url": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh",
+      "primary_url": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9967e4bb892c92546aeb37092b5ef100b089858c",
+          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+          "url": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:56:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "9967e4bb892c92546aeb37092b5ef100b089858c",
+          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+          "url": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:56:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7695,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T17:56:13Z",
+      "latest_at": "2026-08-19T17:56:13Z",
+      "primary_item": {
+        "id": "9967e4bb892c92546aeb37092b5ef100b089858c",
+        "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+        "url": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_a2738fecc05d",
-      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-      "url": "https://www.aibase.com/news/30441",
-      "primary_url": "https://www.aibase.com/news/30441",
+      "story_id": "story_e12ba73f4e82",
+      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+      "url": "https://www.aibase.com/news/30473",
+      "primary_url": "https://www.aibase.com/news/30473",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "url": "https://www.aibase.com/news/30441",
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/news/30473",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "source_count": 1,
@@ -448,253 +571,13 @@
       ],
       "items": [
         {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "url": "https://www.aibase.com/news/30441",
+          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+          "url": "https://www.aibase.com/news/30473",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T17:21:59.995947Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T17:21:59.995947Z",
-      "latest_at": "2026-08-18T17:21:59.995947Z",
-      "primary_item": {
-        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-        "url": "https://www.aibase.com/news/30441",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_181b4a5ac459",
-      "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-      "url": "https://www.aibase.com/news/30440",
-      "primary_url": "https://www.aibase.com/news/30440",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "url": "https://www.aibase.com/news/30440",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T17:21:59.995947Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "url": "https://www.aibase.com/news/30440",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T17:21:59.995947Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T17:21:59.995947Z",
-      "latest_at": "2026-08-18T17:21:59.995947Z",
-      "primary_item": {
-        "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-        "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-        "url": "https://www.aibase.com/news/30440",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8a35f5c4856d",
-      "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
-      "url": "https://www.aibase.com/news/30442",
-      "primary_url": "https://www.aibase.com/news/30442",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
-          "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
-          "url": "https://www.aibase.com/news/30442",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T17:21:59.995947Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
-          "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
-          "url": "https://www.aibase.com/news/30442",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T17:21:59.995947Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T17:21:59.995947Z",
-      "latest_at": "2026-08-18T17:21:59.995947Z",
-      "primary_item": {
-        "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
-        "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
-        "url": "https://www.aibase.com/news/30442",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_583e5e8ceffe",
-      "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-      "url": "https://www.aibase.com/news/30443",
-      "primary_url": "https://www.aibase.com/news/30443",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "url": "https://www.aibase.com/news/30443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T17:21:59.995947Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-          "url": "https://www.aibase.com/news/30443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T17:21:59.995947Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.75,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T17:21:59.995947Z",
-      "latest_at": "2026-08-18T17:21:59.995947Z",
-      "primary_item": {
-        "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
-        "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
-        "url": "https://www.aibase.com/news/30443",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d4f3b837ec05",
-      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-      "url": "https://www.aibase.com/news/30439",
-      "primary_url": "https://www.aibase.com/news/30439",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "url": "https://www.aibase.com/news/30439",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T16:21:59.995947Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "url": "https://www.aibase.com/news/30439",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T16:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "item_count": 1,
@@ -714,32 +597,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T16:21:59.995947Z",
-      "latest_at": "2026-08-18T16:21:59.995947Z",
+      "earliest_at": "2026-08-19T16:28:05.491542Z",
+      "latest_at": "2026-08-19T16:28:05.491542Z",
       "primary_item": {
-        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-        "url": "https://www.aibase.com/news/30439",
+        "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
+        "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
+        "url": "https://www.aibase.com/news/30473",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1ad52a112476",
-      "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-      "url": "https://www.aibase.com/news/30437",
-      "primary_url": "https://www.aibase.com/news/30437",
+      "story_id": "story_e4bcd5a2183e",
+      "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+      "url": "https://www.aibase.com/news/30474",
+      "primary_url": "https://www.aibase.com/news/30474",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "url": "https://www.aibase.com/news/30437",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "source_count": 1,
@@ -748,13 +631,13 @@
       ],
       "items": [
         {
-          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "url": "https://www.aibase.com/news/30437",
+          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+          "url": "https://www.aibase.com/news/30474",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "item_count": 1,
@@ -774,32 +657,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T16:21:59.995947Z",
-      "latest_at": "2026-08-18T16:21:59.995947Z",
+      "earliest_at": "2026-08-19T16:28:05.491542Z",
+      "latest_at": "2026-08-19T16:28:05.491542Z",
       "primary_item": {
-        "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-        "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-        "url": "https://www.aibase.com/news/30437",
+        "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
+        "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
+        "url": "https://www.aibase.com/news/30474",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f96b6150f13a",
-      "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-      "url": "https://www.aibase.com/news/30435",
-      "primary_url": "https://www.aibase.com/news/30435",
+      "story_id": "story_db13d9ba9b84",
+      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+      "url": "https://www.aibase.com/news/30469",
+      "primary_url": "https://www.aibase.com/news/30469",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
-          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-          "url": "https://www.aibase.com/news/30435",
+          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "url": "https://www.aibase.com/news/30469",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "source_count": 1,
@@ -808,13 +691,13 @@
       ],
       "items": [
         {
-          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
-          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-          "url": "https://www.aibase.com/news/30435",
+          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+          "url": "https://www.aibase.com/news/30469",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "item_count": 1,
@@ -834,32 +717,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T16:21:59.995947Z",
-      "latest_at": "2026-08-18T16:21:59.995947Z",
+      "earliest_at": "2026-08-19T16:28:05.491542Z",
+      "latest_at": "2026-08-19T16:28:05.491542Z",
       "primary_item": {
-        "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
-        "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-        "url": "https://www.aibase.com/news/30435",
+        "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
+        "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
+        "url": "https://www.aibase.com/news/30469",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_038b70333907",
-      "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-      "url": "https://www.aibase.com/news/30434",
-      "primary_url": "https://www.aibase.com/news/30434",
+      "story_id": "story_329a0e5d3a77",
+      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+      "url": "https://www.aibase.com/news/30471",
+      "primary_url": "https://www.aibase.com/news/30471",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f83591abed7de311be34b00e2db89cff34da7523",
-          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-          "url": "https://www.aibase.com/news/30434",
+          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "url": "https://www.aibase.com/news/30471",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "source_count": 1,
@@ -868,13 +751,13 @@
       ],
       "items": [
         {
-          "id": "f83591abed7de311be34b00e2db89cff34da7523",
-          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-          "url": "https://www.aibase.com/news/30434",
+          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+          "url": "https://www.aibase.com/news/30471",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "item_count": 1,
@@ -894,32 +777,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T16:21:59.995947Z",
-      "latest_at": "2026-08-18T16:21:59.995947Z",
+      "earliest_at": "2026-08-19T16:28:05.491542Z",
+      "latest_at": "2026-08-19T16:28:05.491542Z",
       "primary_item": {
-        "id": "f83591abed7de311be34b00e2db89cff34da7523",
-        "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
-        "url": "https://www.aibase.com/news/30434",
+        "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
+        "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
+        "url": "https://www.aibase.com/news/30471",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3bc7ee397cb2",
-      "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-      "url": "https://www.aibase.com/news/30436",
-      "primary_url": "https://www.aibase.com/news/30436",
+      "story_id": "story_b0e4cf891287",
+      "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+      "url": "https://www.aibase.com/news/30472",
+      "primary_url": "https://www.aibase.com/news/30472",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-          "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "url": "https://www.aibase.com/news/30436",
+          "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
+          "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+          "url": "https://www.aibase.com/news/30472",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "source_count": 1,
@@ -928,13 +811,13 @@
       ],
       "items": [
         {
-          "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-          "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "url": "https://www.aibase.com/news/30436",
+          "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
+          "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+          "url": "https://www.aibase.com/news/30472",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T16:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "item_count": 1,
@@ -954,32 +837,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T16:21:59.995947Z",
-      "latest_at": "2026-08-18T16:21:59.995947Z",
+      "earliest_at": "2026-08-19T16:28:05.491542Z",
+      "latest_at": "2026-08-19T16:28:05.491542Z",
       "primary_item": {
-        "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-        "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-        "url": "https://www.aibase.com/news/30436",
+        "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
+        "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+        "url": "https://www.aibase.com/news/30472",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_68e376046237",
-      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-      "url": "https://www.aibase.com/news/30431",
-      "primary_url": "https://www.aibase.com/news/30431",
+      "story_id": "story_7e4fd12f040a",
+      "title": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+      "url": "https://www.aibase.com/news/30470",
+      "primary_url": "https://www.aibase.com/news/30470",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "url": "https://www.aibase.com/news/30431",
+          "id": "c4a93061e83a5163e5a9084c2224fce213720705",
+          "title": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+          "url": "https://www.aibase.com/news/30470",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
         }
       ],
       "source_count": 1,
@@ -988,13 +871,73 @@
       ],
       "items": [
         {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "url": "https://www.aibase.com/news/30431",
+          "id": "c4a93061e83a5163e5a9084c2224fce213720705",
+          "title": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+          "url": "https://www.aibase.com/news/30470",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:21:59.995947Z"
+          "published_at": "2026-08-19T16:28:05.491542Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7083,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T16:28:05.491542Z",
+      "latest_at": "2026-08-19T16:28:05.491542Z",
+      "primary_item": {
+        "id": "c4a93061e83a5163e5a9084c2224fce213720705",
+        "title": "腾讯大模型迎来人事大地震：姚顺雨掌舵基础模型",
+        "url": "https://www.aibase.com/news/30470",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ce71aada6f7c",
+      "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+      "url": "https://www.aibase.com/news/30468",
+      "primary_url": "https://www.aibase.com/news/30468",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "036cd73e0577a4f75ad6dce19fce0edd87cfa6a9",
+          "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+          "url": "https://www.aibase.com/news/30468",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T15:28:05.491542Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "036cd73e0577a4f75ad6dce19fce0edd87cfa6a9",
+          "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+          "url": "https://www.aibase.com/news/30468",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T15:28:05.491542Z"
         }
       ],
       "item_count": 1,
@@ -1013,32 +956,32 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T15:21:59.995947Z",
-      "latest_at": "2026-08-18T15:21:59.995947Z",
+      "earliest_at": "2026-08-19T15:28:05.491542Z",
+      "latest_at": "2026-08-19T15:28:05.491542Z",
       "primary_item": {
-        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-        "url": "https://www.aibase.com/news/30431",
+        "id": "036cd73e0577a4f75ad6dce19fce0edd87cfa6a9",
+        "title": "腾讯\"吐司\"推一键上架：AI 生成应用直登应用宝",
+        "url": "https://www.aibase.com/news/30468",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1c0fd8554534",
-      "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-      "url": "https://www.aibase.com/news/30433",
-      "primary_url": "https://www.aibase.com/news/30433",
+      "story_id": "story_fde02af99fc4",
+      "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+      "url": "https://www.aibase.com/news/30464",
+      "primary_url": "https://www.aibase.com/news/30464",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "url": "https://www.aibase.com/news/30433",
+          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
+          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+          "url": "https://www.aibase.com/news/30464",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:21:59.995947Z"
+          "published_at": "2026-08-19T14:28:05.491542Z"
         }
       ],
       "source_count": 1,
@@ -1047,57 +990,57 @@
       ],
       "items": [
         {
-          "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-          "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-          "url": "https://www.aibase.com/news/30433",
+          "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
+          "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+          "url": "https://www.aibase.com/news/30464",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:21:59.995947Z"
+          "published_at": "2026-08-19T14:28:05.491542Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.625,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T15:21:59.995947Z",
-      "latest_at": "2026-08-18T15:21:59.995947Z",
+      "earliest_at": "2026-08-19T14:28:05.491542Z",
+      "latest_at": "2026-08-19T14:28:05.491542Z",
       "primary_item": {
-        "id": "305298a37039d907b17569781c4a0c773bbe7c61",
-        "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-        "url": "https://www.aibase.com/news/30433",
+        "id": "29015d6ecbcd8669da9ab746d56bff8d54eb606c",
+        "title": "PICO Space Pro头显定档9月2日发布，双芯架构与4000 PPI微型OLED强势来袭",
+        "url": "https://www.aibase.com/news/30464",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_13e9f34b82b7",
-      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-      "url": "https://www.aibase.com/news/30432",
-      "primary_url": "https://www.aibase.com/news/30432",
+      "story_id": "story_241aada58d5c",
+      "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+      "url": "https://www.aibase.com/news/30466",
+      "primary_url": "https://www.aibase.com/news/30466",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "url": "https://www.aibase.com/news/30432",
+          "id": "e05533837dd963d298b50f65dc868d9d032108a4",
+          "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "url": "https://www.aibase.com/news/30466",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:21:59.995947Z"
+          "published_at": "2026-08-19T14:28:05.491542Z"
         }
       ],
       "source_count": 1,
@@ -1106,57 +1049,57 @@
       ],
       "items": [
         {
-          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "url": "https://www.aibase.com/news/30432",
+          "id": "e05533837dd963d298b50f65dc868d9d032108a4",
+          "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+          "url": "https://www.aibase.com/news/30466",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:21:59.995947Z"
+          "published_at": "2026-08-19T14:28:05.491542Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.625,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T15:21:59.995947Z",
-      "latest_at": "2026-08-18T15:21:59.995947Z",
+      "earliest_at": "2026-08-19T14:28:05.491542Z",
+      "latest_at": "2026-08-19T14:28:05.491542Z",
       "primary_item": {
-        "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-        "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-        "url": "https://www.aibase.com/news/30432",
+        "id": "e05533837dd963d298b50f65dc868d9d032108a4",
+        "title": "千问APP上线七夕AI送花助手 还能测情侣默契度",
+        "url": "https://www.aibase.com/news/30466",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d2b7f2daf188",
-      "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-      "url": "https://www.aibase.com/news/30430",
-      "primary_url": "https://www.aibase.com/news/30430",
+      "story_id": "story_4533145a1394",
+      "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+      "url": "https://www.aibase.com/news/30467",
+      "primary_url": "https://www.aibase.com/news/30467",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-          "url": "https://www.aibase.com/news/30430",
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:21:59.995947Z"
+          "published_at": "2026-08-19T14:28:05.491542Z"
         }
       ],
       "source_count": 1,
@@ -1165,37 +1108,96 @@
       ],
       "items": [
         {
-          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-          "url": "https://www.aibase.com/news/30430",
+          "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+          "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+          "url": "https://www.aibase.com/news/30467",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T15:21:59.995947Z"
+          "published_at": "2026-08-19T14:28:05.491542Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6667,
+        "recency": 0.625,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T15:21:59.995947Z",
-      "latest_at": "2026-08-18T15:21:59.995947Z",
+      "earliest_at": "2026-08-19T14:28:05.491542Z",
+      "latest_at": "2026-08-19T14:28:05.491542Z",
       "primary_item": {
-        "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-        "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-        "url": "https://www.aibase.com/news/30430",
+        "id": "3045b981fb15b7ada3d4cdc0abd0573beabd7d98",
+        "title": "日本公布 AI 指导草案：敦促开发者披露训练数据来源",
+        "url": "https://www.aibase.com/news/30467",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_90a4ea77fea8",
+      "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+      "url": "https://www.aibase.com/news/30465",
+      "primary_url": "https://www.aibase.com/news/30465",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d886e034e8d903eacc4fcfeff48d837b0857d1ab",
+          "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+          "url": "https://www.aibase.com/news/30465",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T14:28:05.491542Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d886e034e8d903eacc4fcfeff48d837b0857d1ab",
+          "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+          "url": "https://www.aibase.com/news/30465",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T14:28:05.491542Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T14:28:05.491542Z",
+      "latest_at": "2026-08-19T14:28:05.491542Z",
+      "primary_item": {
+        "id": "d886e034e8d903eacc4fcfeff48d837b0857d1ab",
+        "title": "硅谷AI 数据中心遭遇反对潮，砸数十亿“钞能力”能否平息民愤？",
+        "url": "https://www.aibase.com/news/30465",
         "source": "AIbase",
         "source_name": "AIbase"
       }
