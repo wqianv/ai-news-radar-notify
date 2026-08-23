@@ -1,746 +1,260 @@
 {
-  "generated_at": "2026-08-22T23:21:19.230523Z",
+  "generated_at": "2026-08-23T23:21:22.223263Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_a85a35d92289",
-      "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项",
-      "url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
-      "primary_url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
+      "story_id": "story_ff91e2bb7753",
+      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+      "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+      "primary_url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4046d933f66ba36af093206e61711f0cc3f9872d",
-          "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项",
-          "url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
+          "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-22T14:13:48Z"
+          "published_at": "2026-08-23T14:13:31Z"
+        },
+        {
+          "id": "12ade4906217dcaa959fe3959d24ee25acd0deca",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T14:13:31Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "IT之家 (ITHome)",
         "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "4046d933f66ba36af093206e61711f0cc3f9872d",
-          "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项",
-          "url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
+          "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-22T14:13:48Z"
+          "published_at": "2026-08-23T14:13:31Z"
+        },
+        {
+          "id": "12ade4906217dcaa959fe3959d24ee25acd0deca",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T14:13:31Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6198,
-        "story_heat": 0.0
+        "recency": 0.6195,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-22T14:13:48Z",
-      "latest_at": "2026-08-22T14:13:48Z",
+      "earliest_at": "2026-08-23T14:13:31Z",
+      "latest_at": "2026-08-23T14:13:31Z",
       "primary_item": {
-        "id": "4046d933f66ba36af093206e61711f0cc3f9872d",
-        "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚&quot;冰丝带&quot;，666 支队伍竞技 51 赛项",
-        "url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
+        "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
+        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+        "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_43e2897e00ba",
-      "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
-      "url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-      "primary_url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "source_name": "AI HOT",
+      "story_id": "story_d6c0f7eda20e",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+      "primary_url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "5584026488ed91955f002110c7beb3144c68e696",
-          "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
-          "url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-          "source": "X：蚂蚁百灵 (@AntLingAGI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-22T04:36:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：蚂蚁百灵 (@AntLingAGI)"
-      ],
-      "items": [
+          "id": "d3c2687ef5cbb7c713f6e46494069851be37dbbd",
+          "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T20:24:52Z"
+        },
         {
-          "id": "5584026488ed91955f002110c7beb3144c68e696",
-          "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
-          "url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-          "source": "X：蚂蚁百灵 (@AntLingAGI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-22T04:36:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6558,
-      "importance": 0.6558,
-      "importance_score": 0.6558,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2192,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-22T04:36:59Z",
-      "latest_at": "2026-08-22T04:36:59Z",
-      "primary_item": {
-        "id": "5584026488ed91955f002110c7beb3144c68e696",
-        "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
-        "url": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-        "source": "X：蚂蚁百灵 (@AntLingAGI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c0f9d10986f5",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://news.ycombinator.com/item?id=49402232",
-      "primary_url": "https://news.ycombinator.com/item?id=49402232",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
+          "id": "0905e28c904f1c6c250b71d9e5b63e645e6cf1ef",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
         {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://news.ycombinator.com/item?id=49402232",
+          "id": "eb5dd0c6315fbd6eaaf61c5b0ffffe7e9b3aa6d5",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://news.ycombinator.com/item?id=49411102",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T23:06:15.874000Z"
-        },
-        {
-          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-          "title": "为什么你身边的LLM看起来比实际更“笨”",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "forum.level1techs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T22:29:26.810000Z"
-        },
-        {
-          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
-          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T18:14:16Z"
+          "published_at": "2026-08-23T22:59:32.529000Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "forum.level1techs.com",
+        "Readhub · AI",
+        "Simon Willison",
         "hackernews"
       ],
       "items": [
         {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://news.ycombinator.com/item?id=49402232",
+          "id": "d3c2687ef5cbb7c713f6e46494069851be37dbbd",
+          "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T20:24:52Z"
+        },
+        {
+          "id": "0905e28c904f1c6c250b71d9e5b63e645e6cf1ef",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eb5dd0c6315fbd6eaaf61c5b0ffffe7e9b3aa6d5",
+          "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://news.ycombinator.com/item?id=49411102",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T23:06:15.874000Z"
-        },
-        {
-          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-          "title": "为什么你身边的LLM看起来比实际更“笨”",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "forum.level1techs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T22:29:26.810000Z"
-        },
-        {
-          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
-          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T18:14:16Z"
+          "published_at": "2026-08-23T22:59:32.529000Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5709,
-      "importance": 0.5709,
-      "importance_score": 0.5709,
+      "score": 0.6385,
+      "importance": 0.6385,
+      "importance_score": 0.6385,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9895,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.8774,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T18:14:16Z",
-      "latest_at": "2026-08-22T23:06:15.874000Z",
+      "earliest_at": "2026-08-23T20:24:52Z",
+      "latest_at": "2026-08-23T23:21:22.223263Z",
       "primary_item": {
-        "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-        "title": "Why your local LLM feels dumber than it is",
-        "url": "https://news.ycombinator.com/item?id=49402232",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "d3c2687ef5cbb7c713f6e46494069851be37dbbd",
+        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_b6773085f128",
-      "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "primary_url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "source": "github",
-      "source_name": "NewsNow",
+      "story_id": "story_453bd36b3364",
+      "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+      "url": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
+      "primary_url": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T23:21:50.273000Z"
-        },
-        {
-          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T23:21:50.273000Z"
-        },
-        {
-          "id": "032027867da96a5f8b4ace0675c9358fb4750ded",
-          "title": "multica-ai / andrej-karpathy-技能 / multica-ai / andrej-karpathy-skills",
-          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T23:21:19.230523Z",
-      "latest_at": "2026-08-22T23:21:50.273000Z",
-      "primary_item": {
-        "id": "baeb7c3254f794bf6cc04dc0a84e08a4131b1c74",
-        "title": "multica-ai / andrej-karpathy-技能 / multica-ai /      andrej-karpathy-skills",
-        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_a53af4b5fcbb",
-      "title": "openai / 法典 / openai /      codex",
-      "url": "https://github.com/openai/codex",
-      "primary_url": "https://github.com/openai/codex",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
-          "title": "openai / 法典 / openai /      codex",
-          "url": "https://github.com/openai/codex",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T23:21:50.273000Z"
-        },
-        {
-          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-          "title": "openai / 法典 / openai / codex",
-          "url": "https://github.com/openai/codex",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
-          "title": "openai / 法典 / openai /      codex",
-          "url": "https://github.com/openai/codex",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T23:21:50.273000Z"
-        },
-        {
-          "id": "9c1abdb52097d9201316e1990460aac36cf34826",
-          "title": "openai / 法典 / openai / codex",
-          "url": "https://github.com/openai/codex",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T23:21:19.230523Z",
-      "latest_at": "2026-08-22T23:21:50.273000Z",
-      "primary_item": {
-        "id": "7b4017bfc3adcc05cd75c8c23275758e7a5ab527",
-        "title": "openai / 法典 / openai /      codex",
-        "url": "https://github.com/openai/codex",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c97e40f81702",
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "url": "https://www.qbitai.com/2026/08/477253.html",
-      "primary_url": "https://www.qbitai.com/2026/08/477253.html",
-      "source": "量子位 · 每日最新",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f409bf9020b8723b8e9d092efe4e0c843727e5f7",
-          "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-          "url": "https://www.qbitai.com/2026/08/477253.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "48148ea36104442cde5b7b4072e645e2e1166921",
-          "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-          "url": "https://www.qbitai.com/2026/08/477016.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "f409bf9020b8723b8e9d092efe4e0c843727e5f7",
-          "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-          "url": "https://www.qbitai.com/2026/08/477253.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "48148ea36104442cde5b7b4072e645e2e1166921",
-          "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-          "url": "https://www.qbitai.com/2026/08/477016.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T23:21:19.230523Z",
-      "latest_at": "2026-08-22T23:21:19.230523Z",
-      "primary_item": {
-        "id": "f409bf9020b8723b8e9d092efe4e0c843727e5f7",
-        "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-        "url": "https://www.qbitai.com/2026/08/477253.html",
-        "source": "量子位 · 每日最新",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9c241fb43bc9",
-      "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "primary_url": "https://github.com/anthropics/claude-code",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2e072617880966c376984c0063b46b286f706f04",
-          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T23:21:50.273000Z"
-        },
-        {
-          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "2e072617880966c376984c0063b46b286f706f04",
-          "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T23:21:50.273000Z"
-        },
-        {
-          "id": "1c1ee53338a039a48abe9824358713d558495ed1",
-          "title": "人类学 / 克劳德代码 / anthropics / claude-code",
-          "url": "https://github.com/anthropics/claude-code",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T23:21:19.230523Z",
-      "latest_at": "2026-08-22T23:21:50.273000Z",
-      "primary_item": {
-        "id": "2e072617880966c376984c0063b46b286f706f04",
-        "title": "人类学 / 克劳德代码 / anthropics /      claude-code",
-        "url": "https://github.com/anthropics/claude-code",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_cf6dea3d1860",
-      "title": "Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those use...",
-      "url": "https://x.com/thsottiaux/status/2091033630147854385",
-      "primary_url": "https://x.com/thsottiaux/status/2091033630147854385",
-      "source": "Follow Builders · X · Thibault Sottiaux",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "88518fc8d4e9073042ed3b69f7019338418d6c0a",
-          "title": "Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those use...",
-          "url": "https://x.com/thsottiaux/status/2091033630147854385",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-22T05:24:01Z"
+          "id": "bc336b9539091cb5098a3f3256490fb6a8c77e5e",
+          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+          "url": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-23T00:53:34Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Thibault Sottiaux"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "88518fc8d4e9073042ed3b69f7019338418d6c0a",
-          "title": "Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those use...",
-          "url": "https://x.com/thsottiaux/status/2091033630147854385",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-22T05:24:01Z"
+          "id": "bc336b9539091cb5098a3f3256490fb6a8c77e5e",
+          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+          "url": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-23T00:53:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.6248,
+      "importance": 0.6248,
+      "importance_score": 0.6248,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.81,
-        "recency": 0.2519,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.064,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-22T05:24:01Z",
-      "latest_at": "2026-08-22T05:24:01Z",
+      "earliest_at": "2026-08-23T00:53:34Z",
+      "latest_at": "2026-08-23T00:53:34Z",
       "primary_item": {
-        "id": "88518fc8d4e9073042ed3b69f7019338418d6c0a",
-        "title": "Update on rate limits in Codex. We do see that for some users the cache hit rate has been worse this week than the stable state the weeks before. This could explain that usage is draining somewhat faster for those use...",
-        "url": "https://x.com/thsottiaux/status/2091033630147854385",
-        "source": "Follow Builders · X · Thibault Sottiaux",
-        "source_name": "Follow Builders"
+        "id": "bc336b9539091cb5098a3f3256490fb6a8c77e5e",
+        "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+        "url": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_3339b62edf63",
-      "title": "The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domai...",
-      "url": "https://x.com/levie/status/2091038566260539574",
-      "primary_url": "https://x.com/levie/status/2091038566260539574",
-      "source": "Follow Builders · X · Aaron Levie",
-      "source_name": "Follow Builders",
-      "sources": [
-        {
-          "id": "3b75a6204ada6badb06f7142b7bcfb9c369aafd4",
-          "title": "The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domai...",
-          "url": "https://x.com/levie/status/2091038566260539574",
-          "source": "Follow Builders · X · Aaron Levie",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-22T05:43:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Follow Builders · X · Aaron Levie"
-      ],
-      "items": [
-        {
-          "id": "3b75a6204ada6badb06f7142b7bcfb9c369aafd4",
-          "title": "The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domai...",
-          "url": "https://x.com/levie/status/2091038566260539574",
-          "source": "Follow Builders · X · Aaron Levie",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-22T05:43:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.62,
-        "ai_relevance": 0.77,
-        "recency": 0.2655,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-22T05:43:38Z",
-      "latest_at": "2026-08-22T05:43:38Z",
-      "primary_item": {
-        "id": "3b75a6204ada6badb06f7142b7bcfb9c369aafd4",
-        "title": "The rate of progress in AI right now is unlike any other period in tech history. Models are getting cheaper on a like for like task basis, more generally capable, faster, and they’re going deeper in almost every domai...",
-        "url": "https://x.com/levie/status/2091038566260539574",
-        "source": "Follow Builders · X · Aaron Levie",
-        "source_name": "Follow Builders"
-      }
-    },
-    {
-      "story_id": "story_304760d42766",
-      "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "primary_url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "source": "twitter.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T21:09:21.713000Z"
-        },
-        {
-          "id": "ef77a0d313f3c2a5aced9271f1726eac9c9b3922",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T16:58:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "twitter.com"
-      ],
-      "items": [
-        {
-          "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T21:09:21.713000Z"
-        },
-        {
-          "id": "ef77a0d313f3c2a5aced9271f1726eac9c9b3922",
-          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-          "url": "https://twitter.com/argofowl/status/2091150597374537729",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T16:58:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9084,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:58:49Z",
-      "latest_at": "2026-08-22T21:09:21.713000Z",
-      "primary_item": {
-        "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
-        "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-        "url": "https://twitter.com/argofowl/status/2091150597374537729",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d419cb76862b",
-      "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-      "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
-      "primary_url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
+      "story_id": "story_a36f4da2dd57",
+      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+      "primary_url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
       "source": "InfoQ CN",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "b0cee7415abca0c1b495b3da7e8f5163b6bfbdc1",
-          "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-          "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
+          "id": "bb8f726f465db6ef061f70c4d20834472a5a923b",
+          "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+          "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-22T15:15:00Z"
+          "published_at": "2026-08-23T17:00:00Z"
         }
       ],
       "source_count": 1,
@@ -749,66 +263,748 @@
       ],
       "items": [
         {
-          "id": "b0cee7415abca0c1b495b3da7e8f5163b6bfbdc1",
-          "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-          "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
+          "id": "bb8f726f465db6ef061f70c4d20834472a5a923b",
+          "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+          "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-08-22T15:15:00Z"
+          "published_at": "2026-08-23T17:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.569,
+      "importance": 0.569,
+      "importance_score": 0.569,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
-        "ai_relevance": 0.65,
-        "recency": 0.6623,
+        "ai_relevance": 0.74,
+        "recency": 0.7352,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-22T15:15:00Z",
-      "latest_at": "2026-08-22T15:15:00Z",
+      "earliest_at": "2026-08-23T17:00:00Z",
+      "latest_at": "2026-08-23T17:00:00Z",
       "primary_item": {
-        "id": "b0cee7415abca0c1b495b3da7e8f5163b6bfbdc1",
-        "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-        "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf",
+        "id": "bb8f726f465db6ef061f70c4d20834472a5a923b",
+        "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
         "source": "InfoQ CN",
         "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_18837430aeb7",
-      "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-      "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-      "primary_url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "story_id": "story_930dd1342c71",
+      "title": "NousResearch /      hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "primary_url": "https://github.com/NousResearch/hermes-agent",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T23:22:09.160000Z"
+        },
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+          "title": "NousResearch /      hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T23:22:09.160000Z"
+        },
+        {
+          "id": "feed7daae42cc25ede76cdf0d9b90a4ad5dd2de9",
+          "title": "NousResearch / hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T23:21:22.223263Z",
+      "latest_at": "2026-08-23T23:22:09.160000Z",
+      "primary_item": {
+        "id": "6f60680564d8fb9e3a928f17091b6a123d4bd7f0",
+        "title": "NousResearch /      hermes-agent",
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_cead3367c46b",
+      "title": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conver...",
+      "url": "https://x.com/thsottiaux/status/2091407991736332689",
+      "primary_url": "https://x.com/thsottiaux/status/2091407991736332689",
+      "source": "Follow Builders · X · Thibault Sottiaux",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "7e758a51b7dd43fdad960f1343d5ec86537a12bd",
+          "title": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conver...",
+          "url": "https://x.com/thsottiaux/status/2091407991736332689",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-23T06:11:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux"
+      ],
+      "items": [
+        {
+          "id": "7e758a51b7dd43fdad960f1343d5ec86537a12bd",
+          "title": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conver...",
+          "url": "https://x.com/thsottiaux/status/2091407991736332689",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-23T06:11:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.81,
+        "recency": 0.2849,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-23T06:11:36Z",
+      "latest_at": "2026-08-23T06:11:36Z",
+      "primary_item": {
+        "id": "7e758a51b7dd43fdad960f1343d5ec86537a12bd",
+        "title": "Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conver...",
+        "url": "https://x.com/thsottiaux/status/2091407991736332689",
+        "source": "Follow Builders · X · Thibault Sottiaux",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_8a83a8caace8",
+      "title": "anthropics /      claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "primary_url": "https://github.com/anthropics/claude-plugins-community",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+          "title": "anthropics /      claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T23:22:09.160000Z"
+        },
+        {
+          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+          "title": "anthropics / claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+          "title": "anthropics /      claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T23:22:09.160000Z"
+        },
+        {
+          "id": "a54bafcecd84cc88cb0dddaf5d46b33cb08376c5",
+          "title": "anthropics / claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T23:21:22.223263Z",
+      "latest_at": "2026-08-23T23:22:09.160000Z",
+      "primary_item": {
+        "id": "90f2f2f9a092cd6a4bd04000118a819476c60de8",
+        "title": "anthropics /      claude-plugins-community",
+        "url": "https://github.com/anthropics/claude-plugins-community",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_cb08435a825e",
+      "title": "freestylefly /      awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "primary_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+          "title": "freestylefly /      awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T23:22:09.160000Z"
+        },
+        {
+          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+          "title": "freestylefly / awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+          "title": "freestylefly /      awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T23:22:09.160000Z"
+        },
+        {
+          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+          "title": "freestylefly / awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T23:21:22.223263Z",
+      "latest_at": "2026-08-23T23:22:09.160000Z",
+      "primary_item": {
+        "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+        "title": "freestylefly /      awesome-gpt-image-2",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_451496f8489c",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://news.ycombinator.com/item?id=49410932",
+      "primary_url": "https://news.ycombinator.com/item?id=49410932",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bdc37bb0506dc265f613450407476cee220a8158",
+          "title": "My agent.md to improve LLM-assisted code quality",
+          "url": "https://news.ycombinator.com/item?id=49410932",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T22:59:32.529000Z"
+        },
+        {
+          "id": "1d6dd6193e01271371c76057d0264edce1707798",
+          "title": "My agent.md to improve LLM-assisted code quality",
+          "url": "https://fabiensanglard.net/agent.md/index.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T17:59:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bdc37bb0506dc265f613450407476cee220a8158",
+          "title": "My agent.md to improve LLM-assisted code quality",
+          "url": "https://news.ycombinator.com/item?id=49410932",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T22:59:32.529000Z"
+        },
+        {
+          "id": "1d6dd6193e01271371c76057d0264edce1707798",
+          "title": "My agent.md to improve LLM-assisted code quality",
+          "url": "https://fabiensanglard.net/agent.md/index.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T17:59:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9848,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T17:59:52Z",
+      "latest_at": "2026-08-23T22:59:32.529000Z",
+      "primary_item": {
+        "id": "bdc37bb0506dc265f613450407476cee220a8158",
+        "title": "My agent.md to improve LLM-assisted code quality",
+        "url": "https://news.ycombinator.com/item?id=49410932",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_d5c53db8d3fd",
+      "title": "Predicting AI model release dates with stats",
+      "url": "https://news.ycombinator.com/item?id=49410949",
+      "primary_url": "https://news.ycombinator.com/item?id=49410949",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "fae4aaf35f90e4f6e8030c462d19ceddbec265d7",
+          "title": "Predicting AI model release dates with stats",
+          "url": "https://news.ycombinator.com/item?id=49410949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T22:59:32.529000Z"
+        },
+        {
+          "id": "c4de0ab0ef1ff8e0e24f9c18bda3a47d8a22da4c",
+          "title": "Predicting AI model release dates with stats",
+          "url": "https://releaseoracle.xyz",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T18:01:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fae4aaf35f90e4f6e8030c462d19ceddbec265d7",
+          "title": "Predicting AI model release dates with stats",
+          "url": "https://news.ycombinator.com/item?id=49410949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T22:59:32.529000Z"
+        },
+        {
+          "id": "c4de0ab0ef1ff8e0e24f9c18bda3a47d8a22da4c",
+          "title": "Predicting AI model release dates with stats",
+          "url": "https://releaseoracle.xyz",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T18:01:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9848,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T18:01:30Z",
+      "latest_at": "2026-08-23T22:59:32.529000Z",
+      "primary_item": {
+        "id": "fae4aaf35f90e4f6e8030c462d19ceddbec265d7",
+        "title": "Predicting AI model release dates with stats",
+        "url": "https://news.ycombinator.com/item?id=49410949",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b832fd5e0972",
+      "title": "Training AI to Paint with Code",
+      "url": "https://news.ycombinator.com/item?id=49411800",
+      "primary_url": "https://news.ycombinator.com/item?id=49411800",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
+          "title": "Training AI to Paint with Code",
+          "url": "https://news.ycombinator.com/item?id=49411800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T22:59:32.529000Z"
+        },
+        {
+          "id": "4357a536e3efc54511c68f99b8fe6b06e30ac9dd",
+          "title": "Training AI to Paint with Code",
+          "url": "https://surya.website/rling-qwen-to-paint-with-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T19:39:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
+          "title": "Training AI to Paint with Code",
+          "url": "https://news.ycombinator.com/item?id=49411800",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T22:59:32.529000Z"
+        },
+        {
+          "id": "4357a536e3efc54511c68f99b8fe6b06e30ac9dd",
+          "title": "Training AI to Paint with Code",
+          "url": "https://surya.website/rling-qwen-to-paint-with-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T19:39:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9848,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T19:39:29Z",
+      "latest_at": "2026-08-23T22:59:32.529000Z",
+      "primary_item": {
+        "id": "5464a8eb92b4b161c1e3b49492d3cdffbd43cac9",
+        "title": "Training AI to Paint with Code",
+        "url": "https://news.ycombinator.com/item?id=49411800",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b07e4ac949c8",
+      "title": "据官方称，几内亚首都一处垃圾填埋场发生山体滑坡，造成30人死亡 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "24de9060f8435c2503fd1c496e476b202651af6d",
+          "title": "据官方称，几内亚首都一处垃圾填埋场发生山体滑坡，造成30人死亡 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T22:13:35.395000Z"
+        },
+        {
+          "id": "ab601bc0c3c6be2d3ea4cdc5c5eb1ce4832b4cf1",
+          "title": "据官方称，几内亚首都一处垃圾填埋场发生山体滑坡，造成30人死亡。 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T22:13:35.296000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "24de9060f8435c2503fd1c496e476b202651af6d",
+          "title": "据官方称，几内亚首都一处垃圾填埋场发生山体滑坡，造成30人死亡 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T22:13:35.395000Z"
+        },
+        {
+          "id": "ab601bc0c3c6be2d3ea4cdc5c5eb1ce4832b4cf1",
+          "title": "据官方称，几内亚首都一处垃圾填埋场发生山体滑坡，造成30人死亡。 - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T22:13:35.296000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9529,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T22:13:35.296000Z",
+      "latest_at": "2026-08-23T22:13:35.395000Z",
+      "primary_item": {
+        "id": "24de9060f8435c2503fd1c496e476b202651af6d",
+        "title": "据官方称，几内亚首都一处垃圾填埋场发生山体滑坡，造成30人死亡 - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0pXVm1oUkllY1YtOXY4MGZjMzBQWFg2V0wwU3V1YVFyalZ1V3BEbGRvckdhYlFSUVRIb3p5WFJHQTdmZ3l6dnBIWlg4OEtnOVRvaU05R3VVWlAwNm9jSnNIS0RydXlFTVBfWkZWaG1vdDFkcHRtaUNINmlLMjFSUjVRc1dGLVd0dkVDWlJsVDRSbEZGcGZZNFR1X0FoMkxDOEE?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_310f85560a02",
+      "title": "Twitch And Amazon Hit With Lawsuit for Training AI With Streamers' Content",
+      "url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+      "primary_url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "ab07cb79f9818e558f654940aef9560af3a78b22",
+          "title": "Twitch And Amazon Hit With Lawsuit for Training AI With Streamers' Content",
+          "url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T21:59:00Z"
+        },
+        {
+          "id": "8254cd9230113c1e1397dd9e2ddfc095fc76b6c3",
+          "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+          "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T17:39:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Engadget",
+        "Slashdot"
+      ],
+      "items": [
+        {
+          "id": "ab07cb79f9818e558f654940aef9560af3a78b22",
+          "title": "Twitch And Amazon Hit With Lawsuit for Training AI With Streamers' Content",
+          "url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T21:59:00Z"
+        },
+        {
+          "id": "8254cd9230113c1e1397dd9e2ddfc095fc76b6c3",
+          "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+          "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T17:39:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9428,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T17:39:26Z",
+      "latest_at": "2026-08-23T21:59:00Z",
+      "primary_item": {
+        "id": "ab07cb79f9818e558f654940aef9560af3a78b22",
+        "title": "Twitch And Amazon Hit With Lawsuit for Training AI With Streamers' Content",
+        "url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_bf8914f7a7d4",
+      "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+      "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+      "primary_url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-22T20:53:16.928000Z"
+          "published_at": "2026-08-23T21:57:23.465000Z"
         },
         {
-          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-22T20:46:35Z"
+          "published_at": "2026-08-23T21:38:35Z"
         }
       ],
       "source_count": 2,
@@ -818,62 +1014,180 @@
       ],
       "items": [
         {
-          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-22T20:53:16.928000Z"
+          "published_at": "2026-08-23T21:57:23.465000Z"
         },
         {
-          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-22T20:46:35Z"
+          "published_at": "2026-08-23T21:38:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8972,
+        "recency": 0.9417,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T20:46:35Z",
-      "latest_at": "2026-08-22T20:53:16.928000Z",
+      "earliest_at": "2026-08-23T21:38:35Z",
+      "latest_at": "2026-08-23T21:57:23.465000Z",
       "primary_item": {
-        "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-        "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-        "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+        "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+        "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+        "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_686192ce7579",
-      "title": "9点1氪丨有医院能领结婚证了，与婚前检查无缝衔接；阿里巴巴发布财报，2027财年Q1营收2690亿；OpenAI进一步开放Codex的底层能力",
-      "url": "https://www.36kr.com/p/3949992200928641",
-      "primary_url": "https://www.36kr.com/p/3949992200928641",
+      "story_id": "story_18fa5da69e6e",
+      "title": "If you care about your privacy: 1. Go to https://t.co/yICN6WAe9R in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell A...",
+      "url": "https://x.com/petergyang/status/2091331251211059468",
+      "primary_url": "https://x.com/petergyang/status/2091331251211059468",
+      "source": "Follow Builders · X · Peter Yang",
+      "source_name": "Follow Builders",
+      "sources": [
+        {
+          "id": "67ce155c3fd0b06f18c33a66a073779b58b11e49",
+          "title": "If you care about your privacy: 1. Go to https://t.co/yICN6WAe9R in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell A...",
+          "url": "https://x.com/petergyang/status/2091331251211059468",
+          "source": "Follow Builders · X · Peter Yang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-23T01:06:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Follow Builders · X · Peter Yang"
+      ],
+      "items": [
+        {
+          "id": "67ce155c3fd0b06f18c33a66a073779b58b11e49",
+          "title": "If you care about your privacy: 1. Go to https://t.co/yICN6WAe9R in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell A...",
+          "url": "https://x.com/petergyang/status/2091331251211059468",
+          "source": "Follow Builders · X · Peter Yang",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-23T01:06:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.62,
+        "ai_relevance": 0.89,
+        "recency": 0.0731,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-23T01:06:40Z",
+      "latest_at": "2026-08-23T01:06:40Z",
+      "primary_item": {
+        "id": "67ce155c3fd0b06f18c33a66a073779b58b11e49",
+        "title": "If you care about your privacy: 1. Go to https://t.co/yICN6WAe9R in Chrome 2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser 3. Then pick the ones you want to remove and tell A...",
+        "url": "https://x.com/petergyang/status/2091331251211059468",
+        "source": "Follow Builders · X · Peter Yang",
+        "source_name": "Follow Builders"
+      }
+    },
+    {
+      "story_id": "story_266fc4285d43",
+      "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+      "primary_url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "a3deceb324bec8a8aa93a90243617bc9e9626606",
+          "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+          "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T14:09:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "InfoQ CN"
+      ],
+      "items": [
+        {
+          "id": "a3deceb324bec8a8aa93a90243617bc9e9626606",
+          "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+          "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T14:09:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.6164,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-08-23T14:09:00Z",
+      "latest_at": "2026-08-23T14:09:00Z",
+      "primary_item": {
+        "id": "a3deceb324bec8a8aa93a90243617bc9e9626606",
+        "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+        "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_1d7bee0a42ee",
+      "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
+      "url": "https://www.36kr.com/p/3951561851534723",
+      "primary_url": "https://www.36kr.com/p/3951561851534723",
       "source": "36氪 · 24小时热榜",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "76c914e130d20db2ed2fefc5baba281e28801294",
-          "title": "9点1氪丨有医院能领结婚证了，与婚前检查无缝衔接；阿里巴巴发布财报，2027财年Q1营收2690亿；OpenAI进一步开放Codex的底层能力",
-          "url": "https://www.36kr.com/p/3949992200928641",
+          "id": "03c965751b7988ad13ac467bcfd54ac64e0f8dbd",
+          "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
+          "url": "https://www.36kr.com/p/3951561851534723",
           "source": "36氪 · 24小时热榜",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -886,9 +1200,9 @@
       ],
       "items": [
         {
-          "id": "76c914e130d20db2ed2fefc5baba281e28801294",
-          "title": "9点1氪丨有医院能领结婚证了，与婚前检查无缝衔接；阿里巴巴发布财报，2027财年Q1营收2690亿；OpenAI进一步开放Codex的底层能力",
-          "url": "https://www.36kr.com/p/3949992200928641",
+          "id": "03c965751b7988ad13ac467bcfd54ac64e0f8dbd",
+          "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
+          "url": "https://www.36kr.com/p/3951561851534723",
           "source": "36氪 · 24小时热榜",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -911,28 +1225,28 @@
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-22T23:21:19.230523Z",
-      "latest_at": "2026-08-22T23:21:19.230523Z",
+      "earliest_at": "2026-08-23T23:21:22.223263Z",
+      "latest_at": "2026-08-23T23:21:22.223263Z",
       "primary_item": {
-        "id": "76c914e130d20db2ed2fefc5baba281e28801294",
-        "title": "9点1氪丨有医院能领结婚证了，与婚前检查无缝衔接；阿里巴巴发布财报，2027财年Q1营收2690亿；OpenAI进一步开放Codex的底层能力",
-        "url": "https://www.36kr.com/p/3949992200928641",
+        "id": "03c965751b7988ad13ac467bcfd54ac64e0f8dbd",
+        "title": "AI 即将接管流量，而广告正在疯狂「末日反扑」",
+        "url": "https://www.36kr.com/p/3951561851534723",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_8fca1c16bc37",
-      "title": "AI 研发的新药，专利该归谁？",
-      "url": "https://www.mittrchina.com/news/detail/16827",
-      "primary_url": "https://www.mittrchina.com/news/detail/16827",
+      "story_id": "story_914d7cea9ee2",
+      "title": "AI 治病，走到哪一步了？",
+      "url": "https://www.mittrchina.com/news/detail/16834",
+      "primary_url": "https://www.mittrchina.com/news/detail/16834",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "6e26f4c24c17a36f75da3777f954704ec827f4db",
-          "title": "AI 研发的新药，专利该归谁？",
-          "url": "https://www.mittrchina.com/news/detail/16827",
+          "id": "f830c034e19f9baaaaf1843a9d42c6c70cf318d0",
+          "title": "AI 治病，走到哪一步了？",
+          "url": "https://www.mittrchina.com/news/detail/16834",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -945,9 +1259,9 @@
       ],
       "items": [
         {
-          "id": "6e26f4c24c17a36f75da3777f954704ec827f4db",
-          "title": "AI 研发的新药，专利该归谁？",
-          "url": "https://www.mittrchina.com/news/detail/16827",
+          "id": "f830c034e19f9baaaaf1843a9d42c6c70cf318d0",
+          "title": "AI 治病，走到哪一步了？",
+          "url": "https://www.mittrchina.com/news/detail/16834",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -970,28 +1284,28 @@
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-22T23:21:19.230523Z",
-      "latest_at": "2026-08-22T23:21:19.230523Z",
+      "earliest_at": "2026-08-23T23:21:22.223263Z",
+      "latest_at": "2026-08-23T23:21:22.223263Z",
       "primary_item": {
-        "id": "6e26f4c24c17a36f75da3777f954704ec827f4db",
-        "title": "AI 研发的新药，专利该归谁？",
-        "url": "https://www.mittrchina.com/news/detail/16827",
+        "id": "f830c034e19f9baaaaf1843a9d42c6c70cf318d0",
+        "title": "AI 治病，走到哪一步了？",
+        "url": "https://www.mittrchina.com/news/detail/16834",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_dc888dc6aff1",
-      "title": "AI「觉醒」之后，谁来负责？",
-      "url": "https://www.mittrchina.com/news/detail/16832",
-      "primary_url": "https://www.mittrchina.com/news/detail/16832",
+      "story_id": "story_1bf174538887",
+      "title": "AI 赋能癌细胞表面蛋白靶向微型结合蛋白的发现与生化优化",
+      "url": "https://hub.baai.ac.cn/view/57348",
+      "primary_url": "https://hub.baai.ac.cn/view/57348",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "e4f7491d81ccf5930249ea670c3abea369583e29",
-          "title": "AI「觉醒」之后，谁来负责？",
-          "url": "https://www.mittrchina.com/news/detail/16832",
+          "id": "368bdf553b77d8918a0378578c81efe749703f46",
+          "title": "AI 赋能癌细胞表面蛋白靶向微型结合蛋白的发现与生化优化",
+          "url": "https://hub.baai.ac.cn/view/57348",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1004,9 +1318,9 @@
       ],
       "items": [
         {
-          "id": "e4f7491d81ccf5930249ea670c3abea369583e29",
-          "title": "AI「觉醒」之后，谁来负责？",
-          "url": "https://www.mittrchina.com/news/detail/16832",
+          "id": "368bdf553b77d8918a0378578c81efe749703f46",
+          "title": "AI 赋能癌细胞表面蛋白靶向微型结合蛋白的发现与生化优化",
+          "url": "https://hub.baai.ac.cn/view/57348",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1029,147 +1343,29 @@
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-22T23:21:19.230523Z",
-      "latest_at": "2026-08-22T23:21:19.230523Z",
+      "earliest_at": "2026-08-23T23:21:22.223263Z",
+      "latest_at": "2026-08-23T23:21:22.223263Z",
       "primary_item": {
-        "id": "e4f7491d81ccf5930249ea670c3abea369583e29",
-        "title": "AI「觉醒」之后，谁来负责？",
-        "url": "https://www.mittrchina.com/news/detail/16832",
+        "id": "368bdf553b77d8918a0378578c81efe749703f46",
+        "title": "AI 赋能癌细胞表面蛋白靶向微型结合蛋白的发现与生化优化",
+        "url": "https://hub.baai.ac.cn/view/57348",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_45a9d9f5ef01",
-      "title": "AutoClaw",
-      "url": "https://www.producthunt.com/products/z-ai",
-      "primary_url": "https://www.producthunt.com/products/z-ai",
-      "source": "producthunt",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "68b842a50957b8b743c4a7b2cd1c35d8d6c427d1",
-          "title": "AutoClaw",
-          "url": "https://www.producthunt.com/products/z-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T23:21:50.273000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "68b842a50957b8b743c4a7b2cd1c35d8d6c427d1",
-          "title": "AutoClaw",
-          "url": "https://www.producthunt.com/products/z-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T23:21:50.273000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-22T23:21:50.273000Z",
-      "latest_at": "2026-08-22T23:21:50.273000Z",
-      "primary_item": {
-        "id": "68b842a50957b8b743c4a7b2cd1c35d8d6c427d1",
-        "title": "AutoClaw",
-        "url": "https://www.producthunt.com/products/z-ai",
-        "source": "producthunt",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_66b600732b15",
-      "title": "Gemini for Students",
-      "url": "https://www.producthunt.com/products/gemini-for-students",
-      "primary_url": "https://www.producthunt.com/products/gemini-for-students",
-      "source": "producthunt",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f2c9bf234f021e8732af344e5d27efb04921bbb5",
-          "title": "Gemini for Students",
-          "url": "https://www.producthunt.com/products/gemini-for-students",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T23:21:50.273000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "f2c9bf234f021e8732af344e5d27efb04921bbb5",
-          "title": "Gemini for Students",
-          "url": "https://www.producthunt.com/products/gemini-for-students",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T23:21:50.273000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-22T23:21:50.273000Z",
-      "latest_at": "2026-08-22T23:21:50.273000Z",
-      "primary_item": {
-        "id": "f2c9bf234f021e8732af344e5d27efb04921bbb5",
-        "title": "Gemini for Students",
-        "url": "https://www.producthunt.com/products/gemini-for-students",
-        "source": "producthunt",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_489ae1530252",
-      "title": "Meta 曝光 Muse Spark 1.2 核心具身能力",
-      "url": "https://hub.baai.ac.cn/view/57337",
-      "primary_url": "https://hub.baai.ac.cn/view/57337",
-      "source": "Readhub · AI",
+      "story_id": "story_eca18b3401b8",
+      "title": "AI让平庸规模化",
+      "url": "https://www.36kr.com/p/3923246119431553",
+      "primary_url": "https://www.36kr.com/p/3923246119431553",
+      "source": "36氪 · 24小时热榜",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "e8ccb07e380bb422e65747be2406bbdf209cfe18",
-          "title": "Meta 曝光 Muse Spark 1.2 核心具身能力",
-          "url": "https://hub.baai.ac.cn/view/57337",
-          "source": "Readhub · AI",
+          "id": "061d5801c550fbb73bbafc7529348be42d674e3c",
+          "title": "AI让平庸规模化",
+          "url": "https://www.36kr.com/p/3923246119431553",
+          "source": "36氪 · 24小时热榜",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -1177,14 +1373,14 @@
       ],
       "source_count": 1,
       "source_names": [
-        "Readhub · AI"
+        "36氪 · 24小时热榜"
       ],
       "items": [
         {
-          "id": "e8ccb07e380bb422e65747be2406bbdf209cfe18",
-          "title": "Meta 曝光 Muse Spark 1.2 核心具身能力",
-          "url": "https://hub.baai.ac.cn/view/57337",
-          "source": "Readhub · AI",
+          "id": "061d5801c550fbb73bbafc7529348be42d674e3c",
+          "title": "AI让平庸规模化",
+          "url": "https://www.36kr.com/p/3923246119431553",
+          "source": "36氪 · 24小时热榜",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -1206,131 +1402,13 @@
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-22T23:21:19.230523Z",
-      "latest_at": "2026-08-22T23:21:19.230523Z",
+      "earliest_at": "2026-08-23T23:21:22.223263Z",
+      "latest_at": "2026-08-23T23:21:22.223263Z",
       "primary_item": {
-        "id": "e8ccb07e380bb422e65747be2406bbdf209cfe18",
-        "title": "Meta 曝光 Muse Spark 1.2 核心具身能力",
-        "url": "https://hub.baai.ac.cn/view/57337",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_05fbeeefefda",
-      "title": "Nvidia AI server prices to rise over 15% next year amid global memory shortage",
-      "url": "https://daily.dev/posts/nvidia-ai-server-prices-are-rising-more-than-15-from-early-next-year-neq18uhts",
-      "primary_url": "https://daily.dev/posts/nvidia-ai-server-prices-are-rising-more-than-15-from-early-next-year-neq18uhts",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "06a09e431a91e3736f5db0bd42476de648951b41",
-          "title": "Nvidia AI server prices to rise over 15% next year amid global memory shortage",
-          "url": "https://daily.dev/posts/nvidia-ai-server-prices-are-rising-more-than-15-from-early-next-year-neq18uhts",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "06a09e431a91e3736f5db0bd42476de648951b41",
-          "title": "Nvidia AI server prices to rise over 15% next year amid global memory shortage",
-          "url": "https://daily.dev/posts/nvidia-ai-server-prices-are-rising-more-than-15-from-early-next-year-neq18uhts",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-22T23:21:19.230523Z",
-      "latest_at": "2026-08-22T23:21:19.230523Z",
-      "primary_item": {
-        "id": "06a09e431a91e3736f5db0bd42476de648951b41",
-        "title": "Nvidia AI server prices to rise over 15% next year amid global memory shortage",
-        "url": "https://daily.dev/posts/nvidia-ai-server-prices-are-rising-more-than-15-from-early-next-year-neq18uhts",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_686686b80dcf",
-      "title": "Quoting Linus Torvalds",
-      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds",
-      "primary_url": "https://simonwillison.net/2026/Aug/22/linus-torvalds",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4951673829571210a9589bee10b875310209b476",
-          "title": "Quoting Linus Torvalds",
-          "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4951673829571210a9589bee10b875310209b476",
-          "title": "Quoting Linus Torvalds",
-          "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-08-22T23:21:19.230523Z",
-      "latest_at": "2026-08-22T23:21:19.230523Z",
-      "primary_item": {
-        "id": "4951673829571210a9589bee10b875310209b476",
-        "title": "Quoting Linus Torvalds",
-        "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds",
-        "source": "Readhub · AI",
+        "id": "061d5801c550fbb73bbafc7529348be42d674e3c",
+        "title": "AI让平庸规模化",
+        "url": "https://www.36kr.com/p/3923246119431553",
+        "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
       }
     }
