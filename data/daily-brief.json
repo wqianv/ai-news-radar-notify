@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-08-30T01:07:52.106275Z",
+  "generated_at": "2026-08-31T01:07:42.778214Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_68fae5f9593d",
-      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-      "url": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-      "primary_url": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_a47ffe082231",
+      "title": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
+      "url": "https://www.aibase.com/news/30701",
+      "primary_url": "https://www.aibase.com/news/30701",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9a3f00ce1ac0874a610522288b021e3dc2adbd7c",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-          "url": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T22:47:53Z"
+          "id": "3cfd7ffc58783b507f9680e56220e48617ed91b3",
+          "title": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
+          "url": "https://www.aibase.com/news/30701",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T01:07:42.778214Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9a3f00ce1ac0874a610522288b021e3dc2adbd7c",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-          "url": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T22:47:53Z"
+          "id": "3cfd7ffc58783b507f9680e56220e48617ed91b3",
+          "title": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
+          "url": "https://www.aibase.com/news/30701",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T01:07:42.778214Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9028,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -53,1135 +53,1234 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-29T22:47:53Z",
-      "latest_at": "2026-08-29T22:47:53Z",
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "9a3f00ce1ac0874a610522288b021e3dc2adbd7c",
-        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-        "url": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
+        "id": "3cfd7ffc58783b507f9680e56220e48617ed91b3",
+        "title": "国内首部全AI生成长剧《后西游记》今日开播，首创“边审边播”模式",
+        "url": "https://www.aibase.com/news/30701",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9205c81e4e4a",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-      "primary_url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_ee8886a9df28",
+      "title": "深度对齐与自研坚守：字节跳动豆包大模型2.2宣布推迟发布",
+      "url": "https://www.aibase.com/news/30702",
+      "primary_url": "https://www.aibase.com/news/30702",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0588f36296be2b362ed9df08f6917e42da9fa00c",
+          "title": "深度对齐与自研坚守：字节跳动豆包大模型2.2宣布推迟发布",
+          "url": "https://www.aibase.com/news/30702",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T01:07:42.778214Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0588f36296be2b362ed9df08f6917e42da9fa00c",
+          "title": "深度对齐与自研坚守：字节跳动豆包大模型2.2宣布推迟发布",
+          "url": "https://www.aibase.com/news/30702",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-31T01:07:42.778214Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
+      "primary_item": {
+        "id": "0588f36296be2b362ed9df08f6917e42da9fa00c",
+        "title": "深度对齐与自研坚守：字节跳动豆包大模型2.2宣布推迟发布",
+        "url": "https://www.aibase.com/news/30702",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_99ec0fd4e1f2",
+      "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+      "url": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0",
+      "primary_url": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0",
+      "source": "公众号：MiniMax（稀宇科技）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "51d6f99ca01e9033a2462c6663c5fe9accdb913b",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "f763892b5a5aa256a9a6b9edbdfe5e6153a4f487",
+          "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+          "url": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0",
+          "source": "公众号：MiniMax（稀宇科技）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16Z"
+          "published_at": "2026-08-31T00:36:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "公众号：MiniMax（稀宇科技）"
       ],
       "items": [
         {
-          "id": "51d6f99ca01e9033a2462c6663c5fe9accdb913b",
-          "title": "开放世界多智能体环境中的自主数学发现",
-          "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "f763892b5a5aa256a9a6b9edbdfe5e6153a4f487",
+          "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+          "url": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0",
+          "source": "公众号：MiniMax（稀宇科技）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T07:32:16Z"
+          "published_at": "2026-08-31T00:36:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6654,
-      "importance": 0.6654,
-      "importance_score": 0.6654,
-      "importance_label": "值得关注",
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2669,
+        "recency": 0.978,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-29T07:32:16Z",
-      "latest_at": "2026-08-29T07:32:16Z",
+      "earliest_at": "2026-08-31T00:36:00Z",
+      "latest_at": "2026-08-31T00:36:00Z",
       "primary_item": {
-        "id": "51d6f99ca01e9033a2462c6663c5fe9accdb913b",
-        "title": "开放世界多智能体环境中的自主数学发现",
-        "url": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "f763892b5a5aa256a9a6b9edbdfe5e6153a4f487",
+        "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+        "url": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0",
+        "source": "公众号：MiniMax（稀宇科技）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_b9c40837d98e",
-      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-      "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-      "primary_url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_e8b0b7cf8600",
+      "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+      "url": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19",
+      "primary_url": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b6c02e887b7f4ba9d71883c1bffd0c495b9ffea4",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "0d6f17e6a028a22802749d242d13d25052684dd1",
+          "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+          "url": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22Z"
+          "published_at": "2026-08-31T00:24:35Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Ethan Mollick：One Useful Thing（RSS）"
       ],
       "items": [
         {
-          "id": "b6c02e887b7f4ba9d71883c1bffd0c495b9ffea4",
-          "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-          "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "0d6f17e6a028a22802749d242d13d25052684dd1",
+          "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+          "url": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T07:00:22Z"
+          "published_at": "2026-08-31T00:24:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.661,
-      "importance": 0.661,
-      "importance_score": 0.661,
-      "importance_label": "值得关注",
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2448,
+        "recency": 0.97,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-29T07:00:22Z",
-      "latest_at": "2026-08-29T07:00:22Z",
+      "earliest_at": "2026-08-31T00:24:35Z",
+      "latest_at": "2026-08-31T00:24:35Z",
       "primary_item": {
-        "id": "b6c02e887b7f4ba9d71883c1bffd0c495b9ffea4",
-        "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
-        "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "0d6f17e6a028a22802749d242d13d25052684dd1",
+        "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+        "url": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19",
+        "source": "Ethan Mollick：One Useful Thing（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_23d28d70ce3b",
-      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-      "url": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli",
-      "primary_url": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli",
-      "source": "IT之家（RSS）",
+      "story_id": "story_b97bcf2a5c28",
+      "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+      "url": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw",
+      "primary_url": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw",
+      "source": "Simon Willison 博客",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "41dc5ffa38cee10064b6cc4def7e2b193d620121",
-          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-          "url": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli",
-          "source": "IT之家（RSS）",
+          "id": "67d7f9d6a15e8709b8c699bc3362a0cf29ec1462",
+          "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+          "url": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T04:31:21Z"
+          "published_at": "2026-08-30T23:59:47Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "Simon Willison 博客"
       ],
       "items": [
         {
-          "id": "41dc5ffa38cee10064b6cc4def7e2b193d620121",
-          "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-          "url": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli",
-          "source": "IT之家（RSS）",
+          "id": "67d7f9d6a15e8709b8c699bc3362a0cf29ec1462",
+          "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+          "url": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw",
+          "source": "Simon Willison 博客",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T04:31:21Z"
+          "published_at": "2026-08-30T23:59:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6403,
-      "importance": 0.6403,
-      "importance_score": 0.6403,
-      "importance_label": "值得关注",
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1413,
+        "recency": 0.9528,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-29T04:31:21Z",
-      "latest_at": "2026-08-29T04:31:21Z",
+      "earliest_at": "2026-08-30T23:59:47Z",
+      "latest_at": "2026-08-30T23:59:47Z",
       "primary_item": {
-        "id": "41dc5ffa38cee10064b6cc4def7e2b193d620121",
-        "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-        "url": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli",
-        "source": "IT之家（RSS）",
+        "id": "67d7f9d6a15e8709b8c699bc3362a0cf29ec1462",
+        "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+        "url": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw",
+        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ed70e9eccb7c",
-      "title": "Cursor回应OpenAI将封禁其模型访问",
-      "url": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
-      "primary_url": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
-      "source": "X：Michael Truell (@mntruell)",
+      "story_id": "story_82ed3e26cfbe",
+      "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+      "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+      "primary_url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "757cf3c2a1d0d1fc987967873ce1a27492a5c898",
-          "title": "Cursor回应OpenAI将封禁其模型访问",
-          "url": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
-          "source": "X：Michael Truell (@mntruell)",
+          "id": "bdafe2744b0baab86c41ec7e8ae880c836262e1b",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T02:52:39Z"
+          "published_at": "2026-08-30T08:50:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Michael Truell (@mntruell)"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "757cf3c2a1d0d1fc987967873ce1a27492a5c898",
-          "title": "Cursor回应OpenAI将封禁其模型访问",
-          "url": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
-          "source": "X：Michael Truell (@mntruell)",
+          "id": "bdafe2744b0baab86c41ec7e8ae880c836262e1b",
+          "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+          "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-29T02:52:39Z"
+          "published_at": "2026-08-30T08:50:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6266,
-      "importance": 0.6266,
-      "importance_score": 0.6266,
+      "score": 0.6763,
+      "importance": 0.6763,
+      "importance_score": 0.6763,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0728,
+        "recency": 0.3213,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-29T02:52:39Z",
-      "latest_at": "2026-08-29T02:52:39Z",
+      "earliest_at": "2026-08-30T08:50:20Z",
+      "latest_at": "2026-08-30T08:50:20Z",
       "primary_item": {
-        "id": "757cf3c2a1d0d1fc987967873ce1a27492a5c898",
-        "title": "Cursor回应OpenAI将封禁其模型访问",
-        "url": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
-        "source": "X：Michael Truell (@mntruell)",
+        "id": "bdafe2744b0baab86c41ec7e8ae880c836262e1b",
+        "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+        "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_42203e24fefc",
-      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-      "url": "https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4",
-      "primary_url": "https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
+      "story_id": "story_b1f15b8a23b7",
+      "title": "pollen-robotics / microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "primary_url": "https://github.com/pollen-robotics/microduck_rl",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "20a7e5456cb2d0c9bcd0921e7d05ea8d3e1491b8",
-          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-          "url": "https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T01:47:44Z"
+          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+          "title": "pollen-robotics / microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T00:40:41.711000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Tibo (@thsottiaux)"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "20a7e5456cb2d0c9bcd0921e7d05ea8d3e1491b8",
-          "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-          "url": "https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T01:47:44Z"
+          "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+          "title": "pollen-robotics / microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ca3cdd670a243487039644b9926d0ad264c8cf86",
+          "title": "pollen-robotics /      microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T00:40:41.711000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6175,
-      "importance": 0.6175,
-      "importance_score": 0.6175,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0277,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-29T01:47:44Z",
-      "latest_at": "2026-08-29T01:47:44Z",
+      "earliest_at": "2026-08-31T00:40:41.711000Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "20a7e5456cb2d0c9bcd0921e7d05ea8d3e1491b8",
-        "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-        "url": "https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
+        "id": "3dbde35b3d640487f63d2774fc0db0fe21bb9713",
+        "title": "pollen-robotics / microduck_rl",
+        "url": "https://github.com/pollen-robotics/microduck_rl",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_05642661e2bc",
-      "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-      "url": "https://www.aibase.com/news/30683",
-      "primary_url": "https://www.aibase.com/news/30683",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_7d9153c0bf2c",
+      "title": "punkpeye / awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "primary_url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "0f7fd8289c67071b1e337a6ef1d7541af73f5bb7",
-          "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-          "url": "https://www.aibase.com/news/30683",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+          "title": "punkpeye / awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T00:40:41.711000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "0f7fd8289c67071b1e337a6ef1d7541af73f5bb7",
-          "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-          "url": "https://www.aibase.com/news/30683",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+          "title": "punkpeye / awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
+          "title": "punkpeye /      awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T00:40:41.711000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T00:40:41.711000Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "0f7fd8289c67071b1e337a6ef1d7541af73f5bb7",
-        "title": "116 家科技巨头联名预警：AI 网络攻击即将爆发，各国须把防御提上决策核心",
-        "url": "https://www.aibase.com/news/30683",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "d467d531b401a1a5c8882116ed0ddae8d9164a37",
+        "title": "punkpeye / awesome-mcp-servers",
+        "url": "https://github.com/punkpeye/awesome-mcp-servers",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_5d24831362f9",
-      "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-      "url": "https://www.aibase.com/news/30692",
-      "primary_url": "https://www.aibase.com/news/30692",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_dc7a66cb784f",
+      "title": "tashfeenahmed / freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "primary_url": "https://github.com/tashfeenahmed/freellmapi",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "url": "https://www.aibase.com/news/30692",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "aeb60507f61d7f2949b5a977f43ce58dcd5feacf",
+          "title": "tashfeenahmed / freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "57b998b0d60cae814af0cf26caeb98ef50f434d4",
+          "title": "tashfeenahmed /      freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T00:40:41.711000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-          "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-          "url": "https://www.aibase.com/news/30692",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "aeb60507f61d7f2949b5a977f43ce58dcd5feacf",
+          "title": "tashfeenahmed / freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "57b998b0d60cae814af0cf26caeb98ef50f434d4",
+          "title": "tashfeenahmed /      freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T00:40:41.711000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T00:40:41.711000Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "acab4b80376f50d732dcb575dc1f7c386537d3ae",
-        "title": "Anthropic 推出 MHS 硬件标准，首次重拳杀入物理 AI 赛道",
-        "url": "https://www.aibase.com/news/30692",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "aeb60507f61d7f2949b5a977f43ce58dcd5feacf",
+        "title": "tashfeenahmed / freellmapi",
+        "url": "https://github.com/tashfeenahmed/freellmapi",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_674078d3c52a",
-      "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-      "url": "https://www.aibase.com/news/30693",
-      "primary_url": "https://www.aibase.com/news/30693",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_f10775ba975c",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://news.ycombinator.com/item?id=49502611",
+      "primary_url": "https://news.ycombinator.com/item?id=49502611",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
-          "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "url": "https://www.aibase.com/news/30693",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://news.ycombinator.com/item?id=49502611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T00:53:49.158000Z"
+        },
+        {
+          "id": "dc53e0f80b48897b47ca649bd3d698c6f959532b",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T20:46:53Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
-          "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-          "url": "https://www.aibase.com/news/30693",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://news.ycombinator.com/item?id=49502611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-31T00:53:49.158000Z"
+        },
+        {
+          "id": "dc53e0f80b48897b47ca649bd3d698c6f959532b",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-30T20:46:53Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5461,
+      "importance": 0.5461,
+      "importance_score": 0.5461,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9904,
+        "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-30T20:46:53Z",
+      "latest_at": "2026-08-31T00:53:49.158000Z",
       "primary_item": {
-        "id": "d79d2ded5fe9fd3d6b0d879368c42f10ea5af48f",
-        "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-        "url": "https://www.aibase.com/news/30693",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+        "title": "Continuous Diffusion Language Models (CDLM's)",
+        "url": "https://news.ycombinator.com/item?id=49502611",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_279c74f4a7a9",
-      "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
-      "url": "https://www.aibase.com/news/30690",
-      "primary_url": "https://www.aibase.com/news/30690",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_93201979fbd0",
+      "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+      "url": "https://academa.ai",
+      "primary_url": "https://academa.ai",
+      "source": "academa.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "f3e93450c3c168edb65fb6d554f7a9de0957d3d3",
-          "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
-          "url": "https://www.aibase.com/news/30690",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "b655ed96ec37d03f08d77fc7a08d50bcdc006c20",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "url": "https://academa.ai",
+          "source": "academa.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T22:27:18.114000Z"
+        },
+        {
+          "id": "661530cdd7db8bfc5358e6f7da649daf5fcba930",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://academa.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T22:22:23Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "academa.ai"
       ],
       "items": [
         {
-          "id": "f3e93450c3c168edb65fb6d554f7a9de0957d3d3",
-          "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
-          "url": "https://www.aibase.com/news/30690",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "b655ed96ec37d03f08d77fc7a08d50bcdc006c20",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "url": "https://academa.ai",
+          "source": "academa.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T22:27:18.114000Z"
+        },
+        {
+          "id": "661530cdd7db8bfc5358e6f7da649daf5fcba930",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://academa.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T22:22:23Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8886,
+        "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-30T22:22:23Z",
+      "latest_at": "2026-08-30T22:27:18.114000Z",
       "primary_item": {
-        "id": "f3e93450c3c168edb65fb6d554f7a9de0957d3d3",
-        "title": "Midjourney V8.2重磅上线图像编辑模型，全功能支持指令微调与画布扩展",
-        "url": "https://www.aibase.com/news/30690",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "b655ed96ec37d03f08d77fc7a08d50bcdc006c20",
+        "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+        "url": "https://academa.ai",
+        "source": "academa.ai",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_c2c2578a24fc",
-      "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-      "url": "https://www.aibase.com/news/30686",
-      "primary_url": "https://www.aibase.com/news/30686",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_71f1e581d2dc",
+      "title": "1200 个 AI 智能体在网络安全考试中串通作弊，700 个冲进 Hugging Face",
+      "url": "https://hub.baai.ac.cn/view/57569",
+      "primary_url": "https://hub.baai.ac.cn/view/57569",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "4c66254380f362f0a6dccb1a2a33720dc9b4112b",
-          "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "url": "https://www.aibase.com/news/30686",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "d9f31ae4315474395a67b41e5fa303f0b0392032",
+          "title": "1200 个 AI 智能体在网络安全考试中串通作弊，700 个冲进 Hugging Face",
+          "url": "https://hub.baai.ac.cn/view/57569",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "4c66254380f362f0a6dccb1a2a33720dc9b4112b",
-          "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-          "url": "https://www.aibase.com/news/30686",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "d9f31ae4315474395a67b41e5fa303f0b0392032",
+          "title": "1200 个 AI 智能体在网络安全考试中串通作弊，700 个冲进 Hugging Face",
+          "url": "https://hub.baai.ac.cn/view/57569",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "4c66254380f362f0a6dccb1a2a33720dc9b4112b",
-        "title": "OpenAI携手苹果前高管硬刚老东家，申请永久终止商业机密案",
-        "url": "https://www.aibase.com/news/30686",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "d9f31ae4315474395a67b41e5fa303f0b0392032",
+        "title": "1200 个 AI 智能体在网络安全考试中串通作弊，700 个冲进 Hugging Face",
+        "url": "https://hub.baai.ac.cn/view/57569",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_96ebf36ae68d",
-      "title": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-      "url": "https://www.aibase.com/news/30689",
-      "primary_url": "https://www.aibase.com/news/30689",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_84bf444906f0",
+      "title": "AI 失控追踪工具七月报告超 300 起事件 涉及多家 AI 巨头",
+      "url": "https://ai.cnmo.com/news/817235.html",
+      "primary_url": "https://ai.cnmo.com/news/817235.html",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "6555d79ee11714d96d90377b71a788483b7afef8",
-          "title": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-          "url": "https://www.aibase.com/news/30689",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "c0105ff323f6bf1dff002debba19de39af6a7c54",
+          "title": "AI 失控追踪工具七月报告超 300 起事件 涉及多家 AI 巨头",
+          "url": "https://ai.cnmo.com/news/817235.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "6555d79ee11714d96d90377b71a788483b7afef8",
-          "title": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-          "url": "https://www.aibase.com/news/30689",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "c0105ff323f6bf1dff002debba19de39af6a7c54",
+          "title": "AI 失控追踪工具七月报告超 300 起事件 涉及多家 AI 巨头",
+          "url": "https://ai.cnmo.com/news/817235.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "6555d79ee11714d96d90377b71a788483b7afef8",
-        "title": "小鹏第二代VLA大模型迎来首次重大升级，综合安全能力暴增20倍",
-        "url": "https://www.aibase.com/news/30689",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "c0105ff323f6bf1dff002debba19de39af6a7c54",
+        "title": "AI 失控追踪工具七月报告超 300 起事件 涉及多家 AI 巨头",
+        "url": "https://ai.cnmo.com/news/817235.html",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_4b36b986936f",
-      "title": "年砸百亿美元买大模型！Meta被曝重金押注Anthropic",
-      "url": "https://www.aibase.com/news/30680",
-      "primary_url": "https://www.aibase.com/news/30680",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c2bc272d6640",
+      "title": "AI 开发的一个安全优先的编程工具",
+      "url": "https://www.oschina.net/news/502201",
+      "primary_url": "https://www.oschina.net/news/502201",
+      "source": "开源中国 · 热门资讯",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "f572e5d3cd1cb96b98356551c8f9980fc7199c68",
-          "title": "年砸百亿美元买大模型！Meta被曝重金押注Anthropic",
-          "url": "https://www.aibase.com/news/30680",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "2c93645bd271a9d24c38498a0b9fb82fccee8a99",
+          "title": "AI 开发的一个安全优先的编程工具",
+          "url": "https://www.oschina.net/news/502201",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "开源中国 · 热门资讯"
       ],
       "items": [
         {
-          "id": "f572e5d3cd1cb96b98356551c8f9980fc7199c68",
-          "title": "年砸百亿美元买大模型！Meta被曝重金押注Anthropic",
-          "url": "https://www.aibase.com/news/30680",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "2c93645bd271a9d24c38498a0b9fb82fccee8a99",
+          "title": "AI 开发的一个安全优先的编程工具",
+          "url": "https://www.oschina.net/news/502201",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "f572e5d3cd1cb96b98356551c8f9980fc7199c68",
-        "title": "年砸百亿美元买大模型！Meta被曝重金押注Anthropic",
-        "url": "https://www.aibase.com/news/30680",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "2c93645bd271a9d24c38498a0b9fb82fccee8a99",
+        "title": "AI 开发的一个安全优先的编程工具",
+        "url": "https://www.oschina.net/news/502201",
+        "source": "开源中国 · 热门资讯",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_bfb0aa7648ad",
-      "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-      "url": "https://www.aibase.com/news/30696",
-      "primary_url": "https://www.aibase.com/news/30696",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_303afcc8118f",
+      "title": "Amazon to acquire 2 million Nvidia GPUs for AWS data center expansion",
+      "url": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
+      "primary_url": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "url": "https://www.aibase.com/news/30696",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "a3f67f3bff51a78e68b4116f1f9d7606468b3c83",
+          "title": "Amazon to acquire 2 million Nvidia GPUs for AWS data center expansion",
+          "url": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-          "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-          "url": "https://www.aibase.com/news/30696",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "a3f67f3bff51a78e68b4116f1f9d7606468b3c83",
+          "title": "Amazon to acquire 2 million Nvidia GPUs for AWS data center expansion",
+          "url": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "993dff09f18b65be560f9f554e2264528c5fbb5b",
-        "title": "微博通报孙宇晨谷爱凌聊天记录系 AI 炮制，造谣账号遭永久关闭",
-        "url": "https://www.aibase.com/news/30696",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "a3f67f3bff51a78e68b4116f1f9d7606468b3c83",
+        "title": "Amazon to acquire 2 million Nvidia GPUs for AWS data center expansion",
+        "url": "https://www.techradar.com/pro/amazon-is-buying-2-million-nvidia-gpus-for-aws-data-center-expansion",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_3efb58a0a528",
-      "title": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-      "url": "https://www.aibase.com/news/30685",
-      "primary_url": "https://www.aibase.com/news/30685",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_43f5bd77eb52",
+      "title": "ChatGPT 新模型 Bel 被曝预训练完成，参数高达 10 万亿",
+      "url": "https://www.36kr.com/p/3961814974282886",
+      "primary_url": "https://www.36kr.com/p/3961814974282886",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "7a3e3945d0db03f539e780d6e903fd7235d1d825",
-          "title": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-          "url": "https://www.aibase.com/news/30685",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "6849b73f90bd7864b7e2ef4390cc0820737b7012",
+          "title": "ChatGPT 新模型 Bel 被曝预训练完成，参数高达 10 万亿",
+          "url": "https://www.36kr.com/p/3961814974282886",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7a3e3945d0db03f539e780d6e903fd7235d1d825",
-          "title": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-          "url": "https://www.aibase.com/news/30685",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "6849b73f90bd7864b7e2ef4390cc0820737b7012",
+          "title": "ChatGPT 新模型 Bel 被曝预训练完成，参数高达 10 万亿",
+          "url": "https://www.36kr.com/p/3961814974282886",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "7a3e3945d0db03f539e780d6e903fd7235d1d825",
-        "title": "百度“双重主要上市”落地 AI全栈资产迎重估与南向资金流入",
-        "url": "https://www.aibase.com/news/30685",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "6849b73f90bd7864b7e2ef4390cc0820737b7012",
+        "title": "ChatGPT 新模型 Bel 被曝预训练完成，参数高达 10 万亿",
+        "url": "https://www.36kr.com/p/3961814974282886",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_d3ffaab020c3",
-      "title": "直出4K分辨率！谷歌全新Gemini Omni 1.1 Flash视频模型重磅登场",
-      "url": "https://www.aibase.com/news/30681",
-      "primary_url": "https://www.aibase.com/news/30681",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_662196d0a9a7",
+      "title": "Go Agent 框架 Covonaut v1.1.0 发布：Markdown 与代码高亮全面升级",
+      "url": "https://www.oschina.net/news/502203",
+      "primary_url": "https://www.oschina.net/news/502203",
+      "source": "开源中国 · 热门资讯",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "67575121290634eaabcbe874027a65b7fd9dc9b8",
-          "title": "直出4K分辨率！谷歌全新Gemini Omni 1.1 Flash视频模型重磅登场",
-          "url": "https://www.aibase.com/news/30681",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "6e51d5e27c485f0917bb91539c168cb23cd7df9a",
+          "title": "Go Agent 框架 Covonaut v1.1.0 发布：Markdown 与代码高亮全面升级",
+          "url": "https://www.oschina.net/news/502203",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "开源中国 · 热门资讯"
       ],
       "items": [
         {
-          "id": "67575121290634eaabcbe874027a65b7fd9dc9b8",
-          "title": "直出4K分辨率！谷歌全新Gemini Omni 1.1 Flash视频模型重磅登场",
-          "url": "https://www.aibase.com/news/30681",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "6e51d5e27c485f0917bb91539c168cb23cd7df9a",
+          "title": "Go Agent 框架 Covonaut v1.1.0 发布：Markdown 与代码高亮全面升级",
+          "url": "https://www.oschina.net/news/502203",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "67575121290634eaabcbe874027a65b7fd9dc9b8",
-        "title": "直出4K分辨率！谷歌全新Gemini Omni 1.1 Flash视频模型重磅登场",
-        "url": "https://www.aibase.com/news/30681",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "6e51d5e27c485f0917bb91539c168cb23cd7df9a",
+        "title": "Go Agent 框架 Covonaut v1.1.0 发布：Markdown 与代码高亮全面升级",
+        "url": "https://www.oschina.net/news/502203",
+        "source": "开源中国 · 热门资讯",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_02d165feef6c",
-      "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-      "url": "https://www.aibase.com/news/30699",
-      "primary_url": "https://www.aibase.com/news/30699",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_7215af0cc194",
+      "title": "Murfy AI",
+      "url": "https://www.producthunt.com/products/murfy",
+      "primary_url": "https://www.producthunt.com/products/murfy",
+      "source": "Product Hunt · 今日新产品",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
-          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "url": "https://www.aibase.com/news/30699",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "61ea617f9b3c4a8ebba1ac24cb36c4ded5ef3e09",
+          "title": "Murfy AI",
+          "url": "https://www.producthunt.com/products/murfy",
+          "source": "Product Hunt · 今日新产品",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Product Hunt · 今日新产品"
       ],
       "items": [
         {
-          "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
-          "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-          "url": "https://www.aibase.com/news/30699",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "61ea617f9b3c4a8ebba1ac24cb36c4ded5ef3e09",
+          "title": "Murfy AI",
+          "url": "https://www.producthunt.com/products/murfy",
+          "source": "Product Hunt · 今日新产品",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "0e79dd6b0eaab6e7bc95734f8d995a14879a8f3e",
-        "title": "腾讯WorkBuddy首发接入Hy4preview:国内外版同步，开启两周限免",
-        "url": "https://www.aibase.com/news/30699",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "61ea617f9b3c4a8ebba1ac24cb36c4ded5ef3e09",
+        "title": "Murfy AI",
+        "url": "https://www.producthunt.com/products/murfy",
+        "source": "Product Hunt · 今日新产品",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_2f55646e1e37",
-      "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-      "url": "https://www.aibase.com/news/30698",
-      "primary_url": "https://www.aibase.com/news/30698",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_0a722bdc8ff2",
+      "title": "Nat. Mach. Intell. | 面向未表征药物单细胞响应预测的知识驱动框架",
+      "url": "https://hub.baai.ac.cn/view/57570",
+      "primary_url": "https://hub.baai.ac.cn/view/57570",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
-          "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "url": "https://www.aibase.com/news/30698",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "d9a11380962d11c900eab95dbc7207cb640f4034",
+          "title": "Nat. Mach. Intell. | 面向未表征药物单细胞响应预测的知识驱动框架",
+          "url": "https://hub.baai.ac.cn/view/57570",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
-          "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-          "url": "https://www.aibase.com/news/30698",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "d9a11380962d11c900eab95dbc7207cb640f4034",
+          "title": "Nat. Mach. Intell. | 面向未表征药物单细胞响应预测的知识驱动框架",
+          "url": "https://hub.baai.ac.cn/view/57570",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "3164a51ead09b5e8e0d2331f53519c6ec4a80eef",
-        "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-        "url": "https://www.aibase.com/news/30698",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "d9a11380962d11c900eab95dbc7207cb640f4034",
+        "title": "Nat. Mach. Intell. | 面向未表征药物单细胞响应预测的知识驱动框架",
+        "url": "https://hub.baai.ac.cn/view/57570",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_3d49a8462394",
-      "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-      "url": "https://www.aibase.com/news/30694",
-      "primary_url": "https://www.aibase.com/news/30694",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_d1f84bc2cee2",
+      "title": "OpenAI 内部：AI 建立三代「文明」并接管部分基础设施",
+      "url": "https://www.36kr.com/p/3961855756467585",
+      "primary_url": "https://www.36kr.com/p/3961855756467585",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "9aeb5f574fbfdcca20d6dd9996b8057b56af0837",
-          "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-          "url": "https://www.aibase.com/news/30694",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "ec2d2fa97126a220149cba6fae124f5e3827fdc1",
+          "title": "OpenAI 内部：AI 建立三代「文明」并接管部分基础设施",
+          "url": "https://www.36kr.com/p/3961855756467585",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "9aeb5f574fbfdcca20d6dd9996b8057b56af0837",
-          "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-          "url": "https://www.aibase.com/news/30694",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
+          "id": "ec2d2fa97126a220149cba6fae124f5e3827fdc1",
+          "title": "OpenAI 内部：AI 建立三代「文明」并接管部分基础设施",
+          "url": "https://www.36kr.com/p/3961855756467585",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
+      "earliest_at": "2026-08-31T01:07:42.778214Z",
+      "latest_at": "2026-08-31T01:07:42.778214Z",
       "primary_item": {
-        "id": "9aeb5f574fbfdcca20d6dd9996b8057b56af0837",
-        "title": "腾讯混元发布开源旗舰模型Hy4preview，总参数770B、上下文1M",
-        "url": "https://www.aibase.com/news/30694",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8261527a2cb7",
-      "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-      "url": "https://www.aibase.com/news/30697",
-      "primary_url": "https://www.aibase.com/news/30697",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
-          "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-          "url": "https://www.aibase.com/news/30697",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
-          "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-          "url": "https://www.aibase.com/news/30697",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-29T01:07:52.106275Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.612,
-      "importance": 0.612,
-      "importance_score": 0.612,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T01:07:52.106275Z",
-      "latest_at": "2026-08-29T01:07:52.106275Z",
-      "primary_item": {
-        "id": "73fa34e64b2a90caa7441ae2fc960495e8393b95",
-        "title": "腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队",
-        "url": "https://www.aibase.com/news/30697",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "ec2d2fa97126a220149cba6fae124f5e3827fdc1",
+        "title": "OpenAI 内部：AI 建立三代「文明」并接管部分基础设施",
+        "url": "https://www.36kr.com/p/3961855756467585",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
