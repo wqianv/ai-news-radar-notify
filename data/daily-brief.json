@@ -1,1289 +1,1236 @@
 {
-  "generated_at": "2026-09-28T01:26:14.010553Z",
+  "generated_at": "2026-10-02T02:02:11.035620Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_2d85c448437b",
-      "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
-      "url": "https://www.aibase.com/news/31359",
-      "primary_url": "https://www.aibase.com/news/31359",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
-          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
-          "url": "https://www.aibase.com/news/31359",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        },
-        {
-          "id": "01c4f2ca3de82ee81a09b6bffa3495546b583263",
-          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
-          "url": "https://www.aibase.com/zh/news/31359",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
-          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
-          "url": "https://www.aibase.com/news/31359",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        },
-        {
-          "id": "01c4f2ca3de82ee81a09b6bffa3495546b583263",
-          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
-          "url": "https://www.aibase.com/zh/news/31359",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
-      "primary_item": {
-        "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
-        "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
-        "url": "https://www.aibase.com/news/31359",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d10554238d36",
-      "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
-      "url": "https://www.aibase.com/news/31358",
-      "primary_url": "https://www.aibase.com/news/31358",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
-          "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
-          "url": "https://www.aibase.com/news/31358",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        },
-        {
-          "id": "c4b64378beaafd5cc48d9ee4942941442a3d0b3c",
-          "title": "OpenAI 或将推出代号「O」的常驻智能助手，预计 9 月 29 日正式发布",
-          "url": "https://www.aibase.com/zh/news/31358",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
-          "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
-          "url": "https://www.aibase.com/news/31358",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        },
-        {
-          "id": "c4b64378beaafd5cc48d9ee4942941442a3d0b3c",
-          "title": "OpenAI 或将推出代号「O」的常驻智能助手，预计 9 月 29 日正式发布",
-          "url": "https://www.aibase.com/zh/news/31358",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
-      "primary_item": {
-        "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
-        "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
-        "url": "https://www.aibase.com/news/31358",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a271a9bc3923",
-      "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
-      "url": "https://www.aibase.com/news/31360",
-      "primary_url": "https://www.aibase.com/news/31360",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
-          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
-          "url": "https://www.aibase.com/news/31360",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        },
-        {
-          "id": "ce893aa6dc84a2d0e4a1be28999e2c37670bde2c",
-          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
-          "url": "https://www.aibase.com/zh/news/31360",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
-          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
-          "url": "https://www.aibase.com/news/31360",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        },
-        {
-          "id": "ce893aa6dc84a2d0e4a1be28999e2c37670bde2c",
-          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
-          "url": "https://www.aibase.com/zh/news/31360",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
-      "primary_item": {
-        "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
-        "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
-        "url": "https://www.aibase.com/news/31360",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_07768016bea1",
-      "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
-      "url": "https://www.aibase.com/news/31363",
-      "primary_url": "https://www.aibase.com/news/31363",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
-          "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
-          "url": "https://www.aibase.com/news/31363",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
-          "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
-          "url": "https://www.aibase.com/news/31363",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
-      "primary_item": {
-        "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
-        "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
-        "url": "https://www.aibase.com/news/31363",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_11cc0ba69c02",
-      "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
-      "url": "https://www.aibase.com/news/31361",
-      "primary_url": "https://www.aibase.com/news/31361",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
-          "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
-          "url": "https://www.aibase.com/news/31361",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
-          "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
-          "url": "https://www.aibase.com/news/31361",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
-      "primary_item": {
-        "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
-        "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
-        "url": "https://www.aibase.com/news/31361",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_447cd2662a25",
-      "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
-      "url": "https://www.aibase.com/news/31362",
-      "primary_url": "https://www.aibase.com/news/31362",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
-          "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
-          "url": "https://www.aibase.com/news/31362",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
-          "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
-          "url": "https://www.aibase.com/news/31362",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T01:26:14.010553Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
-      "primary_item": {
-        "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
-        "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
-        "url": "https://www.aibase.com/news/31362",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6b9c644d38df",
-      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-      "url": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or",
-      "primary_url": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_ace9ca211c6e",
+      "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+      "url": "https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl",
+      "primary_url": "https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl",
+      "source": "IT之家",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0783369674bfc50d53e00343680d1de646788c26",
-          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "url": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "4a007670dd046b06fe26dfed1f5d3c6828c888f8",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+          "url": "https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl",
+          "source": "IT之家",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T09:27:15Z"
+          "published_at": "2026-10-02T00:06:15Z"
+        },
+        {
+          "id": "8068561e26cce15992559c4140312ae3ee1b5529",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
+          "url": "https://www.ithome.com/1/009/204.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "IT之家",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "0783369674bfc50d53e00343680d1de646788c26",
-          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "url": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "4a007670dd046b06fe26dfed1f5d3c6828c888f8",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+          "url": "https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl",
+          "source": "IT之家",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T09:27:15Z"
+          "published_at": "2026-10-02T00:06:15Z"
+        },
+        {
+          "id": "8068561e26cce15992559c4140312ae3ee1b5529",
+          "title": "加州检察长向 OpenAI 发出传票，调查 AI 网络安全风险",
+          "url": "https://www.ithome.com/1/009/204.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6788,
-      "importance": 0.6788,
-      "importance_score": 0.6788,
-      "importance_label": "值得关注",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.334,
-        "story_heat": 0.0
+        "recency": 0.9195,
+        "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-27T09:27:15Z",
-      "latest_at": "2026-09-27T09:27:15Z",
+      "earliest_at": "2026-10-02T00:06:15Z",
+      "latest_at": "2026-10-02T02:02:11.035620Z",
       "primary_item": {
-        "id": "0783369674bfc50d53e00343680d1de646788c26",
-        "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "url": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "4a007670dd046b06fe26dfed1f5d3c6828c888f8",
+        "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
+        "url": "https://aihot.news/items/iw7ix94rgvhp2jgamykh261gl",
+        "source": "IT之家",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_a507cdde39ba",
-      "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-      "url": "https://aihot.news/items/cmujftxjg0exdro9hi64xx2i9",
-      "primary_url": "https://aihot.news/items/cmujftxjg0exdro9hi64xx2i9",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_819b8b6c47de",
+      "title": "GitHub Copilot can now interact with desktop apps with computer use",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f7d025f0f29611821d2a73b1abf19c92d88126be",
-          "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-          "url": "https://aihot.news/items/cmujftxjg0exdro9hi64xx2i9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-27T05:35:36Z"
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f7d025f0f29611821d2a73b1abf19c92d88126be",
-          "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-          "url": "https://aihot.news/items/cmujftxjg0exdro9hi64xx2i9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-27T05:35:36Z"
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6466,
-      "importance": 0.6466,
-      "importance_score": 0.6466,
-      "importance_label": "值得关注",
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7148,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:11:26Z",
+      "latest_at": "2026-10-01T19:11:26Z",
+      "primary_item": {
+        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+        "title": "GitHub Copilot can now interact with desktop apps with computer use",
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b33dfcad9023",
+      "title": "GitHub Copilot in VS Code, September 2026 releases",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+          "title": "GitHub Copilot in VS Code, September 2026 releases",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:09:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+          "title": "GitHub Copilot in VS Code, September 2026 releases",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:09:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7132,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:09:10Z",
+      "latest_at": "2026-10-01T19:09:10Z",
+      "primary_item": {
+        "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+        "title": "GitHub Copilot in VS Code, September 2026 releases",
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_65858f5c8d43",
+      "title": "Rate limits for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "Rate limits for private vulnerability reports",
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "Rate limits for private vulnerability reports",
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7469,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:57:39Z",
+      "latest_at": "2026-10-01T19:57:39Z",
+      "primary_item": {
+        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+        "title": "Rate limits for private vulnerability reports",
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eebe7e321dec",
+      "title": "Structured forms for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "Structured forms for private vulnerability reports",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "Structured forms for private vulnerability reports",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7467,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:57:28Z",
+      "latest_at": "2026-10-01T19:57:28Z",
+      "primary_item": {
+        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+        "title": "Structured forms for private vulnerability reports",
+        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c0216d3311cd",
+      "title": "GitHub Actions: macOS 14 runner image retirement",
+      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
+          "title": "GitHub Actions: macOS 14 runner image retirement",
+          "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
+          "title": "GitHub Actions: macOS 14 runner image retirement",
+          "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7147,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:11:23Z",
+      "latest_at": "2026-10-01T19:11:23Z",
+      "primary_item": {
+        "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
+        "title": "GitHub Actions: macOS 14 runner image retirement",
+        "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1d7c1228c839",
+      "title": "Accessibility statements highlighted on repository overview",
+      "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
+          "title": "Accessibility statements highlighted on repository overview",
+          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:04:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
+          "title": "Accessibility statements highlighted on repository overview",
+          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:04:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.71,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:04:32Z",
+      "latest_at": "2026-10-01T19:04:32Z",
+      "primary_item": {
+        "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
+        "title": "Accessibility statements highlighted on repository overview",
+        "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_aa770f0ace16",
+      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+      "url": "https://aihot.news/items/fe27jbwrn6gfzym6j9q179auw",
+      "primary_url": "https://aihot.news/items/fe27jbwrn6gfzym6j9q179auw",
+      "source": "Rohan Paul",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e1c106039d8cd43f40ee4948cf318ad784512dd5",
+          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+          "url": "https://aihot.news/items/fe27jbwrn6gfzym6j9q179auw",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:44:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Rohan Paul"
+      ],
+      "items": [
+        {
+          "id": "e1c106039d8cd43f40ee4948cf318ad784512dd5",
+          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+          "url": "https://aihot.news/items/fe27jbwrn6gfzym6j9q179auw",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:44:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1732,
+        "recency": 0.9462,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-27T05:35:36Z",
-      "latest_at": "2026-09-27T05:35:36Z",
+      "earliest_at": "2026-10-02T00:44:40Z",
+      "latest_at": "2026-10-02T00:44:40Z",
       "primary_item": {
-        "id": "f7d025f0f29611821d2a73b1abf19c92d88126be",
-        "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-        "url": "https://aihot.news/items/cmujftxjg0exdro9hi64xx2i9",
-        "source": "IT之家（RSS）",
+        "id": "e1c106039d8cd43f40ee4948cf318ad784512dd5",
+        "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+        "url": "https://aihot.news/items/fe27jbwrn6gfzym6j9q179auw",
+        "source": "Rohan Paul",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_193eb09a66e5",
-      "title": "2026 年法学硕士（至今） / 2026 in LLMs (so far)",
-      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
-      "primary_url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
+      "story_id": "story_9d736e1b33ac",
+      "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+      "url": "https://aihot.news/items/jhshh53c18f71tkzk44izbs25",
+      "primary_url": "https://aihot.news/items/jhshh53c18f71tkzk44izbs25",
+      "source": "Artificial Analysis",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "30212a660158d4e5910ee41debb149209a7cabc5",
-          "title": "2026 年法学硕士（至今） / 2026 in LLMs (so far)",
-          "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-27T23:54:15Z"
+          "id": "e8d94a901fc1ac865709f3dcd3a7902889dcfcb8",
+          "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+          "url": "https://aihot.news/items/jhshh53c18f71tkzk44izbs25",
+          "source": "Artificial Analysis",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:17:12Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Simon Willison"
+        "Artificial Analysis"
       ],
       "items": [
         {
-          "id": "30212a660158d4e5910ee41debb149209a7cabc5",
-          "title": "2026 年法学硕士（至今） / 2026 in LLMs (so far)",
-          "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-27T23:54:15Z"
+          "id": "e8d94a901fc1ac865709f3dcd3a7902889dcfcb8",
+          "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+          "url": "https://aihot.news/items/jhshh53c18f71tkzk44izbs25",
+          "source": "Artificial Analysis",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:17:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.6002,
-      "importance": 0.6002,
-      "importance_score": 0.6002,
-      "importance_label": "值得关注",
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.9361,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9271,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-27T23:54:15Z",
-      "latest_at": "2026-09-27T23:54:15Z",
+      "earliest_at": "2026-10-02T00:17:12Z",
+      "latest_at": "2026-10-02T00:17:12Z",
       "primary_item": {
-        "id": "30212a660158d4e5910ee41debb149209a7cabc5",
-        "title": "2026 年法学硕士（至今） / 2026 in LLMs (so far)",
-        "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
+        "id": "e8d94a901fc1ac865709f3dcd3a7902889dcfcb8",
+        "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+        "url": "https://aihot.news/items/jhshh53c18f71tkzk44izbs25",
+        "source": "Artificial Analysis",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_5fd155a5bb6f",
-      "title": "从微软到英伟达：AI巨头的人才收购为何有的被查、有的放行？",
-      "url": "https://www.huxiu.com/article/4894185.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4894185.html?f=rss",
-      "source": "虎嗅 (Huxiu)",
-      "source_name": "Info Flow",
+      "story_id": "story_d8c99898b721",
+      "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
+      "url": "https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30",
+      "primary_url": "https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30",
+      "source": "OpenRouter：Announcements",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "dad29dcea47fad90627cf3a04fa263ae1a480349",
-          "title": "从微软到英伟达：AI巨头的人才收购为何有的被查、有的放行？",
-          "url": "https://www.huxiu.com/article/4894185.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T01:12:20Z"
-        },
-        {
-          "id": "20785a790afb9d724df7f83fa772973a232c181f",
-          "title": "从微软到英伟达：AI巨头的人才收购为何有的被查、有的放行？",
-          "url": "https://www.huxiu.com/article/4894162.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T23:36:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "dad29dcea47fad90627cf3a04fa263ae1a480349",
-          "title": "从微软到英伟达：AI巨头的人才收购为何有的被查、有的放行？",
-          "url": "https://www.huxiu.com/article/4894185.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T01:12:20Z"
-        },
-        {
-          "id": "20785a790afb9d724df7f83fa772973a232c181f",
-          "title": "从微软到英伟达：AI巨头的人才收购为何有的被查、有的放行？",
-          "url": "https://www.huxiu.com/article/4894162.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T23:36:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9903,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T23:36:04Z",
-      "latest_at": "2026-09-28T01:12:20Z",
-      "primary_item": {
-        "id": "dad29dcea47fad90627cf3a04fa263ae1a480349",
-        "title": "从微软到英伟达：AI巨头的人才收购为何有的被查、有的放行？",
-        "url": "https://www.huxiu.com/article/4894185.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_71ac5a164a1d",
-      "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "primary_url": "https://arxiv.org/abs/2609.25021",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T23:49:58.724000Z"
-        },
-        {
-          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T10:26:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org"
-      ],
-      "items": [
-        {
-          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T23:49:58.724000Z"
-        },
-        {
-          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T10:26:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9332,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T10:26:25Z",
-      "latest_at": "2026-09-27T23:49:58.724000Z",
-      "primary_item": {
-        "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
-        "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-        "url": "https://arxiv.org/abs/2609.25021",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4e0c7c04e50c",
-      "title": "AI Coding了大半年，我从执行者变成了决策者",
-      "url": "https://juejin.cn/post/7688739949715144744",
-      "primary_url": "https://juejin.cn/post/7688739949715144744",
-      "source": "juejin",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e9d9d8fd058f001c276e96881704ab89cfecd08e",
-          "title": "AI Coding了大半年，我从执行者变成了决策者",
-          "url": "https://juejin.cn/post/7688739949715144744",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T01:26:44.232000Z"
+          "id": "3173ebaa9266dfc40ad3a05dc3c9ee13c1663e05",
+          "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
+          "url": "https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30",
+          "source": "OpenRouter：Announcements",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "juejin"
+        "OpenRouter：Announcements"
       ],
       "items": [
         {
-          "id": "e9d9d8fd058f001c276e96881704ab89cfecd08e",
-          "title": "AI Coding了大半年，我从执行者变成了决策者",
-          "url": "https://juejin.cn/post/7688739949715144744",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T01:26:44.232000Z"
+          "id": "3173ebaa9266dfc40ad3a05dc3c9ee13c1663e05",
+          "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
+          "url": "https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30",
+          "source": "OpenRouter：Announcements",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9152,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-28T01:26:44.232000Z",
-      "latest_at": "2026-09-28T01:26:44.232000Z",
+      "earliest_at": "2026-10-02T00:00:00Z",
+      "latest_at": "2026-10-02T00:00:00Z",
       "primary_item": {
-        "id": "e9d9d8fd058f001c276e96881704ab89cfecd08e",
-        "title": "AI Coding了大半年，我从执行者变成了决策者",
-        "url": "https://juejin.cn/post/7688739949715144744",
-        "source": "juejin",
-        "source_name": "NewsNow"
+        "id": "3173ebaa9266dfc40ad3a05dc3c9ee13c1663e05",
+        "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
+        "url": "https://aihot.news/items/ukk2qw5l1r9jqhsykqai2cf30",
+        "source": "OpenRouter：Announcements",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_473a5c3e7b4c",
-      "title": "AI 知识库 WeKnora（腾讯微信团队出品）",
-      "url": "https://juejin.cn/post/7688530195554140194",
-      "primary_url": "https://juejin.cn/post/7688530195554140194",
-      "source": "掘金 · 人工智能本周最热",
-      "source_name": "TopHub",
+      "story_id": "story_11541a89b22f",
+      "title": "Actions retention now covers checks, runs, and statuses",
+      "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+      "primary_url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dad923a5d1f8e717bde9fb931d3121a4820dcc94",
-          "title": "AI 知识库 WeKnora（腾讯微信团队出品）",
-          "url": "https://juejin.cn/post/7688530195554140194",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "bd680e642074865eae97e27770212465ae6180e3",
+          "title": "Actions retention now covers checks, runs, and statuses",
+          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T17:59:54Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "掘金 · 人工智能本周最热"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "dad923a5d1f8e717bde9fb931d3121a4820dcc94",
-          "title": "AI 知识库 WeKnora（腾讯微信团队出品）",
-          "url": "https://juejin.cn/post/7688530195554140194",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "bd680e642074865eae97e27770212465ae6180e3",
+          "title": "Actions retention now covers checks, runs, and statuses",
+          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T17:59:54Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6651,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "official",
       "reasons": [
-        "recent_ai_signal"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
+      "earliest_at": "2026-10-01T17:59:54Z",
+      "latest_at": "2026-10-01T17:59:54Z",
       "primary_item": {
-        "id": "dad923a5d1f8e717bde9fb931d3121a4820dcc94",
-        "title": "AI 知识库 WeKnora（腾讯微信团队出品）",
-        "url": "https://juejin.cn/post/7688530195554140194",
-        "source": "掘金 · 人工智能本周最热",
-        "source_name": "TopHub"
+        "id": "bd680e642074865eae97e27770212465ae6180e3",
+        "title": "Actions retention now covers checks, runs, and statuses",
+        "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_f6f0b21aa3e6",
-      "title": "GPT-6 太阳与露娜 / GPT-6 Sol & Luna",
-      "url": "https://www.producthunt.com/products/openai",
-      "primary_url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt · 今日新产品",
-      "source_name": "TopHub",
+      "story_id": "story_90b9985c3923",
+      "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5c99d0f2286e218e00f427f17f5e2f8af992b6d9",
-          "title": "GPT-6 太阳与露娜 / GPT-6 Sol & Luna",
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "Product Hunt · 今日新产品",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Product Hunt · 今日新产品"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "5c99d0f2286e218e00f427f17f5e2f8af992b6d9",
-          "title": "GPT-6 太阳与露娜 / GPT-6 Sol & Luna",
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "Product Hunt · 今日新产品",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6028,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "official",
       "reasons": [
-        "recent_ai_signal"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
+      "earliest_at": "2026-10-01T16:30:10Z",
+      "latest_at": "2026-10-01T16:30:10Z",
       "primary_item": {
-        "id": "5c99d0f2286e218e00f427f17f5e2f8af992b6d9",
-        "title": "GPT-6 太阳与露娜 / GPT-6 Sol & Luna",
-        "url": "https://www.producthunt.com/products/openai",
-        "source": "Product Hunt · 今日新产品",
-        "source_name": "TopHub"
+        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+        "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_63bb8c1bbf63",
-      "title": "Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码",
-      "url": "https://juejin.cn/post/7688009718430662666",
-      "primary_url": "https://juejin.cn/post/7688009718430662666",
-      "source": "掘金 · 人工智能本周最热",
-      "source_name": "TopHub",
+      "story_id": "story_4d67a51d4f01",
+      "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+      "url": "https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i",
+      "primary_url": "https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i",
+      "source": "NVIDIA Blog",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "23fad4d61f3e50fe798d104e83c7a13dd33294d1",
-          "title": "Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码",
-          "url": "https://juejin.cn/post/7688009718430662666",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "87889ce993b01c5013f6f7c7c3ac424831865b88",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+          "url": "https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i",
+          "source": "NVIDIA Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T23:44:13Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "掘金 · 人工智能本周最热"
+        "NVIDIA Blog"
       ],
       "items": [
         {
-          "id": "23fad4d61f3e50fe798d104e83c7a13dd33294d1",
-          "title": "Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码",
-          "url": "https://juejin.cn/post/7688009718430662666",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "87889ce993b01c5013f6f7c7c3ac424831865b88",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+          "url": "https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i",
+          "source": "NVIDIA Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T23:44:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
+      "earliest_at": "2026-10-01T23:44:13Z",
+      "latest_at": "2026-10-01T23:44:13Z",
       "primary_item": {
-        "id": "23fad4d61f3e50fe798d104e83c7a13dd33294d1",
-        "title": "Jev 使用完整指南：从申请 API Key 到置信度路由，把 TypeSafe 决策模型接进自己的代码",
-        "url": "https://juejin.cn/post/7688009718430662666",
-        "source": "掘金 · 人工智能本周最热",
-        "source_name": "TopHub"
+        "id": "87889ce993b01c5013f6f7c7c3ac424831865b88",
+        "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+        "url": "https://aihot.news/items/rp0ocer4fughonyd9ddfr3r8i",
+        "source": "NVIDIA Blog",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_dce35601eb5f",
-      "title": "Jev 火得一塌糊涂，但它架构没护城河：OpenAI 随时能抄",
-      "url": "https://www.oschina.net/news/502690/will-openai-eat-jevs-lunch",
-      "primary_url": "https://www.oschina.net/news/502690/will-openai-eat-jevs-lunch",
-      "source": "开源中国 · 热门资讯",
-      "source_name": "TopHub",
+      "story_id": "story_5f4845246165",
+      "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+      "url": "https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm",
+      "primary_url": "https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm",
+      "source": "Artificial Analysis",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d9878479174ab78511b333ac8e115924d08c9569",
-          "title": "Jev 火得一塌糊涂，但它架构没护城河：OpenAI 随时能抄",
-          "url": "https://www.oschina.net/news/502690/will-openai-eat-jevs-lunch",
-          "source": "开源中国 · 热门资讯",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "84e5189c8ec391ea6d7b81256cd092fed45b619f",
+          "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+          "url": "https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm",
+          "source": "Artificial Analysis",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T22:43:17Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "开源中国 · 热门资讯"
+        "Artificial Analysis"
       ],
       "items": [
         {
-          "id": "d9878479174ab78511b333ac8e115924d08c9569",
-          "title": "Jev 火得一塌糊涂，但它架构没护城河：OpenAI 随时能抄",
-          "url": "https://www.oschina.net/news/502690/will-openai-eat-jevs-lunch",
-          "source": "开源中国 · 热门资讯",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "84e5189c8ec391ea6d7b81256cd092fed45b619f",
+          "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+          "url": "https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm",
+          "source": "Artificial Analysis",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T22:43:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8619,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
+      "earliest_at": "2026-10-01T22:43:17Z",
+      "latest_at": "2026-10-01T22:43:17Z",
       "primary_item": {
-        "id": "d9878479174ab78511b333ac8e115924d08c9569",
-        "title": "Jev 火得一塌糊涂，但它架构没护城河：OpenAI 随时能抄",
-        "url": "https://www.oschina.net/news/502690/will-openai-eat-jevs-lunch",
-        "source": "开源中国 · 热门资讯",
-        "source_name": "TopHub"
+        "id": "84e5189c8ec391ea6d7b81256cd092fed45b619f",
+        "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+        "url": "https://aihot.news/items/kaz49j9sbrf1rcugch9d2fdjm",
+        "source": "Artificial Analysis",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_815859d3ed37",
-      "title": "MCP 到底接在了哪一层？从“Agent 调工具”说起",
-      "url": "https://juejin.cn/post/7688528701484253225",
-      "primary_url": "https://juejin.cn/post/7688528701484253225",
-      "source": "juejin",
-      "source_name": "NewsNow",
+      "story_id": "story_e9f82fa22589",
+      "title": "新分支的代码覆盖率上传不再使 CI 失败 / Code coverage uploads no longer fail CI for new branches",
+      "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+      "primary_url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "522e1dc7057a836e6a255ca9375d0656511d0591",
-          "title": "MCP 到底接在了哪一层？从“Agent 调工具”说起",
-          "url": "https://juejin.cn/post/7688528701484253225",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T01:26:44.232000Z"
+          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
+          "title": "新分支的代码覆盖率上传不再使 CI 失败 / Code coverage uploads no longer fail CI for new branches",
+          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:49:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "juejin"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "522e1dc7057a836e6a255ca9375d0656511d0591",
-          "title": "MCP 到底接在了哪一层？从“Agent 调工具”说起",
-          "url": "https://juejin.cn/post/7688528701484253225",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T01:26:44.232000Z"
+          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
+          "title": "新分支的代码覆盖率上传不再使 CI 失败 / Code coverage uploads no longer fail CI for new branches",
+          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:49:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6159,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "official",
       "reasons": [
-        "recent_ai_signal"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-28T01:26:44.232000Z",
-      "latest_at": "2026-09-28T01:26:44.232000Z",
+      "earliest_at": "2026-10-01T16:49:05Z",
+      "latest_at": "2026-10-01T16:49:05Z",
       "primary_item": {
-        "id": "522e1dc7057a836e6a255ca9375d0656511d0591",
-        "title": "MCP 到底接在了哪一层？从“Agent 调工具”说起",
-        "url": "https://juejin.cn/post/7688528701484253225",
-        "source": "juejin",
-        "source_name": "NewsNow"
+        "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
+        "title": "新分支的代码覆盖率上传不再使 CI 失败 / Code coverage uploads no longer fail CI for new branches",
+        "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ff6df78f1a7a",
-      "title": "MCP返回了 50 条数据，模型只看到了 20 条：一次 Agent 静默截断排查",
-      "url": "https://juejin.cn/post/7688929298951880719",
-      "primary_url": "https://juejin.cn/post/7688929298951880719",
-      "source": "juejin",
-      "source_name": "NewsNow",
+      "story_id": "story_baa9bc568213",
+      "title": "计划的代码扫描会跳过不活动的存储库 / Scheduled code scanning skips inactive repositories",
+      "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "primary_url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "73e90c140d9bd36cad26575466f1715627a40555",
-          "title": "MCP返回了 50 条数据，模型只看到了 20 条：一次 Agent 静默截断排查",
-          "url": "https://juejin.cn/post/7688929298951880719",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T01:26:44.232000Z"
+          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
+          "title": "计划的代码扫描会跳过不活动的存储库 / Scheduled code scanning skips inactive repositories",
+          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:49:15Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "juejin"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "73e90c140d9bd36cad26575466f1715627a40555",
-          "title": "MCP返回了 50 条数据，模型只看到了 20 条：一次 Agent 静默截断排查",
-          "url": "https://juejin.cn/post/7688929298951880719",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T01:26:44.232000Z"
+          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
+          "title": "计划的代码扫描会跳过不活动的存储库 / Scheduled code scanning skips inactive repositories",
+          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T16:49:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.616,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "official",
       "reasons": [
-        "recent_ai_signal"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-28T01:26:44.232000Z",
-      "latest_at": "2026-09-28T01:26:44.232000Z",
+      "earliest_at": "2026-10-01T16:49:15Z",
+      "latest_at": "2026-10-01T16:49:15Z",
       "primary_item": {
-        "id": "73e90c140d9bd36cad26575466f1715627a40555",
-        "title": "MCP返回了 50 条数据，模型只看到了 20 条：一次 Agent 静默截断排查",
-        "url": "https://juejin.cn/post/7688929298951880719",
-        "source": "juejin",
-        "source_name": "NewsNow"
+        "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
+        "title": "计划的代码扫描会跳过不活动的存储库 / Scheduled code scanning skips inactive repositories",
+        "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_e74e9b760876",
-      "title": "OpenAI 称再停最强模型训练：曾外泄用户照片、闯入政府网站，多起 AI 失控事件曝光",
-      "url": "https://www.mittrchina.com/news/detail/17021",
-      "primary_url": "https://www.mittrchina.com/news/detail/17021",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_2f2cc0e90c6f",
+      "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+      "url": "https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph",
+      "primary_url": "https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph",
+      "source": "Krea AI",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f261b5d971278c8a3afc345ff06e855b449fa143",
-          "title": "OpenAI 称再停最强模型训练：曾外泄用户照片、闯入政府网站，多起 AI 失控事件曝光",
-          "url": "https://www.mittrchina.com/news/detail/17021",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "81df13371c8aa56daa1e9784be63eb1293363ccc",
+          "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+          "url": "https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph",
+          "source": "Krea AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T21:18:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Readhub · AI"
+        "Krea AI"
       ],
       "items": [
         {
-          "id": "f261b5d971278c8a3afc345ff06e855b449fa143",
-          "title": "OpenAI 称再停最强模型训练：曾外泄用户照片、闯入政府网站，多起 AI 失控事件曝光",
-          "url": "https://www.mittrchina.com/news/detail/17021",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "81df13371c8aa56daa1e9784be63eb1293363ccc",
+          "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+          "url": "https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph",
+          "source": "Krea AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T21:18:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8033,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
+      "earliest_at": "2026-10-01T21:18:59Z",
+      "latest_at": "2026-10-01T21:18:59Z",
       "primary_item": {
-        "id": "f261b5d971278c8a3afc345ff06e855b449fa143",
-        "title": "OpenAI 称再停最强模型训练：曾外泄用户照片、闯入政府网站，多起 AI 失控事件曝光",
-        "url": "https://www.mittrchina.com/news/detail/17021",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "81df13371c8aa56daa1e9784be63eb1293363ccc",
+        "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+        "url": "https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph",
+        "source": "Krea AI",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_e2ed4a248320",
-      "title": "OpenAI，经历了最漫长的一天",
-      "url": "https://www.36kr.com/p/4001126579687302",
-      "primary_url": "https://www.36kr.com/p/4001126579687302",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
+      "story_id": "story_0884e432d9c9",
+      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+      "url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
+      "primary_url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
+      "source": "OpenRouter",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "21d22e439097ee700cf0dbdb160986cc92873cce",
-          "title": "OpenAI，经历了最漫长的一天",
-          "url": "https://www.36kr.com/p/4001126579687302",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c7a6b37d71d4b64e73a42cb5929c55209cf567b0",
+          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+          "url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
+          "source": "OpenRouter",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:37:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "36氪 · 24小时热榜"
+        "OpenRouter"
       ],
       "items": [
         {
-          "id": "21d22e439097ee700cf0dbdb160986cc92873cce",
-          "title": "OpenAI，经历了最漫长的一天",
-          "url": "https://www.36kr.com/p/4001126579687302",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "c7a6b37d71d4b64e73a42cb5929c55209cf567b0",
+          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+          "url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
+          "source": "OpenRouter",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:37:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7746,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-28T01:26:14.010553Z",
-      "latest_at": "2026-09-28T01:26:14.010553Z",
+      "earliest_at": "2026-10-01T20:37:38Z",
+      "latest_at": "2026-10-01T20:37:38Z",
       "primary_item": {
-        "id": "21d22e439097ee700cf0dbdb160986cc92873cce",
-        "title": "OpenAI，经历了最漫长的一天",
-        "url": "https://www.36kr.com/p/4001126579687302",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
+        "id": "c7a6b37d71d4b64e73a42cb5929c55209cf567b0",
+        "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+        "url": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
+        "source": "OpenRouter",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1761b9bcac54",
+      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+      "url": "https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2",
+      "primary_url": "https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2",
+      "source": "Suno：Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "da489de4633e19903db81e31b7ee9834d48cb89d",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "url": "https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2",
+          "source": "Suno：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:35:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Suno：Blog"
+      ],
+      "items": [
+        {
+          "id": "da489de4633e19903db81e31b7ee9834d48cb89d",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "url": "https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2",
+          "source": "Suno：Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:35:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7728,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T20:35:00Z",
+      "latest_at": "2026-10-01T20:35:00Z",
+      "primary_item": {
+        "id": "da489de4633e19903db81e31b7ee9834d48cb89d",
+        "title": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+        "url": "https://aihot.news/items/rnjrj40fmm98d9duz9lcuk8u2",
+        "source": "Suno：Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d9d51b2d0dae",
+      "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+      "url": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
+      "primary_url": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
+      "source": "Arena",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10f5fef8b1956cffd1baa60d407139f999bb5636",
+          "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+          "url": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
+          "source": "Arena",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T18:57:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Arena"
+      ],
+      "items": [
+        {
+          "id": "10f5fef8b1956cffd1baa60d407139f999bb5636",
+          "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+          "url": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
+          "source": "Arena",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T18:57:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7054,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T18:57:58Z",
+      "latest_at": "2026-10-01T18:57:58Z",
+      "primary_item": {
+        "id": "10f5fef8b1956cffd1baa60d407139f999bb5636",
+        "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+        "url": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
+        "source": "Arena",
+        "source_name": "AI HOT"
       }
     }
   ]
