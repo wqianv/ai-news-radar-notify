@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-10-17T01:07:25.481524Z",
+  "generated_at": "2026-10-18T00:41:09.634025Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-10-16",
-  "count_today": 3,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-10-16",
+      "title": "很多人用 Agent 做产品，习惯把调研、选题、写代码和发布全塞给一个机器人，最后结论互相打架，流程也无法复用。作者用Grok Bot把产品开发拆成了 9 个常驻角色：找趋势、挖痛点、看竞品、定策略、淘汰弱想法，再写规格、构建产品和准备发布视频。适合独立开发者和小团队搭建可持续运行的 Agent 产品流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-16",
       "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
@@ -15,6 +20,16 @@
     {
       "date": "2026-10-16",
       "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,8 +38,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 30,
   "updates_7d": [
+    {
+      "date": "2026-10-16",
+      "title": "很多人用 Agent 做产品，习惯把调研、选题、写代码和发布全塞给一个机器人，最后结论互相打架，流程也无法复用。作者用Grok Bot把产品开发拆成了 9 个常驻角色：找趋势、挖痛点、看竞品、定策略、淘汰弱想法，再写规格、构建产品和准备发布视频。适合独立开发者和小团队搭建可持续运行的 Agent 产品流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-16",
       "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
@@ -33,6 +53,16 @@
     {
       "date": "2026-10-16",
       "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-16",
+      "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -158,36 +188,6 @@
     {
       "date": "2026-10-12",
       "title": "Agent 评测已经成为了当前 Agent应用的基石。作者这篇文章就给大家详细介绍一下什么是评测、怎么做，以及其中的一些方法论和细节。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "汇集Stripe、Uber、Meta等大厂工程实践，作者提炼出10类多智能体落地范式，还总结出可复用的六条核心设计原则。大家也可以结合自身的业务痛点，从轻量化单一场景起步快速验证。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "本地跑 LLM 慢，问题往往不只是“算力不够”，更常见的是内存带宽把生成速度锁住了。Mirai 开源推理引擎 Uzu，凭借硬件专属量化、DFlash-Weaver 草稿生成与免回滚树验证方案，在 M5 芯片上实现性能飞跃。一起来看看是怎么回事！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "本周精选的10篇 AI 论文正在从“换更强模型”转向“把模型外面的系统做扎实”，集结了 CMU、微软、谷歌、Meta 等机构的突破性成果。内容覆盖控制程序工程、检索增强、长周期任务校验、多智能体自优化与记忆架构等核心方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "想低成本搭建企业AI业务中台？这篇文章拆解了卡兹克团队在飞书工作台搭建组织中台的完整方案，提供了零代码自助搭建、网页嵌入两套落地路径。覆盖权限配置、模板选用、页面编辑、发布上线全流程，搭配各类小组件与布局方案，可快速搭建千人千面的业务门户，复帮团队把AI能力落地到真实业务场景。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "很多人想转行 Agent 工程师，一上来就收藏框架、跑 demo，结果 API、RAG、状态管理、后端工程都没真正串起来。作者整理了一份学习路线：覆盖 LLM 原理、提示词工程、RAG、智能体循环，延伸至后端开发全栈能力，配套学习链接、实操项目与验收标准。或许可以帮你快速定位知识盲区，搭建可用于求职展示的技术作品集。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "作者这份实战分享，带来一套轻量化的Agent开发工作流，涵盖需求对齐、多Agent协同开发、搭建Agent友好的端到端测试环境，以及AI生成代码的评审策略。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
