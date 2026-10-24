@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-23T01:16:45.569615Z",
+  "generated_at": "2026-10-24T01:23:45.443788Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ab26bfe89fae",
-      "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "story_id": "story_ba4d3ab8dded",
+      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T00:17:51Z"
+          "published_at": "2026-10-23T23:42:03Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +27,25 @@
       ],
       "items": [
         {
-          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T00:17:51Z"
+          "published_at": "2026-10-23T23:42:03Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8648,
-      "importance": 0.8648,
-      "importance_score": 0.8648,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9591,
+        "ai_relevance": 0.87,
+        "recency": 0.9294,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,32 +54,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T00:17:51Z",
-      "latest_at": "2026-10-23T00:17:51Z",
+      "earliest_at": "2026-10-23T23:42:03Z",
+      "latest_at": "2026-10-23T23:42:03Z",
       "primary_item": {
-        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-        "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_be8869e5946c",
-      "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
-      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "story_id": "story_62c869d7dbe2",
+      "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "primary_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
-          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:19:17Z"
+          "published_at": "2026-10-23T21:29:58Z"
         }
       ],
       "source_count": 1,
@@ -88,25 +88,25 @@
       ],
       "items": [
         {
-          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
-          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T22:19:17Z"
+          "published_at": "2026-10-23T21:29:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8768,
+        "recency": 0.8376,
         "story_heat": 0.0
       },
       "category": "official",
@@ -115,112 +115,275 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T22:19:17Z",
-      "latest_at": "2026-10-22T22:19:17Z",
+      "earliest_at": "2026-10-23T21:29:58Z",
+      "latest_at": "2026-10-23T21:29:58Z",
       "primary_item": {
-        "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-        "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
-        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
+        "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
+        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_1060c8c14e5f",
-      "title": "谷歌云开放 Claude 托管部署：企业可在自家基础设施上首发日即用最新模型",
-      "url": "https://www.aibase.com/news/31811",
-      "primary_url": "https://www.aibase.com/news/31811",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_298c8de07d18",
+      "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "primary_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d714c1bd3fae27948bcb9fd4577ba286c7a07828",
-          "title": "谷歌云开放 Claude 托管部署：企业可在自家基础设施上首发日即用最新模型",
-          "url": "https://www.aibase.com/news/31811",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T01:16:45.569615Z"
-        },
-        {
-          "id": "83d3b1bf88532fddd348b5e0b524338ae847be2b",
-          "title": "谷歌云开放 Claude 托管部署：企业可在自家基础设施上首发日即用最新模型",
-          "url": "https://www.aibase.com/zh/news/31811",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "983f1c62955922e36654964f731e9e841ab79d79",
+          "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T17:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "d714c1bd3fae27948bcb9fd4577ba286c7a07828",
-          "title": "谷歌云开放 Claude 托管部署：企业可在自家基础设施上首发日即用最新模型",
-          "url": "https://www.aibase.com/news/31811",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T01:16:45.569615Z"
-        },
-        {
-          "id": "83d3b1bf88532fddd348b5e0b524338ae847be2b",
-          "title": "谷歌云开放 Claude 托管部署：企业可在自家基础设施上首发日即用最新模型",
-          "url": "https://www.aibase.com/zh/news/31811",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "983f1c62955922e36654964f731e9e841ab79d79",
+          "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T17:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6502,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T17:00:00Z",
+      "latest_at": "2026-10-23T17:00:00Z",
+      "primary_item": {
+        "id": "983f1c62955922e36654964f731e9e841ab79d79",
+        "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2d587e070d12",
+      "title": "EMU 删除修复 / EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU 删除修复 / EMU deletions fix",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T18:56:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU 删除修复 / EMU deletions fix",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T18:56:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7309,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T18:56:18Z",
+      "latest_at": "2026-10-23T18:56:18Z",
+      "primary_item": {
+        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+        "title": "EMU 删除修复 / EMU deletions fix",
+        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_248f354eb1af",
+      "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+      "primary_url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
+          "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+          "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T17:17:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
+          "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+          "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T17:17:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6626,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T17:17:58Z",
+      "latest_at": "2026-10-23T17:17:58Z",
+      "primary_item": {
+        "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
+        "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
+        "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b3bd42c7c435",
+      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+      "url": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
+      "primary_url": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
+      "source": "OpenAI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f4d0b763932e75e00805b78cc99de7f5adc62564",
+          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+          "url": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
+          "source": "OpenAI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T22:55:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI"
+      ],
+      "items": [
+        {
+          "id": "f4d0b763932e75e00805b78cc99de7f5adc62564",
+          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+          "url": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
+          "source": "OpenAI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T22:55:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.8972,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T01:16:45.569615Z",
-      "latest_at": "2026-10-23T01:16:45.569615Z",
+      "earliest_at": "2026-10-23T22:55:45Z",
+      "latest_at": "2026-10-23T22:55:45Z",
       "primary_item": {
-        "id": "d714c1bd3fae27948bcb9fd4577ba286c7a07828",
-        "title": "谷歌云开放 Claude 托管部署：企业可在自家基础设施上首发日即用最新模型",
-        "url": "https://www.aibase.com/news/31811",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "f4d0b763932e75e00805b78cc99de7f5adc62564",
+        "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
+        "url": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
+        "source": "OpenAI",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_658f804bcd1d",
-      "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "story_id": "story_09f5c3d32ac1",
+      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
+          "published_at": "2026-10-23T15:03:30Z"
         }
       ],
       "source_count": 1,
@@ -229,25 +392,25 @@
       ],
       "items": [
         {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
+          "published_at": "2026-10-23T15:03:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8109,
+        "ai_relevance": 0.87,
+        "recency": 0.5693,
         "story_heat": 0.0
       },
       "category": "official",
@@ -256,32 +419,152 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T20:44:28Z",
-      "latest_at": "2026-10-22T20:44:28Z",
+      "earliest_at": "2026-10-23T15:03:30Z",
+      "latest_at": "2026-10-23T15:03:30Z",
       "primary_item": {
-        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-        "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_8137c6349300",
-      "title": "OpenAI 向所有客户开放 Decisions API，决策延迟最低降至100毫秒级",
-      "url": "https://www.aibase.com/news/31812",
-      "primary_url": "https://www.aibase.com/news/31812",
+      "story_id": "story_247c4feed82d",
+      "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+      "url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
+      "primary_url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
+      "source": "Alex Heath",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dc1032bd7ed057192c4cc3dc66c47d1c588feaa1",
+          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+          "url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
+          "source": "Alex Heath",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T18:58:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Alex Heath"
+      ],
+      "items": [
+        {
+          "id": "dc1032bd7ed057192c4cc3dc66c47d1c588feaa1",
+          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+          "url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
+          "source": "Alex Heath",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T18:58:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7323,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T18:58:15Z",
+      "latest_at": "2026-10-23T18:58:15Z",
+      "primary_item": {
+        "id": "dc1032bd7ed057192c4cc3dc66c47d1c588feaa1",
+        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+        "url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
+        "source": "Alex Heath",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_da48a0c0871e",
+      "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+      "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
+      "primary_url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
+      "source": "OpenRouter",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4d6b3afad220710a7ffd5f8c1456ba8447c1d70f",
+          "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+          "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
+          "source": "OpenRouter",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T18:31:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter"
+      ],
+      "items": [
+        {
+          "id": "4d6b3afad220710a7ffd5f8c1456ba8447c1d70f",
+          "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+          "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
+          "source": "OpenRouter",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T18:31:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7136,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T18:31:22Z",
+      "latest_at": "2026-10-23T18:31:22Z",
+      "primary_item": {
+        "id": "4d6b3afad220710a7ffd5f8c1456ba8447c1d70f",
+        "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+        "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
+        "source": "OpenRouter",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7b245d7ff495",
+      "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+      "url": "https://www.aibase.com/news/31847",
+      "primary_url": "https://www.aibase.com/news/31847",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bdb0a33407077c57144c2a26d3ddbf3b55aa7a19",
-          "title": "OpenAI 向所有客户开放 Decisions API，决策延迟最低降至100毫秒级",
-          "url": "https://www.aibase.com/news/31812",
+          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "url": "https://www.aibase.com/news/31847",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-23T01:16:45.569615Z"
+          "published_at": "2026-10-23T18:23:45.443788Z"
         }
       ],
       "source_count": 1,
@@ -290,738 +573,13 @@
       ],
       "items": [
         {
-          "id": "bdb0a33407077c57144c2a26d3ddbf3b55aa7a19",
-          "title": "OpenAI 向所有客户开放 Decisions API，决策延迟最低降至100毫秒级",
-          "url": "https://www.aibase.com/news/31812",
+          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+          "url": "https://www.aibase.com/news/31847",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-23T01:16:45.569615Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T01:16:45.569615Z",
-      "latest_at": "2026-10-23T01:16:45.569615Z",
-      "primary_item": {
-        "id": "bdb0a33407077c57144c2a26d3ddbf3b55aa7a19",
-        "title": "OpenAI 向所有客户开放 Decisions API，决策延迟最低降至100毫秒级",
-        "url": "https://www.aibase.com/news/31812",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0d24124c6287",
-      "title": "万象有声发布 Audimind，有声书制作工具出海",
-      "url": "https://www.aibase.com/news/31802",
-      "primary_url": "https://www.aibase.com/news/31802",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
-          "title": "万象有声发布 Audimind，有声书制作工具出海",
-          "url": "https://www.aibase.com/news/31802",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T01:16:45.569615Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
-          "title": "万象有声发布 Audimind，有声书制作工具出海",
-          "url": "https://www.aibase.com/news/31802",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T01:16:45.569615Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T01:16:45.569615Z",
-      "latest_at": "2026-10-23T01:16:45.569615Z",
-      "primary_item": {
-        "id": "59f3524d2a0d04f4225fac157b2c8fbc5f239ca0",
-        "title": "万象有声发布 Audimind，有声书制作工具出海",
-        "url": "https://www.aibase.com/news/31802",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a53afb831319",
-      "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
-      "url": "https://aihot.news/items/oa90c67a9n1l6jf7860k99m44",
-      "primary_url": "https://aihot.news/items/oa90c67a9n1l6jf7860k99m44",
-      "source": "公众号：MiniMax",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9b2b3738fd412a3d1227784a2c88e6a665713600",
-          "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
-          "url": "https://aihot.news/items/oa90c67a9n1l6jf7860k99m44",
-          "source": "公众号：MiniMax",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T00:56:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：MiniMax"
-      ],
-      "items": [
-        {
-          "id": "9b2b3738fd412a3d1227784a2c88e6a665713600",
-          "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
-          "url": "https://aihot.news/items/oa90c67a9n1l6jf7860k99m44",
-          "source": "公众号：MiniMax",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T00:56:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:56:00Z",
-      "latest_at": "2026-10-23T00:56:00Z",
-      "primary_item": {
-        "id": "9b2b3738fd412a3d1227784a2c88e6a665713600",
-        "title": "MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿",
-        "url": "https://aihot.news/items/oa90c67a9n1l6jf7860k99m44",
-        "source": "公众号：MiniMax",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e2347f83650",
-      "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
-      "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-      "primary_url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
-          "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
-          "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T18:14:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
-          "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
-          "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T18:14:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7066,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T18:14:16Z",
-      "latest_at": "2026-10-22T18:14:16Z",
-      "primary_item": {
-        "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
-        "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
-        "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b72f858af9a1",
-      "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
-      "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
-      "primary_url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
-          "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
-          "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T18:12:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
-          "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
-          "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T18:12:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7057,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T18:12:58Z",
-      "latest_at": "2026-10-22T18:12:58Z",
-      "primary_item": {
-        "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
-        "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
-        "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c655f75f90af",
-      "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6331,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T16:28:24Z",
-      "latest_at": "2026-10-22T16:28:24Z",
-      "primary_item": {
-        "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-        "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-        "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9a5f283c00b1",
-      "title": "拉取请求：保存空白首选项并改进分割视图 / Pull requests: Saved whitespace preferences and improved split view",
-      "url": "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
-      "primary_url": "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fc66a71ee82b5720b997e2ae5a5c46ee2b9659b",
-          "title": "拉取请求：保存空白首选项并改进分割视图 / Pull requests: Saved whitespace preferences and improved split view",
-          "url": "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T17:24:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fc66a71ee82b5720b997e2ae5a5c46ee2b9659b",
-          "title": "拉取请求：保存空白首选项并改进分割视图 / Pull requests: Saved whitespace preferences and improved split view",
-          "url": "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T17:24:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7955,
-      "importance": 0.7955,
-      "importance_score": 0.7955,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6723,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T17:24:56Z",
-      "latest_at": "2026-10-22T17:24:56Z",
-      "primary_item": {
-        "id": "5fc66a71ee82b5720b997e2ae5a5c46ee2b9659b",
-        "title": "拉取请求：保存空白首选项并改进分割视图 / Pull requests: Saved whitespace preferences and improved split view",
-        "url": "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4c4b152af7b0",
-      "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
-      "url": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb",
-      "primary_url": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb",
-      "source": "Replit：Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5f5e203ff47ed6465991ed525767c0532c925822",
-          "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
-          "url": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb",
-          "source": "Replit：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:24:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Replit：Blog"
-      ],
-      "items": [
-        {
-          "id": "5f5e203ff47ed6465991ed525767c0532c925822",
-          "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
-          "url": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb",
-          "source": "Replit：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:24:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7968,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:24:13Z",
-      "latest_at": "2026-10-22T20:24:13Z",
-      "primary_item": {
-        "id": "5f5e203ff47ed6465991ed525767c0532c925822",
-        "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
-        "url": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb",
-        "source": "Replit：Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_655df0fb22ac",
-      "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "primary_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-          "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T14:30:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-          "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T14:30:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5511,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T14:30:24Z",
-      "latest_at": "2026-10-22T14:30:24Z",
-      "primary_item": {
-        "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-        "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c11e89553406",
-      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-      "url": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
-      "primary_url": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
-      "source": "Claude",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ec5ef1e83a51a49b8b5afa6b6599d101437cddd",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "url": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
-          "source": "Claude",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude"
-      ],
-      "items": [
-        {
-          "id": "8ec5ef1e83a51a49b8b5afa6b6599d101437cddd",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "url": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
-          "source": "Claude",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7831,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:04:24Z",
-      "latest_at": "2026-10-22T20:04:24Z",
-      "primary_item": {
-        "id": "8ec5ef1e83a51a49b8b5afa6b6599d101437cddd",
-        "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-        "url": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
-        "source": "Claude",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c7af6defc818",
-      "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-      "url": "https://aihot.news/items/w7axcg0e1y7uoyro92cmanong",
-      "primary_url": "https://aihot.news/items/w7axcg0e1y7uoyro92cmanong",
-      "source": "The Verge：AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e18d876b73abba07efd276a5bc93f72c75cb616f",
-          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-          "url": "https://aihot.news/items/w7axcg0e1y7uoyro92cmanong",
-          "source": "The Verge：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T19:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI"
-      ],
-      "items": [
-        {
-          "id": "e18d876b73abba07efd276a5bc93f72c75cb616f",
-          "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-          "url": "https://aihot.news/items/w7axcg0e1y7uoyro92cmanong",
-          "source": "The Verge：AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T19:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7696,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T19:45:00Z",
-      "latest_at": "2026-10-22T19:45:00Z",
-      "primary_item": {
-        "id": "e18d876b73abba07efd276a5bc93f72c75cb616f",
-        "title": "The Verge 分析 SpaceX 与特斯拉成立特别委员会讨论合并背后的财务逻辑",
-        "url": "https://aihot.news/items/w7axcg0e1y7uoyro92cmanong",
-        "source": "The Verge：AI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_24d5bf942db6",
-      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-      "url": "https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs",
-      "primary_url": "https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs",
-      "source": "OpenAI：官网动态",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c884943d1e6ab6d2e3bdf1a3b141df840e04e34",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-          "url": "https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs",
-          "source": "OpenAI：官网动态",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：官网动态"
-      ],
-      "items": [
-        {
-          "id": "5c884943d1e6ab6d2e3bdf1a3b141df840e04e34",
-          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-          "url": "https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs",
-          "source": "OpenAI：官网动态",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7384,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T19:00:00Z",
-      "latest_at": "2026-10-22T19:00:00Z",
-      "primary_item": {
-        "id": "5c884943d1e6ab6d2e3bdf1a3b141df840e04e34",
-        "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-        "url": "https://aihot.news/items/xffhf8h0e0r145getmi9k1zgs",
-        "source": "OpenAI：官网动态",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_40bf71a62693",
-      "title": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
-      "url": "https://www.aibase.com/news/31810",
-      "primary_url": "https://www.aibase.com/news/31810",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "935c0c54688337af319c3925e207e41877c601c9",
-          "title": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
-          "url": "https://www.aibase.com/news/31810",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T18:16:45.569615Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "935c0c54688337af319c3925e207e41877c601c9",
-          "title": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
-          "url": "https://www.aibase.com/news/31810",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T18:16:45.569615Z"
+          "published_at": "2026-10-23T18:23:45.443788Z"
         }
       ],
       "item_count": 1,
@@ -1041,32 +599,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T18:16:45.569615Z",
-      "latest_at": "2026-10-22T18:16:45.569615Z",
+      "earliest_at": "2026-10-23T18:23:45.443788Z",
+      "latest_at": "2026-10-23T18:23:45.443788Z",
       "primary_item": {
-        "id": "935c0c54688337af319c3925e207e41877c601c9",
-        "title": "Anthropic 上市前亮出特殊治理架构：把控制权交给不持股的外部受托人",
-        "url": "https://www.aibase.com/news/31810",
+        "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
+        "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
+        "url": "https://www.aibase.com/news/31847",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0f3e3a7ca3e2",
-      "title": "“翻译效果令人难以置信”，海外AI创业者上手千问AI硬件新品",
-      "url": "https://www.aibase.com/news/31808",
-      "primary_url": "https://www.aibase.com/news/31808",
+      "story_id": "story_6bd69afdf751",
+      "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
+      "url": "https://www.aibase.com/news/31842",
+      "primary_url": "https://www.aibase.com/news/31842",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e99bac2bd2aff72deb3cf34e9d4f9019b61a8e99",
-          "title": "“翻译效果令人难以置信”，海外AI创业者上手千问AI硬件新品",
-          "url": "https://www.aibase.com/news/31808",
+          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
+          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
+          "url": "https://www.aibase.com/news/31842",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-22T18:16:45.569615Z"
+          "published_at": "2026-10-23T17:23:45.443788Z"
         }
       ],
       "source_count": 1,
@@ -1075,58 +633,57 @@
       ],
       "items": [
         {
-          "id": "e99bac2bd2aff72deb3cf34e9d4f9019b61a8e99",
-          "title": "“翻译效果令人难以置信”，海外AI创业者上手千问AI硬件新品",
-          "url": "https://www.aibase.com/news/31808",
+          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
+          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
+          "url": "https://www.aibase.com/news/31842",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-22T18:16:45.569615Z"
+          "published_at": "2026-10-23T17:23:45.443788Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7083,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T18:16:45.569615Z",
-      "latest_at": "2026-10-22T18:16:45.569615Z",
+      "earliest_at": "2026-10-23T17:23:45.443788Z",
+      "latest_at": "2026-10-23T17:23:45.443788Z",
       "primary_item": {
-        "id": "e99bac2bd2aff72deb3cf34e9d4f9019b61a8e99",
-        "title": "“翻译效果令人难以置信”，海外AI创业者上手千问AI硬件新品",
-        "url": "https://www.aibase.com/news/31808",
+        "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
+        "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
+        "url": "https://www.aibase.com/news/31842",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_63cccad31076",
-      "title": "王兴兴给宇树画了三条线：量产、小模型、大算力",
-      "url": "https://www.aibase.com/news/31809",
-      "primary_url": "https://www.aibase.com/news/31809",
+      "story_id": "story_c8ca2825b4da",
+      "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
+      "url": "https://www.aibase.com/news/31843",
+      "primary_url": "https://www.aibase.com/news/31843",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72fa37687f16906fd7066b86c8a6463f1d7bf0b3",
-          "title": "王兴兴给宇树画了三条线：量产、小模型、大算力",
-          "url": "https://www.aibase.com/news/31809",
+          "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
+          "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
+          "url": "https://www.aibase.com/news/31843",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-22T18:16:45.569615Z"
+          "published_at": "2026-10-23T17:23:45.443788Z"
         }
       ],
       "source_count": 1,
@@ -1135,100 +692,511 @@
       ],
       "items": [
         {
-          "id": "72fa37687f16906fd7066b86c8a6463f1d7bf0b3",
-          "title": "王兴兴给宇树画了三条线：量产、小模型、大算力",
-          "url": "https://www.aibase.com/news/31809",
+          "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
+          "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
+          "url": "https://www.aibase.com/news/31843",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-22T18:16:45.569615Z"
+          "published_at": "2026-10-23T17:23:45.443788Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7083,
+        "recency": 0.6667,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T18:16:45.569615Z",
-      "latest_at": "2026-10-22T18:16:45.569615Z",
+      "earliest_at": "2026-10-23T17:23:45.443788Z",
+      "latest_at": "2026-10-23T17:23:45.443788Z",
       "primary_item": {
-        "id": "72fa37687f16906fd7066b86c8a6463f1d7bf0b3",
-        "title": "王兴兴给宇树画了三条线：量产、小模型、大算力",
-        "url": "https://www.aibase.com/news/31809",
+        "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
+        "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
+        "url": "https://www.aibase.com/news/31843",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b6a43ee73801",
-      "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-      "url": "https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u",
-      "primary_url": "https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u",
-      "source": "Microsoft AI：官方博客",
+      "story_id": "story_ca4fae7c2ea0",
+      "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+      "url": "https://www.aibase.com/news/31846",
+      "primary_url": "https://www.aibase.com/news/31846",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
+          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+          "url": "https://www.aibase.com/news/31846",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T17:23:45.443788Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
+          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+          "url": "https://www.aibase.com/news/31846",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T17:23:45.443788Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T17:23:45.443788Z",
+      "latest_at": "2026-10-23T17:23:45.443788Z",
+      "primary_item": {
+        "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
+        "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
+        "url": "https://www.aibase.com/news/31846",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_907ac9829dbc",
+      "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+      "url": "https://www.aibase.com/news/31844",
+      "primary_url": "https://www.aibase.com/news/31844",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
+          "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+          "url": "https://www.aibase.com/news/31844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T17:23:45.443788Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
+          "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+          "url": "https://www.aibase.com/news/31844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T17:23:45.443788Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T17:23:45.443788Z",
+      "latest_at": "2026-10-23T17:23:45.443788Z",
+      "primary_item": {
+        "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
+        "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+        "url": "https://www.aibase.com/news/31844",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_84c9b1a9d2cd",
+      "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+      "url": "https://www.aibase.com/news/31840",
+      "primary_url": "https://www.aibase.com/news/31840",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "url": "https://www.aibase.com/news/31840",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T16:23:45.443788Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+          "url": "https://www.aibase.com/news/31840",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T16:23:45.443788Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T16:23:45.443788Z",
+      "latest_at": "2026-10-23T16:23:45.443788Z",
+      "primary_item": {
+        "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
+        "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
+        "url": "https://www.aibase.com/news/31840",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6cfce92e8394",
+      "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+      "url": "https://www.aibase.com/news/31841",
+      "primary_url": "https://www.aibase.com/news/31841",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "url": "https://www.aibase.com/news/31841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T16:23:45.443788Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+          "url": "https://www.aibase.com/news/31841",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T16:23:45.443788Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T16:23:45.443788Z",
+      "latest_at": "2026-10-23T16:23:45.443788Z",
+      "primary_item": {
+        "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
+        "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
+        "url": "https://www.aibase.com/news/31841",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_638a1ede7e86",
+      "title": "火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片",
+      "url": "https://www.aibase.com/news/31839",
+      "primary_url": "https://www.aibase.com/news/31839",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "be8c151916b594d8fa2f5e6968febf0f236b4dc0",
+          "title": "火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片",
+          "url": "https://www.aibase.com/news/31839",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T16:23:45.443788Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "be8c151916b594d8fa2f5e6968febf0f236b4dc0",
+          "title": "火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片",
+          "url": "https://www.aibase.com/news/31839",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T16:23:45.443788Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T16:23:45.443788Z",
+      "latest_at": "2026-10-23T16:23:45.443788Z",
+      "primary_item": {
+        "id": "be8c151916b594d8fa2f5e6968febf0f236b4dc0",
+        "title": "火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片",
+        "url": "https://www.aibase.com/news/31839",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_36cedf5b8dfc",
+      "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+      "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
+      "primary_url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
+      "source": "Moonshot AI：Kimi Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d459aed5ce03881605a5e7bc22dbd003782a11cf",
-          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-          "url": "https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u",
-          "source": "Microsoft AI：官方博客",
+          "id": "60341bf9b1bfecd260d5a420c44cd36f21ee34fc",
+          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+          "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
+          "source": "Moonshot AI：Kimi Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T18:01:00Z"
+          "published_at": "2026-10-23T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Microsoft AI：官方博客"
+        "Moonshot AI：Kimi Blog"
       ],
       "items": [
         {
-          "id": "d459aed5ce03881605a5e7bc22dbd003782a11cf",
-          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-          "url": "https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u",
-          "source": "Microsoft AI：官方博客",
+          "id": "60341bf9b1bfecd260d5a420c44cd36f21ee34fc",
+          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+          "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
+          "source": "Moonshot AI：Kimi Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T18:01:00Z"
+          "published_at": "2026-10-23T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6974,
+        "recency": 0.6085,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T18:01:00Z",
-      "latest_at": "2026-10-22T18:01:00Z",
+      "earliest_at": "2026-10-23T16:00:00Z",
+      "latest_at": "2026-10-23T16:00:00Z",
       "primary_item": {
-        "id": "d459aed5ce03881605a5e7bc22dbd003782a11cf",
-        "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-        "url": "https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u",
-        "source": "Microsoft AI：官方博客",
+        "id": "60341bf9b1bfecd260d5a420c44cd36f21ee34fc",
+        "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+        "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
+        "source": "Moonshot AI：Kimi Blog",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1bd6d71f4f7a",
+      "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
+      "url": "https://www.aibase.com/news/31837",
+      "primary_url": "https://www.aibase.com/news/31837",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f90b2cd8f33429649b93d08ed96998aca85b4217",
+          "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
+          "url": "https://www.aibase.com/news/31837",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T15:23:45.443788Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f90b2cd8f33429649b93d08ed96998aca85b4217",
+          "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
+          "url": "https://www.aibase.com/news/31837",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T15:23:45.443788Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T15:23:45.443788Z",
+      "latest_at": "2026-10-23T15:23:45.443788Z",
+      "primary_item": {
+        "id": "f90b2cd8f33429649b93d08ed96998aca85b4217",
+        "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
+        "url": "https://www.aibase.com/news/31837",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_079b5aeba6bc",
+      "title": "昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材",
+      "url": "https://www.aibase.com/news/31838",
+      "primary_url": "https://www.aibase.com/news/31838",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9aaedb3a808f2b5e27c4acff28472cd43f8797e7",
+          "title": "昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材",
+          "url": "https://www.aibase.com/news/31838",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T15:23:45.443788Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9aaedb3a808f2b5e27c4acff28472cd43f8797e7",
+          "title": "昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材",
+          "url": "https://www.aibase.com/news/31838",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T15:23:45.443788Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T15:23:45.443788Z",
+      "latest_at": "2026-10-23T15:23:45.443788Z",
+      "primary_item": {
+        "id": "9aaedb3a808f2b5e27c4acff28472cd43f8797e7",
+        "title": "昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材",
+        "url": "https://www.aibase.com/news/31838",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
