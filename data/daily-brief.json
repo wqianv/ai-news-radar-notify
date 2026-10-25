@@ -1,1202 +1,1281 @@
 {
-  "generated_at": "2026-10-24T01:23:45.443788Z",
+  "generated_at": "2026-10-25T00:53:08.706457Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ba4d3ab8dded",
-      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T23:42:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T23:42:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9294,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T23:42:03Z",
-      "latest_at": "2026-10-23T23:42:03Z",
-      "primary_item": {
-        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_62c869d7dbe2",
-      "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "primary_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
-          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T21:29:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
-          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T21:29:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8376,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T21:29:58Z",
-      "latest_at": "2026-10-23T21:29:58Z",
-      "primary_item": {
-        "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
-        "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_298c8de07d18",
-      "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "primary_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "983f1c62955922e36654964f731e9e841ab79d79",
-          "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "983f1c62955922e36654964f731e9e841ab79d79",
-          "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6502,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T17:00:00Z",
-      "latest_at": "2026-10-23T17:00:00Z",
-      "primary_item": {
-        "id": "983f1c62955922e36654964f731e9e841ab79d79",
-        "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2d587e070d12",
-      "title": "EMU 删除修复 / EMU deletions fix",
-      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU 删除修复 / EMU deletions fix",
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU 删除修复 / EMU deletions fix",
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7309,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T18:56:18Z",
-      "latest_at": "2026-10-23T18:56:18Z",
-      "primary_item": {
-        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-        "title": "EMU 删除修复 / EMU deletions fix",
-        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_248f354eb1af",
-      "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
-      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-      "primary_url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
-          "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
-          "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T17:17:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
-          "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
-          "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T17:17:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6626,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T17:17:58Z",
-      "latest_at": "2026-10-23T17:17:58Z",
-      "primary_item": {
-        "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
-        "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
-        "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b3bd42c7c435",
-      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-      "url": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
-      "primary_url": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
-      "source": "OpenAI",
+      "story_id": "story_cd49184fc2fb",
+      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+      "url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
+      "primary_url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
+      "source": "Ethan Mollick",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f4d0b763932e75e00805b78cc99de7f5adc62564",
-          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-          "url": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
-          "source": "OpenAI",
+          "id": "b56752505edfcd71b119a87fb8e96957cd0a260e",
+          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+          "url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
+          "source": "Ethan Mollick",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-23T22:55:45Z"
+          "published_at": "2026-10-24T14:30:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI"
+        "Ethan Mollick"
       ],
       "items": [
         {
-          "id": "f4d0b763932e75e00805b78cc99de7f5adc62564",
-          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-          "url": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
-          "source": "OpenAI",
+          "id": "b56752505edfcd71b119a87fb8e96957cd0a260e",
+          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+          "url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
+          "source": "Ethan Mollick",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-23T22:55:45Z"
+          "published_at": "2026-10-24T14:30:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8972,
+        "recency": 0.5678,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-23T22:55:45Z",
-      "latest_at": "2026-10-23T22:55:45Z",
+      "earliest_at": "2026-10-24T14:30:45Z",
+      "latest_at": "2026-10-24T14:30:45Z",
       "primary_item": {
-        "id": "f4d0b763932e75e00805b78cc99de7f5adc62564",
-        "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-        "url": "https://aihot.news/items/bflsi3krmtn64gccrmh8dlsdc",
-        "source": "OpenAI",
+        "id": "b56752505edfcd71b119a87fb8e96957cd0a260e",
+        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+        "url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
+        "source": "Ethan Mollick",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_09f5c3d32ac1",
-      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5693,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T15:03:30Z",
-      "latest_at": "2026-10-23T15:03:30Z",
-      "primary_item": {
-        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_247c4feed82d",
-      "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-      "url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
-      "primary_url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
-      "source": "Alex Heath",
+      "story_id": "story_fcfa8ea660a4",
+      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+      "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+      "primary_url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+      "source": "The Decoder：AI News",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "dc1032bd7ed057192c4cc3dc66c47d1c588feaa1",
-          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-          "url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
-          "source": "Alex Heath",
+          "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
+          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+          "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+          "source": "The Decoder：AI News",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-23T18:58:15Z"
+          "published_at": "2026-10-24T11:12:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Alex Heath"
+        "The Decoder：AI News"
       ],
       "items": [
         {
-          "id": "dc1032bd7ed057192c4cc3dc66c47d1c588feaa1",
-          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-          "url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
-          "source": "Alex Heath",
+          "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
+          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+          "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+          "source": "The Decoder：AI News",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-23T18:58:15Z"
+          "published_at": "2026-10-24T11:12:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
-      "importance_label": "行业动态",
+      "score": 0.698,
+      "importance": 0.698,
+      "importance_score": 0.698,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7323,
+        "recency": 0.4302,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-23T18:58:15Z",
-      "latest_at": "2026-10-23T18:58:15Z",
+      "earliest_at": "2026-10-24T11:12:36Z",
+      "latest_at": "2026-10-24T11:12:36Z",
       "primary_item": {
-        "id": "dc1032bd7ed057192c4cc3dc66c47d1c588feaa1",
-        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-        "url": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
-        "source": "Alex Heath",
+        "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
+        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+        "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
+        "source": "The Decoder：AI News",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_da48a0c0871e",
-      "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
-      "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
-      "primary_url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
-      "source": "OpenRouter",
+      "story_id": "story_a13d2e51471e",
+      "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+      "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+      "primary_url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4d6b3afad220710a7ffd5f8c1456ba8447c1d70f",
-          "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
-          "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
-          "source": "OpenRouter",
+          "id": "0837f5d61b427cc67ded932935c316042bc89fc3",
+          "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+          "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-23T18:31:22Z"
+          "published_at": "2026-10-24T02:08:43Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenRouter"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "4d6b3afad220710a7ffd5f8c1456ba8447c1d70f",
-          "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
-          "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
-          "source": "OpenRouter",
+          "id": "0837f5d61b427cc67ded932935c316042bc89fc3",
+          "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+          "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-23T18:31:22Z"
+          "published_at": "2026-10-24T02:08:43Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
-      "importance_label": "行业动态",
+      "score": 0.6225,
+      "importance": 0.6225,
+      "importance_score": 0.6225,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7136,
+        "recency": 0.0525,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-23T18:31:22Z",
-      "latest_at": "2026-10-23T18:31:22Z",
+      "earliest_at": "2026-10-24T02:08:43Z",
+      "latest_at": "2026-10-24T02:08:43Z",
       "primary_item": {
-        "id": "4d6b3afad220710a7ffd5f8c1456ba8447c1d70f",
-        "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
-        "url": "https://aihot.news/items/g725ujk3cq0gquz6g2nlozeu4",
-        "source": "OpenRouter",
+        "id": "0837f5d61b427cc67ded932935c316042bc89fc3",
+        "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+        "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7b245d7ff495",
-      "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-      "url": "https://www.aibase.com/news/31847",
-      "primary_url": "https://www.aibase.com/news/31847",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e2469c92ba3c",
+      "title": "Nutlope / 标志 / Nutlope / hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "primary_url": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
-          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "url": "https://www.aibase.com/news/31847",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T18:23:45.443788Z"
+          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
+          "title": "Nutlope / 标志 / Nutlope / hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
+          "title": "Nutlope / 标志 / Nutlope /      hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T00:41:31.965000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
-          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "url": "https://www.aibase.com/news/31847",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T18:23:45.443788Z"
+          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
+          "title": "Nutlope / 标志 / Nutlope / hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
+          "title": "Nutlope / 标志 / Nutlope /      hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T00:41:31.965000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7083,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-23T18:23:45.443788Z",
-      "latest_at": "2026-10-23T18:23:45.443788Z",
+      "earliest_at": "2026-10-25T00:41:31.965000Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
       "primary_item": {
-        "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
-        "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-        "url": "https://www.aibase.com/news/31847",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
+        "title": "Nutlope / 标志 / Nutlope / hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_6bd69afdf751",
-      "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-      "url": "https://www.aibase.com/news/31842",
-      "primary_url": "https://www.aibase.com/news/31842",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_cdf697355512",
+      "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "primary_url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "url": "https://www.aibase.com/news/31842",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:23:45.443788Z"
+          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
+          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T20:05:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "url": "https://www.aibase.com/news/31842",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:23:45.443788Z"
+          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
+          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T20:05:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-23T17:23:45.443788Z",
-      "latest_at": "2026-10-23T17:23:45.443788Z",
+      "earliest_at": "2026-10-24T20:05:00Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
       "primary_item": {
-        "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-        "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-        "url": "https://www.aibase.com/news/31842",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+        "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+        "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_c8ca2825b4da",
-      "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-      "url": "https://www.aibase.com/news/31843",
-      "primary_url": "https://www.aibase.com/news/31843",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_3f27b55d4844",
+      "title": "花粉机器人/微型鸭 / pollen-robotics / microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "primary_url": "https://github.com/pollen-robotics/microduck",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
-          "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "url": "https://www.aibase.com/news/31843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:23:45.443788Z"
+          "id": "a554ac2e555adb2785386776372606be5b7bc789",
+          "title": "花粉机器人/微型鸭 / pollen-robotics / microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "42817cfeb8b62232464742063153ce777637fa70",
+          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T00:41:31.965000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
-          "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "url": "https://www.aibase.com/news/31843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:23:45.443788Z"
+          "id": "a554ac2e555adb2785386776372606be5b7bc789",
+          "title": "花粉机器人/微型鸭 / pollen-robotics / microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "42817cfeb8b62232464742063153ce777637fa70",
+          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
+          "url": "https://github.com/pollen-robotics/microduck",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T00:41:31.965000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-23T17:23:45.443788Z",
-      "latest_at": "2026-10-23T17:23:45.443788Z",
+      "earliest_at": "2026-10-25T00:41:31.965000Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
       "primary_item": {
-        "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
-        "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-        "url": "https://www.aibase.com/news/31843",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "a554ac2e555adb2785386776372606be5b7bc789",
+        "title": "花粉机器人/微型鸭 / pollen-robotics / microduck",
+        "url": "https://github.com/pollen-robotics/microduck",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_ca4fae7c2ea0",
-      "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-      "url": "https://www.aibase.com/news/31846",
-      "primary_url": "https://www.aibase.com/news/31846",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_9ad5ce51a997",
+      "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "primary_url": "https://github.com/google-gemini/gemini-cli",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
-          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-          "url": "https://www.aibase.com/news/31846",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:23:45.443788Z"
+          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
+          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
+          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T00:41:31.965000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
-          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-          "url": "https://www.aibase.com/news/31846",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:23:45.443788Z"
+          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
+          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
+          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T00:41:31.965000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-23T17:23:45.443788Z",
-      "latest_at": "2026-10-23T17:23:45.443788Z",
+      "earliest_at": "2026-10-25T00:41:31.965000Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
       "primary_item": {
-        "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
-        "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-        "url": "https://www.aibase.com/news/31846",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
+        "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_907ac9829dbc",
-      "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-      "url": "https://www.aibase.com/news/31844",
-      "primary_url": "https://www.aibase.com/news/31844",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_8f5707e9a13c",
+      "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
-          "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "url": "https://www.aibase.com/news/31844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:23:45.443788Z"
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
-          "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "url": "https://www.aibase.com/news/31844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:23:45.443788Z"
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6667,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9297,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-23T17:23:45.443788Z",
-      "latest_at": "2026-10-23T17:23:45.443788Z",
+      "earliest_at": "2026-10-24T23:11:54Z",
+      "latest_at": "2026-10-24T23:11:54Z",
       "primary_item": {
-        "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
-        "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-        "url": "https://www.aibase.com/news/31844",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+        "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_84c9b1a9d2cd",
-      "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-      "url": "https://www.aibase.com/news/31840",
-      "primary_url": "https://www.aibase.com/news/31840",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_572d1db872ef",
+      "title": "在 Claude Code 上工作了一年多，并看到它的规模比我想象的要大之后，我离开了 Anthropic。我真的很喜欢在蚂蚁金服工作，并深信我们的使命，最重要的是…… / I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of...",
+      "url": "https://x.com/trq212/status/2113844051938054167",
+      "primary_url": "https://x.com/trq212/status/2113844051938054167",
+      "source": "Follow Builders · X · Thariq",
+      "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
-          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-          "url": "https://www.aibase.com/news/31840",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T16:23:45.443788Z"
+          "id": "aed11a824dfb8e4f3d9dfdd4c6bc1d47fbd372bf",
+          "title": "在 Claude Code 上工作了一年多，并看到它的规模比我想象的要大之后，我离开了 Anthropic。我真的很喜欢在蚂蚁金服工作，并深信我们的使命，最重要的是…… / I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of...",
+          "url": "https://x.com/trq212/status/2113844051938054167",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-24T04:04:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Follow Builders · X · Thariq"
       ],
       "items": [
         {
-          "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
-          "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-          "url": "https://www.aibase.com/news/31840",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T16:23:45.443788Z"
+          "id": "aed11a824dfb8e4f3d9dfdd4c6bc1d47fbd372bf",
+          "title": "在 Claude Code 上工作了一年多，并看到它的规模比我想象的要大之后，我离开了 Anthropic。我真的很喜欢在蚂蚁金服工作，并深信我们的使命，最重要的是…… / I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of...",
+          "url": "https://x.com/trq212/status/2113844051938054167",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-24T04:04:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.625,
+        "source_tier": 0.62,
+        "ai_relevance": 0.85,
+        "recency": 0.1329,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-23T16:23:45.443788Z",
-      "latest_at": "2026-10-23T16:23:45.443788Z",
+      "earliest_at": "2026-10-24T04:04:29Z",
+      "latest_at": "2026-10-24T04:04:29Z",
       "primary_item": {
-        "id": "d5582a0754fb83f46fc3681774d0e10d25b1cc9f",
-        "title": "Gemini 4 Argon 首发 72 小时吞下 25 万亿 Token，皮查伊首谈砍掉 3.5 Pro 内幕",
-        "url": "https://www.aibase.com/news/31840",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "aed11a824dfb8e4f3d9dfdd4c6bc1d47fbd372bf",
+        "title": "在 Claude Code 上工作了一年多，并看到它的规模比我想象的要大之后，我离开了 Anthropic。我真的很喜欢在蚂蚁金服工作，并深信我们的使命，最重要的是…… / I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of...",
+        "url": "https://x.com/trq212/status/2113844051938054167",
+        "source": "Follow Builders · X · Thariq",
+        "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_6cfce92e8394",
-      "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-      "url": "https://www.aibase.com/news/31841",
-      "primary_url": "https://www.aibase.com/news/31841",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_7a9d4e79960b",
+      "title": "AI 热点日报（2026-10-19）：DeepSeek V4.1-Flash落地，国产十万卡超集群亮相，Meta开源816B大模型",
+      "url": "https://juejin.cn/post/7697605708137922596",
+      "primary_url": "https://juejin.cn/post/7697605708137922596",
+      "source": "掘金 · 人工智能本周最热",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
-          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-          "url": "https://www.aibase.com/news/31841",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T16:23:45.443788Z"
+          "id": "26e8dd995b3255882559c3d40cff017aaf593139",
+          "title": "AI 热点日报（2026-10-19）：DeepSeek V4.1-Flash落地，国产十万卡超集群亮相，Meta开源816B大模型",
+          "url": "https://juejin.cn/post/7697605708137922596",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "掘金 · 人工智能本周最热"
       ],
       "items": [
         {
-          "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
-          "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-          "url": "https://www.aibase.com/news/31841",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T16:23:45.443788Z"
+          "id": "26e8dd995b3255882559c3d40cff017aaf593139",
+          "title": "AI 热点日报（2026-10-19）：DeepSeek V4.1-Flash落地，国产十万卡超集群亮相，Meta开源816B大模型",
+          "url": "https://juejin.cn/post/7697605708137922596",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.625,
+        "source_tier": 0.32,
+        "ai_relevance": 0.67,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-10-23T16:23:45.443788Z",
-      "latest_at": "2026-10-23T16:23:45.443788Z",
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
       "primary_item": {
-        "id": "fd6476d96a06874d4974c0ffdd72bf939b22245f",
-        "title": "Hugging Face 推出 Carbon-X：基于千问，让科学家\"与 DNA 对话\"",
-        "url": "https://www.aibase.com/news/31841",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "26e8dd995b3255882559c3d40cff017aaf593139",
+        "title": "AI 热点日报（2026-10-19）：DeepSeek V4.1-Flash落地，国产十万卡超集群亮相，Meta开源816B大模型",
+        "url": "https://juejin.cn/post/7697605708137922596",
+        "source": "掘金 · 人工智能本周最热",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_638a1ede7e86",
-      "title": "火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片",
-      "url": "https://www.aibase.com/news/31839",
-      "primary_url": "https://www.aibase.com/news/31839",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_86b4cc20059a",
+      "title": "1代理密码 / 1Password for Agents",
+      "url": "https://www.producthunt.com/products/1password",
+      "primary_url": "https://www.producthunt.com/products/1password",
+      "source": "Product Hunt · 今日新产品",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "be8c151916b594d8fa2f5e6968febf0f236b4dc0",
-          "title": "火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片",
-          "url": "https://www.aibase.com/news/31839",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T16:23:45.443788Z"
+          "id": "bea87bd1e9c9b63c6f137462785d706fcc105fdd",
+          "title": "1代理密码 / 1Password for Agents",
+          "url": "https://www.producthunt.com/products/1password",
+          "source": "Product Hunt · 今日新产品",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Product Hunt · 今日新产品"
       ],
       "items": [
         {
-          "id": "be8c151916b594d8fa2f5e6968febf0f236b4dc0",
-          "title": "火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片",
-          "url": "https://www.aibase.com/news/31839",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T16:23:45.443788Z"
+          "id": "bea87bd1e9c9b63c6f137462785d706fcc105fdd",
+          "title": "1代理密码 / 1Password for Agents",
+          "url": "https://www.producthunt.com/products/1password",
+          "source": "Product Hunt · 今日新产品",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.625,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-10-23T16:23:45.443788Z",
-      "latest_at": "2026-10-23T16:23:45.443788Z",
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
       "primary_item": {
-        "id": "be8c151916b594d8fa2f5e6968febf0f236b4dc0",
-        "title": "火山引擎发布Seedance2.54K:480P样片打磨后生成4K正片",
-        "url": "https://www.aibase.com/news/31839",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "bea87bd1e9c9b63c6f137462785d706fcc105fdd",
+        "title": "1代理密码 / 1Password for Agents",
+        "url": "https://www.producthunt.com/products/1password",
+        "source": "Product Hunt · 今日新产品",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_36cedf5b8dfc",
-      "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-      "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
-      "primary_url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
-      "source": "Moonshot AI：Kimi Blog",
-      "source_name": "AI HOT",
+      "story_id": "story_b157d7e7541f",
+      "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
+      "url": "https://www.36kr.com/p/4039177193411718",
+      "primary_url": "https://www.36kr.com/p/4039177193411718",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "60341bf9b1bfecd260d5a420c44cd36f21ee34fc",
-          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-          "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
-          "source": "Moonshot AI：Kimi Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T16:00:00Z"
+          "id": "0412fc5c959796165b844ee987f18572caf76f6c",
+          "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
+          "url": "https://www.36kr.com/p/4039177193411718",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Moonshot AI：Kimi Blog"
+        "36氪 · 24小时热榜"
       ],
       "items": [
         {
-          "id": "60341bf9b1bfecd260d5a420c44cd36f21ee34fc",
-          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-          "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
-          "source": "Moonshot AI：Kimi Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T16:00:00Z"
+          "id": "0412fc5c959796165b844ee987f18572caf76f6c",
+          "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
+          "url": "https://www.36kr.com/p/4039177193411718",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6085,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-10-23T16:00:00Z",
-      "latest_at": "2026-10-23T16:00:00Z",
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
       "primary_item": {
-        "id": "60341bf9b1bfecd260d5a420c44cd36f21ee34fc",
-        "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-        "url": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
-        "source": "Moonshot AI：Kimi Blog",
-        "source_name": "AI HOT"
+        "id": "0412fc5c959796165b844ee987f18572caf76f6c",
+        "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
+        "url": "https://www.36kr.com/p/4039177193411718",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_1bd6d71f4f7a",
-      "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
-      "url": "https://www.aibase.com/news/31837",
-      "primary_url": "https://www.aibase.com/news/31837",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_596c1c3e90cc",
+      "title": "Chroma 加入 Replit 并在 60 天内关闭 Chroma Cloud / Chroma joins Replit and shuts down Chroma Cloud in 60 days",
+      "url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
+      "primary_url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "f90b2cd8f33429649b93d08ed96998aca85b4217",
-          "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
-          "url": "https://www.aibase.com/news/31837",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T15:23:45.443788Z"
+          "id": "18c0868f067f47816ae27fac63fcc5bbe3434d62",
+          "title": "Chroma 加入 Replit 并在 60 天内关闭 Chroma Cloud / Chroma joins Replit and shuts down Chroma Cloud in 60 days",
+          "url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "f90b2cd8f33429649b93d08ed96998aca85b4217",
-          "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
-          "url": "https://www.aibase.com/news/31837",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T15:23:45.443788Z"
+          "id": "18c0868f067f47816ae27fac63fcc5bbe3434d62",
+          "title": "Chroma 加入 Replit 并在 60 天内关闭 Chroma Cloud / Chroma joins Replit and shuts down Chroma Cloud in 60 days",
+          "url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5833,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-10-23T15:23:45.443788Z",
-      "latest_at": "2026-10-23T15:23:45.443788Z",
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
       "primary_item": {
-        "id": "f90b2cd8f33429649b93d08ed96998aca85b4217",
-        "title": "Etsy宣布禁止平台销售AI生成食谱与手工图样",
-        "url": "https://www.aibase.com/news/31837",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "18c0868f067f47816ae27fac63fcc5bbe3434d62",
+        "title": "Chroma 加入 Replit 并在 60 天内关闭 Chroma Cloud / Chroma joins Replit and shuts down Chroma Cloud in 60 days",
+        "url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_079b5aeba6bc",
-      "title": "昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材",
-      "url": "https://www.aibase.com/news/31838",
-      "primary_url": "https://www.aibase.com/news/31838",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_ed4901f7d545",
+      "title": "Kimi K3.1 Pro 发布：多项测试超越 GPT-6，最强开源模型回归",
+      "url": "https://www.mittrchina.com/news/detail/17136",
+      "primary_url": "https://www.mittrchina.com/news/detail/17136",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "9aaedb3a808f2b5e27c4acff28472cd43f8797e7",
-          "title": "昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材",
-          "url": "https://www.aibase.com/news/31838",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T15:23:45.443788Z"
+          "id": "91241e9c5e190c989b5ada060b2a612f15db8502",
+          "title": "Kimi K3.1 Pro 发布：多项测试超越 GPT-6，最强开源模型回归",
+          "url": "https://www.mittrchina.com/news/detail/17136",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "9aaedb3a808f2b5e27c4acff28472cd43f8797e7",
-          "title": "昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材",
-          "url": "https://www.aibase.com/news/31838",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T15:23:45.443788Z"
+          "id": "91241e9c5e190c989b5ada060b2a612f15db8502",
+          "title": "Kimi K3.1 Pro 发布：多项测试超越 GPT-6，最强开源模型回归",
+          "url": "https://www.mittrchina.com/news/detail/17136",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5833,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-10-23T15:23:45.443788Z",
-      "latest_at": "2026-10-23T15:23:45.443788Z",
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
       "primary_item": {
-        "id": "9aaedb3a808f2b5e27c4acff28472cd43f8797e7",
-        "title": "昆仑万维天工工作台接入可灵Kling4.0:单次30秒原生生成，最多15项参考素材",
-        "url": "https://www.aibase.com/news/31838",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "91241e9c5e190c989b5ada060b2a612f15db8502",
+        "title": "Kimi K3.1 Pro 发布：多项测试超越 GPT-6，最强开源模型回归",
+        "url": "https://www.mittrchina.com/news/detail/17136",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_27265cd18993",
+      "title": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "primary_url": "https://www.producthunt.com/products/sideos-ai",
+      "source": "Product Hunt · 今日新产品",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "08d2f832d7a22dfc75a8a26b4e755627e8726e6b",
+          "title": "sideOS.ai",
+          "url": "https://www.producthunt.com/products/sideos-ai",
+          "source": "Product Hunt · 今日新产品",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Product Hunt · 今日新产品"
+      ],
+      "items": [
+        {
+          "id": "08d2f832d7a22dfc75a8a26b4e755627e8726e6b",
+          "title": "sideOS.ai",
+          "url": "https://www.producthunt.com/products/sideos-ai",
+          "source": "Product Hunt · 今日新产品",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "primary_item": {
+        "id": "08d2f832d7a22dfc75a8a26b4e755627e8726e6b",
+        "title": "sideOS.ai",
+        "url": "https://www.producthunt.com/products/sideos-ai",
+        "source": "Product Hunt · 今日新产品",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_d1a3b4fa5d93",
+      "title": "从头开始构建推理模型：完整的视频课程 / Building Reasoning Models from the Ground Up: A Full Video Course",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "primary_url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c070f8a1031d779007c7e9632ad678f168383e1c",
+          "title": "从头开始构建推理模型：完整的视频课程 / Building Reasoning Models from the Ground Up: A Full Video Course",
+          "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c070f8a1031d779007c7e9632ad678f168383e1c",
+          "title": "从头开始构建推理模型：完整的视频课程 / Building Reasoning Models from the Ground Up: A Full Video Course",
+          "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "primary_item": {
+        "id": "c070f8a1031d779007c7e9632ad678f168383e1c",
+        "title": "从头开始构建推理模型：完整的视频课程 / Building Reasoning Models from the Ground Up: A Full Video Course",
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9b236c8a8e6d",
+      "title": "刚刚，两大实验室双双自曝AI失控，GitHub被投毒，真人程序员遭暗算",
+      "url": "https://www.36kr.com/p/4039168291132547",
+      "primary_url": "https://www.36kr.com/p/4039168291132547",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "53c16f5c4c38b28e8d15c80a96bfed2f2027fb77",
+          "title": "刚刚，两大实验室双双自曝AI失控，GitHub被投毒，真人程序员遭暗算",
+          "url": "https://www.36kr.com/p/4039168291132547",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-10-25T00:53:08.706457Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "36氪 · 24小时热榜"
+      ],
+      "items": [
+        {
+          "id": "53c16f5c4c38b28e8d15c80a96bfed2f2027fb77",
+          "title": "刚刚，两大实验室双双自曝AI失控，GitHub被投毒，真人程序员遭暗算",
+          "url": "https://www.36kr.com/p/4039168291132547",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-10-25T00:53:08.706457Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "primary_item": {
+        "id": "53c16f5c4c38b28e8d15c80a96bfed2f2027fb77",
+        "title": "刚刚，两大实验室双双自曝AI失控，GitHub被投毒，真人程序员遭暗算",
+        "url": "https://www.36kr.com/p/4039168291132547",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_23942977d04c",
+      "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+      "url": "https://www.ithome.com/1/017/525.htm",
+      "primary_url": "https://www.ithome.com/1/017/525.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9b3b5a5911a0fcf46440b7338251e3abf026f68c",
+          "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+          "url": "https://www.ithome.com/1/017/525.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9b3b5a5911a0fcf46440b7338251e3abf026f68c",
+          "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+          "url": "https://www.ithome.com/1/017/525.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "primary_item": {
+        "id": "9b3b5a5911a0fcf46440b7338251e3abf026f68c",
+        "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+        "url": "https://www.ithome.com/1/017/525.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3587937ccde6",
+      "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
+      "url": "https://juejin.cn/post/7699017769225928744",
+      "primary_url": "https://juejin.cn/post/7699017769225928744",
+      "source": "掘金 · 人工智能本周最热",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "20be7a17c680a1cde0bba8576d718187f42bd93c",
+          "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
+          "url": "https://juejin.cn/post/7699017769225928744",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "掘金 · 人工智能本周最热"
+      ],
+      "items": [
+        {
+          "id": "20be7a17c680a1cde0bba8576d718187f42bd93c",
+          "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
+          "url": "https://juejin.cn/post/7699017769225928744",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "primary_item": {
+        "id": "20be7a17c680a1cde0bba8576d718187f42bd93c",
+        "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
+        "url": "https://juejin.cn/post/7699017769225928744",
+        "source": "掘金 · 人工智能本周最热",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_839e8d0baa7a",
+      "title": "我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一",
+      "url": "https://juejin.cn/post/7699123334672089107",
+      "primary_url": "https://juejin.cn/post/7699123334672089107",
+      "source": "掘金 · 人工智能本周最热",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8fe46520c158fcc64af87a6ea00dcdab36b48e7a",
+          "title": "我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一",
+          "url": "https://juejin.cn/post/7699123334672089107",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "掘金 · 人工智能本周最热"
+      ],
+      "items": [
+        {
+          "id": "8fe46520c158fcc64af87a6ea00dcdab36b48e7a",
+          "title": "我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一",
+          "url": "https://juejin.cn/post/7699123334672089107",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-25T00:53:08.706457Z",
+      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "primary_item": {
+        "id": "8fe46520c158fcc64af87a6ea00dcdab36b48e7a",
+        "title": "我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一",
+        "url": "https://juejin.cn/post/7699123334672089107",
+        "source": "掘金 · 人工智能本周最热",
+        "source_name": "TopHub"
       }
     }
   ]
