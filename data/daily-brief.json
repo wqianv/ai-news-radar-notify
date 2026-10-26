@@ -1,210 +1,250 @@
 {
-  "generated_at": "2026-10-25T00:53:08.706457Z",
+  "generated_at": "2026-10-26T01:00:39.715709Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_cd49184fc2fb",
-      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-      "url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
-      "primary_url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
-      "source": "Ethan Mollick",
-      "source_name": "AI HOT",
+      "story_id": "story_4d8363a5b4c6",
+      "title": "AI巨头遭猫王版权方索赔 4100 万美元：当传奇音乐遇上大模型侵权风暴",
+      "url": "https://www.aibase.com/news/31849",
+      "primary_url": "https://www.aibase.com/news/31849",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b56752505edfcd71b119a87fb8e96957cd0a260e",
-          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-          "url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
-          "source": "Ethan Mollick",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T14:30:45Z"
+          "id": "f72894d09da7eeb88b22aa37e89a7d00faa12606",
+          "title": "AI巨头遭猫王版权方索赔 4100 万美元：当传奇音乐遇上大模型侵权风暴",
+          "url": "https://www.aibase.com/news/31849",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-26T01:00:39.715709Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Ethan Mollick"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b56752505edfcd71b119a87fb8e96957cd0a260e",
-          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-          "url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
-          "source": "Ethan Mollick",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T14:30:45Z"
+          "id": "f72894d09da7eeb88b22aa37e89a7d00faa12606",
+          "title": "AI巨头遭猫王版权方索赔 4100 万美元：当传奇音乐遇上大模型侵权风暴",
+          "url": "https://www.aibase.com/news/31849",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-26T01:00:39.715709Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5678,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-24T14:30:45Z",
-      "latest_at": "2026-10-24T14:30:45Z",
+      "earliest_at": "2026-10-26T01:00:39.715709Z",
+      "latest_at": "2026-10-26T01:00:39.715709Z",
       "primary_item": {
-        "id": "b56752505edfcd71b119a87fb8e96957cd0a260e",
-        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-        "url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
-        "source": "Ethan Mollick",
-        "source_name": "AI HOT"
+        "id": "f72894d09da7eeb88b22aa37e89a7d00faa12606",
+        "title": "AI巨头遭猫王版权方索赔 4100 万美元：当传奇音乐遇上大模型侵权风暴",
+        "url": "https://www.aibase.com/news/31849",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_fcfa8ea660a4",
-      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-      "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-      "primary_url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-      "source": "The Decoder：AI News",
-      "source_name": "AI HOT",
+      "story_id": "story_3f7fb38bc4c3",
+      "title": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+      "url": "https://www.aibase.com/news/31848",
+      "primary_url": "https://www.aibase.com/news/31848",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
+          "id": "599b6f7b2be700911d9ccaaa207dc7c878fbfc86",
+          "title": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+          "url": "https://www.aibase.com/news/31848",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-26T01:00:39.715709Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
+          "id": "599b6f7b2be700911d9ccaaa207dc7c878fbfc86",
+          "title": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+          "url": "https://www.aibase.com/news/31848",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-26T01:00:39.715709Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.698,
-      "importance": 0.698,
-      "importance_score": 0.698,
-      "importance_label": "值得关注",
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4302,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-24T11:12:36Z",
-      "latest_at": "2026-10-24T11:12:36Z",
+      "earliest_at": "2026-10-26T01:00:39.715709Z",
+      "latest_at": "2026-10-26T01:00:39.715709Z",
       "primary_item": {
-        "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
-        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-        "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-        "source": "The Decoder：AI News",
-        "source_name": "AI HOT"
+        "id": "599b6f7b2be700911d9ccaaa207dc7c878fbfc86",
+        "title": "Claude 被曝绕过付费墙，违规抓取美佐治亚州选民计票数据",
+        "url": "https://www.aibase.com/news/31848",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a13d2e51471e",
-      "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
-      "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
-      "primary_url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
+      "story_id": "story_c45c68dc9fe2",
+      "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+      "url": "https://minimaxir.com/2026/10/cheap-llms",
+      "primary_url": "https://minimaxir.com/2026/10/cheap-llms",
+      "source": "minimaxir.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0837f5d61b427cc67ded932935c316042bc89fc3",
-          "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
-          "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T02:08:43Z"
+          "id": "dd0eeb1c2fefa99991592346220aef88720bcddf",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "minimaxir.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T00:39:51.635000Z"
+        },
+        {
+          "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T21:11:31Z"
+        },
+        {
+          "id": "861647ac8be026777114967923dba58a3ea0666d",
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://news.ycombinator.com/item?id=50236102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T21:11:31Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "minimaxir.com"
       ],
       "items": [
         {
-          "id": "0837f5d61b427cc67ded932935c316042bc89fc3",
-          "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
-          "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T02:08:43Z"
+          "id": "dd0eeb1c2fefa99991592346220aef88720bcddf",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "minimaxir.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T00:39:51.635000Z"
+        },
+        {
+          "id": "db69cb996f44cb4466c31ad4cab77de9adbee3b3",
+          "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？ / OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://minimaxir.com/2026/10/cheap-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T21:11:31Z"
+        },
+        {
+          "id": "861647ac8be026777114967923dba58a3ea0666d",
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://news.ycombinator.com/item?id=50236102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T21:11:31Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.6225,
-      "importance": 0.6225,
-      "importance_score": 0.6225,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5791,
+      "importance": 0.5791,
+      "importance_score": 0.5791,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0525,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.68,
+        "recency": 0.9856,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-24T02:08:43Z",
-      "latest_at": "2026-10-24T02:08:43Z",
+      "earliest_at": "2026-10-25T21:11:31Z",
+      "latest_at": "2026-10-26T00:39:51.635000Z",
       "primary_item": {
-        "id": "0837f5d61b427cc67ded932935c316042bc89fc3",
-        "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
-        "url": "https://aihot.news/items/gwhdq3jo5p1z27wh2i46ntd2s",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
+        "id": "dd0eeb1c2fefa99991592346220aef88720bcddf",
+        "title": "OpenAI 和 Anthropic 在短短几个月内将大型语言模型（LLM）的价格下调了高达 80%。这是为什么？",
+        "url": "https://minimaxir.com/2026/10/cheap-llms",
+        "source": "minimaxir.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_e2469c92ba3c",
-      "title": "Nutlope / 标志 / Nutlope / hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "primary_url": "https://github.com/Nutlope/hallmark",
+      "story_id": "story_117d2cb5f38a",
+      "title": "AgriciDaniel / claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "primary_url": "https://github.com/AgriciDaniel/claude-seo",
       "source": "GitHub · Trending Today",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-          "title": "Nutlope / 标志 / Nutlope / hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
+          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
+          "title": "AgriciDaniel / claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope / 标志 / Nutlope /      hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
+          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+          "title": "AgriciDaniel /      claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
           "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-25T00:41:31.965000Z"
+          "published_at": "2026-10-26T00:50:59.436000Z"
         }
       ],
       "source_count": 2,
@@ -214,22 +254,22 @@
       ],
       "items": [
         {
-          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-          "title": "Nutlope / 标志 / Nutlope / hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
+          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
+          "title": "AgriciDaniel / claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
           "source": "GitHub · Trending Today",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope / 标志 / Nutlope /      hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
+          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+          "title": "AgriciDaniel /      claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
           "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-25T00:41:31.965000Z"
+          "published_at": "2026-10-26T00:50:59.436000Z"
         }
       ],
       "item_count": 2,
@@ -248,66 +288,66 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T00:41:31.965000Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "earliest_at": "2026-10-26T00:50:59.436000Z",
+      "latest_at": "2026-10-26T01:00:39.715709Z",
       "primary_item": {
-        "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-        "title": "Nutlope / 标志 / Nutlope / hallmark",
-        "url": "https://github.com/Nutlope/hallmark",
+        "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
+        "title": "AgriciDaniel / claude-seo",
+        "url": "https://github.com/AgriciDaniel/claude-seo",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_cdf697355512",
-      "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "primary_url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "story_id": "story_9d2668796cd0",
+      "title": "离开华为的人：23 位 AI 创业者，18 家公司，一场门外的商业征程",
+      "url": "https://www.huxiu.com/article/4900357.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900357.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "id": "bb188228599803f8d52c7ef7142a32ab0738aeec",
+          "title": "离开华为的人：23 位 AI 创业者，18 家公司，一场门外的商业征程",
+          "url": "https://www.huxiu.com/article/4900357.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
-          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T20:05:00Z"
+          "id": "3f1b652aab3d6abd8a1063665400bc129d35614e",
+          "title": "离开华为的人：23位AI创业者，18家公司，一场门外的商业征程",
+          "url": "https://www.huxiu.com/article/4900357.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T00:07:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Readhub · AI",
-        "TechRadar"
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "id": "bb188228599803f8d52c7ef7142a32ab0738aeec",
+          "title": "离开华为的人：23 位 AI 创业者，18 家公司，一场门外的商业征程",
+          "url": "https://www.huxiu.com/article/4900357.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
-          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T20:05:00Z"
+          "id": "3f1b652aab3d6abd8a1063665400bc129d35614e",
+          "title": "离开华为的人：23位AI创业者，18家公司，一场门外的商业征程",
+          "url": "https://www.huxiu.com/article/4900357.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T00:07:47Z"
         }
       ],
       "item_count": 2,
@@ -326,321 +366,753 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T20:05:00Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "earliest_at": "2026-10-26T00:07:47Z",
+      "latest_at": "2026-10-26T01:00:39.715709Z",
       "primary_item": {
-        "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-        "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-        "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+        "id": "bb188228599803f8d52c7ef7142a32ab0738aeec",
+        "title": "离开华为的人：23 位 AI 创业者，18 家公司，一场门外的商业征程",
+        "url": "https://www.huxiu.com/article/4900357.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_3f27b55d4844",
-      "title": "花粉机器人/微型鸭 / pollen-robotics / microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "primary_url": "https://github.com/pollen-robotics/microduck",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_bf138b1722c9",
+      "title": "到2026年，“AI技能”将一文不值",
+      "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "primary_url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+      "source": "fishbowl.pastiche.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a554ac2e555adb2785386776372606be5b7bc789",
-          "title": "花粉机器人/微型鸭 / pollen-robotics / microduck",
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "38bb3d2296b1000ed25ae068f32fcd0c5ee7dfda",
+          "title": "到2026年，“AI技能”将一文不值",
+          "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+          "source": "fishbowl.pastiche.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T00:39:51.655000Z"
         },
         {
-          "id": "42817cfeb8b62232464742063153ce777637fa70",
-          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T00:41:31.965000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "a554ac2e555adb2785386776372606be5b7bc789",
-          "title": "花粉机器人/微型鸭 / pollen-robotics / microduck",
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "42817cfeb8b62232464742063153ce777637fa70",
-          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T00:41:31.965000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T00:41:31.965000Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
-      "primary_item": {
-        "id": "a554ac2e555adb2785386776372606be5b7bc789",
-        "title": "花粉机器人/微型鸭 / pollen-robotics / microduck",
-        "url": "https://github.com/pollen-robotics/microduck",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9ad5ce51a997",
-      "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "primary_url": "https://github.com/google-gemini/gemini-cli",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
-          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
-          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T00:41:31.965000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
-          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
-          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T00:41:31.965000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T00:41:31.965000Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
-      "primary_item": {
-        "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
-        "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
-        "url": "https://github.com/google-gemini/gemini-cli",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_8f5707e9a13c",
-      "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
-          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "Hacker News (黑客新闻)",
+          "id": "32db8afaea94b6f19b4106852db6dbbca78aed76",
+          "title": "到2026年，“AI技能”将一文不值 / “AI Skills” are worthless in 2026",
+          "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+          "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T23:11:54Z"
-        },
-        {
-          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-          "url": "https://news.ycombinator.com/item?id=50226419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T23:11:54Z"
+          "published_at": "2026-10-26T00:23:42Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Lobsters (技术社区)",
+        "fishbowl.pastiche.org"
       ],
       "items": [
         {
-          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
-          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T23:11:54Z"
+          "id": "38bb3d2296b1000ed25ae068f32fcd0c5ee7dfda",
+          "title": "到2026年，“AI技能”将一文不值",
+          "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+          "source": "fishbowl.pastiche.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-26T00:39:51.655000Z"
         },
         {
-          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-          "url": "https://news.ycombinator.com/item?id=50226419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T23:11:54Z"
+          "id": "32db8afaea94b6f19b4106852db6dbbca78aed76",
+          "title": "到2026年，“AI技能”将一文不值 / “AI Skills” are worthless in 2026",
+          "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-26T00:23:42Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9297,
+        "recency": 0.9856,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T23:11:54Z",
-      "latest_at": "2026-10-24T23:11:54Z",
+      "earliest_at": "2026-10-26T00:23:42Z",
+      "latest_at": "2026-10-26T00:39:51.655000Z",
       "primary_item": {
-        "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
-        "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "38bb3d2296b1000ed25ae068f32fcd0c5ee7dfda",
+        "title": "到2026年，“AI技能”将一文不值",
+        "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+        "source": "fishbowl.pastiche.org",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_572d1db872ef",
-      "title": "在 Claude Code 上工作了一年多，并看到它的规模比我想象的要大之后，我离开了 Anthropic。我真的很喜欢在蚂蚁金服工作，并深信我们的使命，最重要的是…… / I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of...",
-      "url": "https://x.com/trq212/status/2113844051938054167",
-      "primary_url": "https://x.com/trq212/status/2113844051938054167",
-      "source": "Follow Builders · X · Thariq",
+      "story_id": "story_798678e8f910",
+      "title": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly",
+      "url": "https://x.com/thsottiaux/status/2114237083652882932",
+      "primary_url": "https://x.com/thsottiaux/status/2114237083652882932",
+      "source": "Follow Builders · X · Thibault Sottiaux",
       "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "aed11a824dfb8e4f3d9dfdd4c6bc1d47fbd372bf",
-          "title": "在 Claude Code 上工作了一年多，并看到它的规模比我想象的要大之后，我离开了 Anthropic。我真的很喜欢在蚂蚁金服工作，并深信我们的使命，最重要的是…… / I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of...",
-          "url": "https://x.com/trq212/status/2113844051938054167",
-          "source": "Follow Builders · X · Thariq",
+          "id": "4ab6638479c88f04f75fb1c3f6a43faa7c342392",
+          "title": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly",
+          "url": "https://x.com/thsottiaux/status/2114237083652882932",
+          "source": "Follow Builders · X · Thibault Sottiaux",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-10-24T04:04:29Z"
+          "published_at": "2026-10-25T06:06:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Follow Builders · X · Thariq"
+        "Follow Builders · X · Thibault Sottiaux"
       ],
       "items": [
         {
-          "id": "aed11a824dfb8e4f3d9dfdd4c6bc1d47fbd372bf",
-          "title": "在 Claude Code 上工作了一年多，并看到它的规模比我想象的要大之后，我离开了 Anthropic。我真的很喜欢在蚂蚁金服工作，并深信我们的使命，最重要的是…… / I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of...",
-          "url": "https://x.com/trq212/status/2113844051938054167",
-          "source": "Follow Builders · X · Thariq",
+          "id": "4ab6638479c88f04f75fb1c3f6a43faa7c342392",
+          "title": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly",
+          "url": "https://x.com/thsottiaux/status/2114237083652882932",
+          "source": "Follow Builders · X · Thibault Sottiaux",
           "source_name": "Follow Builders",
           "site_id": "followbuilders",
-          "published_at": "2026-10-24T04:04:29Z"
+          "published_at": "2026-10-25T06:06:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.62,
-        "ai_relevance": 0.85,
-        "recency": 0.1329,
+        "ai_relevance": 0.81,
+        "recency": 0.2122,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-24T04:04:29Z",
-      "latest_at": "2026-10-24T04:04:29Z",
+      "earliest_at": "2026-10-25T06:06:16Z",
+      "latest_at": "2026-10-25T06:06:16Z",
       "primary_item": {
-        "id": "aed11a824dfb8e4f3d9dfdd4c6bc1d47fbd372bf",
-        "title": "在 Claude Code 上工作了一年多，并看到它的规模比我想象的要大之后，我离开了 Anthropic。我真的很喜欢在蚂蚁金服工作，并深信我们的使命，最重要的是…… / I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined. I have really loved working at Ant and believe deeply in the mission, and most of all, the idea of...",
-        "url": "https://x.com/trq212/status/2113844051938054167",
-        "source": "Follow Builders · X · Thariq",
+        "id": "4ab6638479c88f04f75fb1c3f6a43faa7c342392",
+        "title": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly",
+        "url": "https://x.com/thsottiaux/status/2114237083652882932",
+        "source": "Follow Builders · X · Thibault Sottiaux",
         "source_name": "Follow Builders"
       }
     },
     {
-      "story_id": "story_7a9d4e79960b",
-      "title": "AI 热点日报（2026-10-19）：DeepSeek V4.1-Flash落地，国产十万卡超集群亮相，Meta开源816B大模型",
-      "url": "https://juejin.cn/post/7697605708137922596",
-      "primary_url": "https://juejin.cn/post/7697605708137922596",
+      "story_id": "story_600522d60bd8",
+      "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "primary_url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "afc320d5880770f1a67597269edb3521d8ac2db0",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T22:49:06Z"
+        },
+        {
+          "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T16:15:48.897000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "afc320d5880770f1a67597269edb3521d8ac2db0",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-25T22:49:06Z"
+        },
+        {
+          "id": "0d2d671b00f09504c983f1c73a39ca84dfff4449",
+          "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报”",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T16:15:48.897000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5297,
+      "importance": 0.5297,
+      "importance_score": 0.5297,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9086,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T16:15:48.897000Z",
+      "latest_at": "2026-10-25T22:49:06Z",
+      "primary_item": {
+        "id": "afc320d5880770f1a67597269edb3521d8ac2db0",
+        "title": "阿波罗表示，人工智能为美国企业带来了“零经济回报” / Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+        "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_2af7003f0e2f",
+      "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "primary_url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "source": "www.dailycal.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e26a144ceff1f9f3e44cc16b182430bba369bf84",
+          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
+          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "source": "www.dailycal.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T19:41:52.295000Z"
+        },
+        {
+          "id": "9ee4b001fc7412c9cf2859ebd0c56ac2a882259d",
+          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义” / AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T16:28:26Z"
+        },
+        {
+          "id": "1d8adc9ff3544339ac2dcb72f0ae176933ef7661",
+          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+          "url": "https://news.ycombinator.com/item?id=50233304",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T16:28:26Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.dailycal.org"
+      ],
+      "items": [
+        {
+          "id": "e26a144ceff1f9f3e44cc16b182430bba369bf84",
+          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
+          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "source": "www.dailycal.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T19:41:52.295000Z"
+        },
+        {
+          "id": "9ee4b001fc7412c9cf2859ebd0c56ac2a882259d",
+          "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义” / AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T16:28:26Z"
+        },
+        {
+          "id": "1d8adc9ff3544339ac2dcb72f0ae176933ef7661",
+          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+          "url": "https://news.ycombinator.com/item?id=50233304",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T16:28:26Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7786,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T16:28:26Z",
+      "latest_at": "2026-10-25T19:41:52.295000Z",
+      "primary_item": {
+        "id": "e26a144ceff1f9f3e44cc16b182430bba369bf84",
+        "title": "人工智能的应用让加州大学伯克利分校的一位数学教授认为给作业打分“毫无意义”",
+        "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+        "source": "www.dailycal.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4702ce2b322c",
+      "title": "14款大模型Java编码能力横评：闭源三强断层领先，开源追赶到哪一步了",
+      "url": "https://juejin.cn/post/7699685792612302883",
+      "primary_url": "https://juejin.cn/post/7699685792612302883",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e7e37055aaa1ff88211bc579999b5871006326f7",
+          "title": "14款大模型Java编码能力横评：闭源三强断层领先，开源追赶到哪一步了",
+          "url": "https://juejin.cn/post/7699685792612302883",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "items": [
+        {
+          "id": "e7e37055aaa1ff88211bc579999b5871006326f7",
+          "title": "14款大模型Java编码能力横评：闭源三强断层领先，开源追赶到哪一步了",
+          "url": "https://juejin.cn/post/7699685792612302883",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-26T01:01:48.634000Z",
+      "latest_at": "2026-10-26T01:01:48.634000Z",
+      "primary_item": {
+        "id": "e7e37055aaa1ff88211bc579999b5871006326f7",
+        "title": "14款大模型Java编码能力横评：闭源三强断层领先，开源追赶到哪一步了",
+        "url": "https://juejin.cn/post/7699685792612302883",
+        "source": "juejin",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_d1c66ee66802",
+      "title": "AI 对一位老开发的副作用总结",
+      "url": "https://juejin.cn/post/7699351034399801380",
+      "primary_url": "https://juejin.cn/post/7699351034399801380",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "34da0e7daafeea660cc718bc125b4b66115b5904",
+          "title": "AI 对一位老开发的副作用总结",
+          "url": "https://juejin.cn/post/7699351034399801380",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "items": [
+        {
+          "id": "34da0e7daafeea660cc718bc125b4b66115b5904",
+          "title": "AI 对一位老开发的副作用总结",
+          "url": "https://juejin.cn/post/7699351034399801380",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-26T01:01:48.634000Z",
+      "latest_at": "2026-10-26T01:01:48.634000Z",
+      "primary_item": {
+        "id": "34da0e7daafeea660cc718bc125b4b66115b5904",
+        "title": "AI 对一位老开发的副作用总结",
+        "url": "https://juejin.cn/post/7699351034399801380",
+        "source": "juejin",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_d575b2c83577",
+      "title": "Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案",
+      "url": "https://juejin.cn/post/7699654593328840745",
+      "primary_url": "https://juejin.cn/post/7699654593328840745",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b5b95c13e82b4ca9b53eb76bab4406c65a05ca84",
+          "title": "Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案",
+          "url": "https://juejin.cn/post/7699654593328840745",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "items": [
+        {
+          "id": "b5b95c13e82b4ca9b53eb76bab4406c65a05ca84",
+          "title": "Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案",
+          "url": "https://juejin.cn/post/7699654593328840745",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-26T01:01:48.634000Z",
+      "latest_at": "2026-10-26T01:01:48.634000Z",
+      "primary_item": {
+        "id": "b5b95c13e82b4ca9b53eb76bab4406c65a05ca84",
+        "title": "Claude Code 接入 Cloudflare 3.7万星安全审计 Skill：从全量烧钱到按需裁剪的实战方案",
+        "url": "https://juejin.cn/post/7699654593328840745",
+        "source": "juejin",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_63cf7989b4f9",
+      "title": "Codex+Obsidian，多平台同步，一键分发，太香了！",
+      "url": "https://juejin.cn/post/7699528799918719017",
+      "primary_url": "https://juejin.cn/post/7699528799918719017",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5308983fa27cdbe3f08e1bfeb6b781107f7c556a",
+          "title": "Codex+Obsidian，多平台同步，一键分发，太香了！",
+          "url": "https://juejin.cn/post/7699528799918719017",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "items": [
+        {
+          "id": "5308983fa27cdbe3f08e1bfeb6b781107f7c556a",
+          "title": "Codex+Obsidian，多平台同步，一键分发，太香了！",
+          "url": "https://juejin.cn/post/7699528799918719017",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-26T01:01:48.634000Z",
+      "latest_at": "2026-10-26T01:01:48.634000Z",
+      "primary_item": {
+        "id": "5308983fa27cdbe3f08e1bfeb6b781107f7c556a",
+        "title": "Codex+Obsidian，多平台同步，一键分发，太香了！",
+        "url": "https://juejin.cn/post/7699528799918719017",
+        "source": "juejin",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0f44e1d8136e",
+      "title": "Codex、Claude Code、DSH 怎么用手机管？我试了试 Agents Anywhere",
+      "url": "https://juejin.cn/post/7699398620680814643",
+      "primary_url": "https://juejin.cn/post/7699398620680814643",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bb8509b513563e3903e84ebc070f6f0f4b5f017d",
+          "title": "Codex、Claude Code、DSH 怎么用手机管？我试了试 Agents Anywhere",
+          "url": "https://juejin.cn/post/7699398620680814643",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "items": [
+        {
+          "id": "bb8509b513563e3903e84ebc070f6f0f4b5f017d",
+          "title": "Codex、Claude Code、DSH 怎么用手机管？我试了试 Agents Anywhere",
+          "url": "https://juejin.cn/post/7699398620680814643",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-26T01:01:48.634000Z",
+      "latest_at": "2026-10-26T01:01:48.634000Z",
+      "primary_item": {
+        "id": "bb8509b513563e3903e84ebc070f6f0f4b5f017d",
+        "title": "Codex、Claude Code、DSH 怎么用手机管？我试了试 Agents Anywhere",
+        "url": "https://juejin.cn/post/7699398620680814643",
+        "source": "juejin",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_37de717900d9",
+      "title": "DeepSeek-V4.1-Flash 新版本登陆火山方舟，效果无损“经济版”八折上线",
+      "url": "https://juejin.cn/post/7699727325760749619",
+      "primary_url": "https://juejin.cn/post/7699727325760749619",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "705d0785b456441b304dc1ec5af5f822a2154f6a",
+          "title": "DeepSeek-V4.1-Flash 新版本登陆火山方舟，效果无损“经济版”八折上线",
+          "url": "https://juejin.cn/post/7699727325760749619",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "items": [
+        {
+          "id": "705d0785b456441b304dc1ec5af5f822a2154f6a",
+          "title": "DeepSeek-V4.1-Flash 新版本登陆火山方舟，效果无损“经济版”八折上线",
+          "url": "https://juejin.cn/post/7699727325760749619",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-26T01:01:48.634000Z",
+      "latest_at": "2026-10-26T01:01:48.634000Z",
+      "primary_item": {
+        "id": "705d0785b456441b304dc1ec5af5f822a2154f6a",
+        "title": "DeepSeek-V4.1-Flash 新版本登陆火山方舟，效果无损“经济版”八折上线",
+        "url": "https://juejin.cn/post/7699727325760749619",
+        "source": "juejin",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1f7852bf26b4",
+      "title": "GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁",
+      "url": "https://juejin.cn/post/7700050834004426790",
+      "primary_url": "https://juejin.cn/post/7700050834004426790",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cf65ffd8c9374f382eec1ce024c5739e0c8daa4b",
+          "title": "GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁",
+          "url": "https://juejin.cn/post/7700050834004426790",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "juejin"
+      ],
+      "items": [
+        {
+          "id": "cf65ffd8c9374f382eec1ce024c5739e0c8daa4b",
+          "title": "GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁",
+          "url": "https://juejin.cn/post/7700050834004426790",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-10-26T01:01:48.634000Z",
+      "latest_at": "2026-10-26T01:01:48.634000Z",
+      "primary_item": {
+        "id": "cf65ffd8c9374f382eec1ce024c5739e0c8daa4b",
+        "title": "GitHub 今日推荐｜gpu-unlock-ada：Ada 显卡张量算力翻倍解锁",
+        "url": "https://juejin.cn/post/7700050834004426790",
+        "source": "juejin",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_0ef13a23b05d",
+      "title": "Kimi K3.1 Pro已测，国模终于来一个能打的 ！？",
+      "url": "https://juejin.cn/post/7700059276316246067",
+      "primary_url": "https://juejin.cn/post/7700059276316246067",
       "source": "掘金 · 人工智能本周最热",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "26e8dd995b3255882559c3d40cff017aaf593139",
-          "title": "AI 热点日报（2026-10-19）：DeepSeek V4.1-Flash落地，国产十万卡超集群亮相，Meta开源816B大模型",
-          "url": "https://juejin.cn/post/7697605708137922596",
+          "id": "0c1ee5f49c4f54d3fe1c32d8b8947bd910909c11",
+          "title": "Kimi K3.1 Pro已测，国模终于来一个能打的 ！？",
+          "url": "https://juejin.cn/post/7700059276316246067",
           "source": "掘金 · 人工智能本周最热",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -653,9 +1125,9 @@
       ],
       "items": [
         {
-          "id": "26e8dd995b3255882559c3d40cff017aaf593139",
-          "title": "AI 热点日报（2026-10-19）：DeepSeek V4.1-Flash落地，国产十万卡超集群亮相，Meta开源816B大模型",
-          "url": "https://juejin.cn/post/7697605708137922596",
+          "id": "0c1ee5f49c4f54d3fe1c32d8b8947bd910909c11",
+          "title": "Kimi K3.1 Pro已测，国模终于来一个能打的 ！？",
+          "url": "https://juejin.cn/post/7700059276316246067",
           "source": "掘金 · 人工智能本周最热",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -664,13 +1136,13 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
-        "ai_relevance": 0.67,
+        "ai_relevance": 0.65,
         "recency": 1.0,
         "story_heat": 0.0
       },
@@ -678,146 +1150,28 @@
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "earliest_at": "2026-10-26T01:00:39.715709Z",
+      "latest_at": "2026-10-26T01:00:39.715709Z",
       "primary_item": {
-        "id": "26e8dd995b3255882559c3d40cff017aaf593139",
-        "title": "AI 热点日报（2026-10-19）：DeepSeek V4.1-Flash落地，国产十万卡超集群亮相，Meta开源816B大模型",
-        "url": "https://juejin.cn/post/7697605708137922596",
+        "id": "0c1ee5f49c4f54d3fe1c32d8b8947bd910909c11",
+        "title": "Kimi K3.1 Pro已测，国模终于来一个能打的 ！？",
+        "url": "https://juejin.cn/post/7700059276316246067",
         "source": "掘金 · 人工智能本周最热",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_86b4cc20059a",
-      "title": "1代理密码 / 1Password for Agents",
-      "url": "https://www.producthunt.com/products/1password",
-      "primary_url": "https://www.producthunt.com/products/1password",
-      "source": "Product Hunt · 今日新产品",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "bea87bd1e9c9b63c6f137462785d706fcc105fdd",
-          "title": "1代理密码 / 1Password for Agents",
-          "url": "https://www.producthunt.com/products/1password",
-          "source": "Product Hunt · 今日新产品",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Product Hunt · 今日新产品"
-      ],
-      "items": [
-        {
-          "id": "bea87bd1e9c9b63c6f137462785d706fcc105fdd",
-          "title": "1代理密码 / 1Password for Agents",
-          "url": "https://www.producthunt.com/products/1password",
-          "source": "Product Hunt · 今日新产品",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
-      "primary_item": {
-        "id": "bea87bd1e9c9b63c6f137462785d706fcc105fdd",
-        "title": "1代理密码 / 1Password for Agents",
-        "url": "https://www.producthunt.com/products/1password",
-        "source": "Product Hunt · 今日新产品",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b157d7e7541f",
-      "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
-      "url": "https://www.36kr.com/p/4039177193411718",
-      "primary_url": "https://www.36kr.com/p/4039177193411718",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "0412fc5c959796165b844ee987f18572caf76f6c",
-          "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
-          "url": "https://www.36kr.com/p/4039177193411718",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "36氪 · 24小时热榜"
-      ],
-      "items": [
-        {
-          "id": "0412fc5c959796165b844ee987f18572caf76f6c",
-          "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
-          "url": "https://www.36kr.com/p/4039177193411718",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
-      "primary_item": {
-        "id": "0412fc5c959796165b844ee987f18572caf76f6c",
-        "title": "9点1氪丨国内大模型均价涨至13元；原“死了么”APP公布收费标准，最高199元/年；寒武纪第三季度净利润14.04亿元，同比增长147.74%",
-        "url": "https://www.36kr.com/p/4039177193411718",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_596c1c3e90cc",
-      "title": "Chroma 加入 Replit 并在 60 天内关闭 Chroma Cloud / Chroma joins Replit and shuts down Chroma Cloud in 60 days",
-      "url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
-      "primary_url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
+      "story_id": "story_7a6663f93885",
+      "title": "MIT 教授押注机器人新路线：靠力觉和强化学习，估值近百亿",
+      "url": "https://www.mittrchina.com/news/detail/17142",
+      "primary_url": "https://www.mittrchina.com/news/detail/17142",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "18c0868f067f47816ae27fac63fcc5bbe3434d62",
-          "title": "Chroma 加入 Replit 并在 60 天内关闭 Chroma Cloud / Chroma joins Replit and shuts down Chroma Cloud in 60 days",
-          "url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
+          "id": "3d58bdd920ace6f0e5a4b67fa8aeaa5a77e88144",
+          "title": "MIT 教授押注机器人新路线：靠力觉和强化学习，估值近百亿",
+          "url": "https://www.mittrchina.com/news/detail/17142",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -830,9 +1184,9 @@
       ],
       "items": [
         {
-          "id": "18c0868f067f47816ae27fac63fcc5bbe3434d62",
-          "title": "Chroma 加入 Replit 并在 60 天内关闭 Chroma Cloud / Chroma joins Replit and shuts down Chroma Cloud in 60 days",
-          "url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
+          "id": "3d58bdd920ace6f0e5a4b67fa8aeaa5a77e88144",
+          "title": "MIT 教授押注机器人新路线：靠力觉和强化学习，估值近百亿",
+          "url": "https://www.mittrchina.com/news/detail/17142",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -855,47 +1209,47 @@
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "earliest_at": "2026-10-26T01:00:39.715709Z",
+      "latest_at": "2026-10-26T01:00:39.715709Z",
       "primary_item": {
-        "id": "18c0868f067f47816ae27fac63fcc5bbe3434d62",
-        "title": "Chroma 加入 Replit 并在 60 天内关闭 Chroma Cloud / Chroma joins Replit and shuts down Chroma Cloud in 60 days",
-        "url": "https://daily.dev/posts/key-dates-if-you-use-chroma-cloud-read-only-from-22-nov-reads-stop-22-dec-so-export-before-then--fc7a1skaj",
+        "id": "3d58bdd920ace6f0e5a4b67fa8aeaa5a77e88144",
+        "title": "MIT 教授押注机器人新路线：靠力觉和强化学习，估值近百亿",
+        "url": "https://www.mittrchina.com/news/detail/17142",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_ed4901f7d545",
-      "title": "Kimi K3.1 Pro 发布：多项测试超越 GPT-6，最强开源模型回归",
-      "url": "https://www.mittrchina.com/news/detail/17136",
-      "primary_url": "https://www.mittrchina.com/news/detail/17136",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_cfed564282b5",
+      "title": "Save My Prompts",
+      "url": "https://www.producthunt.com/products/save-my-prompts",
+      "primary_url": "https://www.producthunt.com/products/save-my-prompts",
+      "source": "producthunt",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "91241e9c5e190c989b5ada060b2a612f15db8502",
-          "title": "Kimi K3.1 Pro 发布：多项测试超越 GPT-6，最强开源模型回归",
-          "url": "https://www.mittrchina.com/news/detail/17136",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b3d77383028a0623501844eecfe804593f49585f",
+          "title": "Save My Prompts",
+          "url": "https://www.producthunt.com/products/save-my-prompts",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Readhub · AI"
+        "producthunt"
       ],
       "items": [
         {
-          "id": "91241e9c5e190c989b5ada060b2a612f15db8502",
-          "title": "Kimi K3.1 Pro 发布：多项测试超越 GPT-6，最强开源模型回归",
-          "url": "https://www.mittrchina.com/news/detail/17136",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b3d77383028a0623501844eecfe804593f49585f",
+          "title": "Save My Prompts",
+          "url": "https://www.producthunt.com/products/save-my-prompts",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-26T01:01:48.634000Z"
         }
       ],
       "item_count": 1,
@@ -914,264 +1268,28 @@
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "earliest_at": "2026-10-26T01:01:48.634000Z",
+      "latest_at": "2026-10-26T01:01:48.634000Z",
       "primary_item": {
-        "id": "91241e9c5e190c989b5ada060b2a612f15db8502",
-        "title": "Kimi K3.1 Pro 发布：多项测试超越 GPT-6，最强开源模型回归",
-        "url": "https://www.mittrchina.com/news/detail/17136",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "b3d77383028a0623501844eecfe804593f49585f",
+        "title": "Save My Prompts",
+        "url": "https://www.producthunt.com/products/save-my-prompts",
+        "source": "producthunt",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_27265cd18993",
-      "title": "sideOS.ai",
-      "url": "https://www.producthunt.com/products/sideos-ai",
-      "primary_url": "https://www.producthunt.com/products/sideos-ai",
-      "source": "Product Hunt · 今日新产品",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "08d2f832d7a22dfc75a8a26b4e755627e8726e6b",
-          "title": "sideOS.ai",
-          "url": "https://www.producthunt.com/products/sideos-ai",
-          "source": "Product Hunt · 今日新产品",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Product Hunt · 今日新产品"
-      ],
-      "items": [
-        {
-          "id": "08d2f832d7a22dfc75a8a26b4e755627e8726e6b",
-          "title": "sideOS.ai",
-          "url": "https://www.producthunt.com/products/sideos-ai",
-          "source": "Product Hunt · 今日新产品",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
-      "primary_item": {
-        "id": "08d2f832d7a22dfc75a8a26b4e755627e8726e6b",
-        "title": "sideOS.ai",
-        "url": "https://www.producthunt.com/products/sideos-ai",
-        "source": "Product Hunt · 今日新产品",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d1a3b4fa5d93",
-      "title": "从头开始构建推理模型：完整的视频课程 / Building Reasoning Models from the Ground Up: A Full Video Course",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "primary_url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c070f8a1031d779007c7e9632ad678f168383e1c",
-          "title": "从头开始构建推理模型：完整的视频课程 / Building Reasoning Models from the Ground Up: A Full Video Course",
-          "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c070f8a1031d779007c7e9632ad678f168383e1c",
-          "title": "从头开始构建推理模型：完整的视频课程 / Building Reasoning Models from the Ground Up: A Full Video Course",
-          "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
-      "primary_item": {
-        "id": "c070f8a1031d779007c7e9632ad678f168383e1c",
-        "title": "从头开始构建推理模型：完整的视频课程 / Building Reasoning Models from the Ground Up: A Full Video Course",
-        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9b236c8a8e6d",
-      "title": "刚刚，两大实验室双双自曝AI失控，GitHub被投毒，真人程序员遭暗算",
-      "url": "https://www.36kr.com/p/4039168291132547",
-      "primary_url": "https://www.36kr.com/p/4039168291132547",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "53c16f5c4c38b28e8d15c80a96bfed2f2027fb77",
-          "title": "刚刚，两大实验室双双自曝AI失控，GitHub被投毒，真人程序员遭暗算",
-          "url": "https://www.36kr.com/p/4039168291132547",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-10-25T00:53:08.706457Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "36氪 · 24小时热榜"
-      ],
-      "items": [
-        {
-          "id": "53c16f5c4c38b28e8d15c80a96bfed2f2027fb77",
-          "title": "刚刚，两大实验室双双自曝AI失控，GitHub被投毒，真人程序员遭暗算",
-          "url": "https://www.36kr.com/p/4039168291132547",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-10-25T00:53:08.706457Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
-      "primary_item": {
-        "id": "53c16f5c4c38b28e8d15c80a96bfed2f2027fb77",
-        "title": "刚刚，两大实验室双双自曝AI失控，GitHub被投毒，真人程序员遭暗算",
-        "url": "https://www.36kr.com/p/4039168291132547",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_23942977d04c",
-      "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
-      "url": "https://www.ithome.com/1/017/525.htm",
-      "primary_url": "https://www.ithome.com/1/017/525.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9b3b5a5911a0fcf46440b7338251e3abf026f68c",
-          "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
-          "url": "https://www.ithome.com/1/017/525.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "9b3b5a5911a0fcf46440b7338251e3abf026f68c",
-          "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
-          "url": "https://www.ithome.com/1/017/525.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
-      "primary_item": {
-        "id": "9b3b5a5911a0fcf46440b7338251e3abf026f68c",
-        "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
-        "url": "https://www.ithome.com/1/017/525.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_3587937ccde6",
-      "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
-      "url": "https://juejin.cn/post/7699017769225928744",
-      "primary_url": "https://juejin.cn/post/7699017769225928744",
+      "story_id": "story_857dc817e5af",
+      "title": "一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏",
+      "url": "https://juejin.cn/post/7699372774716801034",
+      "primary_url": "https://juejin.cn/post/7699372774716801034",
       "source": "掘金 · 人工智能本周最热",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "20be7a17c680a1cde0bba8576d718187f42bd93c",
-          "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
-          "url": "https://juejin.cn/post/7699017769225928744",
+          "id": "a88a2b65a03e2a3c4c5fd1da24e6d3e4e81d9007",
+          "title": "一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏",
+          "url": "https://juejin.cn/post/7699372774716801034",
           "source": "掘金 · 人工智能本周最热",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1184,9 +1302,9 @@
       ],
       "items": [
         {
-          "id": "20be7a17c680a1cde0bba8576d718187f42bd93c",
-          "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
-          "url": "https://juejin.cn/post/7699017769225928744",
+          "id": "a88a2b65a03e2a3c4c5fd1da24e6d3e4e81d9007",
+          "title": "一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏",
+          "url": "https://juejin.cn/post/7699372774716801034",
           "source": "掘金 · 人工智能本周最热",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1209,71 +1327,12 @@
       "reasons": [
         "recent_ai_signal"
       ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
+      "earliest_at": "2026-10-26T01:00:39.715709Z",
+      "latest_at": "2026-10-26T01:00:39.715709Z",
       "primary_item": {
-        "id": "20be7a17c680a1cde0bba8576d718187f42bd93c",
-        "title": "当我说 Claude 搭配 GLM-5.3-Flash 太好用了，同事却提醒我：你可能正在失去对代码的掌控",
-        "url": "https://juejin.cn/post/7699017769225928744",
-        "source": "掘金 · 人工智能本周最热",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_839e8d0baa7a",
-      "title": "我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一",
-      "url": "https://juejin.cn/post/7699123334672089107",
-      "primary_url": "https://juejin.cn/post/7699123334672089107",
-      "source": "掘金 · 人工智能本周最热",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "8fe46520c158fcc64af87a6ea00dcdab36b48e7a",
-          "title": "我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一",
-          "url": "https://juejin.cn/post/7699123334672089107",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "掘金 · 人工智能本周最热"
-      ],
-      "items": [
-        {
-          "id": "8fe46520c158fcc64af87a6ea00dcdab36b48e7a",
-          "title": "我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一",
-          "url": "https://juejin.cn/post/7699123334672089107",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-10-25T00:53:08.706457Z",
-      "latest_at": "2026-10-25T00:53:08.706457Z",
-      "primary_item": {
-        "id": "8fe46520c158fcc64af87a6ea00dcdab36b48e7a",
-        "title": "我让 AI 独立开发了一款游戏：零依赖、188 个测试全绿、工期压到四分之一",
-        "url": "https://juejin.cn/post/7699123334672089107",
+        "id": "a88a2b65a03e2a3c4c5fd1da24e6d3e4e81d9007",
+        "title": "一个需求，五个 Agent：用 TRAE 多 Agent 并行协作重构你的开发节奏",
+        "url": "https://juejin.cn/post/7699372774716801034",
         "source": "掘金 · 人工智能本周最热",
         "source_name": "TopHub"
       }
