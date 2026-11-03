@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-02T02:08:30.759283Z",
+  "generated_at": "2026-11-03T03:51:06.600317Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_9c675a2e8a51",
-      "title": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
-      "url": "https://www.aibase.com/news/32001",
-      "primary_url": "https://www.aibase.com/news/32001",
+      "story_id": "story_3ad8a5cf9e59",
+      "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+      "url": "https://www.aibase.com/news/32029",
+      "primary_url": "https://www.aibase.com/news/32029",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4824d1999917638be460368d60efac64814f471e",
-          "title": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
-          "url": "https://www.aibase.com/news/32001",
+          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
+          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "url": "https://www.aibase.com/news/32029",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
+          "published_at": "2026-11-03T03:51:06.600317Z"
         },
         {
-          "id": "54fd4e69e07fa5cd1c8fbaa703723a94aee01392",
-          "title": "DeepSeek 开源 Super-agent 架构：以经典计算机系统思想突破单会话智能体瓶颈",
-          "url": "https://www.aibase.com/zh/news/32001",
+          "id": "a2a1409c9af168de1fb2c23131f09de1c58e4f4a",
+          "title": "Anthropic 修订 S-1 文件：AI 可能很快达到递归式自我改进阈值",
+          "url": "https://www.aibase.com/zh/news/32029",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -37,18 +37,18 @@
       ],
       "items": [
         {
-          "id": "4824d1999917638be460368d60efac64814f471e",
-          "title": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
-          "url": "https://www.aibase.com/news/32001",
+          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
+          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "url": "https://www.aibase.com/news/32029",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
+          "published_at": "2026-11-03T03:51:06.600317Z"
         },
         {
-          "id": "54fd4e69e07fa5cd1c8fbaa703723a94aee01392",
-          "title": "DeepSeek 开源 Super-agent 架构：以经典计算机系统思想突破单会话智能体瓶颈",
-          "url": "https://www.aibase.com/zh/news/32001",
+          "id": "a2a1409c9af168de1fb2c23131f09de1c58e4f4a",
+          "title": "Anthropic 修订 S-1 文件：AI 可能很快达到递归式自我改进阈值",
+          "url": "https://www.aibase.com/zh/news/32029",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -73,37 +73,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
       "primary_item": {
-        "id": "4824d1999917638be460368d60efac64814f471e",
-        "title": "DeepSeek开源Super-agent架构:以经典计算机系统思想突破单会话智能体瓶颈",
-        "url": "https://www.aibase.com/news/32001",
+        "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
+        "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+        "url": "https://www.aibase.com/news/32029",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2539c48a1bb5",
-      "title": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力",
-      "url": "https://www.aibase.com/news/31998",
-      "primary_url": "https://www.aibase.com/news/31998",
+      "story_id": "story_08cc352acbc5",
+      "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
+      "url": "https://www.aibase.com/news/32035",
+      "primary_url": "https://www.aibase.com/news/32035",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5ee38e32f9f93a04757f11087257958e5a0a41e7",
-          "title": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力",
-          "url": "https://www.aibase.com/news/31998",
+          "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
+          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
+          "url": "https://www.aibase.com/news/32035",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
+          "published_at": "2026-11-03T03:51:06.600317Z"
         },
         {
-          "id": "2e1ab6d7b2a5dcffa4b6928da1fada3c11722418",
-          "title": "OpenAI 计划将数据中心更名为「AI 计算园区」以应对舆论压力",
-          "url": "https://www.aibase.com/zh/news/31998",
+          "id": "042f813aba39c78f3070152bfd5436dbd02c0844",
+          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的「必答题」",
+          "url": "https://www.aibase.com/zh/news/32035",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -117,18 +117,18 @@
       ],
       "items": [
         {
-          "id": "5ee38e32f9f93a04757f11087257958e5a0a41e7",
-          "title": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力",
-          "url": "https://www.aibase.com/news/31998",
+          "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
+          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
+          "url": "https://www.aibase.com/news/32035",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
+          "published_at": "2026-11-03T03:51:06.600317Z"
         },
         {
-          "id": "2e1ab6d7b2a5dcffa4b6928da1fada3c11722418",
-          "title": "OpenAI 计划将数据中心更名为「AI 计算园区」以应对舆论压力",
-          "url": "https://www.aibase.com/zh/news/31998",
+          "id": "042f813aba39c78f3070152bfd5436dbd02c0844",
+          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的「必答题」",
+          "url": "https://www.aibase.com/zh/news/32035",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -153,37 +153,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
       "primary_item": {
-        "id": "5ee38e32f9f93a04757f11087257958e5a0a41e7",
-        "title": "OpenAI计划将数据中心更名为“AI计算园区”以应对舆论压力",
-        "url": "https://www.aibase.com/news/31998",
+        "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
+        "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
+        "url": "https://www.aibase.com/news/32035",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_fc6151138933",
-      "title": "思科给 27 岁工程师\"无限 Token\"：放手去重写 98% 的旧代码",
-      "url": "https://www.aibase.com/news/31997",
-      "primary_url": "https://www.aibase.com/news/31997",
+      "story_id": "story_eedb987a5e27",
+      "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
+      "url": "https://www.aibase.com/news/32037",
+      "primary_url": "https://www.aibase.com/news/32037",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4d3f629f2bd3e107c2e5edd86c16f86c02c87d2e",
-          "title": "思科给 27 岁工程师\"无限 Token\"：放手去重写 98% 的旧代码",
-          "url": "https://www.aibase.com/news/31997",
+          "id": "f13ed9bff2ca8160fcb1276808bffc0ff281287b",
+          "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
+          "url": "https://www.aibase.com/news/32037",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
+          "published_at": "2026-11-03T03:51:06.600317Z"
         },
         {
-          "id": "3368a903dc3cb47b83666653a5f546f917da4f88",
-          "title": "思科给 27 岁工程师「无限 Token」：放手去重写 98% 的旧代码",
-          "url": "https://www.aibase.com/zh/news/31997",
+          "id": "146abae0f3fd84b62781af12a894decc8a944155",
+          "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当「大管家」",
+          "url": "https://www.aibase.com/zh/news/32037",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -197,18 +197,18 @@
       ],
       "items": [
         {
-          "id": "4d3f629f2bd3e107c2e5edd86c16f86c02c87d2e",
-          "title": "思科给 27 岁工程师\"无限 Token\"：放手去重写 98% 的旧代码",
-          "url": "https://www.aibase.com/news/31997",
+          "id": "f13ed9bff2ca8160fcb1276808bffc0ff281287b",
+          "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
+          "url": "https://www.aibase.com/news/32037",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
+          "published_at": "2026-11-03T03:51:06.600317Z"
         },
         {
-          "id": "3368a903dc3cb47b83666653a5f546f917da4f88",
-          "title": "思科给 27 岁工程师「无限 Token」：放手去重写 98% 的旧代码",
-          "url": "https://www.aibase.com/zh/news/31997",
+          "id": "146abae0f3fd84b62781af12a894decc8a944155",
+          "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当「大管家」",
+          "url": "https://www.aibase.com/zh/news/32037",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -233,37 +233,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
       "primary_item": {
-        "id": "4d3f629f2bd3e107c2e5edd86c16f86c02c87d2e",
-        "title": "思科给 27 岁工程师\"无限 Token\"：放手去重写 98% 的旧代码",
-        "url": "https://www.aibase.com/news/31997",
+        "id": "f13ed9bff2ca8160fcb1276808bffc0ff281287b",
+        "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
+        "url": "https://www.aibase.com/news/32037",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2b87819d0649",
-      "title": "沙特阿美掏出 175 亿，把国家级AI公司拉进石油帝国",
-      "url": "https://www.aibase.com/news/31996",
-      "primary_url": "https://www.aibase.com/news/31996",
+      "story_id": "story_3f346fdbb675",
+      "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
+      "url": "https://www.aibase.com/news/32042",
+      "primary_url": "https://www.aibase.com/news/32042",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "93a8205c97a60ac2c431b04708ceb650c6b72ffb",
-          "title": "沙特阿美掏出 175 亿，把国家级AI公司拉进石油帝国",
-          "url": "https://www.aibase.com/news/31996",
+          "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
+          "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
+          "url": "https://www.aibase.com/news/32042",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
+          "published_at": "2026-11-03T03:51:06.600317Z"
         },
         {
-          "id": "f57a258468a4a3a0d6718f109530733c4020c3fb",
-          "title": "沙特阿美掏出175亿，把国家级AI公司拉进石油帝国",
-          "url": "https://www.aibase.com/zh/news/31996",
+          "id": "678ae3932c77876e525f4418fe0bad338097721c",
+          "title": "苹果 App Store 新规：AI 伴侣与约会应用将强制设为 18 岁以上限制",
+          "url": "https://www.aibase.com/zh/news/32042",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -277,18 +277,18 @@
       ],
       "items": [
         {
-          "id": "93a8205c97a60ac2c431b04708ceb650c6b72ffb",
-          "title": "沙特阿美掏出 175 亿，把国家级AI公司拉进石油帝国",
-          "url": "https://www.aibase.com/news/31996",
+          "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
+          "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
+          "url": "https://www.aibase.com/news/32042",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
+          "published_at": "2026-11-03T03:51:06.600317Z"
         },
         {
-          "id": "f57a258468a4a3a0d6718f109530733c4020c3fb",
-          "title": "沙特阿美掏出175亿，把国家级AI公司拉进石油帝国",
-          "url": "https://www.aibase.com/zh/news/31996",
+          "id": "678ae3932c77876e525f4418fe0bad338097721c",
+          "title": "苹果 App Store 新规：AI 伴侣与约会应用将强制设为 18 岁以上限制",
+          "url": "https://www.aibase.com/zh/news/32042",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -313,1079 +313,1015 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
       "primary_item": {
-        "id": "93a8205c97a60ac2c431b04708ceb650c6b72ffb",
-        "title": "沙特阿美掏出 175 亿，把国家级AI公司拉进石油帝国",
-        "url": "https://www.aibase.com/news/31996",
+        "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
+        "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
+        "url": "https://www.aibase.com/news/32042",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8670ef3f1538",
-      "title": "AI生成的文字也将自带“防伪标签”：SpaceXAI宣布 11 月 7 日起为Grok全系列模型添加隐形水印",
-      "url": "https://www.aibase.com/news/31999",
-      "primary_url": "https://www.aibase.com/news/31999",
+      "story_id": "story_1023c1630b12",
+      "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
+      "url": "https://www.aibase.com/news/32038",
+      "primary_url": "https://www.aibase.com/news/32038",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "789b3c4ad7c2558bec691f21afeeeb4b38160488",
-          "title": "AI生成的文字也将自带“防伪标签”：SpaceXAI宣布 11 月 7 日起为Grok全系列模型添加隐形水印",
-          "url": "https://www.aibase.com/news/31999",
+          "id": "1065a1112bd7d6239c250233f3da009a86291476",
+          "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
+          "url": "https://www.aibase.com/news/32038",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "789b3c4ad7c2558bec691f21afeeeb4b38160488",
-          "title": "AI生成的文字也将自带“防伪标签”：SpaceXAI宣布 11 月 7 日起为Grok全系列模型添加隐形水印",
-          "url": "https://www.aibase.com/news/31999",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
-      "primary_item": {
-        "id": "789b3c4ad7c2558bec691f21afeeeb4b38160488",
-        "title": "AI生成的文字也将自带“防伪标签”：SpaceXAI宣布 11 月 7 日起为Grok全系列模型添加隐形水印",
-        "url": "https://www.aibase.com/news/31999",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3a825391ad26",
-      "title": "Anthropic 更新 Claude 限制重制现有电子游戏",
-      "url": "https://www.aibase.com/news/32002",
-      "primary_url": "https://www.aibase.com/news/32002",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9f828a6d2bc133c80f5785003b9c3d940b1a53dc",
-          "title": "Anthropic 更新 Claude 限制重制现有电子游戏",
-          "url": "https://www.aibase.com/news/32002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9f828a6d2bc133c80f5785003b9c3d940b1a53dc",
-          "title": "Anthropic 更新 Claude 限制重制现有电子游戏",
-          "url": "https://www.aibase.com/news/32002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
-      "primary_item": {
-        "id": "9f828a6d2bc133c80f5785003b9c3d940b1a53dc",
-        "title": "Anthropic 更新 Claude 限制重制现有电子游戏",
-        "url": "https://www.aibase.com/news/32002",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6c404c9c4dc1",
-      "title": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅",
-      "url": "https://www.aibase.com/news/32000",
-      "primary_url": "https://www.aibase.com/news/32000",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f82ddc0aed5d1d0eaef1fdbd76a27686c1ed4ca1",
-          "title": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅",
-          "url": "https://www.aibase.com/news/32000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f82ddc0aed5d1d0eaef1fdbd76a27686c1ed4ca1",
-          "title": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅",
-          "url": "https://www.aibase.com/news/32000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
-      "primary_item": {
-        "id": "f82ddc0aed5d1d0eaef1fdbd76a27686c1ed4ca1",
-        "title": "GPT-6.2 Astra与Claude 5. 5 新旗舰同日遭曝光，硅谷直接炸锅",
-        "url": "https://www.aibase.com/news/32000",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d903cda21e6c",
-      "title": "Meta携手傅利叶仅用三月推出人形机器人原型Max",
-      "url": "https://www.aibase.com/news/32004",
-      "primary_url": "https://www.aibase.com/news/32004",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fb37e8b14d319fd7023ddea41249eeabea56c0db",
-          "title": "Meta携手傅利叶仅用三月推出人形机器人原型Max",
-          "url": "https://www.aibase.com/news/32004",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fb37e8b14d319fd7023ddea41249eeabea56c0db",
-          "title": "Meta携手傅利叶仅用三月推出人形机器人原型Max",
-          "url": "https://www.aibase.com/news/32004",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
-      "primary_item": {
-        "id": "fb37e8b14d319fd7023ddea41249eeabea56c0db",
-        "title": "Meta携手傅利叶仅用三月推出人形机器人原型Max",
-        "url": "https://www.aibase.com/news/32004",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_180e61e174f6",
-      "title": "阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了",
-      "url": "https://www.aibase.com/news/32003",
-      "primary_url": "https://www.aibase.com/news/32003",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "688994597b519f588560937471a6c002c05ecc0f",
-          "title": "阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了",
-          "url": "https://www.aibase.com/news/32003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "688994597b519f588560937471a6c002c05ecc0f",
-          "title": "阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了",
-          "url": "https://www.aibase.com/news/32003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T02:08:30.759283Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
-      "primary_item": {
-        "id": "688994597b519f588560937471a6c002c05ecc0f",
-        "title": "阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了",
-        "url": "https://www.aibase.com/news/32003",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e351b29dc708",
-      "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
-      "url": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
-      "primary_url": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cda8fb692f662f1ee4cd139e191390840296086a",
-          "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
-          "url": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-02T00:19:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "cda8fb692f662f1ee4cd139e191390840296086a",
-          "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
-          "url": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-02T00:19:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9239,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T00:19:00Z",
-      "latest_at": "2026-11-02T00:19:00Z",
-      "primary_item": {
-        "id": "cda8fb692f662f1ee4cd139e191390840296086a",
-        "title": "数字生命卡兹克分享折腾一年的Agent自动化系统架构",
-        "url": "https://aihot.news/items/dzwfvd9xp6v4qaj6olxezpier",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_60b7897f29a0",
-      "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
-      "url": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
-      "primary_url": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
-      "source": "Addy Osmani",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f361ba51d63a90cb97945da34d1b0c0a63dd2bf4",
-          "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
-          "url": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
-          "source": "Addy Osmani",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-01T20:09:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Addy Osmani"
-      ],
-      "items": [
-        {
-          "id": "f361ba51d63a90cb97945da34d1b0c0a63dd2bf4",
-          "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
-          "url": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
-          "source": "Addy Osmani",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-01T20:09:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7509,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-01T20:09:49Z",
-      "latest_at": "2026-11-01T20:09:49Z",
-      "primary_item": {
-        "id": "f361ba51d63a90cb97945da34d1b0c0a63dd2bf4",
-        "title": "Claude Code 技巧：任务变难时输入 ultrathink 提升当前回合推理努力",
-        "url": "https://aihot.news/items/mhw3rtr5o13p5777y7el9tczk",
-        "source": "Addy Osmani",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b77c039e0a1a",
-      "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
-      "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX",
-      "primary_url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "fd492cee51268ba3039945184e1ea2b81a7e1e70",
-          "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
-          "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-02T09:20:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "fd492cee51268ba3039945184e1ea2b81a7e1e70",
-          "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
-          "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-02T09:20:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.613,
-      "importance": 0.613,
-      "importance_score": 0.613,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-02T09:20:00Z",
-      "latest_at": "2026-11-02T09:20:00Z",
-      "primary_item": {
-        "id": "fd492cee51268ba3039945184e1ea2b81a7e1e70",
-        "title": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
-        "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_9cc262e8d868",
-      "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
-      "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6",
-      "primary_url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "e7bc066479f87b508e83a045a3cb2e76afcec37c",
-          "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
-          "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-02T09:16:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "e7bc066479f87b508e83a045a3cb2e76afcec37c",
-          "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
-          "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-02T09:16:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.613,
-      "importance": 0.613,
-      "importance_score": 0.613,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-02T09:16:03Z",
-      "latest_at": "2026-11-02T09:16:03Z",
-      "primary_item": {
-        "id": "e7bc066479f87b508e83a045a3cb2e76afcec37c",
-        "title": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
-        "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_ea1b7f847074",
-      "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
-      "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
-      "primary_url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "c7d9b6bfe5e88381f561fa2df0d73e18da8b8854",
-          "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
-          "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-02T09:12:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "c7d9b6bfe5e88381f561fa2df0d73e18da8b8854",
-          "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
-          "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-02T09:12:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.613,
-      "importance": 0.613,
-      "importance_score": 0.613,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-02T09:12:15Z",
-      "latest_at": "2026-11-02T09:12:15Z",
-      "primary_item": {
-        "id": "c7d9b6bfe5e88381f561fa2df0d73e18da8b8854",
-        "title": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
-        "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_b23877b88e69",
-      "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "primary_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "source": "techcrunch.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T00:37:42.544000Z"
+          "published_at": "2026-11-03T03:51:06.600317Z"
         },
         {
-          "id": "432c791e7cec1658799824a9b0f819bc56c08d82",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-01T22:10:45Z"
-        },
-        {
-          "id": "c1dd654ab1324ce8f59e488c8b6cfadcfe4ac956",
-          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "url": "https://news.ycombinator.com/item?id=50330456",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T22:10:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T00:37:42.544000Z"
-        },
-        {
-          "id": "432c791e7cec1658799824a9b0f819bc56c08d82",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-01T22:10:45Z"
-        },
-        {
-          "id": "c1dd654ab1324ce8f59e488c8b6cfadcfe4ac956",
-          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "url": "https://news.ycombinator.com/item?id=50330456",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T22:10:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5604,
-      "importance": 0.5604,
-      "importance_score": 0.5604,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9369,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T22:10:45Z",
-      "latest_at": "2026-11-02T00:37:42.544000Z",
-      "primary_item": {
-        "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
-        "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-        "source": "techcrunch.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b7d94e7f6c47",
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "url": "https://www.36kr.com/p/4050722097828740",
-      "primary_url": "https://www.36kr.com/p/4050722097828740",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f23c2ae5f1f52df31aec7e67105d2bc5d2138e91",
-          "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-          "url": "https://www.36kr.com/p/4050722097828740",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6880b15bb6b1bd46559b2517acbe63a49345ed24",
-          "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-          "url": "https://www.qbitai.com/2026/11/507038.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "f23c2ae5f1f52df31aec7e67105d2bc5d2138e91",
-          "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-          "url": "https://www.36kr.com/p/4050722097828740",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6880b15bb6b1bd46559b2517acbe63a49345ed24",
-          "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-          "url": "https://www.qbitai.com/2026/11/507038.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
-      "primary_item": {
-        "id": "f23c2ae5f1f52df31aec7e67105d2bc5d2138e91",
-        "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-        "url": "https://www.36kr.com/p/4050722097828740",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5661de317a03",
-      "title": "Donchitos / 克劳德代码游戏工作室 / Donchitos /      Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "primary_url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "265764dc5bc28622477f2ecea7dc0b1e628f2943",
-          "title": "Donchitos / 克劳德代码游戏工作室 / Donchitos /      Claude-Code-Game-Studios",
-          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T02:09:39.990000Z"
-        },
-        {
-          "id": "a898bbb1d3a2ac1b0e33b86acd9871c3bce53eca",
-          "title": "Donchitos / 克劳德代码游戏工作室 / Donchitos / Claude-Code-Game-Studios",
-          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "265764dc5bc28622477f2ecea7dc0b1e628f2943",
-          "title": "Donchitos / 克劳德代码游戏工作室 / Donchitos /      Claude-Code-Game-Studios",
-          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T02:09:39.990000Z"
-        },
-        {
-          "id": "a898bbb1d3a2ac1b0e33b86acd9871c3bce53eca",
-          "title": "Donchitos / 克劳德代码游戏工作室 / Donchitos / Claude-Code-Game-Studios",
-          "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:09:39.990000Z",
-      "primary_item": {
-        "id": "265764dc5bc28622477f2ecea7dc0b1e628f2943",
-        "title": "Donchitos / 克劳德代码游戏工作室 / Donchitos /      Claude-Code-Game-Studios",
-        "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_b20adaa5fbb6",
-      "title": "patchy631 /      ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "primary_url": "https://github.com/patchy631/ai-engineering-hub",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
-          "title": "patchy631 /      ai-engineering-hub",
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T02:09:39.990000Z"
-        },
-        {
-          "id": "a081be3a5ca1ab3a1964cd61a6117258cc9fed10",
-          "title": "patchy631 / ai-engineering-hub",
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
-          "title": "patchy631 /      ai-engineering-hub",
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T02:09:39.990000Z"
-        },
-        {
-          "id": "a081be3a5ca1ab3a1964cd61a6117258cc9fed10",
-          "title": "patchy631 / ai-engineering-hub",
-          "url": "https://github.com/patchy631/ai-engineering-hub",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T02:08:30.759283Z",
-      "latest_at": "2026-11-02T02:09:39.990000Z",
-      "primary_item": {
-        "id": "3adcbf08e7ea39ad18061da3cfe23df347676cb7",
-        "title": "patchy631 /      ai-engineering-hub",
-        "url": "https://github.com/patchy631/ai-engineering-hub",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_f60b7647e2fe",
-      "title": "深度｜从资本密集到人力密集：全球 AI 的瓶颈，卡在缺乏「电工」",
-      "url": "https://www.huxiu.com/article/4902156.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4902156.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "28dc50d2c57c027f3bdffd644b4c5567f6b76031",
-          "title": "深度｜从资本密集到人力密集：全球 AI 的瓶颈，卡在缺乏「电工」",
-          "url": "https://www.huxiu.com/article/4902156.html?f=rss",
+          "id": "55009f88e6c1a5bf143de805b9bc5977450dd5a8",
+          "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，发布 KYA 方案",
+          "url": "https://www.aibase.com/zh/news/32038",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "78f4e224b74e35ce08c67d13c96eac724e1d4014",
-          "title": "深度｜从资本密集到人力密集：全球AI的瓶颈，卡在缺乏“电工”",
-          "url": "https://www.huxiu.com/article/4902156.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T01:04:48Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "28dc50d2c57c027f3bdffd644b4c5567f6b76031",
-          "title": "深度｜从资本密集到人力密集：全球 AI 的瓶颈，卡在缺乏「电工」",
-          "url": "https://www.huxiu.com/article/4902156.html?f=rss",
+          "id": "1065a1112bd7d6239c250233f3da009a86291476",
+          "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
+          "url": "https://www.aibase.com/news/32038",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        },
+        {
+          "id": "55009f88e6c1a5bf143de805b9bc5977450dd5a8",
+          "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，发布 KYA 方案",
+          "url": "https://www.aibase.com/zh/news/32038",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "78f4e224b74e35ce08c67d13c96eac724e1d4014",
-          "title": "深度｜从资本密集到人力密集：全球AI的瓶颈，卡在缺乏“电工”",
-          "url": "https://www.huxiu.com/article/4902156.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T01:04:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
         "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-02T01:04:48Z",
-      "latest_at": "2026-11-02T02:08:30.759283Z",
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
       "primary_item": {
-        "id": "28dc50d2c57c027f3bdffd644b4c5567f6b76031",
-        "title": "深度｜从资本密集到人力密集：全球 AI 的瓶颈，卡在缺乏「电工」",
-        "url": "https://www.huxiu.com/article/4902156.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "1065a1112bd7d6239c250233f3da009a86291476",
+        "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
+        "url": "https://www.aibase.com/news/32038",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b5ebffc5d2ef",
-      "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
-      "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs",
-      "primary_url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
+      "story_id": "story_56688d195d56",
+      "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
+      "url": "https://www.aibase.com/news/32039",
+      "primary_url": "https://www.aibase.com/news/32039",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e802b34ea0bd2c3860370414227a85a6a3e04e73",
-          "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
-          "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-01T17:00:00Z"
+          "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
+          "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
+          "url": "https://www.aibase.com/news/32039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "InfoQ CN"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e802b34ea0bd2c3860370414227a85a6a3e04e73",
-          "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
-          "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-01T17:00:00Z"
+          "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
+          "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
+          "url": "https://www.aibase.com/news/32039",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
-      "importance_label": "值得关注",
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.6191,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-01T17:00:00Z",
-      "latest_at": "2026-11-01T17:00:00Z",
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
       "primary_item": {
-        "id": "e802b34ea0bd2c3860370414227a85a6a3e04e73",
-        "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
-        "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
+        "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
+        "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
+        "url": "https://www.aibase.com/news/32039",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3c81c64b9bf6",
+      "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
+      "url": "https://www.aibase.com/news/32031",
+      "primary_url": "https://www.aibase.com/news/32031",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
+          "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
+          "url": "https://www.aibase.com/news/32031",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
+          "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
+          "url": "https://www.aibase.com/news/32031",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
+        "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
+        "url": "https://www.aibase.com/news/32031",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3622213c9075",
+      "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+      "url": "https://www.aibase.com/news/32030",
+      "primary_url": "https://www.aibase.com/news/32030",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "92de8520c7dbac60af3d9ff7325a8462db0daf2d",
+          "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+          "url": "https://www.aibase.com/news/32030",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "92de8520c7dbac60af3d9ff7325a8462db0daf2d",
+          "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+          "url": "https://www.aibase.com/news/32030",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "92de8520c7dbac60af3d9ff7325a8462db0daf2d",
+        "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
+        "url": "https://www.aibase.com/news/32030",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8bcdfd4aadb2",
+      "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+      "url": "https://www.aibase.com/news/32043",
+      "primary_url": "https://www.aibase.com/news/32043",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f92da665f02be092890609f6c830a99db8b1b11d",
+          "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+          "url": "https://www.aibase.com/news/32043",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f92da665f02be092890609f6c830a99db8b1b11d",
+          "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+          "url": "https://www.aibase.com/news/32043",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "f92da665f02be092890609f6c830a99db8b1b11d",
+        "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
+        "url": "https://www.aibase.com/news/32043",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f80650a83055",
+      "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
+      "url": "https://www.aibase.com/news/32027",
+      "primary_url": "https://www.aibase.com/news/32027",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bb2469107bd486a493cc94c2428c355ec119bcc6",
+          "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
+          "url": "https://www.aibase.com/news/32027",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bb2469107bd486a493cc94c2428c355ec119bcc6",
+          "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
+          "url": "https://www.aibase.com/news/32027",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "bb2469107bd486a493cc94c2428c355ec119bcc6",
+        "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
+        "url": "https://www.aibase.com/news/32027",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f7ecb1040ff1",
+      "title": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买",
+      "url": "https://www.aibase.com/news/32041",
+      "primary_url": "https://www.aibase.com/news/32041",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "54ec637e9578dddd10e847a74266fc3df7bcb109",
+          "title": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买",
+          "url": "https://www.aibase.com/news/32041",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "54ec637e9578dddd10e847a74266fc3df7bcb109",
+          "title": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买",
+          "url": "https://www.aibase.com/news/32041",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "54ec637e9578dddd10e847a74266fc3df7bcb109",
+        "title": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买",
+        "url": "https://www.aibase.com/news/32041",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d85401e53433",
+      "title": "宇树A2夺得登泰山机器人竞速赛冠军，B2负重74公斤获亚军",
+      "url": "https://www.aibase.com/news/32033",
+      "primary_url": "https://www.aibase.com/news/32033",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f08e8324745b31a676a8e6aeda3c93e512731559",
+          "title": "宇树A2夺得登泰山机器人竞速赛冠军，B2负重74公斤获亚军",
+          "url": "https://www.aibase.com/news/32033",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f08e8324745b31a676a8e6aeda3c93e512731559",
+          "title": "宇树A2夺得登泰山机器人竞速赛冠军，B2负重74公斤获亚军",
+          "url": "https://www.aibase.com/news/32033",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "f08e8324745b31a676a8e6aeda3c93e512731559",
+        "title": "宇树A2夺得登泰山机器人竞速赛冠军，B2负重74公斤获亚军",
+        "url": "https://www.aibase.com/news/32033",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d2f2273f5cb4",
+      "title": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖",
+      "url": "https://www.aibase.com/news/32034",
+      "primary_url": "https://www.aibase.com/news/32034",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c79638ed7752574a26e9f01f612b2689316daf7a",
+          "title": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖",
+          "url": "https://www.aibase.com/news/32034",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c79638ed7752574a26e9f01f612b2689316daf7a",
+          "title": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖",
+          "url": "https://www.aibase.com/news/32034",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "c79638ed7752574a26e9f01f612b2689316daf7a",
+        "title": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖",
+        "url": "https://www.aibase.com/news/32034",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_559abdf90fae",
+      "title": "美团发布全新1. 6 万亿多模态大模型LongCat-2.5：多项智能Agent基准登顶全球第一",
+      "url": "https://www.aibase.com/news/32040",
+      "primary_url": "https://www.aibase.com/news/32040",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3aceddfb1a2964fd420477fbc0b934fa0d085646",
+          "title": "美团发布全新1. 6 万亿多模态大模型LongCat-2.5：多项智能Agent基准登顶全球第一",
+          "url": "https://www.aibase.com/news/32040",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3aceddfb1a2964fd420477fbc0b934fa0d085646",
+          "title": "美团发布全新1. 6 万亿多模态大模型LongCat-2.5：多项智能Agent基准登顶全球第一",
+          "url": "https://www.aibase.com/news/32040",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "3aceddfb1a2964fd420477fbc0b934fa0d085646",
+        "title": "美团发布全新1. 6 万亿多模态大模型LongCat-2.5：多项智能Agent基准登顶全球第一",
+        "url": "https://www.aibase.com/news/32040",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d31ffbb1309c",
+      "title": "美国数据中心年耗水近190亿加仑，AI算力扩张催生水冷监测新需求",
+      "url": "https://www.aibase.com/news/32032",
+      "primary_url": "https://www.aibase.com/news/32032",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "18c0417bcf562bd9bc23b0ea928d0a49379fac6f",
+          "title": "美国数据中心年耗水近190亿加仑，AI算力扩张催生水冷监测新需求",
+          "url": "https://www.aibase.com/news/32032",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "18c0417bcf562bd9bc23b0ea928d0a49379fac6f",
+          "title": "美国数据中心年耗水近190亿加仑，AI算力扩张催生水冷监测新需求",
+          "url": "https://www.aibase.com/news/32032",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "18c0417bcf562bd9bc23b0ea928d0a49379fac6f",
+        "title": "美国数据中心年耗水近190亿加仑，AI算力扩张催生水冷监测新需求",
+        "url": "https://www.aibase.com/news/32032",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_83bad1afe004",
+      "title": "腾讯混元放出\"AI 科学家\"：自己训蛋白、造机械手，还反手改进下一代 AI",
+      "url": "https://www.aibase.com/news/32044",
+      "primary_url": "https://www.aibase.com/news/32044",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8fd18a432656854b251886906e4b0968ab5920a5",
+          "title": "腾讯混元放出\"AI 科学家\"：自己训蛋白、造机械手，还反手改进下一代 AI",
+          "url": "https://www.aibase.com/news/32044",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8fd18a432656854b251886906e4b0968ab5920a5",
+          "title": "腾讯混元放出\"AI 科学家\"：自己训蛋白、造机械手，还反手改进下一代 AI",
+          "url": "https://www.aibase.com/news/32044",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "8fd18a432656854b251886906e4b0968ab5920a5",
+        "title": "腾讯混元放出\"AI 科学家\"：自己训蛋白、造机械手，还反手改进下一代 AI",
+        "url": "https://www.aibase.com/news/32044",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e705850a1aad",
+      "title": "苹果智能家居机器人J595将延期，最早或推迟至2028年",
+      "url": "https://www.aibase.com/news/32036",
+      "primary_url": "https://www.aibase.com/news/32036",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "84ca76ae8a78d524642c194e8912d6f1d5cbd024",
+          "title": "苹果智能家居机器人J595将延期，最早或推迟至2028年",
+          "url": "https://www.aibase.com/news/32036",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "84ca76ae8a78d524642c194e8912d6f1d5cbd024",
+          "title": "苹果智能家居机器人J595将延期，最早或推迟至2028年",
+          "url": "https://www.aibase.com/news/32036",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "84ca76ae8a78d524642c194e8912d6f1d5cbd024",
+        "title": "苹果智能家居机器人J595将延期，最早或推迟至2028年",
+        "url": "https://www.aibase.com/news/32036",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cf913d5d8ab9",
+      "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
+      "url": "https://www.aibase.com/news/32045",
+      "primary_url": "https://www.aibase.com/news/32045",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8b41dff96989f6103c611f2b2b3c3061501421ee",
+          "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
+          "url": "https://www.aibase.com/news/32045",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8b41dff96989f6103c611f2b2b3c3061501421ee",
+          "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
+          "url": "https://www.aibase.com/news/32045",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "8b41dff96989f6103c611f2b2b3c3061501421ee",
+        "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
+        "url": "https://www.aibase.com/news/32045",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9efea14150d9",
+      "title": "马斯克表示 Grok Bot 暂无法实现无限量使用，付费用户周额度消耗引发关注",
+      "url": "https://www.aibase.com/news/32028",
+      "primary_url": "https://www.aibase.com/news/32028",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b7ae7970503e13cb90666618f5a0a42496773f58",
+          "title": "马斯克表示 Grok Bot 暂无法实现无限量使用，付费用户周额度消耗引发关注",
+          "url": "https://www.aibase.com/news/32028",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b7ae7970503e13cb90666618f5a0a42496773f58",
+          "title": "马斯克表示 Grok Bot 暂无法实现无限量使用，付费用户周额度消耗引发关注",
+          "url": "https://www.aibase.com/news/32028",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T03:51:06.600317Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T03:51:06.600317Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "b7ae7970503e13cb90666618f5a0a42496773f58",
+        "title": "马斯克表示 Grok Bot 暂无法实现无限量使用，付费用户周额度消耗引发关注",
+        "url": "https://www.aibase.com/news/32028",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_19244c7aa206",
+      "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "primary_url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f77c85b40dd2c062544c4bdc8c68dfcff8adeaa1",
+          "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
+          "url": "https://openai.com/index/grid-protectors-program",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:00:00Z"
+        },
+        {
+          "id": "ad431c460aae3b7dacde0ee55403a013845c7751",
+          "title": "OpenAI 推出 Grid Protectors 计划",
+          "url": "https://openai.com/index/grid-protectors-program",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f77c85b40dd2c062544c4bdc8c68dfcff8adeaa1",
+          "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
+          "url": "https://openai.com/index/grid-protectors-program",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:00:00Z"
+        },
+        {
+          "id": "ad431c460aae3b7dacde0ee55403a013845c7751",
+          "title": "OpenAI 推出 Grid Protectors 计划",
+          "url": "https://openai.com/index/grid-protectors-program",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7909,
+      "importance": 0.7909,
+      "importance_score": 0.7909,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.4645,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T15:00:00Z",
+      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "primary_item": {
+        "id": "f77c85b40dd2c062544c4bdc8c68dfcff8adeaa1",
+        "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
+        "url": "https://openai.com/index/grid-protectors-program",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     }
   ]
