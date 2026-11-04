@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-11-03T03:51:06.600317Z",
+  "generated_at": "2026-11-04T02:55:51.144274Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-02",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
+    {
+      "date": "2026-11-02",
+      "title": "这期对谈讲的是付费增长中仍值得尝试的做法。对负责获客的老板和市场团队，更值得弄明白的问题是：怎样知道一条内容是否带来了用户，怎样让创作者越做越懂产品，而不是每次付钱交稿后又从头开始？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-02",
       "title": "老金这篇文章把 Super-agent 的机制讲得很直白：Router 像调度员，记住任务关系并分派；Worker 在各自会话里并行执行，耗时操作转后台，独立检查者盯进度和跑偏。它用更多计算换更短、更稳的等待，但公开原型仍偏实验，需配 Harness、独立账号和隔离环境，主动任务先观察、代码先人工合并。",
@@ -20,6 +25,11 @@
     {
       "date": "2026-11-02",
       "title": "本周AI音乐周刊汇集了近期行业版权新规、商业变动与产品更新。韩国音著协探索AI音乐确权信托，Spotify计划推出合规AI翻唱工具，MiniMax收缩国内音乐云端业务。Suno MCP、ElevenLabs音效新模型、NI合成器等新品上线。还有6篇前沿论文，覆盖音频合成、乐谱建模等方向，适合音乐创作者、音频开发者快速掌握行业动态与落地工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "想做那种“一边讲、一边手绘”的知识视频，最费劲的是画图、对时间轴、配音和字幕全得自己接起来。作者实测了一个名叫 srt-whiteboard-animation 的 Skill ，体验效果还不错。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,8 +38,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 27,
   "updates_7d": [
+    {
+      "date": "2026-11-02",
+      "title": "这期对谈讲的是付费增长中仍值得尝试的做法。对负责获客的老板和市场团队，更值得弄明白的问题是：怎样知道一条内容是否带来了用户，怎样让创作者越做越懂产品，而不是每次付钱交稿后又从头开始？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-02",
       "title": "老金这篇文章把 Super-agent 的机制讲得很直白：Router 像调度员，记住任务关系并分派；Worker 在各自会话里并行执行，耗时操作转后台，独立检查者盯进度和跑偏。它用更多计算换更短、更稳的等待，但公开原型仍偏实验，需配 Harness、独立账号和隔离环境，主动任务先观察、代码先人工合并。",
@@ -43,6 +58,11 @@
     {
       "date": "2026-11-02",
       "title": "本周AI音乐周刊汇集了近期行业版权新规、商业变动与产品更新。韩国音著协探索AI音乐确权信托，Spotify计划推出合规AI翻唱工具，MiniMax收缩国内音乐云端业务。Suno MCP、ElevenLabs音效新模型、NI合成器等新品上线。还有6篇前沿论文，覆盖音频合成、乐谱建模等方向，适合音乐创作者、音频开发者快速掌握行业动态与落地工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "想做那种“一边讲、一边手绘”的知识视频，最费劲的是画图、对时间轴、配音和字幕全得自己接起来。作者实测了一个名叫 srt-whiteboard-animation 的 Skill ，体验效果还不错。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -68,6 +88,11 @@
     {
       "date": "2026-11-01",
       "title": "OpenAI 在12月份的额度新规牵动了不少重度用户：ChatGPT高级对话与Codex将共用Token池，仅Instant快速对话不计入额度。作者的真实体验帮你提前看清订阅成本变化，看懂和Claude体系一样的计费逻辑，避免后续想用强推理模型时束手束脚。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "DeepSeek 最近的一篇文章提出一个非常基础但又很重要的问题：当模型已经能够独立完成复杂任务，为什么人还需要亲自管理一堆 Session？这个问题背后，涉及 Agent 系统架构、人与 Agent 的协作方式，以及未来 Personal Agent 的产品形态。来看看作者的一些看法。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -148,36 +173,6 @@
     {
       "date": "2026-10-29",
       "title": "Skill 从去年A 社提出至今，已经成为基础配置随处可见了，但真正能用到企业办公场景下的还是屈指可数。作者根据自身的企业实用经验，汇总一下企业里不同部门最常用的几个 Skills。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "这篇文章把 Personal Agent 从 \"看着香\" 到 \"真敢用\" 之间，所有没人好意思说出口的尴尬，拆成了 100 个扎心问题。读完你会清楚知道：现在的 agent 到底能托底什么、不能碰什么，以及你下一步该往哪儿踩。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "这份AI原生组织实施的图解手册把社区协作拆成了一条可跑的闭环：先写清任务、责任、资料版本和授权边界；让 AI 先交小样、标出依据与缺项；人工核对后再执行、记录结果并复盘更新。如果你也想把 AI 带进团队日常的运营，值得细读。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "还在苦恼微信群消息太多，没法随时交给 AI 复盘归档？开源工具 WeChatBridge 上线 iOS 版，借助系统分享安全导出聊天记录，还支持分批合并投递到各大模型，也能直接存入 Obsidian 长期沉淀。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "还在为录屏演示视频耗费大量时间，还需要手动剪辑而发愁？作者分享了一套巧妙方案：直接把 Screen Studio 未加密的工程文件交给 Claude Code、Codex 读取解析，无需导出 MP4。AI 自动删减口水词、调整画面缩放、更换背景、降噪加字幕，长录屏也能高效压缩并附带文稿总结。还直接给出了提示词与Skill部署的步骤，适合经常制作教程的创作者。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "作者分享了自己长期人机协作的实践，借助 Cohub可视化工作台、Mirasim 多人+AI协同空间搭建工作流。此外还探讨了多人和AI异步协作、权限维护、信任建立等容易被忽略的痛点。这套以人为本的共生思路，很适合高频深度使用 AI 创作开发的人参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "WorkBuddy 与 LibTV 正式打通，大家也不用在多个工具间来回切换搬运素材。作者用万圣节互动小游戏做了一个实战演示，WorkBuddy 统筹任务、编写提示词与交互代码，LibTV 承接图像、视频、配乐生成，借助遮罩控制画面改动、并行渲染多段镜头。它还支持读取本地素材库、定时批量出片，打造自动化内容流水线。快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],

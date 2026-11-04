@@ -1,1326 +1,1290 @@
 {
-  "generated_at": "2026-11-03T03:51:06.600317Z",
+  "generated_at": "2026-11-04T02:55:51.144274Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_3ad8a5cf9e59",
-      "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-      "url": "https://www.aibase.com/news/32029",
-      "primary_url": "https://www.aibase.com/news/32029",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-          "url": "https://www.aibase.com/news/32029",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        },
-        {
-          "id": "a2a1409c9af168de1fb2c23131f09de1c58e4f4a",
-          "title": "Anthropic 修订 S-1 文件：AI 可能很快达到递归式自我改进阈值",
-          "url": "https://www.aibase.com/zh/news/32029",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-          "url": "https://www.aibase.com/news/32029",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        },
-        {
-          "id": "a2a1409c9af168de1fb2c23131f09de1c58e4f4a",
-          "title": "Anthropic 修订 S-1 文件：AI 可能很快达到递归式自我改进阈值",
-          "url": "https://www.aibase.com/zh/news/32029",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-        "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-        "url": "https://www.aibase.com/news/32029",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_08cc352acbc5",
-      "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-      "url": "https://www.aibase.com/news/32035",
-      "primary_url": "https://www.aibase.com/news/32035",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
-          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-          "url": "https://www.aibase.com/news/32035",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        },
-        {
-          "id": "042f813aba39c78f3070152bfd5436dbd02c0844",
-          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的「必答题」",
-          "url": "https://www.aibase.com/zh/news/32035",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
-          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-          "url": "https://www.aibase.com/news/32035",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        },
-        {
-          "id": "042f813aba39c78f3070152bfd5436dbd02c0844",
-          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的「必答题」",
-          "url": "https://www.aibase.com/zh/news/32035",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
-        "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-        "url": "https://www.aibase.com/news/32035",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_eedb987a5e27",
-      "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
-      "url": "https://www.aibase.com/news/32037",
-      "primary_url": "https://www.aibase.com/news/32037",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f13ed9bff2ca8160fcb1276808bffc0ff281287b",
-          "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
-          "url": "https://www.aibase.com/news/32037",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        },
-        {
-          "id": "146abae0f3fd84b62781af12a894decc8a944155",
-          "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当「大管家」",
-          "url": "https://www.aibase.com/zh/news/32037",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f13ed9bff2ca8160fcb1276808bffc0ff281287b",
-          "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
-          "url": "https://www.aibase.com/news/32037",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        },
-        {
-          "id": "146abae0f3fd84b62781af12a894decc8a944155",
-          "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当「大管家」",
-          "url": "https://www.aibase.com/zh/news/32037",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "f13ed9bff2ca8160fcb1276808bffc0ff281287b",
-        "title": "人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当\"大管家\"",
-        "url": "https://www.aibase.com/news/32037",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3f346fdbb675",
-      "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
-      "url": "https://www.aibase.com/news/32042",
-      "primary_url": "https://www.aibase.com/news/32042",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
-          "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
-          "url": "https://www.aibase.com/news/32042",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        },
-        {
-          "id": "678ae3932c77876e525f4418fe0bad338097721c",
-          "title": "苹果 App Store 新规：AI 伴侣与约会应用将强制设为 18 岁以上限制",
-          "url": "https://www.aibase.com/zh/news/32042",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
-          "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
-          "url": "https://www.aibase.com/news/32042",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        },
-        {
-          "id": "678ae3932c77876e525f4418fe0bad338097721c",
-          "title": "苹果 App Store 新规：AI 伴侣与约会应用将强制设为 18 岁以上限制",
-          "url": "https://www.aibase.com/zh/news/32042",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
-        "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
-        "url": "https://www.aibase.com/news/32042",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1023c1630b12",
-      "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
-      "url": "https://www.aibase.com/news/32038",
-      "primary_url": "https://www.aibase.com/news/32038",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1065a1112bd7d6239c250233f3da009a86291476",
-          "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
-          "url": "https://www.aibase.com/news/32038",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        },
-        {
-          "id": "55009f88e6c1a5bf143de805b9bc5977450dd5a8",
-          "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，发布 KYA 方案",
-          "url": "https://www.aibase.com/zh/news/32038",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1065a1112bd7d6239c250233f3da009a86291476",
-          "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
-          "url": "https://www.aibase.com/news/32038",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        },
-        {
-          "id": "55009f88e6c1a5bf143de805b9bc5977450dd5a8",
-          "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，发布 KYA 方案",
-          "url": "https://www.aibase.com/zh/news/32038",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "1065a1112bd7d6239c250233f3da009a86291476",
-        "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
-        "url": "https://www.aibase.com/news/32038",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_56688d195d56",
-      "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-      "url": "https://www.aibase.com/news/32039",
-      "primary_url": "https://www.aibase.com/news/32039",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
-          "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-          "url": "https://www.aibase.com/news/32039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
-          "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-          "url": "https://www.aibase.com/news/32039",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "b698b9b95d0eb8d9ab0b793e02ebc5c43687360a",
-        "title": "OpenAI宣布ChatGPT Classic将于2027年1月30日停用",
-        "url": "https://www.aibase.com/news/32039",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3c81c64b9bf6",
-      "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-      "url": "https://www.aibase.com/news/32031",
-      "primary_url": "https://www.aibase.com/news/32031",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
-          "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-          "url": "https://www.aibase.com/news/32031",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
-          "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-          "url": "https://www.aibase.com/news/32031",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "2ac565e290593c71bfd71b5bd3bb821dd4cc22e1",
-        "title": "OpenAI重磅宣布：前美国陆军部长丹·德里斯科尔出任高级顾问",
-        "url": "https://www.aibase.com/news/32031",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3622213c9075",
-      "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
-      "url": "https://www.aibase.com/news/32030",
-      "primary_url": "https://www.aibase.com/news/32030",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "92de8520c7dbac60af3d9ff7325a8462db0daf2d",
-          "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
-          "url": "https://www.aibase.com/news/32030",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "92de8520c7dbac60af3d9ff7325a8462db0daf2d",
-          "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
-          "url": "https://www.aibase.com/news/32030",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "92de8520c7dbac60af3d9ff7325a8462db0daf2d",
-        "title": "​从 2 万亿到 1.5 万亿：Anthropic 上市前夜，公开市场给 AI 泼了盆冷水",
-        "url": "https://www.aibase.com/news/32030",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8bcdfd4aadb2",
-      "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
-      "url": "https://www.aibase.com/news/32043",
-      "primary_url": "https://www.aibase.com/news/32043",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f92da665f02be092890609f6c830a99db8b1b11d",
-          "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
-          "url": "https://www.aibase.com/news/32043",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f92da665f02be092890609f6c830a99db8b1b11d",
-          "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
-          "url": "https://www.aibase.com/news/32043",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "f92da665f02be092890609f6c830a99db8b1b11d",
-        "title": "从\"禁军用\"到拿下五角大楼，OpenAI 请来前陆军部长当顾问",
-        "url": "https://www.aibase.com/news/32043",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f80650a83055",
-      "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-      "url": "https://www.aibase.com/news/32027",
-      "primary_url": "https://www.aibase.com/news/32027",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb2469107bd486a493cc94c2428c355ec119bcc6",
-          "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-          "url": "https://www.aibase.com/news/32027",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bb2469107bd486a493cc94c2428c355ec119bcc6",
-          "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-          "url": "https://www.aibase.com/news/32027",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "bb2469107bd486a493cc94c2428c355ec119bcc6",
-        "title": "千问办公个人会员月卡登陆李佳琦直播间，半小时售出10万份",
-        "url": "https://www.aibase.com/news/32027",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f7ecb1040ff1",
-      "title": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买",
-      "url": "https://www.aibase.com/news/32041",
-      "primary_url": "https://www.aibase.com/news/32041",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "54ec637e9578dddd10e847a74266fc3df7bcb109",
-          "title": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买",
-          "url": "https://www.aibase.com/news/32041",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "54ec637e9578dddd10e847a74266fc3df7bcb109",
-          "title": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买",
-          "url": "https://www.aibase.com/news/32041",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "54ec637e9578dddd10e847a74266fc3df7bcb109",
-        "title": "字节跳动扣子宣布企业版宣布下线:11月30日起停止新客购买",
-        "url": "https://www.aibase.com/news/32041",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d85401e53433",
-      "title": "宇树A2夺得登泰山机器人竞速赛冠军，B2负重74公斤获亚军",
-      "url": "https://www.aibase.com/news/32033",
-      "primary_url": "https://www.aibase.com/news/32033",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f08e8324745b31a676a8e6aeda3c93e512731559",
-          "title": "宇树A2夺得登泰山机器人竞速赛冠军，B2负重74公斤获亚军",
-          "url": "https://www.aibase.com/news/32033",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f08e8324745b31a676a8e6aeda3c93e512731559",
-          "title": "宇树A2夺得登泰山机器人竞速赛冠军，B2负重74公斤获亚军",
-          "url": "https://www.aibase.com/news/32033",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "f08e8324745b31a676a8e6aeda3c93e512731559",
-        "title": "宇树A2夺得登泰山机器人竞速赛冠军，B2负重74公斤获亚军",
-        "url": "https://www.aibase.com/news/32033",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d2f2273f5cb4",
-      "title": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖",
-      "url": "https://www.aibase.com/news/32034",
-      "primary_url": "https://www.aibase.com/news/32034",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c79638ed7752574a26e9f01f612b2689316daf7a",
-          "title": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖",
-          "url": "https://www.aibase.com/news/32034",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c79638ed7752574a26e9f01f612b2689316daf7a",
-          "title": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖",
-          "url": "https://www.aibase.com/news/32034",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "c79638ed7752574a26e9f01f612b2689316daf7a",
-        "title": "撑起万亿大模型：华为昇腾 950 超节点斩获世界互联网大会领先科技奖",
-        "url": "https://www.aibase.com/news/32034",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_559abdf90fae",
-      "title": "美团发布全新1. 6 万亿多模态大模型LongCat-2.5：多项智能Agent基准登顶全球第一",
-      "url": "https://www.aibase.com/news/32040",
-      "primary_url": "https://www.aibase.com/news/32040",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3aceddfb1a2964fd420477fbc0b934fa0d085646",
-          "title": "美团发布全新1. 6 万亿多模态大模型LongCat-2.5：多项智能Agent基准登顶全球第一",
-          "url": "https://www.aibase.com/news/32040",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3aceddfb1a2964fd420477fbc0b934fa0d085646",
-          "title": "美团发布全新1. 6 万亿多模态大模型LongCat-2.5：多项智能Agent基准登顶全球第一",
-          "url": "https://www.aibase.com/news/32040",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "3aceddfb1a2964fd420477fbc0b934fa0d085646",
-        "title": "美团发布全新1. 6 万亿多模态大模型LongCat-2.5：多项智能Agent基准登顶全球第一",
-        "url": "https://www.aibase.com/news/32040",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d31ffbb1309c",
-      "title": "美国数据中心年耗水近190亿加仑，AI算力扩张催生水冷监测新需求",
-      "url": "https://www.aibase.com/news/32032",
-      "primary_url": "https://www.aibase.com/news/32032",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "18c0417bcf562bd9bc23b0ea928d0a49379fac6f",
-          "title": "美国数据中心年耗水近190亿加仑，AI算力扩张催生水冷监测新需求",
-          "url": "https://www.aibase.com/news/32032",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "18c0417bcf562bd9bc23b0ea928d0a49379fac6f",
-          "title": "美国数据中心年耗水近190亿加仑，AI算力扩张催生水冷监测新需求",
-          "url": "https://www.aibase.com/news/32032",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "18c0417bcf562bd9bc23b0ea928d0a49379fac6f",
-        "title": "美国数据中心年耗水近190亿加仑，AI算力扩张催生水冷监测新需求",
-        "url": "https://www.aibase.com/news/32032",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_83bad1afe004",
-      "title": "腾讯混元放出\"AI 科学家\"：自己训蛋白、造机械手，还反手改进下一代 AI",
-      "url": "https://www.aibase.com/news/32044",
-      "primary_url": "https://www.aibase.com/news/32044",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8fd18a432656854b251886906e4b0968ab5920a5",
-          "title": "腾讯混元放出\"AI 科学家\"：自己训蛋白、造机械手，还反手改进下一代 AI",
-          "url": "https://www.aibase.com/news/32044",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8fd18a432656854b251886906e4b0968ab5920a5",
-          "title": "腾讯混元放出\"AI 科学家\"：自己训蛋白、造机械手，还反手改进下一代 AI",
-          "url": "https://www.aibase.com/news/32044",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "8fd18a432656854b251886906e4b0968ab5920a5",
-        "title": "腾讯混元放出\"AI 科学家\"：自己训蛋白、造机械手，还反手改进下一代 AI",
-        "url": "https://www.aibase.com/news/32044",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e705850a1aad",
-      "title": "苹果智能家居机器人J595将延期，最早或推迟至2028年",
-      "url": "https://www.aibase.com/news/32036",
-      "primary_url": "https://www.aibase.com/news/32036",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "84ca76ae8a78d524642c194e8912d6f1d5cbd024",
-          "title": "苹果智能家居机器人J595将延期，最早或推迟至2028年",
-          "url": "https://www.aibase.com/news/32036",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "84ca76ae8a78d524642c194e8912d6f1d5cbd024",
-          "title": "苹果智能家居机器人J595将延期，最早或推迟至2028年",
-          "url": "https://www.aibase.com/news/32036",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "84ca76ae8a78d524642c194e8912d6f1d5cbd024",
-        "title": "苹果智能家居机器人J595将延期，最早或推迟至2028年",
-        "url": "https://www.aibase.com/news/32036",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cf913d5d8ab9",
-      "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
-      "url": "https://www.aibase.com/news/32045",
-      "primary_url": "https://www.aibase.com/news/32045",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8b41dff96989f6103c611f2b2b3c3061501421ee",
-          "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
-          "url": "https://www.aibase.com/news/32045",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8b41dff96989f6103c611f2b2b3c3061501421ee",
-          "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
-          "url": "https://www.aibase.com/news/32045",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "8b41dff96989f6103c611f2b2b3c3061501421ee",
-        "title": "营收狂飙却难掩巨额账单：Anthropic三季度重回亏损，近 9000 亿美元算力承诺成IPO最大考验",
-        "url": "https://www.aibase.com/news/32045",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9efea14150d9",
-      "title": "马斯克表示 Grok Bot 暂无法实现无限量使用，付费用户周额度消耗引发关注",
-      "url": "https://www.aibase.com/news/32028",
-      "primary_url": "https://www.aibase.com/news/32028",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b7ae7970503e13cb90666618f5a0a42496773f58",
-          "title": "马斯克表示 Grok Bot 暂无法实现无限量使用，付费用户周额度消耗引发关注",
-          "url": "https://www.aibase.com/news/32028",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b7ae7970503e13cb90666618f5a0a42496773f58",
-          "title": "马斯克表示 Grok Bot 暂无法实现无限量使用，付费用户周额度消耗引发关注",
-          "url": "https://www.aibase.com/news/32028",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T03:51:06.600317Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T03:51:06.600317Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
-      "primary_item": {
-        "id": "b7ae7970503e13cb90666618f5a0a42496773f58",
-        "title": "马斯克表示 Grok Bot 暂无法实现无限量使用，付费用户周额度消耗引发关注",
-        "url": "https://www.aibase.com/news/32028",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_19244c7aa206",
-      "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "primary_url": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI News",
+      "story_id": "story_0f281cabd4f6",
+      "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f77c85b40dd2c062544c4bdc8c68dfcff8adeaa1",
-          "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
-          "url": "https://openai.com/index/grid-protectors-program",
-          "source": "OpenAI News",
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:00:00Z"
-        },
-        {
-          "id": "ad431c460aae3b7dacde0ee55403a013845c7751",
-          "title": "OpenAI 推出 Grid Protectors 计划",
-          "url": "https://openai.com/index/grid-protectors-program",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-04T00:32:19Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f77c85b40dd2c062544c4bdc8c68dfcff8adeaa1",
-          "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
-          "url": "https://openai.com/index/grid-protectors-program",
-          "source": "OpenAI News",
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-02T15:00:00Z"
-        },
-        {
-          "id": "ad431c460aae3b7dacde0ee55403a013845c7751",
-          "title": "OpenAI 推出 Grid Protectors 计划",
-          "url": "https://openai.com/index/grid-protectors-program",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-04T00:32:19Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8531,
+      "importance": 0.8531,
+      "importance_score": 0.8531,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4645,
-        "story_heat": 0.25
+        "recency": 0.9003,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T00:32:19Z",
+      "latest_at": "2026-11-04T00:32:19Z",
+      "primary_item": {
+        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+        "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_21f2a448a68b",
+      "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+      "url": "https://www.aibase.com/news/32066",
+      "primary_url": "https://www.aibase.com/news/32066",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "url": "https://www.aibase.com/news/32066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        },
+        {
+          "id": "464590bf4f93c631368599f2e6420f452a889b37",
+          "title": "2027 年起 K-12 学生账户 AI 与搜索服务将默认关闭，禁用 AI 将连带失去传统搜索",
+          "url": "https://www.aibase.com/zh/news/32066",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "url": "https://www.aibase.com/news/32066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        },
+        {
+          "id": "464590bf4f93c631368599f2e6420f452a889b37",
+          "title": "2027 年起 K-12 学生账户 AI 与搜索服务将默认关闭，禁用 AI 将连带失去传统搜索",
+          "url": "https://www.aibase.com/zh/news/32066",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T15:00:00Z",
-      "latest_at": "2026-11-03T03:51:06.600317Z",
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
       "primary_item": {
-        "id": "f77c85b40dd2c062544c4bdc8c68dfcff8adeaa1",
-        "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
-        "url": "https://openai.com/index/grid-protectors-program",
-        "source": "OpenAI News",
+        "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+        "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+        "url": "https://www.aibase.com/news/32066",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f2c0dcb758fe",
+      "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+      "url": "https://www.aibase.com/news/32061",
+      "primary_url": "https://www.aibase.com/news/32061",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a9c5eecc6caab7785563aca99d4430662fce588a",
+          "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "url": "https://www.aibase.com/news/32061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        },
+        {
+          "id": "0a663b5af53b05d5fb0956b3d9c01f0d85cc68a2",
+          "title": "Anthropic 发布开源系统 FlashProve：通过密码学指纹实现 AI 模型身份可验证",
+          "url": "https://www.aibase.com/zh/news/32061",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a9c5eecc6caab7785563aca99d4430662fce588a",
+          "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "url": "https://www.aibase.com/news/32061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        },
+        {
+          "id": "0a663b5af53b05d5fb0956b3d9c01f0d85cc68a2",
+          "title": "Anthropic 发布开源系统 FlashProve：通过密码学指纹实现 AI 模型身份可验证",
+          "url": "https://www.aibase.com/zh/news/32061",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "a9c5eecc6caab7785563aca99d4430662fce588a",
+        "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+        "url": "https://www.aibase.com/news/32061",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_21be8267216c",
+      "title": "Seedance海外收入占比达50%，半年增长近5倍",
+      "url": "https://www.aibase.com/news/32067",
+      "primary_url": "https://www.aibase.com/news/32067",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3d5de825ad861ab7a91c82c7655b611cdd0b7521",
+          "title": "Seedance海外收入占比达50%，半年增长近5倍",
+          "url": "https://www.aibase.com/news/32067",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        },
+        {
+          "id": "d501092a88cc5e28e86629b6a4f0f85974c645dc",
+          "title": "Seedance 海外收入占比达 50%，半年增长近 5 倍",
+          "url": "https://www.aibase.com/zh/news/32067",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3d5de825ad861ab7a91c82c7655b611cdd0b7521",
+          "title": "Seedance海外收入占比达50%，半年增长近5倍",
+          "url": "https://www.aibase.com/news/32067",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        },
+        {
+          "id": "d501092a88cc5e28e86629b6a4f0f85974c645dc",
+          "title": "Seedance 海外收入占比达 50%，半年增长近 5 倍",
+          "url": "https://www.aibase.com/zh/news/32067",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "3d5de825ad861ab7a91c82c7655b611cdd0b7521",
+        "title": "Seedance海外收入占比达50%，半年增长近5倍",
+        "url": "https://www.aibase.com/news/32067",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f92fa795c60c",
+      "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+      "url": "https://www.aibase.com/news/32068",
+      "primary_url": "https://www.aibase.com/news/32068",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "95d37300c8416c688c668908827253c5cea0e6ba",
+          "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+          "url": "https://www.aibase.com/news/32068",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        },
+        {
+          "id": "9fd720dda7e8ea93ac5d13cb0bddedf24cdea250",
+          "title": "国内首个三晋文化大模型「晋问 AI」正式上线，数字人「晋豆」同步亮相",
+          "url": "https://www.aibase.com/zh/news/32068",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "95d37300c8416c688c668908827253c5cea0e6ba",
+          "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+          "url": "https://www.aibase.com/news/32068",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        },
+        {
+          "id": "9fd720dda7e8ea93ac5d13cb0bddedf24cdea250",
+          "title": "国内首个三晋文化大模型「晋问 AI」正式上线，数字人「晋豆」同步亮相",
+          "url": "https://www.aibase.com/zh/news/32068",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "95d37300c8416c688c668908827253c5cea0e6ba",
+        "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+        "url": "https://www.aibase.com/news/32068",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2a6450a7f011",
+      "title": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
+      "url": "https://www.aibase.com/news/32071",
+      "primary_url": "https://www.aibase.com/news/32071",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c8f6c9bef1c5d6d654ae1bb5ab898703c93bada6",
+          "title": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
+          "url": "https://www.aibase.com/news/32071",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c8f6c9bef1c5d6d654ae1bb5ab898703c93bada6",
+          "title": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
+          "url": "https://www.aibase.com/news/32071",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "c8f6c9bef1c5d6d654ae1bb5ab898703c93bada6",
+        "title": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
+        "url": "https://www.aibase.com/news/32071",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bd4b95c1cca5",
+      "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+      "url": "https://www.aibase.com/news/32059",
+      "primary_url": "https://www.aibase.com/news/32059",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8807be55b30a8b2e8ff97f7c1d25e658fb35e2da",
+          "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+          "url": "https://www.aibase.com/news/32059",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8807be55b30a8b2e8ff97f7c1d25e658fb35e2da",
+          "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+          "url": "https://www.aibase.com/news/32059",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "8807be55b30a8b2e8ff97f7c1d25e658fb35e2da",
+        "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+        "url": "https://www.aibase.com/news/32059",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c33020185726",
+      "title": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
+      "url": "https://www.aibase.com/news/32060",
+      "primary_url": "https://www.aibase.com/news/32060",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f8a51a11bfa18911eef1e4c8fb5571e7344a6333",
+          "title": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
+          "url": "https://www.aibase.com/news/32060",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f8a51a11bfa18911eef1e4c8fb5571e7344a6333",
+          "title": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
+          "url": "https://www.aibase.com/news/32060",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "f8a51a11bfa18911eef1e4c8fb5571e7344a6333",
+        "title": "挑战搜索巨头初见成效：OpenAI官方证实，ChatGPT搜索查询量已达谷歌的20%",
+        "url": "https://www.aibase.com/news/32060",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_33daf11a84a7",
+      "title": "搜索版图被撕开一道口子：ChatGPT 抢下谷歌两成流量",
+      "url": "https://www.aibase.com/news/32064",
+      "primary_url": "https://www.aibase.com/news/32064",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6bd24a9f28184462b4f27629ec2d2dd22091c9b9",
+          "title": "搜索版图被撕开一道口子：ChatGPT 抢下谷歌两成流量",
+          "url": "https://www.aibase.com/news/32064",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6bd24a9f28184462b4f27629ec2d2dd22091c9b9",
+          "title": "搜索版图被撕开一道口子：ChatGPT 抢下谷歌两成流量",
+          "url": "https://www.aibase.com/news/32064",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "6bd24a9f28184462b4f27629ec2d2dd22091c9b9",
+        "title": "搜索版图被撕开一道口子：ChatGPT 抢下谷歌两成流量",
+        "url": "https://www.aibase.com/news/32064",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fcd918a32bcf",
+      "title": "消息称字节跳动大面积限制员工自费使用第三方AI工具",
+      "url": "https://www.aibase.com/news/32070",
+      "primary_url": "https://www.aibase.com/news/32070",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "77d4353718de33b937fec261a72f5a97893b19a7",
+          "title": "消息称字节跳动大面积限制员工自费使用第三方AI工具",
+          "url": "https://www.aibase.com/news/32070",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "77d4353718de33b937fec261a72f5a97893b19a7",
+          "title": "消息称字节跳动大面积限制员工自费使用第三方AI工具",
+          "url": "https://www.aibase.com/news/32070",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "77d4353718de33b937fec261a72f5a97893b19a7",
+        "title": "消息称字节跳动大面积限制员工自费使用第三方AI工具",
+        "url": "https://www.aibase.com/news/32070",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ee88de56a53c",
+      "title": "苹果 AI 加速进入中国市场，Siri、视觉智能整合千问",
+      "url": "https://www.aibase.com/news/32065",
+      "primary_url": "https://www.aibase.com/news/32065",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a9614a0583d8a983102563bfcda094783e9cdceb",
+          "title": "苹果 AI 加速进入中国市场，Siri、视觉智能整合千问",
+          "url": "https://www.aibase.com/news/32065",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a9614a0583d8a983102563bfcda094783e9cdceb",
+          "title": "苹果 AI 加速进入中国市场，Siri、视觉智能整合千问",
+          "url": "https://www.aibase.com/news/32065",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "a9614a0583d8a983102563bfcda094783e9cdceb",
+        "title": "苹果 AI 加速进入中国市场，Siri、视觉智能整合千问",
+        "url": "https://www.aibase.com/news/32065",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6f3fc4daea5c",
+      "title": "藏在卫生纸里的录音器，扯出 OpenAI 多年安全积弊",
+      "url": "https://www.aibase.com/news/32062",
+      "primary_url": "https://www.aibase.com/news/32062",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1ff0c879a46f0c7492a1d4c8b6cc647e2b417b27",
+          "title": "藏在卫生纸里的录音器，扯出 OpenAI 多年安全积弊",
+          "url": "https://www.aibase.com/news/32062",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1ff0c879a46f0c7492a1d4c8b6cc647e2b417b27",
+          "title": "藏在卫生纸里的录音器，扯出 OpenAI 多年安全积弊",
+          "url": "https://www.aibase.com/news/32062",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "1ff0c879a46f0c7492a1d4c8b6cc647e2b417b27",
+        "title": "藏在卫生纸里的录音器，扯出 OpenAI 多年安全积弊",
+        "url": "https://www.aibase.com/news/32062",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6c75cd21bd20",
+      "title": "谷歌宣布允许学校禁用AI工具，但代价是彻底失去谷歌搜索访问权限",
+      "url": "https://www.aibase.com/news/32063",
+      "primary_url": "https://www.aibase.com/news/32063",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f4ea787f7ba4d60e89e7237b2a88e1a0ea3db961",
+          "title": "谷歌宣布允许学校禁用AI工具，但代价是彻底失去谷歌搜索访问权限",
+          "url": "https://www.aibase.com/news/32063",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f4ea787f7ba4d60e89e7237b2a88e1a0ea3db961",
+          "title": "谷歌宣布允许学校禁用AI工具，但代价是彻底失去谷歌搜索访问权限",
+          "url": "https://www.aibase.com/news/32063",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "f4ea787f7ba4d60e89e7237b2a88e1a0ea3db961",
+        "title": "谷歌宣布允许学校禁用AI工具，但代价是彻底失去谷歌搜索访问权限",
+        "url": "https://www.aibase.com/news/32063",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a25998abfa3b",
+      "title": "阿里云发布AI投研工作台Qovest:99元/月开放个人邀测",
+      "url": "https://www.aibase.com/news/32069",
+      "primary_url": "https://www.aibase.com/news/32069",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c65fd70badeb50458279ba4237be7f4e7edd4972",
+          "title": "阿里云发布AI投研工作台Qovest:99元/月开放个人邀测",
+          "url": "https://www.aibase.com/news/32069",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c65fd70badeb50458279ba4237be7f4e7edd4972",
+          "title": "阿里云发布AI投研工作台Qovest:99元/月开放个人邀测",
+          "url": "https://www.aibase.com/news/32069",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:55:51.144274Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:55:51.144274Z",
+      "latest_at": "2026-11-04T02:55:51.144274Z",
+      "primary_item": {
+        "id": "c65fd70badeb50458279ba4237be7f4e7edd4972",
+        "title": "阿里云发布AI投研工作台Qovest:99元/月开放个人邀测",
+        "url": "https://www.aibase.com/news/32069",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_51a16b58b850",
+      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T20:24:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T20:24:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.728,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T20:24:07Z",
+      "latest_at": "2026-11-03T20:24:07Z",
+      "primary_item": {
+        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e912da37c9ea",
+      "title": "卡兹克开源折腾一年的 Agent 自动化系统 Agent-Autoloop",
+      "url": "https://aihot.news/items/y0cgwl79wbih8c50svgmit93j",
+      "primary_url": "https://aihot.news/items/y0cgwl79wbih8c50svgmit93j",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e53ad5b27880ad5de0e89c03064dddf3d5e84e06",
+          "title": "卡兹克开源折腾一年的 Agent 自动化系统 Agent-Autoloop",
+          "url": "https://aihot.news/items/y0cgwl79wbih8c50svgmit93j",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-04T00:19:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "e53ad5b27880ad5de0e89c03064dddf3d5e84e06",
+          "title": "卡兹克开源折腾一年的 Agent 自动化系统 Agent-Autoloop",
+          "url": "https://aihot.news/items/y0cgwl79wbih8c50svgmit93j",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-04T00:19:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8911,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T00:19:00Z",
+      "latest_at": "2026-11-04T00:19:00Z",
+      "primary_item": {
+        "id": "e53ad5b27880ad5de0e89c03064dddf3d5e84e06",
+        "title": "卡兹克开源折腾一年的 Agent 自动化系统 Agent-Autoloop",
+        "url": "https://aihot.news/items/y0cgwl79wbih8c50svgmit93j",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_286cf36004ff",
+      "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
+      "url": "https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o",
+      "primary_url": "https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o",
+      "source": "Rohan Paul",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9122e1e6ca48a1429ba7ae0ed79c28aaeee8f1c5",
+          "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
+          "url": "https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-03T23:14:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Rohan Paul"
+      ],
+      "items": [
+        {
+          "id": "9122e1e6ca48a1429ba7ae0ed79c28aaeee8f1c5",
+          "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
+          "url": "https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o",
+          "source": "Rohan Paul",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-03T23:14:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.846,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T23:14:06Z",
+      "latest_at": "2026-11-03T23:14:06Z",
+      "primary_item": {
+        "id": "9122e1e6ca48a1429ba7ae0ed79c28aaeee8f1c5",
+        "title": "AMD 发布 2026 年三季度财报，预计 2027 年营收增长超 80%",
+        "url": "https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o",
+        "source": "Rohan Paul",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9c22661ce9de",
+      "title": "GitHub Copilot is now available in JetBrains Air",
+      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot is now available in JetBrains Air",
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T15:11:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot is now available in JetBrains Air",
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T15:11:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5111,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T15:11:46Z",
+      "latest_at": "2026-11-03T15:11:46Z",
+      "primary_item": {
+        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+        "title": "GitHub Copilot is now available in JetBrains Air",
+        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_946f3d391d21",
+      "title": "Look up a resource’s cost center with the GitHub REST API",
+      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+          "title": "Look up a resource’s cost center with the GitHub REST API",
+          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T15:27:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+          "title": "Look up a resource’s cost center with the GitHub REST API",
+          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T15:27:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5218,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T15:27:13Z",
+      "latest_at": "2026-11-03T15:27:13Z",
+      "primary_item": {
+        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+        "title": "Look up a resource’s cost center with the GitHub REST API",
+        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1a23e7744710",
+      "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+      "primary_url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d614d57971cd1df8ae60519986a771e876042c89",
+          "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T14:56:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d614d57971cd1df8ae60519986a771e876042c89",
+          "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T14:56:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5001,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T14:56:03Z",
+      "latest_at": "2026-11-03T14:56:03Z",
+      "primary_item": {
+        "id": "d614d57971cd1df8ae60519986a771e876042c89",
+        "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+        "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     }
