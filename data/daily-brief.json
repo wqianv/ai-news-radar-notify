@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-16T02:35:45.202411Z",
+  "generated_at": "2026-11-17T04:58:08.449561Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_813b8dc801d8",
-      "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
-      "url": "https://www.aibase.com/news/32328",
-      "primary_url": "https://www.aibase.com/news/32328",
+      "story_id": "story_680f84215fae",
+      "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+      "url": "https://www.aibase.com/news/32352",
+      "primary_url": "https://www.aibase.com/news/32352",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "13c3198e98564b3d203d7ef0c3d70ff4dd5b0150",
-          "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
-          "url": "https://www.aibase.com/news/32328",
+          "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
+          "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+          "url": "https://www.aibase.com/news/32352",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         },
         {
-          "id": "8dec851c200c2f4c94d2a19fe967a949fcc3e007",
-          "title": "苹果首款 AI 眼镜计划 2027 年 WWDC 亮相，年底前上市",
-          "url": "https://www.aibase.com/zh/news/32328",
+          "id": "6f68f090208b4861929a1184662ef0e3a8e0e862",
+          "title": "Anthropic 引入 10b5-1 计划：拟 IPO 前夕规范员工股票出售机制",
+          "url": "https://www.aibase.com/zh/news/32352",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -37,18 +37,18 @@
       ],
       "items": [
         {
-          "id": "13c3198e98564b3d203d7ef0c3d70ff4dd5b0150",
-          "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
-          "url": "https://www.aibase.com/news/32328",
+          "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
+          "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+          "url": "https://www.aibase.com/news/32352",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         },
         {
-          "id": "8dec851c200c2f4c94d2a19fe967a949fcc3e007",
-          "title": "苹果首款 AI 眼镜计划 2027 年 WWDC 亮相，年底前上市",
-          "url": "https://www.aibase.com/zh/news/32328",
+          "id": "6f68f090208b4861929a1184662ef0e3a8e0e862",
+          "title": "Anthropic 引入 10b5-1 计划：拟 IPO 前夕规范员工股票出售机制",
+          "url": "https://www.aibase.com/zh/news/32352",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -73,37 +73,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:35:45.202411Z",
-      "latest_at": "2026-11-16T02:35:45.202411Z",
+      "earliest_at": "2026-11-17T04:58:08.449561Z",
+      "latest_at": "2026-11-17T04:58:08.449561Z",
       "primary_item": {
-        "id": "13c3198e98564b3d203d7ef0c3d70ff4dd5b0150",
-        "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
-        "url": "https://www.aibase.com/news/32328",
+        "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
+        "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+        "url": "https://www.aibase.com/news/32352",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_6e4ef9d51069",
-      "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-      "url": "https://www.aibase.com/news/32327",
-      "primary_url": "https://www.aibase.com/news/32327",
+      "story_id": "story_ec6521897a51",
+      "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+      "url": "https://www.aibase.com/news/32353",
+      "primary_url": "https://www.aibase.com/news/32353",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
-          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-          "url": "https://www.aibase.com/news/32327",
+          "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
+          "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "url": "https://www.aibase.com/news/32353",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         },
         {
-          "id": "a7735df200c9f5166159a46523bc36596edccebe",
-          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-          "url": "https://www.aibase.com/zh/news/32327",
+          "id": "4345acbd017d15f06815b542dc0f69858ff2526d",
+          "title": "加州起诉 OpenAI：指控 AI 智能体失控超 80 次并攻击外部平台",
+          "url": "https://www.aibase.com/zh/news/32353",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -117,18 +117,18 @@
       ],
       "items": [
         {
-          "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
-          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-          "url": "https://www.aibase.com/news/32327",
+          "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
+          "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "url": "https://www.aibase.com/news/32353",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         },
         {
-          "id": "a7735df200c9f5166159a46523bc36596edccebe",
-          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-          "url": "https://www.aibase.com/zh/news/32327",
+          "id": "4345acbd017d15f06815b542dc0f69858ff2526d",
+          "title": "加州起诉 OpenAI：指控 AI 智能体失控超 80 次并攻击外部平台",
+          "url": "https://www.aibase.com/zh/news/32353",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -153,37 +153,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:35:45.202411Z",
-      "latest_at": "2026-11-16T02:35:45.202411Z",
+      "earliest_at": "2026-11-17T04:58:08.449561Z",
+      "latest_at": "2026-11-17T04:58:08.449561Z",
       "primary_item": {
-        "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
-        "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-        "url": "https://www.aibase.com/news/32327",
+        "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
+        "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+        "url": "https://www.aibase.com/news/32353",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_92382e93055a",
-      "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
-      "url": "https://www.aibase.com/news/32329",
-      "primary_url": "https://www.aibase.com/news/32329",
+      "story_id": "story_906b7e12f80a",
+      "title": "百度三季度AI业务收入占比连续三季度过半，AI云基础设施收入同比增长94%",
+      "url": "https://www.aibase.com/news/32348",
+      "primary_url": "https://www.aibase.com/news/32348",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "366a82f13192eff26ed236e08642f320c532d675",
-          "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
-          "url": "https://www.aibase.com/news/32329",
+          "id": "ca09b7a523f92c8637a47aaf85f20e23d7e77ee8",
+          "title": "百度三季度AI业务收入占比连续三季度过半，AI云基础设施收入同比增长94%",
+          "url": "https://www.aibase.com/news/32348",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         },
         {
-          "id": "4dd2cf989e6fd2975ffc2274da820299764f2124",
-          "title": "谷歌 Gemini 接入 Google Wallet，美国用户可使用 AI 分析个人财务",
-          "url": "https://www.aibase.com/zh/news/32329",
+          "id": "ff648b9157d9a5648bb3f70c029ed247c6ac63d5",
+          "title": "百度三季度 AI 业务收入占比连续三季度过半，AI 云基础设施收入同比增长 94%",
+          "url": "https://www.aibase.com/zh/news/32348",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -197,18 +197,18 @@
       ],
       "items": [
         {
-          "id": "366a82f13192eff26ed236e08642f320c532d675",
-          "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
-          "url": "https://www.aibase.com/news/32329",
+          "id": "ca09b7a523f92c8637a47aaf85f20e23d7e77ee8",
+          "title": "百度三季度AI业务收入占比连续三季度过半，AI云基础设施收入同比增长94%",
+          "url": "https://www.aibase.com/news/32348",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         },
         {
-          "id": "4dd2cf989e6fd2975ffc2274da820299764f2124",
-          "title": "谷歌 Gemini 接入 Google Wallet，美国用户可使用 AI 分析个人财务",
-          "url": "https://www.aibase.com/zh/news/32329",
+          "id": "ff648b9157d9a5648bb3f70c029ed247c6ac63d5",
+          "title": "百度三季度 AI 业务收入占比连续三季度过半，AI 云基础设施收入同比增长 94%",
+          "url": "https://www.aibase.com/zh/news/32348",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -233,37 +233,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:35:45.202411Z",
-      "latest_at": "2026-11-16T02:35:45.202411Z",
+      "earliest_at": "2026-11-17T04:58:08.449561Z",
+      "latest_at": "2026-11-17T04:58:08.449561Z",
       "primary_item": {
-        "id": "366a82f13192eff26ed236e08642f320c532d675",
-        "title": "谷歌Gemini接入Google Wallet，美国用户可使用AI分析个人财务",
-        "url": "https://www.aibase.com/news/32329",
+        "id": "ca09b7a523f92c8637a47aaf85f20e23d7e77ee8",
+        "title": "百度三季度AI业务收入占比连续三季度过半，AI云基础设施收入同比增长94%",
+        "url": "https://www.aibase.com/news/32348",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0e09098557be",
-      "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
-      "url": "https://www.aibase.com/news/32325",
-      "primary_url": "https://www.aibase.com/news/32325",
+      "story_id": "story_b38378b19471",
+      "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
+      "url": "https://www.aibase.com/news/32351",
+      "primary_url": "https://www.aibase.com/news/32351",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
-          "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
-          "url": "https://www.aibase.com/news/32325",
+          "id": "8436e11b3f83fbadb8a6fb960e05daa76c8a5e2a",
+          "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
+          "url": "https://www.aibase.com/news/32351",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         },
         {
-          "id": "b980d5b6a094b65661b7cf66dc2829ed2c062c14",
-          "title": "豆包 App 上线「找店」：商家批量标注地图，团购下单与一键导航在对话内闭环",
-          "url": "https://www.aibase.com/zh/news/32325",
+          "id": "09d27123b4ec0509f0a973731a33ff27f5accdfa",
+          "title": "苹果探索 AI 订阅变现，将云端智能使用额度与 iCloud+ 绑定",
+          "url": "https://www.aibase.com/zh/news/32351",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -277,18 +277,18 @@
       ],
       "items": [
         {
-          "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
-          "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
-          "url": "https://www.aibase.com/news/32325",
+          "id": "8436e11b3f83fbadb8a6fb960e05daa76c8a5e2a",
+          "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
+          "url": "https://www.aibase.com/news/32351",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         },
         {
-          "id": "b980d5b6a094b65661b7cf66dc2829ed2c062c14",
-          "title": "豆包 App 上线「找店」：商家批量标注地图，团购下单与一键导航在对话内闭环",
-          "url": "https://www.aibase.com/zh/news/32325",
+          "id": "09d27123b4ec0509f0a973731a33ff27f5accdfa",
+          "title": "苹果探索 AI 订阅变现，将云端智能使用额度与 iCloud+ 绑定",
+          "url": "https://www.aibase.com/zh/news/32351",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -313,32 +313,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:35:45.202411Z",
-      "latest_at": "2026-11-16T02:35:45.202411Z",
+      "earliest_at": "2026-11-17T04:58:08.449561Z",
+      "latest_at": "2026-11-17T04:58:08.449561Z",
       "primary_item": {
-        "id": "475c24d84aa399e128bb1a68416d890f7179e8e5",
-        "title": "豆包 App 上线“找店”:商家批量标注地图，团购下单与一键导航在对话内闭环",
-        "url": "https://www.aibase.com/news/32325",
+        "id": "8436e11b3f83fbadb8a6fb960e05daa76c8a5e2a",
+        "title": "苹果探索AI订阅变现，将云端智能使用额度与iCloud+绑定",
+        "url": "https://www.aibase.com/news/32351",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_28dd897b33fa",
-      "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-      "url": "https://www.aibase.com/news/32330",
-      "primary_url": "https://www.aibase.com/news/32330",
+      "story_id": "story_18a4aa790fbb",
+      "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "primary_url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:09:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+          "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:09:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7995,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T00:09:27Z",
+      "latest_at": "2026-11-17T00:09:27Z",
+      "primary_item": {
+        "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+        "title": "Dependabot 警报驳回请求已过去一年 / Dependabot alert dismissal requests now last one year",
+        "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e38a237d4864",
+      "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
+      "url": "https://www.aibase.com/news/32345",
+      "primary_url": "https://www.aibase.com/news/32345",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e4517aba9184a3f309f34a681337f83303dec23e",
-          "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-          "url": "https://www.aibase.com/news/32330",
+          "id": "c110bc34941aa2dea96b4722e4d6d2ee3f1140bd",
+          "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
+          "url": "https://www.aibase.com/news/32345",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         }
       ],
       "source_count": 1,
@@ -347,13 +408,13 @@
       ],
       "items": [
         {
-          "id": "e4517aba9184a3f309f34a681337f83303dec23e",
-          "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-          "url": "https://www.aibase.com/news/32330",
+          "id": "c110bc34941aa2dea96b4722e4d6d2ee3f1140bd",
+          "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
+          "url": "https://www.aibase.com/news/32345",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         }
       ],
       "item_count": 1,
@@ -373,32 +434,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:35:45.202411Z",
-      "latest_at": "2026-11-16T02:35:45.202411Z",
+      "earliest_at": "2026-11-17T04:58:08.449561Z",
+      "latest_at": "2026-11-17T04:58:08.449561Z",
       "primary_item": {
-        "id": "e4517aba9184a3f309f34a681337f83303dec23e",
-        "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-        "url": "https://www.aibase.com/news/32330",
+        "id": "c110bc34941aa2dea96b4722e4d6d2ee3f1140bd",
+        "title": "AI安全初创公司Corma完成1.25亿美元A轮融资:3个月估值达10亿美元",
+        "url": "https://www.aibase.com/news/32345",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_261270f29677",
-      "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-      "url": "https://www.aibase.com/news/32326",
-      "primary_url": "https://www.aibase.com/news/32326",
+      "story_id": "story_2c6ec3bbe62d",
+      "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+      "url": "https://www.aibase.com/news/32350",
+      "primary_url": "https://www.aibase.com/news/32350",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
-          "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-          "url": "https://www.aibase.com/news/32326",
+          "id": "48290e034964fbc71a20380da16221a817ae8ecc",
+          "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+          "url": "https://www.aibase.com/news/32350",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         }
       ],
       "source_count": 1,
@@ -407,13 +468,13 @@
       ],
       "items": [
         {
-          "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
-          "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-          "url": "https://www.aibase.com/news/32326",
+          "id": "48290e034964fbc71a20380da16221a817ae8ecc",
+          "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+          "url": "https://www.aibase.com/news/32350",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         }
       ],
       "item_count": 1,
@@ -433,32 +494,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:35:45.202411Z",
-      "latest_at": "2026-11-16T02:35:45.202411Z",
+      "earliest_at": "2026-11-17T04:58:08.449561Z",
+      "latest_at": "2026-11-17T04:58:08.449561Z",
       "primary_item": {
-        "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
-        "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-        "url": "https://www.aibase.com/news/32326",
+        "id": "48290e034964fbc71a20380da16221a817ae8ecc",
+        "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+        "url": "https://www.aibase.com/news/32350",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_62488e4b4574",
-      "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
-      "url": "https://www.aibase.com/news/32324",
-      "primary_url": "https://www.aibase.com/news/32324",
+      "story_id": "story_0b1d1abf6ec6",
+      "title": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
+      "url": "https://www.aibase.com/news/32344",
+      "primary_url": "https://www.aibase.com/news/32344",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0b8206d50fa20fb4ee97125c80a5334199b21854",
-          "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
-          "url": "https://www.aibase.com/news/32324",
+          "id": "4b56dcb16a001e29f7c539066440437519452014",
+          "title": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
+          "url": "https://www.aibase.com/news/32344",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         }
       ],
       "source_count": 1,
@@ -467,13 +528,13 @@
       ],
       "items": [
         {
-          "id": "0b8206d50fa20fb4ee97125c80a5334199b21854",
-          "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
-          "url": "https://www.aibase.com/news/32324",
+          "id": "4b56dcb16a001e29f7c539066440437519452014",
+          "title": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
+          "url": "https://www.aibase.com/news/32344",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:35:45.202411Z"
+          "published_at": "2026-11-17T04:58:08.449561Z"
         }
       ],
       "item_count": 1,
@@ -493,59 +554,544 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:35:45.202411Z",
-      "latest_at": "2026-11-16T02:35:45.202411Z",
+      "earliest_at": "2026-11-17T04:58:08.449561Z",
+      "latest_at": "2026-11-17T04:58:08.449561Z",
       "primary_item": {
-        "id": "0b8206d50fa20fb4ee97125c80a5334199b21854",
-        "title": "马斯克等科技高管联名请愿，要求英伟达恢复黄仁勋CEO职务",
-        "url": "https://www.aibase.com/news/32324",
+        "id": "4b56dcb16a001e29f7c539066440437519452014",
+        "title": "奥特曼回应黄仁勋离职:英伟达与AI行业“不会有事”",
+        "url": "https://www.aibase.com/news/32344",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_54dc9c05451d",
-      "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-      "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-      "primary_url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-      "source": "Qwen：Blog Retrieval",
+      "story_id": "story_0d0a460d43cf",
+      "title": "打破门槛!OpenAI面向全球研究人员再放5万个免费Plus名额",
+      "url": "https://www.aibase.com/news/32347",
+      "primary_url": "https://www.aibase.com/news/32347",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a5a0f755857dd4fe1478a4266f054e1ee695ce8c",
+          "title": "打破门槛!OpenAI面向全球研究人员再放5万个免费Plus名额",
+          "url": "https://www.aibase.com/news/32347",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T04:58:08.449561Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a5a0f755857dd4fe1478a4266f054e1ee695ce8c",
+          "title": "打破门槛!OpenAI面向全球研究人员再放5万个免费Plus名额",
+          "url": "https://www.aibase.com/news/32347",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T04:58:08.449561Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T04:58:08.449561Z",
+      "latest_at": "2026-11-17T04:58:08.449561Z",
+      "primary_item": {
+        "id": "a5a0f755857dd4fe1478a4266f054e1ee695ce8c",
+        "title": "打破门槛!OpenAI面向全球研究人员再放5万个免费Plus名额",
+        "url": "https://www.aibase.com/news/32347",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7ca395f547d1",
+      "title": "苹果智能眼镜曝光:拟深度整合 Siri 接入第三方应用生态",
+      "url": "https://www.aibase.com/news/32349",
+      "primary_url": "https://www.aibase.com/news/32349",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f6aaeece9ad285e6bb5a3f44ea24641a9eeb61f8",
+          "title": "苹果智能眼镜曝光:拟深度整合 Siri 接入第三方应用生态",
+          "url": "https://www.aibase.com/news/32349",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T04:58:08.449561Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f6aaeece9ad285e6bb5a3f44ea24641a9eeb61f8",
+          "title": "苹果智能眼镜曝光:拟深度整合 Siri 接入第三方应用生态",
+          "url": "https://www.aibase.com/news/32349",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T04:58:08.449561Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T04:58:08.449561Z",
+      "latest_at": "2026-11-17T04:58:08.449561Z",
+      "primary_item": {
+        "id": "f6aaeece9ad285e6bb5a3f44ea24641a9eeb61f8",
+        "title": "苹果智能眼镜曝光:拟深度整合 Siri 接入第三方应用生态",
+        "url": "https://www.aibase.com/news/32349",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_85e8c132b34f",
+      "title": "谷歌 Gemini 代理安全测试中多次绕过防护攻击真实网站",
+      "url": "https://www.aibase.com/news/32346",
+      "primary_url": "https://www.aibase.com/news/32346",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "115807fe81c74b9624297e198501b348d22f9da3",
+          "title": "谷歌 Gemini 代理安全测试中多次绕过防护攻击真实网站",
+          "url": "https://www.aibase.com/news/32346",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T04:58:08.449561Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "115807fe81c74b9624297e198501b348d22f9da3",
+          "title": "谷歌 Gemini 代理安全测试中多次绕过防护攻击真实网站",
+          "url": "https://www.aibase.com/news/32346",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T04:58:08.449561Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T04:58:08.449561Z",
+      "latest_at": "2026-11-17T04:58:08.449561Z",
+      "primary_item": {
+        "id": "115807fe81c74b9624297e198501b348d22f9da3",
+        "title": "谷歌 Gemini 代理安全测试中多次绕过防护攻击真实网站",
+        "url": "https://www.aibase.com/news/32346",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_11d51b8e09bb",
+      "title": "GitHub Copilot 每周发布 — 11 月 9 日 / GitHub Copilot weekly releases — November 9",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+      "primary_url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "17f459cd558c297ce759af4aba0fe8c2b63ede9e",
+          "title": "GitHub Copilot 每周发布 — 11 月 9 日 / GitHub Copilot weekly releases — November 9",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T21:34:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "17f459cd558c297ce759af4aba0fe8c2b63ede9e",
+          "title": "GitHub Copilot 每周发布 — 11 月 9 日 / GitHub Copilot weekly releases — November 9",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T21:34:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6922,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T21:34:53Z",
+      "latest_at": "2026-11-16T21:34:53Z",
+      "primary_item": {
+        "id": "17f459cd558c297ce759af4aba0fe8c2b63ede9e",
+        "title": "GitHub Copilot 每周发布 — 11 月 9 日 / GitHub Copilot weekly releases — November 9",
+        "url": "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f9ace2a74e66",
+      "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "primary_url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T20:25:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T20:25:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6439,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T20:25:20Z",
+      "latest_at": "2026-11-16T20:25:20Z",
+      "primary_item": {
+        "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+        "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+        "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_338471667e07",
+      "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+      "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+      "primary_url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T21:30:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T21:30:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6894,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T21:30:49Z",
+      "latest_at": "2026-11-16T21:30:49Z",
+      "primary_item": {
+        "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+        "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+        "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4b8c3044ce82",
+      "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
+      "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+      "primary_url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "226cbf3a02a262749195868ebcc69afb72b37b47",
+          "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
+          "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T19:48:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "226cbf3a02a262749195868ebcc69afb72b37b47",
+          "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
+          "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T19:48:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6183,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T19:48:33Z",
+      "latest_at": "2026-11-16T19:48:33Z",
+      "primary_item": {
+        "id": "226cbf3a02a262749195868ebcc69afb72b37b47",
+        "title": "控制 GitHub Copilot 自定义项的来源 / Control where GitHub Copilot customizations come from",
+        "url": "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f7b1ad47e7a9",
+      "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
+      "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+      "primary_url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
+          "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
+          "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T19:22:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
+          "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
+          "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T19:22:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6006,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T19:22:56Z",
+      "latest_at": "2026-11-16T19:22:56Z",
+      "primary_item": {
+        "id": "3dc42a57a919e8bc007d7f42e9c14ec70258a15c",
+        "title": "VS Code 将于 2027 年 2 月停用本地线束 / VS Code retires the Local harness in February 2027",
+        "url": "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ae7e0e38850d",
+      "title": "奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过",
+      "url": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms",
+      "primary_url": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms",
+      "source": "IT之家·人工智能",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3b21c49912cb2f4a836027f84c0e87d446f4fca0",
-          "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-          "source": "Qwen：Blog Retrieval",
+          "id": "d2d168fe00317b2dadf2e2b7eb0dd8d0008a1e9f",
+          "title": "奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过",
+          "url": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-16T02:00:00Z"
+          "published_at": "2026-11-17T01:03:01Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Qwen：Blog Retrieval"
+        "IT之家·人工智能"
       ],
       "items": [
         {
-          "id": "3b21c49912cb2f4a836027f84c0e87d446f4fca0",
-          "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-          "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-          "source": "Qwen：Blog Retrieval",
+          "id": "d2d168fe00317b2dadf2e2b7eb0dd8d0008a1e9f",
+          "title": "奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过",
+          "url": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-16T02:00:00Z"
+          "published_at": "2026-11-17T01:03:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.8367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -553,59 +1099,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:00:00Z",
-      "latest_at": "2026-11-16T02:00:00Z",
+      "earliest_at": "2026-11-17T01:03:01Z",
+      "latest_at": "2026-11-17T01:03:01Z",
       "primary_item": {
-        "id": "3b21c49912cb2f4a836027f84c0e87d446f4fca0",
-        "title": "Qwen 发布 Qwen4-Max：2.4T 参数骨干、百万 token 上下文与长程智能体能力",
-        "url": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-        "source": "Qwen：Blog Retrieval",
+        "id": "d2d168fe00317b2dadf2e2b7eb0dd8d0008a1e9f",
+        "title": "奥尔特曼谈黄仁勋离职：同情其处境，相信 AI 行业能平稳度过",
+        "url": "https://aihot.news/items/eboxbyc4j2oekoiuhw5yf2gms",
+        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_b0a085a47bec",
-      "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-      "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-      "primary_url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_7ace0e004b8b",
+      "title": "科技界人士质疑黄仁勋辞职背后存在针对其的谋划",
+      "url": "https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx",
+      "primary_url": "https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx",
+      "source": "The Verge：AI",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b37a26b176e0b97c5ed86aa1e5b082aa1284ffca",
-          "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-          "source": "公众号：数字生命卡兹克",
+          "id": "54292633e597d53985bbc8906ec49152333d53c2",
+          "title": "科技界人士质疑黄仁勋辞职背后存在针对其的谋划",
+          "url": "https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx",
+          "source": "The Verge：AI",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-15T23:56:00Z"
+          "published_at": "2026-11-16T23:17:34Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "The Verge：AI"
       ],
       "items": [
         {
-          "id": "b37a26b176e0b97c5ed86aa1e5b082aa1284ffca",
-          "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-          "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-          "source": "公众号：数字生命卡兹克",
+          "id": "54292633e597d53985bbc8906ec49152333d53c2",
+          "title": "科技界人士质疑黄仁勋辞职背后存在针对其的谋划",
+          "url": "https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx",
+          "source": "The Verge：AI",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-15T23:56:00Z"
+          "published_at": "2026-11-16T23:17:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8891,
+        "recency": 0.7635,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -613,720 +1159,135 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-15T23:56:00Z",
-      "latest_at": "2026-11-15T23:56:00Z",
+      "earliest_at": "2026-11-16T23:17:34Z",
+      "latest_at": "2026-11-16T23:17:34Z",
       "primary_item": {
-        "id": "b37a26b176e0b97c5ed86aa1e5b082aa1284ffca",
-        "title": "AI 手搓的 1.4M 纯 HTML 3D 游戏走红，卡兹克拆解 Three.js 程序化生成原理并给出提示词模板",
-        "url": "https://aihot.news/items/izdx1kuppob6c65ghvmyeal38",
-        "source": "公众号：数字生命卡兹克",
+        "id": "54292633e597d53985bbc8906ec49152333d53c2",
+        "title": "科技界人士质疑黄仁勋辞职背后存在针对其的谋划",
+        "url": "https://aihot.news/items/ahjzxmo93fzc4psaftffvb3rx",
+        "source": "The Verge：AI",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c5ff865c49a9",
-      "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
-      "url": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw",
-      "primary_url": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
+      "story_id": "story_e8ca8d2bf124",
+      "title": "Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题",
+      "url": "https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r",
+      "primary_url": "https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r",
+      "source": "TechCrunch：AI",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0028cf47ae59eaca5bcdcdeccf1a9f9752b8b3e4",
-          "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
-          "url": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-16T10:28:58Z"
+          "id": "3b0185db777b320c4e7593f96f9dd79fa9a018fc",
+          "title": "Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题",
+          "url": "https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T22:03:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "InfoQ CN"
+        "TechCrunch：AI"
       ],
       "items": [
         {
-          "id": "0028cf47ae59eaca5bcdcdeccf1a9f9752b8b3e4",
-          "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
-          "url": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-16T10:28:58Z"
+          "id": "3b0185db777b320c4e7593f96f9dd79fa9a018fc",
+          "title": "Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题",
+          "url": "https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-16T22:03:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.601,
-      "importance": 0.601,
-      "importance_score": 0.601,
-      "importance_label": "值得关注",
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7117,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "recent_ai_signal"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-16T10:28:58Z",
-      "latest_at": "2026-11-16T10:28:58Z",
+      "earliest_at": "2026-11-16T22:03:02Z",
+      "latest_at": "2026-11-16T22:03:02Z",
       "primary_item": {
-        "id": "0028cf47ae59eaca5bcdcdeccf1a9f9752b8b3e4",
-        "title": "AI 硬件能玩出多少新花样？这场黑客松正在寻找 20 支开发者团队",
-        "url": "https://www.infoq.cn/article/ExwZoqvAjY423YKaXcpw",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
+        "id": "3b0185db777b320c4e7593f96f9dd79fa9a018fc",
+        "title": "Nvidia 财报前夕：临时 CEO Colette Kress 将面临哪些关键问题",
+        "url": "https://aihot.news/items/zjmebgetyj7859jhfcbl4x08r",
+        "source": "TechCrunch：AI",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_c6524b3bb676",
-      "title": "元素灵魂 / Claude-BugHunter / elementalsouls /      Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "primary_url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "source": "github",
-      "source_name": "NewsNow",
+      "story_id": "story_2799af16e9a0",
+      "title": "Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
-          "title": "元素灵魂 / Claude-BugHunter / elementalsouls /      Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        },
-        {
-          "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
-          "title": "元素灵魂 / Claude-BugHunter / elementalsouls / Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
-          "title": "元素灵魂 / Claude-BugHunter / elementalsouls /      Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        },
-        {
-          "id": "ccc860b04fd7c8d958f0b0af51c38d11e485a48b",
-          "title": "元素灵魂 / Claude-BugHunter / elementalsouls / Claude-BugHunter",
-          "url": "https://github.com/elementalsouls/Claude-BugHunter",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T02:35:45.202411Z",
-      "latest_at": "2026-11-16T02:37:06.911000Z",
-      "primary_item": {
-        "id": "e8e58f8acbc03fad3f5d9560145fa1e9c59f1349",
-        "title": "元素灵魂 / Claude-BugHunter / elementalsouls /      Claude-BugHunter",
-        "url": "https://github.com/elementalsouls/Claude-BugHunter",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7ad8a0afce96",
-      "title": "阿里通义千问 Qwen4-Max 正式版发布",
-      "url": "https://www.ithome.com/1/027/512.htm",
-      "primary_url": "https://www.ithome.com/1/027/512.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b441bd0a194826933a0ff99a2248750f3f9d7af3",
-          "title": "阿里通义千问 Qwen4-Max 正式版发布",
-          "url": "https://www.ithome.com/1/027/512.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "59324dc3502ab97999cef8690f3d439909b2112d",
-          "title": "2.4 万亿参数阿里通义千问 Qwen4-Max 正式上线：任务成本降低超 60%，后续将开源小尺寸模型",
-          "url": "https://www.ithome.com/1/027/512.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-16T02:07:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b441bd0a194826933a0ff99a2248750f3f9d7af3",
-          "title": "阿里通义千问 Qwen4-Max 正式版发布",
-          "url": "https://www.ithome.com/1/027/512.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "59324dc3502ab97999cef8690f3d439909b2112d",
-          "title": "2.4 万亿参数阿里通义千问 Qwen4-Max 正式上线：任务成本降低超 60%，后续将开源小尺寸模型",
-          "url": "https://www.ithome.com/1/027/512.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-16T02:07:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T02:07:36Z",
-      "latest_at": "2026-11-16T02:35:45.202411Z",
-      "primary_item": {
-        "id": "b441bd0a194826933a0ff99a2248750f3f9d7af3",
-        "title": "阿里通义千问 Qwen4-Max 正式版发布",
-        "url": "https://www.ithome.com/1/027/512.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a58bd1a86d99",
-      "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "url": "https://www.hntrends.com/2026/november.html",
-      "primary_url": "https://www.hntrends.com/2026/november.html",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "fe42aad332849d917376ae8f2a273f1e54854d86",
-          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "url": "https://www.hntrends.com/2026/november.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-16T01:31:30Z"
-        },
-        {
-          "id": "88c53bd364d82c4ad2abeb5f5c184aba86945762",
-          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "url": "https://news.ycombinator.com/item?id=50512950",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T01:31:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fe42aad332849d917376ae8f2a273f1e54854d86",
-          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "url": "https://www.hntrends.com/2026/november.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-16T01:31:30Z"
-        },
-        {
-          "id": "88c53bd364d82c4ad2abeb5f5c184aba86945762",
-          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "url": "https://news.ycombinator.com/item?id=50512950",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T01:31:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9554,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T01:31:30Z",
-      "latest_at": "2026-11-16T01:31:30Z",
-      "primary_item": {
-        "id": "fe42aad332849d917376ae8f2a273f1e54854d86",
-        "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-        "url": "https://www.hntrends.com/2026/november.html",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_a0defb071330",
-      "title": "AI Agent 子智能体协作实战：怎样用好 Subagent 分工与省 Token｜Oil Book",
-      "url": "https://juejin.cn/post/7707927071724486665",
-      "primary_url": "https://juejin.cn/post/7707927071724486665",
-      "source": "juejin",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f8506c5268020400c8935878e33effe7dad4df72",
-          "title": "AI Agent 子智能体协作实战：怎样用好 Subagent 分工与省 Token｜Oil Book",
-          "url": "https://juejin.cn/post/7707927071724486665",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "Bulk start AI Scan for repositories",
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "juejin"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f8506c5268020400c8935878e33effe7dad4df72",
-          "title": "AI Agent 子智能体协作实战：怎样用好 Subagent 分工与省 Token｜Oil Book",
-          "url": "https://juejin.cn/post/7707927071724486665",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "Bulk start AI Scan for repositories",
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.4529,
         "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "official",
       "reasons": [
-        "recent_ai_signal"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:37:06.911000Z",
-      "latest_at": "2026-11-16T02:37:06.911000Z",
+      "earliest_at": "2026-11-16T15:50:22Z",
+      "latest_at": "2026-11-16T15:50:22Z",
       "primary_item": {
-        "id": "f8506c5268020400c8935878e33effe7dad4df72",
-        "title": "AI Agent 子智能体协作实战：怎样用好 Subagent 分工与省 Token｜Oil Book",
-        "url": "https://juejin.cn/post/7707927071724486665",
-        "source": "juejin",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_39b6b936540f",
-      "title": "AI Agent 时代前端项目怎么组织：按页面纵向切块，替代按类型分层目录",
-      "url": "https://juejin.cn/post/7707452568733499418",
-      "primary_url": "https://juejin.cn/post/7707452568733499418",
-      "source": "juejin",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "eea06e2574facdd60376e908690d4b07bc0b5f42",
-          "title": "AI Agent 时代前端项目怎么组织：按页面纵向切块，替代按类型分层目录",
-          "url": "https://juejin.cn/post/7707452568733499418",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "items": [
-        {
-          "id": "eea06e2574facdd60376e908690d4b07bc0b5f42",
-          "title": "AI Agent 时代前端项目怎么组织：按页面纵向切块，替代按类型分层目录",
-          "url": "https://juejin.cn/post/7707452568733499418",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-16T02:37:06.911000Z",
-      "latest_at": "2026-11-16T02:37:06.911000Z",
-      "primary_item": {
-        "id": "eea06e2574facdd60376e908690d4b07bc0b5f42",
-        "title": "AI Agent 时代前端项目怎么组织：按页面纵向切块，替代按类型分层目录",
-        "url": "https://juejin.cn/post/7707452568733499418",
-        "source": "juejin",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_0af1ae42c21b",
-      "title": "AI Agent场景组件库 TinyRobot v1.0 正式发布：一站式打造您的AI助手",
-      "url": "https://juejin.cn/post/7707300643656368137",
-      "primary_url": "https://juejin.cn/post/7707300643656368137",
-      "source": "juejin",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b49d60270e931b3cc67ecc19f631148f9e4c5531",
-          "title": "AI Agent场景组件库 TinyRobot v1.0 正式发布：一站式打造您的AI助手",
-          "url": "https://juejin.cn/post/7707300643656368137",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "items": [
-        {
-          "id": "b49d60270e931b3cc67ecc19f631148f9e4c5531",
-          "title": "AI Agent场景组件库 TinyRobot v1.0 正式发布：一站式打造您的AI助手",
-          "url": "https://juejin.cn/post/7707300643656368137",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-16T02:37:06.911000Z",
-      "latest_at": "2026-11-16T02:37:06.911000Z",
-      "primary_item": {
-        "id": "b49d60270e931b3cc67ecc19f631148f9e4c5531",
-        "title": "AI Agent场景组件库 TinyRobot v1.0 正式发布：一站式打造您的AI助手",
-        "url": "https://juejin.cn/post/7707300643656368137",
-        "source": "juejin",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_5e1a95130b7e",
-      "title": "AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程",
-      "url": "https://juejin.cn/post/7706833656825184282",
-      "primary_url": "https://juejin.cn/post/7706833656825184282",
-      "source": "掘金 · 人工智能本周最热",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6f2c64ed81db10665331d7e81e4f9ecd3172db0d",
-          "title": "AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程",
-          "url": "https://juejin.cn/post/7706833656825184282",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "掘金 · 人工智能本周最热"
-      ],
-      "items": [
-        {
-          "id": "6f2c64ed81db10665331d7e81e4f9ecd3172db0d",
-          "title": "AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程",
-          "url": "https://juejin.cn/post/7706833656825184282",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-16T02:35:45.202411Z",
-      "latest_at": "2026-11-16T02:35:45.202411Z",
-      "primary_item": {
-        "id": "6f2c64ed81db10665331d7e81e4f9ecd3172db0d",
-        "title": "AI 把代码写得飞快，然后呢？聊聊我验收生成代码的一套流程",
-        "url": "https://juejin.cn/post/7706833656825184282",
-        "source": "掘金 · 人工智能本周最热",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_bcf23ae9c192",
-      "title": "AI 能把页面写出来，为什么改个需求就开始崩？",
-      "url": "https://juejin.cn/post/7707227810214346786",
-      "primary_url": "https://juejin.cn/post/7707227810214346786",
-      "source": "juejin",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "eeca33b7aac8db102eddd40c8e908f35f972944d",
-          "title": "AI 能把页面写出来，为什么改个需求就开始崩？",
-          "url": "https://juejin.cn/post/7707227810214346786",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "items": [
-        {
-          "id": "eeca33b7aac8db102eddd40c8e908f35f972944d",
-          "title": "AI 能把页面写出来，为什么改个需求就开始崩？",
-          "url": "https://juejin.cn/post/7707227810214346786",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-16T02:37:06.911000Z",
-      "latest_at": "2026-11-16T02:37:06.911000Z",
-      "primary_item": {
-        "id": "eeca33b7aac8db102eddd40c8e908f35f972944d",
-        "title": "AI 能把页面写出来，为什么改个需求就开始崩？",
-        "url": "https://juejin.cn/post/7707227810214346786",
-        "source": "juejin",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3684a1450c2e",
-      "title": "ByteAsk 云代理 / ByteAsk Cloud Agents",
-      "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-      "primary_url": "https://www.producthunt.com/products/byteask-cloud-agents",
-      "source": "producthunt",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ba1f2a865694a4044a78f42267526de56dee011a",
-          "title": "ByteAsk 云代理 / ByteAsk Cloud Agents",
-          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "ba1f2a865694a4044a78f42267526de56dee011a",
-          "title": "ByteAsk 云代理 / ByteAsk Cloud Agents",
-          "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-16T02:37:06.911000Z",
-      "latest_at": "2026-11-16T02:37:06.911000Z",
-      "primary_item": {
-        "id": "ba1f2a865694a4044a78f42267526de56dee011a",
-        "title": "ByteAsk 云代理 / ByteAsk Cloud Agents",
-        "url": "https://www.producthunt.com/products/byteask-cloud-agents",
-        "source": "producthunt",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_5e6578149c14",
-      "title": "Gemini 4 Hydrogen：发布即全量，但 Flash 的低价时代结束了",
-      "url": "https://juejin.cn/post/7707532087125966858",
-      "primary_url": "https://juejin.cn/post/7707532087125966858",
-      "source": "juejin",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6e3c4b1c16a77776606785fa6272fa4f4a4c5baa",
-          "title": "Gemini 4 Hydrogen：发布即全量，但 Flash 的低价时代结束了",
-          "url": "https://juejin.cn/post/7707532087125966858",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "juejin"
-      ],
-      "items": [
-        {
-          "id": "6e3c4b1c16a77776606785fa6272fa4f4a4c5baa",
-          "title": "Gemini 4 Hydrogen：发布即全量，但 Flash 的低价时代结束了",
-          "url": "https://juejin.cn/post/7707532087125966858",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:37:06.911000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "recent_ai_signal"
-      ],
-      "earliest_at": "2026-11-16T02:37:06.911000Z",
-      "latest_at": "2026-11-16T02:37:06.911000Z",
-      "primary_item": {
-        "id": "6e3c4b1c16a77776606785fa6272fa4f4a4c5baa",
-        "title": "Gemini 4 Hydrogen：发布即全量，但 Flash 的低价时代结束了",
-        "url": "https://juejin.cn/post/7707532087125966858",
-        "source": "juejin",
-        "source_name": "NewsNow"
+        "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+        "title": "Bulk start AI Scan for repositories",
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
