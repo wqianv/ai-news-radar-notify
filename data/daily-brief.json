@@ -1,29 +1,90 @@
 {
-  "generated_at": "2026-11-18T04:02:03.681616Z",
+  "generated_at": "2026-11-20T03:52:58.649777Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ccb6547f5643",
-      "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-      "url": "https://www.aibase.com/news/32373",
-      "primary_url": "https://www.aibase.com/news/32373",
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+          "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+          "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8616,
+      "importance": 0.8616,
+      "importance_score": 0.8616,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8382,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+        "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dae824bb7880",
+      "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+      "url": "https://www.aibase.com/news/32418",
+      "primary_url": "https://www.aibase.com/news/32418",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "url": "https://www.aibase.com/news/32373",
+          "id": "7fbbb666388b426158218884787113a14cc30303",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/news/32418",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         },
         {
-          "id": "7563a4736dfee1c3fdb9143a165e85f2c6432c29",
-          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "url": "https://www.aibase.com/zh/news/32373",
+          "id": "129109d1522d3338a23764235c5d496c8d5db3ae",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/zh/news/32418",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -37,18 +98,18 @@
       ],
       "items": [
         {
-          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "url": "https://www.aibase.com/news/32373",
+          "id": "7fbbb666388b426158218884787113a14cc30303",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/news/32418",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         },
         {
-          "id": "7563a4736dfee1c3fdb9143a165e85f2c6432c29",
-          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "url": "https://www.aibase.com/zh/news/32373",
+          "id": "129109d1522d3338a23764235c5d496c8d5db3ae",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/zh/news/32418",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -73,37 +134,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-        "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-        "url": "https://www.aibase.com/news/32373",
+        "id": "7fbbb666388b426158218884787113a14cc30303",
+        "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+        "url": "https://www.aibase.com/news/32418",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_40d87f88f8ae",
-      "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-      "url": "https://www.aibase.com/news/32374",
-      "primary_url": "https://www.aibase.com/news/32374",
+      "story_id": "story_d6f16b3e65ae",
+      "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+      "url": "https://www.aibase.com/news/32424",
+      "primary_url": "https://www.aibase.com/news/32424",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "url": "https://www.aibase.com/news/32374",
+          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
+          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/news/32424",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         },
         {
-          "id": "b895a7d5c522a99038b353c0a0a420da0cb70b92",
-          "title": "微软发布首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "url": "https://www.aibase.com/zh/news/32374",
+          "id": "7cfd85a324c8098137d7dce5d93f03470101460c",
+          "title": "Google 开放 Genie4 世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/zh/news/32424",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -117,18 +178,18 @@
       ],
       "items": [
         {
-          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "url": "https://www.aibase.com/news/32374",
+          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
+          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/news/32424",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         },
         {
-          "id": "b895a7d5c522a99038b353c0a0a420da0cb70b92",
-          "title": "微软发布首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "url": "https://www.aibase.com/zh/news/32374",
+          "id": "7cfd85a324c8098137d7dce5d93f03470101460c",
+          "title": "Google 开放 Genie4 世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/zh/news/32424",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -153,32 +214,352 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-        "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-        "url": "https://www.aibase.com/news/32374",
+        "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
+        "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+        "url": "https://www.aibase.com/news/32424",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_96ff71f54c6e",
-      "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-      "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
-      "primary_url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+      "story_id": "story_aa051abe9385",
+      "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+      "url": "https://www.aibase.com/news/32423",
+      "primary_url": "https://www.aibase.com/news/32423",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
+          "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+          "url": "https://www.aibase.com/news/32423",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:52:58.649777Z"
+        },
+        {
+          "id": "8bc034a6545408acccb0ca4155aa88817c4170a9",
+          "title": "微软 CEO 纳德拉警告：零售商若屏蔽 AI 购物代理，市场份额恐流向 Shopify 等开放平台",
+          "url": "https://www.aibase.com/zh/news/32423",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
+          "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+          "url": "https://www.aibase.com/news/32423",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:52:58.649777Z"
+        },
+        {
+          "id": "8bc034a6545408acccb0ca4155aa88817c4170a9",
+          "title": "微软 CEO 纳德拉警告：零售商若屏蔽 AI 购物代理，市场份额恐流向 Shopify 等开放平台",
+          "url": "https://www.aibase.com/zh/news/32423",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
+      "primary_item": {
+        "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
+        "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+        "url": "https://www.aibase.com/news/32423",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5559e0b0829c",
+      "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+      "url": "https://www.aibase.com/news/32426",
+      "primary_url": "https://www.aibase.com/news/32426",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "191b0555419966daf6771ec10acc60aaa67b431b",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/news/32426",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:52:58.649777Z"
+        },
+        {
+          "id": "ce417a32990cf49ac173d0805995c027e944537a",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/zh/news/32426",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "191b0555419966daf6771ec10acc60aaa67b431b",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/news/32426",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:52:58.649777Z"
+        },
+        {
+          "id": "ce417a32990cf49ac173d0805995c027e944537a",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/zh/news/32426",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
+      "primary_item": {
+        "id": "191b0555419966daf6771ec10acc60aaa67b431b",
+        "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+        "url": "https://www.aibase.com/news/32426",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_13aa9054c7de",
+      "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+      "url": "https://www.aibase.com/news/32419",
+      "primary_url": "https://www.aibase.com/news/32419",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
+          "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/news/32419",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:52:58.649777Z"
+        },
+        {
+          "id": "ae3901bab645bf6af256ab3cb3c7f1939804ecd7",
+          "title": "谷歌 Gemini 上线 Mac「电脑操控」功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/zh/news/32419",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
+          "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/news/32419",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:52:58.649777Z"
+        },
+        {
+          "id": "ae3901bab645bf6af256ab3cb3c7f1939804ecd7",
+          "title": "谷歌 Gemini 上线 Mac「电脑操控」功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/zh/news/32419",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
+      "primary_item": {
+        "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
+        "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+        "url": "https://www.aibase.com/news/32419",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_86210a2eb490",
+      "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+      "url": "https://www.aibase.com/news/32427",
+      "primary_url": "https://www.aibase.com/news/32427",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
+          "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+          "url": "https://www.aibase.com/news/32427",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:52:58.649777Z"
+        },
+        {
+          "id": "b03ba26bb5181445a618c372b43f870e75a31773",
+          "title": "谷歌主页新增 AI 搜索侧边栏，支持查看历史对话与连接 Gemini 笔记本",
+          "url": "https://www.aibase.com/zh/news/32427",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
+          "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+          "url": "https://www.aibase.com/news/32427",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:52:58.649777Z"
+        },
+        {
+          "id": "b03ba26bb5181445a618c372b43f870e75a31773",
+          "title": "谷歌主页新增 AI 搜索侧边栏，支持查看历史对话与连接 Gemini 笔记本",
+          "url": "https://www.aibase.com/zh/news/32427",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
+      "primary_item": {
+        "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
+        "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+        "url": "https://www.aibase.com/news/32427",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9855c1875dd4",
+      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0ad6af5604b93c525219fd000498dfefa38664da",
-          "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-          "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T20:20:29Z"
+          "published_at": "2026-11-20T00:02:21Z"
         }
       ],
       "source_count": 1,
@@ -187,25 +568,25 @@
       ],
       "items": [
         {
-          "id": "0ad6af5604b93c525219fd000498dfefa38664da",
-          "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-          "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T20:20:29Z"
+          "published_at": "2026-11-20T00:02:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6795,
+        "ai_relevance": 0.87,
+        "recency": 0.8398,
         "story_heat": 0.0
       },
       "category": "official",
@@ -214,32 +595,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T20:20:29Z",
-      "latest_at": "2026-11-17T20:20:29Z",
+      "earliest_at": "2026-11-20T00:02:21Z",
+      "latest_at": "2026-11-20T00:02:21Z",
       "primary_item": {
-        "id": "0ad6af5604b93c525219fd000498dfefa38664da",
-        "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-        "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6ea4459b8832",
-      "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-      "url": "https://www.aibase.com/news/32366",
-      "primary_url": "https://www.aibase.com/news/32366",
+      "story_id": "story_f8c81906f1c0",
+      "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+      "url": "https://www.aibase.com/news/32422",
+      "primary_url": "https://www.aibase.com/news/32422",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "url": "https://www.aibase.com/news/32366",
+          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "url": "https://www.aibase.com/news/32422",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "source_count": 1,
@@ -248,13 +629,13 @@
       ],
       "items": [
         {
-          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-          "url": "https://www.aibase.com/news/32366",
+          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "url": "https://www.aibase.com/news/32422",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "item_count": 1,
@@ -274,32 +655,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
-        "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
-        "url": "https://www.aibase.com/news/32366",
+        "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+        "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "url": "https://www.aibase.com/news/32422",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_acb02655dfee",
-      "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-      "url": "https://www.aibase.com/news/32367",
-      "primary_url": "https://www.aibase.com/news/32367",
+      "story_id": "story_fd550329db49",
+      "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+      "url": "https://www.aibase.com/news/32420",
+      "primary_url": "https://www.aibase.com/news/32420",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
-          "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-          "url": "https://www.aibase.com/news/32367",
+          "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
+          "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "url": "https://www.aibase.com/news/32420",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "source_count": 1,
@@ -308,13 +689,13 @@
       ],
       "items": [
         {
-          "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
-          "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-          "url": "https://www.aibase.com/news/32367",
+          "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
+          "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+          "url": "https://www.aibase.com/news/32420",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "item_count": 1,
@@ -334,32 +715,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
-        "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
-        "url": "https://www.aibase.com/news/32367",
+        "id": "d21c013844e0e7d687bd3dd57a1c29316efc1117",
+        "title": "Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元",
+        "url": "https://www.aibase.com/news/32420",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b873786b7e72",
-      "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-      "url": "https://www.aibase.com/news/32362",
-      "primary_url": "https://www.aibase.com/news/32362",
+      "story_id": "story_5670f6d0a48d",
+      "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+      "url": "https://www.aibase.com/news/32428",
+      "primary_url": "https://www.aibase.com/news/32428",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
-          "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-          "url": "https://www.aibase.com/news/32362",
+          "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
+          "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+          "url": "https://www.aibase.com/news/32428",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "source_count": 1,
@@ -368,13 +749,13 @@
       ],
       "items": [
         {
-          "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
-          "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-          "url": "https://www.aibase.com/news/32362",
+          "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
+          "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+          "url": "https://www.aibase.com/news/32428",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "item_count": 1,
@@ -394,32 +775,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
-        "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
-        "url": "https://www.aibase.com/news/32362",
+        "id": "ae137df8b0c9f7adc3d46ecfa90c326a8c686b91",
+        "title": "Claude 自研推理引擎将首 token 延迟从 12 秒缩短至半秒",
+        "url": "https://www.aibase.com/news/32428",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_fdbe02f842e7",
-      "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-      "url": "https://www.aibase.com/news/32372",
-      "primary_url": "https://www.aibase.com/news/32372",
+      "story_id": "story_8d854f7c2422",
+      "title": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
+      "url": "https://www.aibase.com/news/32425",
+      "primary_url": "https://www.aibase.com/news/32425",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "url": "https://www.aibase.com/news/32372",
+          "id": "dad8eb53af6e6a162422c62eae88ffc68443379e",
+          "title": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
+          "url": "https://www.aibase.com/news/32425",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "source_count": 1,
@@ -428,13 +809,13 @@
       ],
       "items": [
         {
-          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "url": "https://www.aibase.com/news/32372",
+          "id": "dad8eb53af6e6a162422c62eae88ffc68443379e",
+          "title": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
+          "url": "https://www.aibase.com/news/32425",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "item_count": 1,
@@ -454,32 +835,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-        "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-        "url": "https://www.aibase.com/news/32372",
+        "id": "dad8eb53af6e6a162422c62eae88ffc68443379e",
+        "title": "Meta AI 可穿戴设备 Muse Charm 据悉定价300美元",
+        "url": "https://www.aibase.com/news/32425",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_55a3797d7638",
-      "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-      "url": "https://www.aibase.com/news/32368",
-      "primary_url": "https://www.aibase.com/news/32368",
+      "story_id": "story_3d8d5facc7da",
+      "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+      "url": "https://www.aibase.com/news/32431",
+      "primary_url": "https://www.aibase.com/news/32431",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2e706587713054bad719dac00d9df6bb12895102",
-          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-          "url": "https://www.aibase.com/news/32368",
+          "id": "2e7b4a5a5829ef8272d79a33ddb33b6456f6a833",
+          "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+          "url": "https://www.aibase.com/news/32431",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "source_count": 1,
@@ -488,13 +869,13 @@
       ],
       "items": [
         {
-          "id": "2e706587713054bad719dac00d9df6bb12895102",
-          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-          "url": "https://www.aibase.com/news/32368",
+          "id": "2e7b4a5a5829ef8272d79a33ddb33b6456f6a833",
+          "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+          "url": "https://www.aibase.com/news/32431",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "item_count": 1,
@@ -514,32 +895,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "2e706587713054bad719dac00d9df6bb12895102",
-        "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
-        "url": "https://www.aibase.com/news/32368",
+        "id": "2e7b4a5a5829ef8272d79a33ddb33b6456f6a833",
+        "title": "亏千亿也要敲钟：Anthropic 创纪录 IPO 背后的算力账单",
+        "url": "https://www.aibase.com/news/32431",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_34e194c47183",
-      "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
-      "url": "https://www.aibase.com/news/32369",
-      "primary_url": "https://www.aibase.com/news/32369",
+      "story_id": "story_d6ed97107338",
+      "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+      "url": "https://www.aibase.com/news/32432",
+      "primary_url": "https://www.aibase.com/news/32432",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "111b310a730189a7586d2c191e372c5b46b67ce7",
-          "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
-          "url": "https://www.aibase.com/news/32369",
+          "id": "014ac2e2e0cbd9492850a6af52cab4f9aa59ed47",
+          "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+          "url": "https://www.aibase.com/news/32432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "source_count": 1,
@@ -548,13 +929,13 @@
       ],
       "items": [
         {
-          "id": "111b310a730189a7586d2c191e372c5b46b67ce7",
-          "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
-          "url": "https://www.aibase.com/news/32369",
+          "id": "014ac2e2e0cbd9492850a6af52cab4f9aa59ed47",
+          "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+          "url": "https://www.aibase.com/news/32432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "item_count": 1,
@@ -574,32 +955,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "111b310a730189a7586d2c191e372c5b46b67ce7",
-        "title": "微软给 AI 装上“决策脑”：Decision-1.1 跑赢 GPT-6 Luna，拿不准还能弃权",
-        "url": "https://www.aibase.com/news/32369",
+        "id": "014ac2e2e0cbd9492850a6af52cab4f9aa59ed47",
+        "title": "半年净赚152亿!蚂蚁集团AI“三线并进”，打响支付、应用与机器人全面战役",
+        "url": "https://www.aibase.com/news/32432",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b2cc2d8bba80",
-      "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-      "url": "https://www.aibase.com/news/32364",
-      "primary_url": "https://www.aibase.com/news/32364",
+      "story_id": "story_3300acf3e74a",
+      "title": "摸一下指纹就能唤出 AI：Meta 掌上新硬件定价曝光",
+      "url": "https://www.aibase.com/news/32421",
+      "primary_url": "https://www.aibase.com/news/32421",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
-          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-          "url": "https://www.aibase.com/news/32364",
+          "id": "4338aa21f72e2d8cbe0633de7cebfa5ad9ec6120",
+          "title": "摸一下指纹就能唤出 AI：Meta 掌上新硬件定价曝光",
+          "url": "https://www.aibase.com/news/32421",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "source_count": 1,
@@ -608,13 +989,13 @@
       ],
       "items": [
         {
-          "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
-          "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-          "url": "https://www.aibase.com/news/32364",
+          "id": "4338aa21f72e2d8cbe0633de7cebfa5ad9ec6120",
+          "title": "摸一下指纹就能唤出 AI：Meta 掌上新硬件定价曝光",
+          "url": "https://www.aibase.com/news/32421",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "item_count": 1,
@@ -634,32 +1015,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "29b2f6a19c04b6c4af8e30e02c24b94cbcff293a",
-        "title": "微软自研芯片 Maia 200 量产，每瓦性能反超 GPU 基础设施",
-        "url": "https://www.aibase.com/news/32364",
+        "id": "4338aa21f72e2d8cbe0633de7cebfa5ad9ec6120",
+        "title": "摸一下指纹就能唤出 AI：Meta 掌上新硬件定价曝光",
+        "url": "https://www.aibase.com/news/32421",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_01131776a19f",
-      "title": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
-      "url": "https://www.aibase.com/news/32371",
-      "primary_url": "https://www.aibase.com/news/32371",
+      "story_id": "story_996018227ca7",
+      "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+      "url": "https://www.aibase.com/news/32430",
+      "primary_url": "https://www.aibase.com/news/32430",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ab993641f92b2e1a416afdf618f65007814de78c",
-          "title": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
-          "url": "https://www.aibase.com/news/32371",
+          "id": "ae7a17ebb1e41f0a4701abd727d474560e0b402a",
+          "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "url": "https://www.aibase.com/news/32430",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "source_count": 1,
@@ -668,13 +1049,13 @@
       ],
       "items": [
         {
-          "id": "ab993641f92b2e1a416afdf618f65007814de78c",
-          "title": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
-          "url": "https://www.aibase.com/news/32371",
+          "id": "ae7a17ebb1e41f0a4701abd727d474560e0b402a",
+          "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+          "url": "https://www.aibase.com/news/32430",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "item_count": 1,
@@ -694,32 +1075,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "ab993641f92b2e1a416afdf618f65007814de78c",
-        "title": "微软重磅发布 MAI Image 2.7：以 1/5 价格登顶图像编辑榜首，开启局部精准修图新时代",
-        "url": "https://www.aibase.com/news/32371",
+        "id": "ae7a17ebb1e41f0a4701abd727d474560e0b402a",
+        "title": "给 AI 配一台云电脑：OpenAI 的 dots 助理走出聊天框",
+        "url": "https://www.aibase.com/news/32430",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_206e059628fc",
-      "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-      "url": "https://www.aibase.com/news/32363",
-      "primary_url": "https://www.aibase.com/news/32363",
+      "story_id": "story_60fa932494c8",
+      "title": "英伟达财报暴增却跌至 52 周新低？股价较 10 月高点重挫近40%",
+      "url": "https://www.aibase.com/news/32429",
+      "primary_url": "https://www.aibase.com/news/32429",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
-          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-          "url": "https://www.aibase.com/news/32363",
+          "id": "bda5903e43192b705a0b896476bffa158b580d88",
+          "title": "英伟达财报暴增却跌至 52 周新低？股价较 10 月高点重挫近40%",
+          "url": "https://www.aibase.com/news/32429",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "source_count": 1,
@@ -728,13 +1109,13 @@
       ],
       "items": [
         {
-          "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
-          "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-          "url": "https://www.aibase.com/news/32363",
+          "id": "bda5903e43192b705a0b896476bffa158b580d88",
+          "title": "英伟达财报暴增却跌至 52 周新低？股价较 10 月高点重挫近40%",
+          "url": "https://www.aibase.com/news/32429",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "published_at": "2026-11-20T03:52:58.649777Z"
         }
       ],
       "item_count": 1,
@@ -754,59 +1135,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:52:58.649777Z",
+      "latest_at": "2026-11-20T03:52:58.649777Z",
       "primary_item": {
-        "id": "765ec5db89c5e5ea6ba7e7410c495dcf0eedcd51",
-        "title": "爱尔兰监管重拳出击：马斯克旗下 X 遭勒令叫停，禁止利用 AI 智能体抓取数据训练 Grok",
-        "url": "https://www.aibase.com/news/32363",
+        "id": "bda5903e43192b705a0b896476bffa158b580d88",
+        "title": "英伟达财报暴增却跌至 52 周新低？股价较 10 月高点重挫近40%",
+        "url": "https://www.aibase.com/news/32429",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d9a715c18cda",
-      "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
-      "url": "https://www.aibase.com/news/32361",
-      "primary_url": "https://www.aibase.com/news/32361",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e5fcd3af3bb8",
+      "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+      "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+      "primary_url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+      "source": "公众号：腾讯混元",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a3841b2747280a8653591ce23b5a3ea0ec9553f8",
-          "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
-          "url": "https://www.aibase.com/news/32361",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "id": "95c5f669328a5d906e3a0172394a9e1a00296828",
+          "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-20T03:41:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "公众号：腾讯混元"
       ],
       "items": [
         {
-          "id": "a3841b2747280a8653591ce23b5a3ea0ec9553f8",
-          "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
-          "url": "https://www.aibase.com/news/32361",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
+          "id": "95c5f669328a5d906e3a0172394a9e1a00296828",
+          "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+          "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-20T03:41:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9919,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -814,299 +1195,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
+      "earliest_at": "2026-11-20T03:41:18Z",
+      "latest_at": "2026-11-20T03:41:18Z",
       "primary_item": {
-        "id": "a3841b2747280a8653591ce23b5a3ea0ec9553f8",
-        "title": "苏姿丰赞黄仁勋“杰出”，转头劝 AMD 少听噪音",
-        "url": "https://www.aibase.com/news/32361",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "95c5f669328a5d906e3a0172394a9e1a00296828",
+        "title": "腾讯混元 Hy4 正式开源并发布 System Card",
+        "url": "https://aihot.news/items/zkhdsir848uqwlf6ibuol1eb6",
+        "source": "公众号：腾讯混元",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_925021f9a27c",
-      "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-      "url": "https://www.aibase.com/news/32370",
-      "primary_url": "https://www.aibase.com/news/32370",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b6870de415fb4ef4618c9ea26d27e7d255c272eb",
-          "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-          "url": "https://www.aibase.com/news/32370",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b6870de415fb4ef4618c9ea26d27e7d255c272eb",
-          "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-          "url": "https://www.aibase.com/news/32370",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
-      "primary_item": {
-        "id": "b6870de415fb4ef4618c9ea26d27e7d255c272eb",
-        "title": "英伟达非上市持股飙升至 655 亿美元：黄仁勋离任后，AI 创投风向面临重大变数",
-        "url": "https://www.aibase.com/news/32370",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_052c7da5c04b",
-      "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-      "url": "https://www.aibase.com/news/32375",
-      "primary_url": "https://www.aibase.com/news/32375",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
-          "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-          "url": "https://www.aibase.com/news/32375",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
-          "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-          "url": "https://www.aibase.com/news/32375",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
-      "primary_item": {
-        "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
-        "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-        "url": "https://www.aibase.com/news/32375",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_789243a93741",
-      "title": "资本盛宴持续加码：红杉资本与光速创投等巨头拟在 Anthropic IPO 中追加数十亿美元投资",
-      "url": "https://www.aibase.com/news/32365",
-      "primary_url": "https://www.aibase.com/news/32365",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "82bd6311ba6a67e296f3f2d5a06dbc729ce84fa4",
-          "title": "资本盛宴持续加码：红杉资本与光速创投等巨头拟在 Anthropic IPO 中追加数十亿美元投资",
-          "url": "https://www.aibase.com/news/32365",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "82bd6311ba6a67e296f3f2d5a06dbc729ce84fa4",
-          "title": "资本盛宴持续加码：红杉资本与光速创投等巨头拟在 Anthropic IPO 中追加数十亿美元投资",
-          "url": "https://www.aibase.com/news/32365",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
-      "primary_item": {
-        "id": "82bd6311ba6a67e296f3f2d5a06dbc729ce84fa4",
-        "title": "资本盛宴持续加码：红杉资本与光速创投等巨头拟在 Anthropic IPO 中追加数十亿美元投资",
-        "url": "https://www.aibase.com/news/32365",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2a036866596e",
-      "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-      "url": "https://www.aibase.com/news/32376",
-      "primary_url": "https://www.aibase.com/news/32376",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
-          "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-          "url": "https://www.aibase.com/news/32376",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
-          "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-          "url": "https://www.aibase.com/news/32376",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:02:03.681616Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T04:02:03.681616Z",
-      "latest_at": "2026-11-18T04:02:03.681616Z",
-      "primary_item": {
-        "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
-        "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-        "url": "https://www.aibase.com/news/32376",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_08a8dbd9f09a",
-      "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-      "source": "GitHub Changelog",
+      "story_id": "story_b00f82b6db94",
+      "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
-          "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-          "source": "GitHub Changelog",
+          "id": "444177bedc11242e1974b553efabf05c74e3673c",
+          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:04:48Z"
+          "published_at": "2026-11-19T18:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
-          "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-          "source": "GitHub Changelog",
+          "id": "444177bedc11242e1974b553efabf05c74e3673c",
+          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:04:48Z"
+          "published_at": "2026-11-19T18:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5852,
+        "ai_relevance": 0.94,
+        "recency": 0.5882,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1115,32 +1256,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:04:48Z",
-      "latest_at": "2026-11-17T18:04:48Z",
+      "earliest_at": "2026-11-19T18:00:00Z",
+      "latest_at": "2026-11-19T18:00:00Z",
       "primary_item": {
-        "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
-        "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-        "source": "GitHub Changelog",
+        "id": "444177bedc11242e1974b553efabf05c74e3673c",
+        "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_0fb6d41b1c23",
-      "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+      "story_id": "story_4501efae01a1",
+      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:03:42Z"
+          "published_at": "2026-11-19T18:50:57Z"
         }
       ],
       "source_count": 1,
@@ -1149,25 +1290,25 @@
       ],
       "items": [
         {
-          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:03:42Z"
+          "published_at": "2026-11-19T18:50:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5845,
+        "ai_relevance": 0.87,
+        "recency": 0.6236,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1176,73 +1317,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:03:42Z",
-      "latest_at": "2026-11-17T18:03:42Z",
+      "earliest_at": "2026-11-19T18:50:57Z",
+      "latest_at": "2026-11-19T18:50:57Z",
       "primary_item": {
-        "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-        "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d463ce808607",
-      "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5833,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:02:05Z",
-      "latest_at": "2026-11-17T18:02:05Z",
-      "primary_item": {
-        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-        "title": "副驾驶代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
