@@ -1,1192 +1,1243 @@
 {
-  "generated_at": "2026-11-21T03:48:32.337116Z",
+  "generated_at": "2026-11-22T02:51:11.150802Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_2f9d0bc4d147",
-      "title": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
-      "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
-          "title": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
-          "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T21:49:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
-          "title": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
-          "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T21:49:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7507,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T21:49:29Z",
-      "latest_at": "2026-11-20T21:49:29Z",
-      "primary_item": {
-        "id": "7237f9ed3a6b2c780a810c45d8d7bb841f31b6c5",
-        "title": "安全咨询权限现已普遍可用 / Security advisory permissions are now generally available",
-        "url": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8f3afc444413",
-      "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-      "primary_url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
-          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T20:41:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
-          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T20:41:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7034,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T20:41:26Z",
-      "latest_at": "2026-11-20T20:41:26Z",
-      "primary_item": {
-        "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
-        "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-        "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a10752057b6d",
-      "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
-      "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
-      "primary_url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
-      "source": "Figma AI / Agent / Make",
+      "story_id": "story_4ba691da3f40",
+      "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+      "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+      "primary_url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+      "source": "Rohan Paul",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f4392a90783035d31a7dabed3d316d2d36457efb",
-          "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
-          "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
-          "source": "Figma AI / Agent / Make",
+          "id": "4b51747cc71cf483f83a2bb79a633e3ad222d66f",
+          "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+          "source": "Rohan Paul",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-20T22:17:00Z"
+          "published_at": "2026-11-21T18:47:26Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Figma AI / Agent / Make"
+        "Rohan Paul"
       ],
       "items": [
         {
-          "id": "f4392a90783035d31a7dabed3d316d2d36457efb",
-          "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
-          "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
-          "source": "Figma AI / Agent / Make",
+          "id": "4b51747cc71cf483f83a2bb79a633e3ad222d66f",
+          "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+          "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+          "source": "Rohan Paul",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-20T22:17:00Z"
+          "published_at": "2026-11-21T18:47:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7698,
+        "recency": 0.6641,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-20T22:17:00Z",
-      "latest_at": "2026-11-20T22:17:00Z",
+      "earliest_at": "2026-11-21T18:47:26Z",
+      "latest_at": "2026-11-21T18:47:26Z",
       "primary_item": {
-        "id": "f4392a90783035d31a7dabed3d316d2d36457efb",
-        "title": "Figma 演示用 Specs 与 Figma agent 把上下文变成可实现的开发计划",
-        "url": "https://aihot.news/items/w612ivonntodntv1ydkt2lqwh",
-        "source": "Figma AI / Agent / Make",
+        "id": "4b51747cc71cf483f83a2bb79a633e3ad222d66f",
+        "title": "Columbia 与 MIT 论文展示 Claude 发现的算法突破 3SUM 与 APSP 长期速度上限",
+        "url": "https://aihot.news/items/d32df9vzpliz9m348fug74inq",
+        "source": "Rohan Paul",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_b9417c5606ab",
-      "title": "将您最喜欢的存储库固定到仪表板 / Pin your favorite repositories to your dashboard",
-      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
-          "title": "将您最喜欢的存储库固定到仪表板 / Pin your favorite repositories to your dashboard",
-          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T14:12:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
-          "title": "将您最喜欢的存储库固定到仪表板 / Pin your favorite repositories to your dashboard",
-          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T14:12:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.433,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T14:12:05Z",
-      "latest_at": "2026-11-20T14:12:05Z",
-      "primary_item": {
-        "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
-        "title": "将您最喜欢的存储库固定到仪表板 / Pin your favorite repositories to your dashboard",
-        "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_31a25ad72679",
-      "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-      "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-      "primary_url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-      "source": "ChatGPT",
+      "story_id": "story_7854d1850cfb",
+      "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
+      "url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
+      "primary_url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
+      "source": "The Decoder：AI News",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8e6525f1d215510ec38bc646635b9e7322cf41ef",
-          "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-          "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-          "source": "ChatGPT",
+          "id": "41c52fb1a986b470781fc1361681273dbe70ea22",
+          "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
+          "url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
+          "source": "The Decoder：AI News",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-20T18:48:12Z"
+          "published_at": "2026-11-21T11:19:49Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "ChatGPT"
+        "The Decoder：AI News"
       ],
       "items": [
         {
-          "id": "8e6525f1d215510ec38bc646635b9e7322cf41ef",
-          "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-          "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-          "source": "ChatGPT",
+          "id": "41c52fb1a986b470781fc1361681273dbe70ea22",
+          "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
+          "url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
+          "source": "The Decoder：AI News",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-20T18:48:12Z"
+          "published_at": "2026-11-21T11:19:49Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
+      "score": 0.6826,
+      "importance": 0.6826,
+      "importance_score": 0.6826,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6248,
+        "recency": 0.3532,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-11-20T18:48:12Z",
-      "latest_at": "2026-11-20T18:48:12Z",
+      "earliest_at": "2026-11-21T11:19:49Z",
+      "latest_at": "2026-11-21T11:19:49Z",
       "primary_item": {
-        "id": "8e6525f1d215510ec38bc646635b9e7322cf41ef",
-        "title": "ChatGPT 推出 Space：统一管理页面、幻灯片、图片与文件",
-        "url": "https://aihot.news/items/ekf0so0xitc52thkrxx3mwax1",
-        "source": "ChatGPT",
+        "id": "41c52fb1a986b470781fc1361681273dbe70ea22",
+        "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
+        "url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
+        "source": "The Decoder：AI News",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_ae914d6e6f95",
-      "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
-      "url": "https://www.aibase.com/news/32449",
-      "primary_url": "https://www.aibase.com/news/32449",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_55ac31860b71",
+      "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+      "url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C",
+      "primary_url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
-          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
-          "url": "https://www.aibase.com/news/32449",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T18:48:32.337116Z"
+          "id": "6d1cbdd4ead67aeb81ff57f12ede2db8c4add44c",
+          "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+          "url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-22T10:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "InfoQ CN"
       ],
       "items": [
         {
-          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
-          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
-          "url": "https://www.aibase.com/news/32449",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T18:48:32.337116Z"
+          "id": "6d1cbdd4ead67aeb81ff57f12ede2db8c4add44c",
+          "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+          "url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-22T10:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.625,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T18:48:32.337116Z",
-      "latest_at": "2026-11-20T18:48:32.337116Z",
-      "primary_item": {
-        "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
-        "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
-        "url": "https://www.aibase.com/news/32449",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_70f65c5b4e94",
-      "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-      "url": "https://www.aibase.com/news/32448",
-      "primary_url": "https://www.aibase.com/news/32448",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
-          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-          "url": "https://www.aibase.com/news/32448",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T17:48:32.337116Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
-          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-          "url": "https://www.aibase.com/news/32448",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T17:48:32.337116Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5833,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T17:48:32.337116Z",
-      "latest_at": "2026-11-20T17:48:32.337116Z",
-      "primary_item": {
-        "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
-        "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
-        "url": "https://www.aibase.com/news/32448",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_06c2e359ea0c",
-      "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
-      "url": "https://www.aibase.com/news/32447",
-      "primary_url": "https://www.aibase.com/news/32447",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
-          "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
-          "url": "https://www.aibase.com/news/32447",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T17:48:32.337116Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
-          "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
-          "url": "https://www.aibase.com/news/32447",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T17:48:32.337116Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5833,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T17:48:32.337116Z",
-      "latest_at": "2026-11-20T17:48:32.337116Z",
-      "primary_item": {
-        "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
-        "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
-        "url": "https://www.aibase.com/news/32447",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bf937ceaa1b8",
-      "title": "Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码",
-      "url": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-      "primary_url": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c5b7c1a8991c18199e1a785f7c0c9955ae6be758",
-          "title": "Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码",
-          "url": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-20T16:54:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "c5b7c1a8991c18199e1a785f7c0c9955ae6be758",
-          "title": "Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码",
-          "url": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-20T16:54:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5461,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T16:54:55Z",
-      "latest_at": "2026-11-20T16:54:55Z",
-      "primary_item": {
-        "id": "c5b7c1a8991c18199e1a785f7c0c9955ae6be758",
-        "title": "Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作证明黎曼猜想，放出 1737 万行 Lean 代码",
-        "url": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_778321fbd15b",
-      "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-      "url": "https://www.aibase.com/news/32446",
-      "primary_url": "https://www.aibase.com/news/32446",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
-          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-          "url": "https://www.aibase.com/news/32446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T16:48:32.337116Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
-          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-          "url": "https://www.aibase.com/news/32446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T16:48:32.337116Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5417,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-20T16:48:32.337116Z",
-      "latest_at": "2026-11-20T16:48:32.337116Z",
-      "primary_item": {
-        "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
-        "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-        "url": "https://www.aibase.com/news/32446",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bba873b6406b",
-      "title": "Kling AI 发布 Kling Image 4.0：原生 8K 图像生成与高级文字渲染",
-      "url": "https://aihot.news/items/rhln87mprozseglkairsway74",
-      "primary_url": "https://aihot.news/items/rhln87mprozseglkairsway74",
-      "source": "可灵 Kling AI",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a657a3af61cad2d7db1fbedbb4524e15f63b69ae",
-          "title": "Kling AI 发布 Kling Image 4.0：原生 8K 图像生成与高级文字渲染",
-          "url": "https://aihot.news/items/rhln87mprozseglkairsway74",
-          "source": "可灵 Kling AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-20T16:40:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "可灵 Kling AI"
-      ],
-      "items": [
-        {
-          "id": "a657a3af61cad2d7db1fbedbb4524e15f63b69ae",
-          "title": "Kling AI 发布 Kling Image 4.0：原生 8K 图像生成与高级文字渲染",
-          "url": "https://aihot.news/items/rhln87mprozseglkairsway74",
-          "source": "可灵 Kling AI",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-20T16:40:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7193,
-      "importance": 0.7193,
-      "importance_score": 0.7193,
+      "score": 0.613,
+      "importance": 0.613,
+      "importance_score": 0.613,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5364,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-11-20T16:40:57Z",
-      "latest_at": "2026-11-20T16:40:57Z",
+      "earliest_at": "2026-11-22T10:00:00Z",
+      "latest_at": "2026-11-22T10:00:00Z",
       "primary_item": {
-        "id": "a657a3af61cad2d7db1fbedbb4524e15f63b69ae",
-        "title": "Kling AI 发布 Kling Image 4.0：原生 8K 图像生成与高级文字渲染",
-        "url": "https://aihot.news/items/rhln87mprozseglkairsway74",
-        "source": "可灵 Kling AI",
-        "source_name": "AI HOT"
+        "id": "6d1cbdd4ead67aeb81ff57f12ede2db8c4add44c",
+        "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+        "url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
       }
     },
     {
-      "story_id": "story_2e91e224bd66",
-      "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-      "url": "https://www.aibase.com/news/32443",
-      "primary_url": "https://www.aibase.com/news/32443",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6e086317ffb3",
+      "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "primary_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
-          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "url": "https://www.aibase.com/news/32443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T15:48:32.337116Z"
+          "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T02:09:43.926000Z"
+        },
+        {
+          "id": "871d89b9a892a2fb67bb3e10489af50755d208da",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:03:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T02:09:43.926000Z"
+        },
+        {
+          "id": "871d89b9a892a2fb67bb3e10489af50755d208da",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:03:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9712,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T02:03:46Z",
+      "latest_at": "2026-11-22T02:09:43.926000Z",
+      "primary_item": {
+        "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+        "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5d87055f8941",
+      "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+      "url": "https://pwn.ai/upload2shell/research.html",
+      "primary_url": "https://pwn.ai/upload2shell/research.html",
+      "source": "pwn.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T01:06:51.065000Z"
+        },
+        {
+          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
+          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T00:52:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T01:06:51.065000Z"
+        },
+        {
+          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
+          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T00:52:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9275,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T00:52:23Z",
+      "latest_at": "2026-11-22T01:06:51.065000Z",
+      "primary_item": {
+        "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+        "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+        "url": "https://pwn.ai/upload2shell/research.html",
+        "source": "pwn.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9f7e68615129",
+      "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+      "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+      "primary_url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e4601128db993e279115809c55cca0773d118007",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T00:34:50.197000Z"
+        },
+        {
+          "id": "a947ad56cc613ca0679afafb1feab4c3bff50099",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场 / The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T22:02:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e4601128db993e279115809c55cca0773d118007",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T00:34:50.197000Z"
+        },
+        {
+          "id": "a947ad56cc613ca0679afafb1feab4c3bff50099",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场 / The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T22:02:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9053,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T22:02:52Z",
+      "latest_at": "2026-11-22T00:34:50.197000Z",
+      "primary_item": {
+        "id": "e4601128db993e279115809c55cca0773d118007",
+        "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+        "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bbea66717b2b",
+      "title": "AI上下文流MCP / AI Context Flow MCP",
+      "url": "https://www.producthunt.com/products/ai-context-flow",
+      "primary_url": "https://www.producthunt.com/products/ai-context-flow",
+      "source": "producthunt",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0e73ea89c355777b4ebe7a93993905b4ff837d82",
+          "title": "AI上下文流MCP / AI Context Flow MCP",
+          "url": "https://www.producthunt.com/products/ai-context-flow",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T02:52:33.398000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "producthunt"
       ],
       "items": [
         {
-          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
-          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "url": "https://www.aibase.com/news/32443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T15:48:32.337116Z"
+          "id": "0e73ea89c355777b4ebe7a93993905b4ff837d82",
+          "title": "AI上下文流MCP / AI Context Flow MCP",
+          "url": "https://www.producthunt.com/products/ai-context-flow",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T02:52:33.398000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.712,
-      "importance": 0.712,
-      "importance_score": 0.712,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-11-20T15:48:32.337116Z",
-      "latest_at": "2026-11-20T15:48:32.337116Z",
+      "earliest_at": "2026-11-22T02:52:33.398000Z",
+      "latest_at": "2026-11-22T02:52:33.398000Z",
       "primary_item": {
-        "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
-        "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-        "url": "https://www.aibase.com/news/32443",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "0e73ea89c355777b4ebe7a93993905b4ff837d82",
+        "title": "AI上下文流MCP / AI Context Flow MCP",
+        "url": "https://www.producthunt.com/products/ai-context-flow",
+        "source": "producthunt",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_f7f7ce1a180c",
-      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-      "url": "https://www.aibase.com/news/32441",
-      "primary_url": "https://www.aibase.com/news/32441",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_b506428dd905",
+      "title": "Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑",
+      "url": "https://www.36kr.com/p/4079074198705280",
+      "primary_url": "https://www.36kr.com/p/4079074198705280",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "url": "https://www.aibase.com/news/32441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T15:48:32.337116Z"
+          "id": "ddfb1019b449e65fd595074bdcc096c0f42a849d",
+          "title": "Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑",
+          "url": "https://www.36kr.com/p/4079074198705280",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "36氪 · 24小时热榜"
       ],
       "items": [
         {
-          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "url": "https://www.aibase.com/news/32441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T15:48:32.337116Z"
+          "id": "ddfb1019b449e65fd595074bdcc096c0f42a849d",
+          "title": "Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑",
+          "url": "https://www.36kr.com/p/4079074198705280",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.712,
-      "importance": 0.712,
-      "importance_score": 0.712,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-11-20T15:48:32.337116Z",
-      "latest_at": "2026-11-20T15:48:32.337116Z",
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
       "primary_item": {
-        "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "url": "https://www.aibase.com/news/32441",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "ddfb1019b449e65fd595074bdcc096c0f42a849d",
+        "title": "Anthropic万亿IPO冲击波：智谱、MiniMax大跌，市场或重估大模型定价逻辑",
+        "url": "https://www.36kr.com/p/4079074198705280",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_815fec71a09d",
-      "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-      "url": "https://www.aibase.com/news/32442",
-      "primary_url": "https://www.aibase.com/news/32442",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_f8141af7025a",
+      "title": "Claude 用了三天，把模型“搬上” AMD 的 GPU",
+      "url": "https://www.oschina.net/news/503639/claude-mythos-slashed-software-work-to-onboard-amd-gpus",
+      "primary_url": "https://www.oschina.net/news/503639/claude-mythos-slashed-software-work-to-onboard-amd-gpus",
+      "source": "开源中国 · 热门资讯",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
-          "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-          "url": "https://www.aibase.com/news/32442",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T15:48:32.337116Z"
+          "id": "77ad02251de835095f480860352645ec2a6036a1",
+          "title": "Claude 用了三天，把模型“搬上” AMD 的 GPU",
+          "url": "https://www.oschina.net/news/503639/claude-mythos-slashed-software-work-to-onboard-amd-gpus",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "开源中国 · 热门资讯"
       ],
       "items": [
         {
-          "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
-          "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-          "url": "https://www.aibase.com/news/32442",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T15:48:32.337116Z"
+          "id": "77ad02251de835095f480860352645ec2a6036a1",
+          "title": "Claude 用了三天，把模型“搬上” AMD 的 GPU",
+          "url": "https://www.oschina.net/news/503639/claude-mythos-slashed-software-work-to-onboard-amd-gpus",
+          "source": "开源中国 · 热门资讯",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.712,
-      "importance": 0.712,
-      "importance_score": 0.712,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-11-20T15:48:32.337116Z",
-      "latest_at": "2026-11-20T15:48:32.337116Z",
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
       "primary_item": {
-        "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
-        "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-        "url": "https://www.aibase.com/news/32442",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "77ad02251de835095f480860352645ec2a6036a1",
+        "title": "Claude 用了三天，把模型“搬上” AMD 的 GPU",
+        "url": "https://www.oschina.net/news/503639/claude-mythos-slashed-software-work-to-onboard-amd-gpus",
+        "source": "开源中国 · 热门资讯",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_712c1edd34fd",
-      "title": "灵光开放生态再扩容:新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务",
-      "url": "https://www.aibase.com/news/32440",
-      "primary_url": "https://www.aibase.com/news/32440",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_48c8b715073a",
+      "title": "Exa 网络集 V2 / Exa Websets V2",
+      "url": "https://www.producthunt.com/products/exa-ai",
+      "primary_url": "https://www.producthunt.com/products/exa-ai",
+      "source": "producthunt",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "c4f54256609d230d02c8ef865bf02e3034951f4d",
-          "title": "灵光开放生态再扩容:新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务",
-          "url": "https://www.aibase.com/news/32440",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T15:48:32.337116Z"
+          "id": "63c96151f7fd36e01ae52b577c6bf62f0d707429",
+          "title": "Exa 网络集 V2 / Exa Websets V2",
+          "url": "https://www.producthunt.com/products/exa-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T02:52:33.398000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "producthunt"
       ],
       "items": [
         {
-          "id": "c4f54256609d230d02c8ef865bf02e3034951f4d",
-          "title": "灵光开放生态再扩容:新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务",
-          "url": "https://www.aibase.com/news/32440",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T15:48:32.337116Z"
+          "id": "63c96151f7fd36e01ae52b577c6bf62f0d707429",
+          "title": "Exa 网络集 V2 / Exa Websets V2",
+          "url": "https://www.producthunt.com/products/exa-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T02:52:33.398000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.712,
-      "importance": 0.712,
-      "importance_score": 0.712,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-11-20T15:48:32.337116Z",
-      "latest_at": "2026-11-20T15:48:32.337116Z",
+      "earliest_at": "2026-11-22T02:52:33.398000Z",
+      "latest_at": "2026-11-22T02:52:33.398000Z",
       "primary_item": {
-        "id": "c4f54256609d230d02c8ef865bf02e3034951f4d",
-        "title": "灵光开放生态再扩容:新增企业微信、腾讯文档等7项连接能力，累计支持54项外部服务",
-        "url": "https://www.aibase.com/news/32440",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "63c96151f7fd36e01ae52b577c6bf62f0d707429",
+        "title": "Exa 网络集 V2 / Exa Websets V2",
+        "url": "https://www.producthunt.com/products/exa-ai",
+        "source": "producthunt",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_6caf16343a37",
-      "title": "苹果亲自下场做自主 AI 智能体？招聘信息曝光细节，最早或明年底推出",
-      "url": "https://www.aibase.com/news/32444",
-      "primary_url": "https://www.aibase.com/news/32444",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_12eb3c771bfe",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "primary_url": "https://www.qbitai.com/2026/11/511779.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "1b2433e148efd3c13087ece95ee64e42bb28de1b",
-          "title": "苹果亲自下场做自主 AI 智能体？招聘信息曝光细节，最早或明年底推出",
-          "url": "https://www.aibase.com/news/32444",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T15:48:32.337116Z"
+          "id": "ce2cbf958e0e69e66658e700bd4408f95af50064",
+          "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+          "url": "https://www.qbitai.com/2026/11/511779.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "量子位 · 每日最新"
       ],
       "items": [
         {
-          "id": "1b2433e148efd3c13087ece95ee64e42bb28de1b",
-          "title": "苹果亲自下场做自主 AI 智能体？招聘信息曝光细节，最早或明年底推出",
-          "url": "https://www.aibase.com/news/32444",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T15:48:32.337116Z"
+          "id": "ce2cbf958e0e69e66658e700bd4408f95af50064",
+          "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+          "url": "https://www.qbitai.com/2026/11/511779.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.712,
-      "importance": 0.712,
-      "importance_score": 0.712,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-11-20T15:48:32.337116Z",
-      "latest_at": "2026-11-20T15:48:32.337116Z",
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
       "primary_item": {
-        "id": "1b2433e148efd3c13087ece95ee64e42bb28de1b",
-        "title": "苹果亲自下场做自主 AI 智能体？招聘信息曝光细节，最早或明年底推出",
-        "url": "https://www.aibase.com/news/32444",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "ce2cbf958e0e69e66658e700bd4408f95af50064",
+        "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+        "url": "https://www.qbitai.com/2026/11/511779.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_3b0e485588d5",
-      "title": "MIT 数学面板讨论 AI 冲击下的数学研究未来",
-      "url": "https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by",
-      "primary_url": "https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by",
-      "source": "MIT News",
-      "source_name": "AI HOT",
+      "story_id": "story_f4622ff733d1",
+      "title": "GPT-6.2更强更便宜了，为什么还有人骂？",
+      "url": "https://juejin.cn/post/7709380677695324203",
+      "primary_url": "https://juejin.cn/post/7709380677695324203",
+      "source": "掘金 · 人工智能本周最热",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "f3680e46104fb15a54c24f3db55c5a1a392a36fc",
-          "title": "MIT 数学面板讨论 AI 冲击下的数学研究未来",
-          "url": "https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by",
-          "source": "MIT News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-20T15:20:00Z"
+          "id": "7c5168a7ca0f9e80f0bca7a1a7572cf62844616b",
+          "title": "GPT-6.2更强更便宜了，为什么还有人骂？",
+          "url": "https://juejin.cn/post/7709380677695324203",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "MIT News"
+        "掘金 · 人工智能本周最热"
       ],
       "items": [
         {
-          "id": "f3680e46104fb15a54c24f3db55c5a1a392a36fc",
-          "title": "MIT 数学面板讨论 AI 冲击下的数学研究未来",
-          "url": "https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by",
-          "source": "MIT News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-20T15:20:00Z"
+          "id": "7c5168a7ca0f9e80f0bca7a1a7572cf62844616b",
+          "title": "GPT-6.2更强更便宜了，为什么还有人骂？",
+          "url": "https://juejin.cn/post/7709380677695324203",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.708,
-      "importance": 0.708,
-      "importance_score": 0.708,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4802,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-11-20T15:20:00Z",
-      "latest_at": "2026-11-20T15:20:00Z",
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
       "primary_item": {
-        "id": "f3680e46104fb15a54c24f3db55c5a1a392a36fc",
-        "title": "MIT 数学面板讨论 AI 冲击下的数学研究未来",
-        "url": "https://aihot.news/items/qfwgfsg8m1r4vcf4vglgi03by",
-        "source": "MIT News",
-        "source_name": "AI HOT"
+        "id": "7c5168a7ca0f9e80f0bca7a1a7572cf62844616b",
+        "title": "GPT-6.2更强更便宜了，为什么还有人骂？",
+        "url": "https://juejin.cn/post/7709380677695324203",
+        "source": "掘金 · 人工智能本周最热",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_e28be1686ff0",
-      "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
-      "url": "https://www.aibase.com/news/32437",
-      "primary_url": "https://www.aibase.com/news/32437",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_731f7c7f2dc8",
+      "title": "Robotaxi 同款大脑上车！特斯拉史上最强 FSD V15 推送：安全能力超人类",
+      "url": "https://news.mydrivers.com/1/1167/1167594.htm",
+      "primary_url": "https://news.mydrivers.com/1/1167/1167594.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "661597afe549d2646ca98e70987d163eb6e66d52",
-          "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
-          "url": "https://www.aibase.com/news/32437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T14:48:32.337116Z"
+          "id": "ecde365f3b4f1a97af052657749f7e72c2cc302f",
+          "title": "Robotaxi 同款大脑上车！特斯拉史上最强 FSD V15 推送：安全能力超人类",
+          "url": "https://news.mydrivers.com/1/1167/1167594.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "661597afe549d2646ca98e70987d163eb6e66d52",
-          "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
-          "url": "https://www.aibase.com/news/32437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T14:48:32.337116Z"
+          "id": "ecde365f3b4f1a97af052657749f7e72c2cc302f",
+          "title": "Robotaxi 同款大脑上车！特斯拉史上最强 FSD V15 推送：安全能力超人类",
+          "url": "https://news.mydrivers.com/1/1167/1167594.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7037,
-      "importance": 0.7037,
-      "importance_score": 0.7037,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4583,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-11-20T14:48:32.337116Z",
-      "latest_at": "2026-11-20T14:48:32.337116Z",
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
       "primary_item": {
-        "id": "661597afe549d2646ca98e70987d163eb6e66d52",
-        "title": "AI短剧告别野蛮生长:微信12月起强制要求提交AI生成全流程证明视频",
-        "url": "https://www.aibase.com/news/32437",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "ecde365f3b4f1a97af052657749f7e72c2cc302f",
+        "title": "Robotaxi 同款大脑上车！特斯拉史上最强 FSD V15 推送：安全能力超人类",
+        "url": "https://news.mydrivers.com/1/1167/1167594.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_b83db0b7befc",
-      "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-      "url": "https://www.aibase.com/news/32436",
-      "primary_url": "https://www.aibase.com/news/32436",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_7014f2740bb8",
+      "title": "东南亚AI中间商之死",
+      "url": "https://www.36kr.com/p/4078301371406215",
+      "primary_url": "https://www.36kr.com/p/4078301371406215",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "url": "https://www.aibase.com/news/32436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T14:48:32.337116Z"
+          "id": "886d0fe67566e14d53cea840fff654eff941d47d",
+          "title": "东南亚AI中间商之死",
+          "url": "https://www.36kr.com/p/4078301371406215",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "36氪 · 24小时热榜"
       ],
       "items": [
         {
-          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "url": "https://www.aibase.com/news/32436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T14:48:32.337116Z"
+          "id": "886d0fe67566e14d53cea840fff654eff941d47d",
+          "title": "东南亚AI中间商之死",
+          "url": "https://www.36kr.com/p/4078301371406215",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7037,
-      "importance": 0.7037,
-      "importance_score": 0.7037,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4583,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-11-20T14:48:32.337116Z",
-      "latest_at": "2026-11-20T14:48:32.337116Z",
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
       "primary_item": {
-        "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-        "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "url": "https://www.aibase.com/news/32436",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "886d0fe67566e14d53cea840fff654eff941d47d",
+        "title": "东南亚AI中间商之死",
+        "url": "https://www.36kr.com/p/4078301371406215",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_55e0d07cc83c",
-      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-      "url": "https://www.aibase.com/news/32439",
-      "primary_url": "https://www.aibase.com/news/32439",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_f530458a007c",
+      "title": "中美公开重量反馈环 / The US-China Open-Weight Feedback Loop",
+      "url": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
+      "primary_url": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "url": "https://www.aibase.com/news/32439",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T14:48:32.337116Z"
+          "id": "c0ecaf5764d8ae20d4d3dad7169ac20d2dba5fc3",
+          "title": "中美公开重量反馈环 / The US-China Open-Weight Feedback Loop",
+          "url": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "url": "https://www.aibase.com/news/32439",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T14:48:32.337116Z"
+          "id": "c0ecaf5764d8ae20d4d3dad7169ac20d2dba5fc3",
+          "title": "中美公开重量反馈环 / The US-China Open-Weight Feedback Loop",
+          "url": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7037,
-      "importance": 0.7037,
-      "importance_score": 0.7037,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4583,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "recent_ai_signal"
       ],
-      "earliest_at": "2026-11-20T14:48:32.337116Z",
-      "latest_at": "2026-11-20T14:48:32.337116Z",
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
       "primary_item": {
-        "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
-        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "url": "https://www.aibase.com/news/32439",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "c0ecaf5764d8ae20d4d3dad7169ac20d2dba5fc3",
+        "title": "中美公开重量反馈环 / The US-China Open-Weight Feedback Loop",
+        "url": "https://sebastianraschka.com/blog/2026/us-china-open-weight-feedback-loop.html",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_ec6b5b797711",
+      "title": "亚马逊云科技推出 TorchNeuron，可直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
+      "url": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY",
+      "primary_url": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6e8d4f07498b082fe9782ed278c0df550691b6cb",
+          "title": "亚马逊云科技推出 TorchNeuron，可直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
+          "url": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6e8d4f07498b082fe9782ed278c0df550691b6cb",
+          "title": "亚马逊云科技推出 TorchNeuron，可直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
+          "url": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
+      "primary_item": {
+        "id": "6e8d4f07498b082fe9782ed278c0df550691b6cb",
+        "title": "亚马逊云科技推出 TorchNeuron，可直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
+        "url": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1632abb4f04a",
+      "title": "全球 PCB 供应告急，AI 数据中心抢占产能，其它产业遇断供风险",
+      "url": "https://www.mittrchina.com/news/detail/17272",
+      "primary_url": "https://www.mittrchina.com/news/detail/17272",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "48dbffac9fb88f25feb835be33a15030e42ef615",
+          "title": "全球 PCB 供应告急，AI 数据中心抢占产能，其它产业遇断供风险",
+          "url": "https://www.mittrchina.com/news/detail/17272",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "48dbffac9fb88f25feb835be33a15030e42ef615",
+          "title": "全球 PCB 供应告急，AI 数据中心抢占产能，其它产业遇断供风险",
+          "url": "https://www.mittrchina.com/news/detail/17272",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
+      "primary_item": {
+        "id": "48dbffac9fb88f25feb835be33a15030e42ef615",
+        "title": "全球 PCB 供应告急，AI 数据中心抢占产能，其它产业遇断供风险",
+        "url": "https://www.mittrchina.com/news/detail/17272",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4cb075a5562c",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "primary_url": "https://www.qbitai.com/2026/11/511570.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c52aab151ec5c8e85e7af48dc5591115bdb6b34e",
+          "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+          "url": "https://www.qbitai.com/2026/11/511570.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-11-22T02:51:11.150802Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "c52aab151ec5c8e85e7af48dc5591115bdb6b34e",
+          "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+          "url": "https://www.qbitai.com/2026/11/511570.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-11-22T02:51:11.150802Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
+      "primary_item": {
+        "id": "c52aab151ec5c8e85e7af48dc5591115bdb6b34e",
+        "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+        "url": "https://www.qbitai.com/2026/11/511570.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_920718aff33d",
+      "title": "加州总检察长：对英伟达的调查涵盖潜在刑事违法",
+      "url": "https://www.theblockbeats.info/flash/378586",
+      "primary_url": "https://www.theblockbeats.info/flash/378586",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d13ef078ffeeed6090089f82aa3334644596038d",
+          "title": "加州总检察长：对英伟达的调查涵盖潜在刑事违法",
+          "url": "https://www.theblockbeats.info/flash/378586",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d13ef078ffeeed6090089f82aa3334644596038d",
+          "title": "加州总检察长：对英伟达的调查涵盖潜在刑事违法",
+          "url": "https://www.theblockbeats.info/flash/378586",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-11-22T02:51:11.150802Z",
+      "latest_at": "2026-11-22T02:51:11.150802Z",
+      "primary_item": {
+        "id": "d13ef078ffeeed6090089f82aa3334644596038d",
+        "title": "加州总检察长：对英伟达的调查涵盖潜在刑事违法",
+        "url": "https://www.theblockbeats.info/flash/378586",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_ee36c0feadf7",
+      "title": "快速打孔器 / Prompt Puncher",
+      "url": "https://www.producthunt.com/products/prompt-puncher",
+      "primary_url": "https://www.producthunt.com/products/prompt-puncher",
+      "source": "producthunt",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a20f75abea8a4ba8b927d7a89f15219dfeff61c1",
+          "title": "快速打孔器 / Prompt Puncher",
+          "url": "https://www.producthunt.com/products/prompt-puncher",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T02:52:33.398000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "a20f75abea8a4ba8b927d7a89f15219dfeff61c1",
+          "title": "快速打孔器 / Prompt Puncher",
+          "url": "https://www.producthunt.com/products/prompt-puncher",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T02:52:33.398000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "recent_ai_signal"
+      ],
+      "earliest_at": "2026-11-22T02:52:33.398000Z",
+      "latest_at": "2026-11-22T02:52:33.398000Z",
+      "primary_item": {
+        "id": "a20f75abea8a4ba8b927d7a89f15219dfeff61c1",
+        "title": "快速打孔器 / Prompt Puncher",
+        "url": "https://www.producthunt.com/products/prompt-puncher",
+        "source": "producthunt",
+        "source_name": "NewsNow"
       }
     }
   ]
