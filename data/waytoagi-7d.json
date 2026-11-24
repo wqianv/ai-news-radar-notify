@@ -1,50 +1,105 @@
 {
-  "generated_at": "2026-11-23T03:32:22.928068Z",
+  "generated_at": "2026-11-24T06:47:48.432889Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-11-22",
-  "count_today": 7,
+  "latest_date": "2026-11-23",
+  "count_today": 9,
   "updates_today": [
     {
-      "date": "2026-11-22",
-      "title": "这一次，我们把黑客松搬进了乐队 Live 现场，4小时能做出怎样的AI舞台视觉？11月20—21日，WaytoAGI与 ACE-CON联合发起首届 AI×音乐视觉黑客松，剪映提供独家工具支持，近 600 人报名、38 支队伍进入线下，最终8支作品登上国家会议中心主舞台，与乐队同台共演。来看看，当代码、画面和摇滚相遇，创作者们交出了怎样的现场答卷。",
+      "date": "2026-11-23",
+      "title": "第二届 GEO 大会复盘汇集 27 位行业专家的实战分享，把“让 AI 找到你”到“让用户选择你”之间的关键环节串了起来：用真实资料建立信任、按统一口径监测效果，再用官网、电话和商品页面接住需求。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-22",
-      "title": "给每个员工配上 AI，公司就会更高效吗？产品经理用 AI 写出 300 页需求，工程师再用 AI 压成一句话，忙了一圈，真正需要对齐的信息反而丢了。这篇文章从这个困境出发，拆解了面向个人和企业的Agent为什么走向不同。",
+      "date": "2026-11-23",
+      "title": "板子买好了才发现加屏幕后内存不够、需要的联网功能也不支持，硬件项目往往就这样被迫返工。CY这份 ESP32 选型指南，从语音机器人、智能家居到触屏视频设备，讲清 S3、C6、P4、S31 各自适合什么，以及哪些硬件限制不能靠升级软件解决。或许能帮助到你！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-22",
-      "title": "生图好看，不代表改图好用：人物换个场景就变脸，一张图改上几轮就开始发糊。小歪用 100 多张图、10 个实用场景，对比了四款生图模型，把海报排版、角色一致性、电商合成和连续十轮改图都测了一遍。",
+      "date": "2026-11-23",
+      "title": "员工用 AI 越来越快，项目却还在等审批、等交接，省下的时间又变成了更多材料和会议。这篇沿着“个人助手→办公交付→团队协作”的演进，拆解了一个现实问题：每个人都有 AI，为什么团队仍然忙乱？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-22",
-      "title": "提示词越写越长，AI 还是跑偏，问题可能出在资料、工具或验收环节。这篇把提示词、上下文、Harness 和 Loop 四层拆开讲清：说清任务、给对信息、配好工具与检查，再让整套流程自动运行。",
+      "date": "2026-11-23",
+      "title": "同样打开 Google AI Pro 订阅页，为什么有人能看到首年 99.99 美元，有人仍是原价？老金分享了自己获得黑五优惠的操作经历，从原有订阅处理、月付转年付，到退款、权益核验和关闭自动续费，都配了截图。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-22",
-      "title": "作者整理了一份第二届GEO大会Day 2的笔记，主要汇总了8个分享主题、2场实操和13轮答疑，覆盖国内视频矩阵、海外媒体合作、AI 产品增长与个人品牌经营。对GEO感兴趣的大家，不要错过！",
+      "date": "2026-11-23",
+      "title": "做绘本动画、科普视频，还要反复生成镜头、剪辑配音、对齐字幕？阿真分享了两个 Skill，用透明底图片加代码动效制作视频，自动对齐音画，还能把英语故事做成带生词问答的互动网页，省去反复生成 AI 视频的成本。可以试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-22",
-      "title": "Antigravity 还能拿来做什么？这份实战手册把使用场景扩展到了视频分镜拆解、深度长文写作和定时任务，从安装配置、模型选择到多个 Agent 分工协作，都配了可复用的命令与提示词。可以上手试试！",
+      "date": "2026-11-23",
+      "title": "一个人带 18 个 AI 助手，结果 149 件成果都堵在“等我看”。元子用自己的一人运营部复盘了一个真实困境：AI 产出越快，人的审核和决策越容易成为瓶颈。适合独立创作者和小团队参考，看看如何减少无效确认，把有限精力留给真正需要自己拍板的事。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-22",
-      "title": "Agent 能不能自己积累经验、改进技能，还越用越省钱？本期精选的10篇AI 论文从让 AI 记住每次修改的得失、自动盯训练，到精简 Skill、审核高风险更新，集中探讨了“如何让智能体持续进步”。做 Agent 开发或关注 AI 研究的朋友，可以重点看看其中的实践思路。",
+      "date": "2026-11-23",
+      "title": "Claude、Codex、Gemini 都用上了，结果自己却成了在窗口间搬运需求和代码的“传话员”？作者用T3 Code把多个模型组织成一支开发团队，从安装配置讲到任务交接、权限管理和跨模型审查，附有可复用的团队规则与角色提示词。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "AI 生成的 3D 角色看着很帅，一动起来却穿模、滑步，连武器都握不稳？Fini 用一款三国动作游戏，拆解了从单张参考图到电脑、手机双端可玩的完整流程：规范角色图、生成模型与动作、压缩素材，再逐步修好动作细节、补上打击感和Boss战。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "AI 做音乐正从“生成一首歌”走向完整创作流程，但发布和变现的规则也在收紧。这期《AI 音乐周刊》汇总了 Suno 歌曲转视频、在 AI 助手里直接做歌，以及用对话修改音效、配乐等更新，同时梳理平台对冒名作品、刷量与训练授权的新动向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 44,
+  "count_7d": 46,
   "updates_7d": [
+    {
+      "date": "2026-11-23",
+      "title": "第二届 GEO 大会复盘汇集 27 位行业专家的实战分享，把“让 AI 找到你”到“让用户选择你”之间的关键环节串了起来：用真实资料建立信任、按统一口径监测效果，再用官网、电话和商品页面接住需求。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "板子买好了才发现加屏幕后内存不够、需要的联网功能也不支持，硬件项目往往就这样被迫返工。CY这份 ESP32 选型指南，从语音机器人、智能家居到触屏视频设备，讲清 S3、C6、P4、S31 各自适合什么，以及哪些硬件限制不能靠升级软件解决。或许能帮助到你！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "员工用 AI 越来越快，项目却还在等审批、等交接，省下的时间又变成了更多材料和会议。这篇沿着“个人助手→办公交付→团队协作”的演进，拆解了一个现实问题：每个人都有 AI，为什么团队仍然忙乱？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "同样打开 Google AI Pro 订阅页，为什么有人能看到首年 99.99 美元，有人仍是原价？老金分享了自己获得黑五优惠的操作经历，从原有订阅处理、月付转年付，到退款、权益核验和关闭自动续费，都配了截图。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "做绘本动画、科普视频，还要反复生成镜头、剪辑配音、对齐字幕？阿真分享了两个 Skill，用透明底图片加代码动效制作视频，自动对齐音画，还能把英语故事做成带生词问答的互动网页，省去反复生成 AI 视频的成本。可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "一个人带 18 个 AI 助手，结果 149 件成果都堵在“等我看”。元子用自己的一人运营部复盘了一个真实困境：AI 产出越快，人的审核和决策越容易成为瓶颈。适合独立创作者和小团队参考，看看如何减少无效确认，把有限精力留给真正需要自己拍板的事。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Claude、Codex、Gemini 都用上了，结果自己却成了在窗口间搬运需求和代码的“传话员”？作者用T3 Code把多个模型组织成一支开发团队，从安装配置讲到任务交接、权限管理和跨模型审查，附有可复用的团队规则与角色提示词。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "AI 生成的 3D 角色看着很帅，一动起来却穿模、滑步，连武器都握不稳？Fini 用一款三国动作游戏，拆解了从单张参考图到电脑、手机双端可玩的完整流程：规范角色图、生成模型与动作、压缩素材，再逐步修好动作细节、补上打击感和Boss战。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-23",
+      "title": "AI 做音乐正从“生成一首歌”走向完整创作流程，但发布和变现的规则也在收紧。这期《AI 音乐周刊》汇总了 Suno 歌曲转视频、在 AI 助手里直接做歌，以及用对话修改音效、配乐等更新，同时梳理平台对冒名作品、刷量与训练授权的新动向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-22",
       "title": "这一次，我们把黑客松搬进了乐队 Live 现场，4小时能做出怎样的AI舞台视觉？11月20—21日，WaytoAGI与 ACE-CON联合发起首届 AI×音乐视觉黑客松，剪映提供独家工具支持，近 600 人报名、38 支队伍进入线下，最终8支作品登上国家会议中心主舞台，与乐队同台共演。来看看，当代码、画面和摇滚相遇，创作者们交出了怎样的现场答卷。",
@@ -228,41 +283,6 @@
     {
       "date": "2026-11-18",
       "title": "AI应用赛道融资趋紧，不少独立开发者、创业者不知道该往哪发力。作者这篇内容避开内卷的底层基建，给普通人列出了两条务实的落地方向。不要盲目追逐新技术热点，从身边真实的消费痛点入手，普通人也能找到适合自己切入的AI生意机会。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "这篇实战分享带来一套低成本复刻AI短剧产品的工具链路，借助DeepSeek Harness、REA与Craft Anything，仅两天就完成前端、后端与短剧技能蒸馏。作者还拆解了三层复刻流程，适合想搭建短剧工作台的开发者参考避坑，看清这类逆向方案的真实上限与隐患。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "想给团队引入AI又不愿重构现有工作流，这篇AIE上海大会的复盘很有参考意义。团队保留微信、Notion的原有协作习惯，用Agent承接官网、议程、海报等多物料同步更新，攻克跨版本交接易错的难题，给小团队轻量AI提效提供可复用的思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "厌倦收藏夹堆积、信息被动投喂？作者改造了经典的PARA知识管理体系，推出适配Agent的APQR方法。以每月一个核心问题为锚点，借助豆包工作搭建自动化信息流，定向抓取一手素材、搭配对立视角，拒绝无效热点。而且还给出了可直接复用的提示词与Skill，帮你把信息筛选交给AI，打造专属个人学习流。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "作者完整还原了交互式 3D 宇宙短片的打造思路。作者用 16 万颗粒子串联 138 亿年时光，依托 Aholo Lux3D 实现星尘汇聚成万物的惊艳效果。文中给出了可直接复用的代码、脚本、参数和踩坑记录，覆盖粒子引擎、模型瘦身、音频联动、网页部署全链路。不管是想要复刻同款粒子叙事，还是学习 Three.js + 文生 3D 的创意落地，都有极高参考价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "作者分享了用GPT快速搭建抗战悬疑互动AVG《第七个哨兵》的完整实战。来一起看看怎么仅用两段话，让AI完成一个让人热泪盈眶的AI游戏！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "一个周末就能跑通的 AI 助手，为什么还要花七个月才能上线？Meta 产品副总裁复盘了 Muse 的开发过程，把原型背后的难题摊开讲了一下：隐私怎样保护、任务如何验收、用户为什么连第一句指令都不知道怎么写。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "Anthropic 公开了 Claude Code 团队的核心工程经验：验证循环是大规模并行跑编码智能体的基石。这套方案能让智能体自主查漏、迭代修复，帮开发者从逐行审代码转向定义验收标准，释放多Agent并发开发的潜力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
