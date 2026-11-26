@@ -1,29 +1,127 @@
 {
-  "generated_at": "2026-11-25T05:15:07.884106Z",
+  "generated_at": "2026-11-26T04:43:26.896363Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_56d58da36a25",
-      "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
-      "url": "https://www.aibase.com/news/32511",
-      "primary_url": "https://www.aibase.com/news/32511",
+      "story_id": "story_9d0ac0ee32a2",
+      "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+      "url": "https://www.aibase.com/news/32541",
+      "primary_url": "https://www.aibase.com/news/32541",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
-          "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
-          "url": "https://www.aibase.com/news/32511",
+          "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
+          "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+          "url": "https://www.aibase.com/news/32541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         },
         {
-          "id": "a5cc7b84a5ddb29bfc08822330cccd730759646e",
-          "title": "AI 生成世界不再只有画面：高德 ABot-World0.5 支持实时交互与声音生成",
-          "url": "https://www.aibase.com/zh/news/32511",
+          "id": "cdf335abd09e7e3b04213703966109808f9d493a",
+          "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "url": "https://www.aibase.com/news/32535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T04:43:26.896363Z"
+        },
+        {
+          "id": "c52ca508c64e9fa53f6de562def1bc5b9bb82a9c",
+          "title": "OpenAI 开测「私有推理」：模型运行时隔离企业数据，内部员工也无法查看",
+          "url": "https://www.aibase.com/zh/news/32541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
+          "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+          "url": "https://www.aibase.com/news/32541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T04:43:26.896363Z"
+        },
+        {
+          "id": "cdf335abd09e7e3b04213703966109808f9d493a",
+          "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "url": "https://www.aibase.com/news/32535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T04:43:26.896363Z"
+        },
+        {
+          "id": "c52ca508c64e9fa53f6de562def1bc5b9bb82a9c",
+          "title": "OpenAI 开测「私有推理」：模型运行时隔离企业数据，内部员工也无法查看",
+          "url": "https://www.aibase.com/zh/news/32541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
+      "primary_item": {
+        "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
+        "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+        "url": "https://www.aibase.com/news/32541",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f0eedbd5cf91",
+      "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+      "url": "https://www.aibase.com/news/32533",
+      "primary_url": "https://www.aibase.com/news/32533",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
+          "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+          "url": "https://www.aibase.com/news/32533",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T04:43:26.896363Z"
+        },
+        {
+          "id": "a37048d0232e240b7ece0f9998409053e851ea7c",
+          "title": "OpenAI 启动 ChatGPT 聊天与工作模式整合，重度用户高级推理额度或受限",
+          "url": "https://www.aibase.com/zh/news/32533",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -37,18 +135,18 @@
       ],
       "items": [
         {
-          "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
-          "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
-          "url": "https://www.aibase.com/news/32511",
+          "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
+          "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+          "url": "https://www.aibase.com/news/32533",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         },
         {
-          "id": "a5cc7b84a5ddb29bfc08822330cccd730759646e",
-          "title": "AI 生成世界不再只有画面：高德 ABot-World0.5 支持实时交互与声音生成",
-          "url": "https://www.aibase.com/zh/news/32511",
+          "id": "a37048d0232e240b7ece0f9998409053e851ea7c",
+          "title": "OpenAI 启动 ChatGPT 聊天与工作模式整合，重度用户高级推理额度或受限",
+          "url": "https://www.aibase.com/zh/news/32533",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -73,37 +171,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "72b2f253c738189185ac86ac58dc268bdb4c5391",
-        "title": "AI生成世界不再只有画面:高德ABot-World0.5支持实时交互与声音生成",
-        "url": "https://www.aibase.com/news/32511",
+        "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
+        "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+        "url": "https://www.aibase.com/news/32533",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c6324170ede3",
-      "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-      "url": "https://www.aibase.com/news/32508",
-      "primary_url": "https://www.aibase.com/news/32508",
+      "story_id": "story_e2b5088e544c",
+      "title": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
+      "url": "https://www.aibase.com/news/32544",
+      "primary_url": "https://www.aibase.com/news/32544",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
-          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-          "url": "https://www.aibase.com/news/32508",
+          "id": "3f53c4de0fb9059fc55b4240e27e7913ac961cd4",
+          "title": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
+          "url": "https://www.aibase.com/news/32544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         },
         {
-          "id": "466f5861079ac9b7099e350bb686c21568b84079",
-          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-          "url": "https://www.aibase.com/zh/news/32508",
+          "id": "20e0b3d8031497685dc63592b58bf07db588236e",
+          "title": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
+          "url": "https://www.aibase.com/zh/news/32544",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -117,18 +215,18 @@
       ],
       "items": [
         {
-          "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
-          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-          "url": "https://www.aibase.com/news/32508",
+          "id": "3f53c4de0fb9059fc55b4240e27e7913ac961cd4",
+          "title": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
+          "url": "https://www.aibase.com/news/32544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         },
         {
-          "id": "466f5861079ac9b7099e350bb686c21568b84079",
-          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-          "url": "https://www.aibase.com/zh/news/32508",
+          "id": "20e0b3d8031497685dc63592b58bf07db588236e",
+          "title": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
+          "url": "https://www.aibase.com/zh/news/32544",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -153,37 +251,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
-        "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
-        "url": "https://www.aibase.com/news/32508",
+        "id": "3f53c4de0fb9059fc55b4240e27e7913ac961cd4",
+        "title": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
+        "url": "https://www.aibase.com/news/32544",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_52cef34c7734",
-      "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-      "url": "https://www.aibase.com/news/32507",
-      "primary_url": "https://www.aibase.com/news/32507",
+      "story_id": "story_78b8af1beb2d",
+      "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+      "url": "https://www.aibase.com/news/32546",
+      "primary_url": "https://www.aibase.com/news/32546",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
-          "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-          "url": "https://www.aibase.com/news/32507",
+          "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
+          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+          "url": "https://www.aibase.com/news/32546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         },
         {
-          "id": "14a628ec152cf6e855fa8a273dcb5f6dfda8e4db",
-          "title": "Claude 生成的应用可以「装」进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-          "url": "https://www.aibase.com/zh/news/32507",
+          "id": "2731a831da7691724695839276538c19e3d0f96d",
+          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+          "url": "https://www.aibase.com/zh/news/32546",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -197,18 +295,18 @@
       ],
       "items": [
         {
-          "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
-          "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-          "url": "https://www.aibase.com/news/32507",
+          "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
+          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+          "url": "https://www.aibase.com/news/32546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         },
         {
-          "id": "14a628ec152cf6e855fa8a273dcb5f6dfda8e4db",
-          "title": "Claude 生成的应用可以「装」进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-          "url": "https://www.aibase.com/zh/news/32507",
+          "id": "2731a831da7691724695839276538c19e3d0f96d",
+          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+          "url": "https://www.aibase.com/zh/news/32546",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -233,37 +331,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
-        "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
-        "url": "https://www.aibase.com/news/32507",
+        "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
+        "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+        "url": "https://www.aibase.com/news/32546",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d83572b5433e",
-      "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
-      "url": "https://www.aibase.com/news/32504",
-      "primary_url": "https://www.aibase.com/news/32504",
+      "story_id": "story_49dfd7afaec7",
+      "title": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
+      "url": "https://www.aibase.com/news/32540",
+      "primary_url": "https://www.aibase.com/news/32540",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
-          "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
-          "url": "https://www.aibase.com/news/32504",
+          "id": "fea73434e5af8b3302e591ba2f3ede69c143503c",
+          "title": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
+          "url": "https://www.aibase.com/news/32540",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         },
         {
-          "id": "e8f5aafd790f32aafab9baaa7897ba6c15edbff6",
-          "title": "ShellBench 发布：GPT-6Astra 等先进 AI 模型日常任务失败率超三分之一",
-          "url": "https://www.aibase.com/zh/news/32504",
+          "id": "d43b06a81620ddc247d06b079ea1075b9f04ecf3",
+          "title": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型：300 亿参数 MoE 架构，多项跑分超 GPT Image2",
+          "url": "https://www.aibase.com/zh/news/32540",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -277,18 +375,18 @@
       ],
       "items": [
         {
-          "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
-          "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
-          "url": "https://www.aibase.com/news/32504",
+          "id": "fea73434e5af8b3302e591ba2f3ede69c143503c",
+          "title": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
+          "url": "https://www.aibase.com/news/32540",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         },
         {
-          "id": "e8f5aafd790f32aafab9baaa7897ba6c15edbff6",
-          "title": "ShellBench 发布：GPT-6Astra 等先进 AI 模型日常任务失败率超三分之一",
-          "url": "https://www.aibase.com/zh/news/32504",
+          "id": "d43b06a81620ddc247d06b079ea1075b9f04ecf3",
+          "title": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型：300 亿参数 MoE 架构，多项跑分超 GPT Image2",
+          "url": "https://www.aibase.com/zh/news/32540",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -313,272 +411,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
-        "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
-        "url": "https://www.aibase.com/news/32504",
+        "id": "fea73434e5af8b3302e591ba2f3ede69c143503c",
+        "title": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
+        "url": "https://www.aibase.com/news/32540",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1d1316ac2723",
-      "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
-      "url": "https://www.aibase.com/news/32506",
-      "primary_url": "https://www.aibase.com/news/32506",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c0d40e212e2d",
+      "title": "Copilot code review billing will default to the organization",
+      "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "primary_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e9c97a164de906636924172b2a19890c1a38b7ec",
-          "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
-          "url": "https://www.aibase.com/news/32506",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
-        },
-        {
-          "id": "4594c01991544c021a6d1f60f32180eae62a94c0",
-          "title": "Tidal 宣布 12 月 9 日起封禁 AI 生成音乐，年底预计下架超 2900 万首歌曲",
-          "url": "https://www.aibase.com/zh/news/32506",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+          "title": "Copilot code review billing will default to the organization",
+          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T22:18:03Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "e9c97a164de906636924172b2a19890c1a38b7ec",
-          "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
-          "url": "https://www.aibase.com/news/32506",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
-        },
-        {
-          "id": "4594c01991544c021a6d1f60f32180eae62a94c0",
-          "title": "Tidal 宣布 12 月 9 日起封禁 AI 生成音乐，年底预计下架超 2900 万首歌曲",
-          "url": "https://www.aibase.com/zh/news/32506",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+          "title": "Copilot code review billing will default to the organization",
+          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T22:18:03Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7324,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-25T22:18:03Z",
+      "latest_at": "2026-11-25T22:18:03Z",
       "primary_item": {
-        "id": "e9c97a164de906636924172b2a19890c1a38b7ec",
-        "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
-        "url": "https://www.aibase.com/news/32506",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+        "title": "Copilot code review billing will default to the organization",
+        "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_d38fbabbf6eb",
-      "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
-      "url": "https://www.aibase.com/news/32509",
-      "primary_url": "https://www.aibase.com/news/32509",
+      "story_id": "story_3f602f46dbd1",
+      "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+      "url": "https://www.aibase.com/news/32547",
+      "primary_url": "https://www.aibase.com/news/32547",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "adefd1ae274ce3b3d43fdd1058df8c851f5fb3a9",
-          "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
-          "url": "https://www.aibase.com/news/32509",
+          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "url": "https://www.aibase.com/news/32547",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
-        },
-        {
-          "id": "f2c6e29fdfea799b701e8ee679b7aec977e92b8a",
-          "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
-          "url": "https://www.aibase.com/zh/news/32509",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "adefd1ae274ce3b3d43fdd1058df8c851f5fb3a9",
-          "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
-          "url": "https://www.aibase.com/news/32509",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
-        },
-        {
-          "id": "f2c6e29fdfea799b701e8ee679b7aec977e92b8a",
-          "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
-          "url": "https://www.aibase.com/zh/news/32509",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
-      "primary_item": {
-        "id": "adefd1ae274ce3b3d43fdd1058df8c851f5fb3a9",
-        "title": "业余天文学家带 AI 翻遍 1900 万颗恒星：筛出潜在系外行星信号，已交专业团队验证",
-        "url": "https://www.aibase.com/news/32509",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_186025c0f630",
-      "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在“足以超人驾驶”的 AI4 上",
-      "url": "https://www.aibase.com/news/32520",
-      "primary_url": "https://www.aibase.com/news/32520",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "37eb626e9de624834f538a18c756c971581dfea0",
-          "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在“足以超人驾驶”的 AI4 上",
-          "url": "https://www.aibase.com/news/32520",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
-        },
-        {
-          "id": "1a5748b9674f9b9a17d4bab673837c44d287697d",
-          "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在「足以超人驾驶」的 AI4 上",
-          "url": "https://www.aibase.com/zh/news/32520",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "37eb626e9de624834f538a18c756c971581dfea0",
-          "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在“足以超人驾驶”的 AI4 上",
-          "url": "https://www.aibase.com/news/32520",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
-        },
-        {
-          "id": "1a5748b9674f9b9a17d4bab673837c44d287697d",
-          "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在「足以超人驾驶」的 AI4 上",
-          "url": "https://www.aibase.com/zh/news/32520",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
-      "primary_item": {
-        "id": "37eb626e9de624834f538a18c756c971581dfea0",
-        "title": "马斯克拍板：AI5 芯片优先给 Optimus 机器人，特斯拉汽车留在“足以超人驾驶”的 AI4 上",
-        "url": "https://www.aibase.com/news/32520",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d003fed53e26",
-      "title": "Anthropic 给 Claude Artifacts 加“安装为应用”：AI 生成的工具可装进 macOS 和 Windows 桌面",
-      "url": "https://www.aibase.com/news/32510",
-      "primary_url": "https://www.aibase.com/news/32510",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "83f00387adfa67bcf8c236d66fa8597c8c480926",
-          "title": "Anthropic 给 Claude Artifacts 加“安装为应用”：AI 生成的工具可装进 macOS 和 Windows 桌面",
-          "url": "https://www.aibase.com/news/32510",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "source_count": 1,
@@ -587,13 +506,13 @@
       ],
       "items": [
         {
-          "id": "83f00387adfa67bcf8c236d66fa8597c8c480926",
-          "title": "Anthropic 给 Claude Artifacts 加“安装为应用”：AI 生成的工具可装进 macOS 和 Windows 桌面",
-          "url": "https://www.aibase.com/news/32510",
+          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "url": "https://www.aibase.com/news/32547",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "item_count": 1,
@@ -613,32 +532,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "83f00387adfa67bcf8c236d66fa8597c8c480926",
-        "title": "Anthropic 给 Claude Artifacts 加“安装为应用”：AI 生成的工具可装进 macOS 和 Windows 桌面",
-        "url": "https://www.aibase.com/news/32510",
+        "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+        "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+        "url": "https://www.aibase.com/news/32547",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_913181530c55",
-      "title": "GPT-6 不带专用生物模型上场：322 个设计蛋白进实验室，约一成有结合迹象",
-      "url": "https://www.aibase.com/news/32513",
-      "primary_url": "https://www.aibase.com/news/32513",
+      "story_id": "story_65cbd851ed6c",
+      "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+      "url": "https://www.aibase.com/news/32537",
+      "primary_url": "https://www.aibase.com/news/32537",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fe867052a1b7a0bb3a81b6b3ed34d8c92fbf6f7c",
-          "title": "GPT-6 不带专用生物模型上场：322 个设计蛋白进实验室，约一成有结合迹象",
-          "url": "https://www.aibase.com/news/32513",
+          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "url": "https://www.aibase.com/news/32537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "source_count": 1,
@@ -647,13 +566,13 @@
       ],
       "items": [
         {
-          "id": "fe867052a1b7a0bb3a81b6b3ed34d8c92fbf6f7c",
-          "title": "GPT-6 不带专用生物模型上场：322 个设计蛋白进实验室，约一成有结合迹象",
-          "url": "https://www.aibase.com/news/32513",
+          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "url": "https://www.aibase.com/news/32537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "item_count": 1,
@@ -673,32 +592,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "fe867052a1b7a0bb3a81b6b3ed34d8c92fbf6f7c",
-        "title": "GPT-6 不带专用生物模型上场：322 个设计蛋白进实验室，约一成有结合迹象",
-        "url": "https://www.aibase.com/news/32513",
+        "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+        "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+        "url": "https://www.aibase.com/news/32537",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_453b554465f5",
-      "title": "OpenAI 窃听案嫌犯获准保释：100 万美元担保 + 电子脚镣，法官称证据不足以继续关押",
-      "url": "https://www.aibase.com/news/32519",
-      "primary_url": "https://www.aibase.com/news/32519",
+      "story_id": "story_212bcefc70db",
+      "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+      "url": "https://www.aibase.com/news/32538",
+      "primary_url": "https://www.aibase.com/news/32538",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0550c17dcd3aa1c8a0743dbfaf918492ab4e35ed",
-          "title": "OpenAI 窃听案嫌犯获准保释：100 万美元担保 + 电子脚镣，法官称证据不足以继续关押",
-          "url": "https://www.aibase.com/news/32519",
+          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
+          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "url": "https://www.aibase.com/news/32538",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "source_count": 1,
@@ -707,13 +626,13 @@
       ],
       "items": [
         {
-          "id": "0550c17dcd3aa1c8a0743dbfaf918492ab4e35ed",
-          "title": "OpenAI 窃听案嫌犯获准保释：100 万美元担保 + 电子脚镣，法官称证据不足以继续关押",
-          "url": "https://www.aibase.com/news/32519",
+          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
+          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "url": "https://www.aibase.com/news/32538",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "item_count": 1,
@@ -733,32 +652,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "0550c17dcd3aa1c8a0743dbfaf918492ab4e35ed",
-        "title": "OpenAI 窃听案嫌犯获准保释：100 万美元担保 + 电子脚镣，法官称证据不足以继续关押",
-        "url": "https://www.aibase.com/news/32519",
+        "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
+        "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+        "url": "https://www.aibase.com/news/32538",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_540ca8172cec",
-      "title": "关闭浏览器仍狂吃数百兆内存！Chrome隐藏的“AI内存刺客”被揪出，一招教你彻底释放资源",
-      "url": "https://www.aibase.com/news/32514",
-      "primary_url": "https://www.aibase.com/news/32514",
+      "story_id": "story_ff4da41a621f",
+      "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+      "url": "https://www.aibase.com/news/32545",
+      "primary_url": "https://www.aibase.com/news/32545",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5fbd6ff12ce2aaabe805a197fa7b493577e37485",
-          "title": "关闭浏览器仍狂吃数百兆内存！Chrome隐藏的“AI内存刺客”被揪出，一招教你彻底释放资源",
-          "url": "https://www.aibase.com/news/32514",
+          "id": "e6ac4d58660e23a7289f9036367823648490d298",
+          "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+          "url": "https://www.aibase.com/news/32545",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "source_count": 1,
@@ -767,13 +686,13 @@
       ],
       "items": [
         {
-          "id": "5fbd6ff12ce2aaabe805a197fa7b493577e37485",
-          "title": "关闭浏览器仍狂吃数百兆内存！Chrome隐藏的“AI内存刺客”被揪出，一招教你彻底释放资源",
-          "url": "https://www.aibase.com/news/32514",
+          "id": "e6ac4d58660e23a7289f9036367823648490d298",
+          "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+          "url": "https://www.aibase.com/news/32545",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "item_count": 1,
@@ -793,32 +712,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "5fbd6ff12ce2aaabe805a197fa7b493577e37485",
-        "title": "关闭浏览器仍狂吃数百兆内存！Chrome隐藏的“AI内存刺客”被揪出，一招教你彻底释放资源",
-        "url": "https://www.aibase.com/news/32514",
+        "id": "e6ac4d58660e23a7289f9036367823648490d298",
+        "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+        "url": "https://www.aibase.com/news/32545",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_af1a66060801",
-      "title": "千问Go全面开放AI代打电话服务，支持预约、查询及定时外呼",
-      "url": "https://www.aibase.com/news/32518",
-      "primary_url": "https://www.aibase.com/news/32518",
+      "story_id": "story_b7cf92c1a2c4",
+      "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+      "url": "https://www.aibase.com/news/32536",
+      "primary_url": "https://www.aibase.com/news/32536",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9e89a9ac32db5fad83f3a7bc0b7e0d71fe0a7422",
-          "title": "千问Go全面开放AI代打电话服务，支持预约、查询及定时外呼",
-          "url": "https://www.aibase.com/news/32518",
+          "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
+          "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+          "url": "https://www.aibase.com/news/32536",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "source_count": 1,
@@ -827,13 +746,13 @@
       ],
       "items": [
         {
-          "id": "9e89a9ac32db5fad83f3a7bc0b7e0d71fe0a7422",
-          "title": "千问Go全面开放AI代打电话服务，支持预约、查询及定时外呼",
-          "url": "https://www.aibase.com/news/32518",
+          "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
+          "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+          "url": "https://www.aibase.com/news/32536",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "item_count": 1,
@@ -853,32 +772,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "9e89a9ac32db5fad83f3a7bc0b7e0d71fe0a7422",
-        "title": "千问Go全面开放AI代打电话服务，支持预约、查询及定时外呼",
-        "url": "https://www.aibase.com/news/32518",
+        "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
+        "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+        "url": "https://www.aibase.com/news/32536",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2f879ecadd02",
-      "title": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
-      "url": "https://www.aibase.com/news/32505",
-      "primary_url": "https://www.aibase.com/news/32505",
+      "story_id": "story_7d3dc6519487",
+      "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+      "url": "https://www.aibase.com/news/32534",
+      "primary_url": "https://www.aibase.com/news/32534",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "32d71f5c433cfe44b7838272455a781b51278844",
-          "title": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
-          "url": "https://www.aibase.com/news/32505",
+          "id": "9c217971bae065ea3b7ed9e4ba9b1884af98811a",
+          "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+          "url": "https://www.aibase.com/news/32534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "source_count": 1,
@@ -887,13 +806,13 @@
       ],
       "items": [
         {
-          "id": "32d71f5c433cfe44b7838272455a781b51278844",
-          "title": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
-          "url": "https://www.aibase.com/news/32505",
+          "id": "9c217971bae065ea3b7ed9e4ba9b1884af98811a",
+          "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+          "url": "https://www.aibase.com/news/32534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "item_count": 1,
@@ -913,32 +832,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "32d71f5c433cfe44b7838272455a781b51278844",
-        "title": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
-        "url": "https://www.aibase.com/news/32505",
+        "id": "9c217971bae065ea3b7ed9e4ba9b1884af98811a",
+        "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+        "url": "https://www.aibase.com/news/32534",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c2c1c8b7dc14",
-      "title": "拒绝“AI 垃圾代码”！LibreOffice 祭出最严 AI 编程新规：用大模型写代码，必须先过“人工解释”关",
-      "url": "https://www.aibase.com/news/32515",
-      "primary_url": "https://www.aibase.com/news/32515",
+      "story_id": "story_318eff65be01",
+      "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
+      "url": "https://www.aibase.com/news/32539",
+      "primary_url": "https://www.aibase.com/news/32539",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9d3c91de553d2179319050efe06c46c0a1927ec3",
-          "title": "拒绝“AI 垃圾代码”！LibreOffice 祭出最严 AI 编程新规：用大模型写代码，必须先过“人工解释”关",
-          "url": "https://www.aibase.com/news/32515",
+          "id": "def6bd6b0cd2cfc07531580ecf7128c70250d649",
+          "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
+          "url": "https://www.aibase.com/news/32539",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "source_count": 1,
@@ -947,13 +866,13 @@
       ],
       "items": [
         {
-          "id": "9d3c91de553d2179319050efe06c46c0a1927ec3",
-          "title": "拒绝“AI 垃圾代码”！LibreOffice 祭出最严 AI 编程新规：用大模型写代码，必须先过“人工解释”关",
-          "url": "https://www.aibase.com/news/32515",
+          "id": "def6bd6b0cd2cfc07531580ecf7128c70250d649",
+          "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
+          "url": "https://www.aibase.com/news/32539",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "item_count": 1,
@@ -973,32 +892,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "9d3c91de553d2179319050efe06c46c0a1927ec3",
-        "title": "拒绝“AI 垃圾代码”！LibreOffice 祭出最严 AI 编程新规：用大模型写代码，必须先过“人工解释”关",
-        "url": "https://www.aibase.com/news/32515",
+        "id": "def6bd6b0cd2cfc07531580ecf7128c70250d649",
+        "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
+        "url": "https://www.aibase.com/news/32539",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d59951c296b7",
-      "title": "百度开源文心 5.5 Flash Preview，用“测试驱动”重塑长程 AI 编程范式",
-      "url": "https://www.aibase.com/news/32521",
-      "primary_url": "https://www.aibase.com/news/32521",
+      "story_id": "story_e556cd296b10",
+      "title": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
+      "url": "https://www.aibase.com/news/32542",
+      "primary_url": "https://www.aibase.com/news/32542",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d973b7fa43294cb2548af57e7c5e6ee5098ebe28",
-          "title": "百度开源文心 5.5 Flash Preview，用“测试驱动”重塑长程 AI 编程范式",
-          "url": "https://www.aibase.com/news/32521",
+          "id": "46c582625c95ae9522fd055ced99ead48e943f7a",
+          "title": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
+          "url": "https://www.aibase.com/news/32542",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "source_count": 1,
@@ -1007,13 +926,13 @@
       ],
       "items": [
         {
-          "id": "d973b7fa43294cb2548af57e7c5e6ee5098ebe28",
-          "title": "百度开源文心 5.5 Flash Preview，用“测试驱动”重塑长程 AI 编程范式",
-          "url": "https://www.aibase.com/news/32521",
+          "id": "46c582625c95ae9522fd055ced99ead48e943f7a",
+          "title": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
+          "url": "https://www.aibase.com/news/32542",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "item_count": 1,
@@ -1033,32 +952,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "d973b7fa43294cb2548af57e7c5e6ee5098ebe28",
-        "title": "百度开源文心 5.5 Flash Preview，用“测试驱动”重塑长程 AI 编程范式",
-        "url": "https://www.aibase.com/news/32521",
+        "id": "46c582625c95ae9522fd055ced99ead48e943f7a",
+        "title": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
+        "url": "https://www.aibase.com/news/32542",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2a68ec3f2299",
-      "title": "算力提升12倍!特斯拉AI5芯片将率先赋能人形机器人",
-      "url": "https://www.aibase.com/news/32516",
-      "primary_url": "https://www.aibase.com/news/32516",
+      "story_id": "story_2c37fe8706d7",
+      "title": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
+      "url": "https://www.aibase.com/news/32543",
+      "primary_url": "https://www.aibase.com/news/32543",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "960a228147f3aae69cdfefb52619e64ff0844dfb",
-          "title": "算力提升12倍!特斯拉AI5芯片将率先赋能人形机器人",
-          "url": "https://www.aibase.com/news/32516",
+          "id": "2691051772cdfd75033358a4ef68a3dc5c332a34",
+          "title": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
+          "url": "https://www.aibase.com/news/32543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "source_count": 1,
@@ -1067,13 +986,13 @@
       ],
       "items": [
         {
-          "id": "960a228147f3aae69cdfefb52619e64ff0844dfb",
-          "title": "算力提升12倍!特斯拉AI5芯片将率先赋能人形机器人",
-          "url": "https://www.aibase.com/news/32516",
+          "id": "2691051772cdfd75033358a4ef68a3dc5c332a34",
+          "title": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
+          "url": "https://www.aibase.com/news/32543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
+          "published_at": "2026-11-26T04:43:26.896363Z"
         }
       ],
       "item_count": 1,
@@ -1093,179 +1012,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
+      "earliest_at": "2026-11-26T04:43:26.896363Z",
+      "latest_at": "2026-11-26T04:43:26.896363Z",
       "primary_item": {
-        "id": "960a228147f3aae69cdfefb52619e64ff0844dfb",
-        "title": "算力提升12倍!特斯拉AI5芯片将率先赋能人形机器人",
-        "url": "https://www.aibase.com/news/32516",
+        "id": "2691051772cdfd75033358a4ef68a3dc5c332a34",
+        "title": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
+        "url": "https://www.aibase.com/news/32543",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e2d32eae73ba",
-      "title": "陈睿:AI将提升优质内容供给效率，B站有望成为AI时代受益平台",
-      "url": "https://www.aibase.com/news/32512",
-      "primary_url": "https://www.aibase.com/news/32512",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "28a2697984f870f899a552fe02537294273b9a98",
-          "title": "陈睿:AI将提升优质内容供给效率，B站有望成为AI时代受益平台",
-          "url": "https://www.aibase.com/news/32512",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "28a2697984f870f899a552fe02537294273b9a98",
-          "title": "陈睿:AI将提升优质内容供给效率，B站有望成为AI时代受益平台",
-          "url": "https://www.aibase.com/news/32512",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
-      "primary_item": {
-        "id": "28a2697984f870f899a552fe02537294273b9a98",
-        "title": "陈睿:AI将提升优质内容供给效率，B站有望成为AI时代受益平台",
-        "url": "https://www.aibase.com/news/32512",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1b0e6c41a86e",
-      "title": "隐私AI初创公司Maple完成530万美元融资，推出AI桌面智能体",
-      "url": "https://www.aibase.com/news/32517",
-      "primary_url": "https://www.aibase.com/news/32517",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a2e070acbd7e82ed9bfd80582c635d593f2ab761",
-          "title": "隐私AI初创公司Maple完成530万美元融资，推出AI桌面智能体",
-          "url": "https://www.aibase.com/news/32517",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a2e070acbd7e82ed9bfd80582c635d593f2ab761",
-          "title": "隐私AI初创公司Maple完成530万美元融资，推出AI桌面智能体",
-          "url": "https://www.aibase.com/news/32517",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T05:15:07.884106Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T05:15:07.884106Z",
-      "latest_at": "2026-11-25T05:15:07.884106Z",
-      "primary_item": {
-        "id": "a2e070acbd7e82ed9bfd80582c635d593f2ab761",
-        "title": "隐私AI初创公司Maple完成530万美元融资，推出AI桌面智能体",
-        "url": "https://www.aibase.com/news/32517",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a963a35f96f1",
-      "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-      "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-      "primary_url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-      "source": "公众号：千问APP",
+      "story_id": "story_4a5edf7dcad0",
+      "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+      "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+      "primary_url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+      "source": "Calif：Research",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "95258550019d055124d7e30267ce376444203c51",
-          "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-          "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-          "source": "公众号：千问APP",
+          "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
+          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+          "source": "Calif：Research",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-25T04:32:44Z"
+          "published_at": "2026-11-26T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：千问APP"
+        "Calif：Research"
       ],
       "items": [
         {
-          "id": "95258550019d055124d7e30267ce376444203c51",
-          "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-          "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-          "source": "公众号：千问APP",
+          "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
+          "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+          "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+          "source": "Calif：Research",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-25T04:32:44Z"
+          "published_at": "2026-11-26T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.8032,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1273,59 +1072,59 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T04:32:44Z",
-      "latest_at": "2026-11-25T04:32:44Z",
+      "earliest_at": "2026-11-26T00:00:00Z",
+      "latest_at": "2026-11-26T00:00:00Z",
       "primary_item": {
-        "id": "95258550019d055124d7e30267ce376444203c51",
-        "title": "千问APP免费开放千问Go打电话服务，经授权可代打电话和定时来电",
-        "url": "https://aihot.news/items/cebavio3uyjwli5r3imsuq1si",
-        "source": "公众号：千问APP",
+        "id": "8e5c6ea05c12de304d512a3e1e5bf921deb42648",
+        "title": "Calif 披露 Tor Browser 15.0.22 UAF 漏洞链可致真实 IP 泄露",
+        "url": "https://aihot.news/items/gv1y811sp5p9kl7p3ci7xjt5n",
+        "source": "Calif：Research",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_3f29ffd2f9c6",
-      "title": "Anthropic 上市不到一周跌破 83 美元发行价",
-      "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-      "primary_url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-      "source": "IT之家·人工智能",
+      "story_id": "story_b6698ea4168d",
+      "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+      "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+      "primary_url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+      "source": "Calif：Research",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8f9ac8ee07da7bd01ac36fdc890c2642991c39ee",
-          "title": "Anthropic 上市不到一周跌破 83 美元发行价",
-          "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-          "source": "IT之家·人工智能",
+          "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
+          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "source": "Calif：Research",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-25T03:29:13Z"
+          "published_at": "2026-11-26T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家·人工智能"
+        "Calif：Research"
       ],
       "items": [
         {
-          "id": "8f9ac8ee07da7bd01ac36fdc890c2642991c39ee",
-          "title": "Anthropic 上市不到一周跌破 83 美元发行价",
-          "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-          "source": "IT之家·人工智能",
+          "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
+          "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+          "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+          "source": "Calif：Research",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-11-25T03:29:13Z"
+          "published_at": "2026-11-26T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.8032,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1333,13 +1132,193 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-25T03:29:13Z",
-      "latest_at": "2026-11-25T03:29:13Z",
+      "earliest_at": "2026-11-26T00:00:00Z",
+      "latest_at": "2026-11-26T00:00:00Z",
       "primary_item": {
-        "id": "8f9ac8ee07da7bd01ac36fdc890c2642991c39ee",
-        "title": "Anthropic 上市不到一周跌破 83 美元发行价",
-        "url": "https://aihot.news/items/yhlpti07v4y216qat3ml1qmca",
-        "source": "IT之家·人工智能",
+        "id": "9430c39f1099cc8e8e2e575112ce93dfad3a0a3c",
+        "title": "OEMpocalypse Part 2：利用 Knox DualDAR 漏洞链 root Galaxy S23 与 S26 旗舰机",
+        "url": "https://aihot.news/items/g5yjacklnlbp3v51hkzciksjy",
+        "source": "Calif：Research",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_36b4c97a29ed",
+      "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+      "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+      "primary_url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
+          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-25T23:56:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
+          "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+          "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-25T23:56:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8004,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T23:56:00Z",
+      "latest_at": "2026-11-25T23:56:00Z",
+      "primary_item": {
+        "id": "61c0457fdc6898c6f577910dc990eb55c43da113",
+        "title": "卡兹克把《人生意义设计课》做成AI Prompt，帮你设计人生的意义",
+        "url": "https://aihot.news/items/mruv0rx3oxnkjy9ll805qaidc",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b45d58e25dc6",
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+          "title": "How to choose the next safe step in application modernization",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+          "title": "How to choose the next safe step in application modernization",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.4282,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T15:00:00Z",
+      "latest_at": "2026-11-25T15:00:00Z",
+      "primary_item": {
+        "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+        "title": "How to choose the next safe step in application modernization",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_922156152788",
+      "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
+      "url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
+      "primary_url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
+      "source": "Elon Musk",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b8dbd711728038c5441ddbbc46292d6e0c675f3c",
+          "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
+          "url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
+          "source": "Elon Musk",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-25T19:12:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Elon Musk"
+      ],
+      "items": [
+        {
+          "id": "b8dbd711728038c5441ddbbc46292d6e0c675f3c",
+          "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
+          "url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
+          "source": "Elon Musk",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-25T19:12:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6038,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T19:12:53Z",
+      "latest_at": "2026-11-25T19:12:53Z",
+      "primary_item": {
+        "id": "b8dbd711728038c5441ddbbc46292d6e0c675f3c",
+        "title": "Dario Amodei 澄清不主张向 AI 交出人类自由意志",
+        "url": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
+        "source": "Elon Musk",
         "source_name": "AI HOT"
       }
     }
