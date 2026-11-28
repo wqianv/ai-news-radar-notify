@@ -1,8 +1,775 @@
 {
-  "generated_at": "2026-11-27T04:49:19.005391Z",
+  "generated_at": "2026-11-28T04:33:55.074676Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_05d73e85004e",
+      "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+      "url": "https://www.aibase.com/news/32580",
+      "primary_url": "https://www.aibase.com/news/32580",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "url": "https://www.aibase.com/news/32580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T18:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "url": "https://www.aibase.com/news/32580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T18:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T18:33:55.074676Z",
+      "latest_at": "2026-11-27T18:33:55.074676Z",
+      "primary_item": {
+        "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+        "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "url": "https://www.aibase.com/news/32580",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6774700e9f66",
+      "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+      "url": "https://www.aibase.com/news/32579",
+      "primary_url": "https://www.aibase.com/news/32579",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
+          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+          "url": "https://www.aibase.com/news/32579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T17:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
+          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+          "url": "https://www.aibase.com/news/32579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T17:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5417,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T17:33:55.074676Z",
+      "latest_at": "2026-11-27T17:33:55.074676Z",
+      "primary_item": {
+        "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
+        "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+        "url": "https://www.aibase.com/news/32579",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a65603203e95",
+      "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+      "url": "https://www.aibase.com/news/32574",
+      "primary_url": "https://www.aibase.com/news/32574",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "url": "https://www.aibase.com/news/32574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "url": "https://www.aibase.com/news/32574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.712,
+      "importance": 0.712,
+      "importance_score": 0.712,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T16:33:55.074676Z",
+      "latest_at": "2026-11-27T16:33:55.074676Z",
+      "primary_item": {
+        "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+        "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "url": "https://www.aibase.com/news/32574",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d2be3972758a",
+      "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+      "url": "https://www.aibase.com/news/32577",
+      "primary_url": "https://www.aibase.com/news/32577",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "url": "https://www.aibase.com/news/32577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "url": "https://www.aibase.com/news/32577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.712,
+      "importance": 0.712,
+      "importance_score": 0.712,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T16:33:55.074676Z",
+      "latest_at": "2026-11-27T16:33:55.074676Z",
+      "primary_item": {
+        "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+        "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+        "url": "https://www.aibase.com/news/32577",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7d77be3bea7a",
+      "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+      "url": "https://www.aibase.com/news/32572",
+      "primary_url": "https://www.aibase.com/news/32572",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
+          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+          "url": "https://www.aibase.com/news/32572",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
+          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+          "url": "https://www.aibase.com/news/32572",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.712,
+      "importance": 0.712,
+      "importance_score": 0.712,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T16:33:55.074676Z",
+      "latest_at": "2026-11-27T16:33:55.074676Z",
+      "primary_item": {
+        "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
+        "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+        "url": "https://www.aibase.com/news/32572",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b86b8951642f",
+      "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+      "url": "https://www.aibase.com/news/32575",
+      "primary_url": "https://www.aibase.com/news/32575",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
+          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "url": "https://www.aibase.com/news/32575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
+          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "url": "https://www.aibase.com/news/32575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.712,
+      "importance": 0.712,
+      "importance_score": 0.712,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T16:33:55.074676Z",
+      "latest_at": "2026-11-27T16:33:55.074676Z",
+      "primary_item": {
+        "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
+        "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+        "url": "https://www.aibase.com/news/32575",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_878ebd450fa3",
+      "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+      "url": "https://www.aibase.com/news/32576",
+      "primary_url": "https://www.aibase.com/news/32576",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8260c480781c8810c8501da8261fdb8f9b860539",
+          "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+          "url": "https://www.aibase.com/news/32576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8260c480781c8810c8501da8261fdb8f9b860539",
+          "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+          "url": "https://www.aibase.com/news/32576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.712,
+      "importance": 0.712,
+      "importance_score": 0.712,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T16:33:55.074676Z",
+      "latest_at": "2026-11-27T16:33:55.074676Z",
+      "primary_item": {
+        "id": "8260c480781c8810c8501da8261fdb8f9b860539",
+        "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+        "url": "https://www.aibase.com/news/32576",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dd2f6217ba9b",
+      "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+      "url": "https://www.aibase.com/news/32573",
+      "primary_url": "https://www.aibase.com/news/32573",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "url": "https://www.aibase.com/news/32573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "url": "https://www.aibase.com/news/32573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T16:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.712,
+      "importance": 0.712,
+      "importance_score": 0.712,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T16:33:55.074676Z",
+      "latest_at": "2026-11-27T16:33:55.074676Z",
+      "primary_item": {
+        "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+        "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "url": "https://www.aibase.com/news/32573",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1ee70fa08e40",
+      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+      "url": "https://www.aibase.com/news/32571",
+      "primary_url": "https://www.aibase.com/news/32571",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "url": "https://www.aibase.com/news/32571",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T15:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "url": "https://www.aibase.com/news/32571",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T15:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7037,
+      "importance": 0.7037,
+      "importance_score": 0.7037,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.4583,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T15:33:55.074676Z",
+      "latest_at": "2026-11-27T15:33:55.074676Z",
+      "primary_item": {
+        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+        "url": "https://www.aibase.com/news/32571",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7ec626ba7a36",
+      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+      "url": "https://www.aibase.com/news/32569",
+      "primary_url": "https://www.aibase.com/news/32569",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "url": "https://www.aibase.com/news/32569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T14:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "url": "https://www.aibase.com/news/32569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T14:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6953,
+      "importance": 0.6953,
+      "importance_score": 0.6953,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.4167,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T14:33:55.074676Z",
+      "latest_at": "2026-11-27T14:33:55.074676Z",
+      "primary_item": {
+        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "url": "https://www.aibase.com/news/32569",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c4652fadb832",
+      "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+      "url": "https://www.aibase.com/news/32570",
+      "primary_url": "https://www.aibase.com/news/32570",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "url": "https://www.aibase.com/news/32570",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T14:33:55.074676Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "url": "https://www.aibase.com/news/32570",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T14:33:55.074676Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6953,
+      "importance": 0.6953,
+      "importance_score": 0.6953,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.4167,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T14:33:55.074676Z",
+      "latest_at": "2026-11-27T14:33:55.074676Z",
+      "primary_item": {
+        "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+        "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "url": "https://www.aibase.com/news/32570",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a671d854a07f",
+      "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+      "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+      "primary_url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+      "source": "面壁智能 OpenBMB",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cd38a5da778347a918c54615cbfbf00de955d112",
+          "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+          "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+          "source": "面壁智能 OpenBMB",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-27T13:32:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "面壁智能 OpenBMB"
+      ],
+      "items": [
+        {
+          "id": "cd38a5da778347a918c54615cbfbf00de955d112",
+          "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+          "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+          "source": "面壁智能 OpenBMB",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-27T13:32:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6868,
+      "importance": 0.6868,
+      "importance_score": 0.6868,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.3738,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T13:32:15Z",
+      "latest_at": "2026-11-27T13:32:15Z",
+      "primary_item": {
+        "id": "cd38a5da778347a918c54615cbfbf00de955d112",
+        "title": "OpenBMB 点评 InternLM 基于 MiniCPM-o 4.5 打造的 Sage-Interaction",
+        "url": "https://aihot.news/items/l9md8ugx8e2zlm5g1tuqthmaw",
+        "source": "面壁智能 OpenBMB",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0d88709a3709",
+      "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+      "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+      "primary_url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+      "source": "卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
+          "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-27T12:38:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "卡兹克"
+      ],
+      "items": [
+        {
+          "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
+          "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+          "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+          "source": "卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-27T12:38:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.6793,
+      "importance": 0.6793,
+      "importance_score": 0.6793,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.3367,
+        "story_heat": 0.0
+      },
+      "category": "watch",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-27T12:38:45Z",
+      "latest_at": "2026-11-27T12:38:45Z",
+      "primary_item": {
+        "id": "2186f123ac1f40fc5dcba1fa3d731dd9007eb6e9",
+        "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+        "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+        "source": "卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_92963486aa3a",
       "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
@@ -57,21 +824,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "score": 0.6391,
+      "importance": 0.6391,
+      "importance_score": 0.6391,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.0107,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T04:49:19.005391Z",
       "latest_at": "2026-11-27T04:49:19.005391Z",
@@ -137,21 +903,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "score": 0.6391,
+      "importance": 0.6391,
+      "importance_score": 0.6391,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.0107,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T04:49:19.005391Z",
       "latest_at": "2026-11-27T04:49:19.005391Z",
@@ -217,21 +982,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "score": 0.6391,
+      "importance": 0.6391,
+      "importance_score": 0.6391,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.0107,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T04:49:19.005391Z",
       "latest_at": "2026-11-27T04:49:19.005391Z",
@@ -297,21 +1061,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "score": 0.6391,
+      "importance": 0.6391,
+      "importance_score": 0.6391,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.0107,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T04:49:19.005391Z",
       "latest_at": "2026-11-27T04:49:19.005391Z",
@@ -377,21 +1140,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "score": 0.6391,
+      "importance": 0.6391,
+      "importance_score": 0.6391,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.0107,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T04:49:19.005391Z",
       "latest_at": "2026-11-27T04:49:19.005391Z",
@@ -457,21 +1219,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "score": 0.6391,
+      "importance": 0.6391,
+      "importance_score": 0.6391,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.0107,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T04:49:19.005391Z",
       "latest_at": "2026-11-27T04:49:19.005391Z",
@@ -537,21 +1298,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "score": 0.6391,
+      "importance": 0.6391,
+      "importance_score": 0.6391,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.0107,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T04:49:19.005391Z",
       "latest_at": "2026-11-27T04:49:19.005391Z",
@@ -559,800 +1319,6 @@
         "id": "567f3ddf41d0c78be95f263595bee923d3cc411a",
         "title": "路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力",
         "url": "https://www.aibase.com/news/32563",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fb6c56c0066a",
-      "title": "通用大模型能“击穿”物理AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的",
-      "url": "https://www.aibase.com/news/32568",
-      "primary_url": "https://www.aibase.com/news/32568",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9debfeac57fab6efe4f0350cbfaa01ba27d2a265",
-          "title": "通用大模型能“击穿”物理AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的",
-          "url": "https://www.aibase.com/news/32568",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:49:19.005391Z"
-        },
-        {
-          "id": "b10313c406cb257d1b2607fa5024b64ea475a24e",
-          "title": "通用大模型能「击穿」物理 AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的",
-          "url": "https://www.aibase.com/zh/news/32568",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "9debfeac57fab6efe4f0350cbfaa01ba27d2a265",
-          "title": "通用大模型能“击穿”物理AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的",
-          "url": "https://www.aibase.com/news/32568",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:49:19.005391Z"
-        },
-        {
-          "id": "b10313c406cb257d1b2607fa5024b64ea475a24e",
-          "title": "通用大模型能「击穿」物理 AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的",
-          "url": "https://www.aibase.com/zh/news/32568",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T04:49:19.005391Z",
-      "latest_at": "2026-11-27T04:49:19.005391Z",
-      "primary_item": {
-        "id": "9debfeac57fab6efe4f0350cbfaa01ba27d2a265",
-        "title": "通用大模型能“击穿”物理AI？何小鹏给出清醒答案：物理世界的约束，不是靠参数能填平的",
-        "url": "https://www.aibase.com/news/32568",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_000b666239e9",
-      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-      "url": "https://www.aibase.com/news/32560",
-      "primary_url": "https://www.aibase.com/news/32560",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "url": "https://www.aibase.com/news/32560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:49:19.005391Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "url": "https://www.aibase.com/news/32560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:49:19.005391Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T04:49:19.005391Z",
-      "latest_at": "2026-11-27T04:49:19.005391Z",
-      "primary_item": {
-        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-        "url": "https://www.aibase.com/news/32560",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fba73f95fdd1",
-      "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-      "url": "https://www.aibase.com/news/32558",
-      "primary_url": "https://www.aibase.com/news/32558",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "url": "https://www.aibase.com/news/32558",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:49:19.005391Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "url": "https://www.aibase.com/news/32558",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:49:19.005391Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T04:49:19.005391Z",
-      "latest_at": "2026-11-27T04:49:19.005391Z",
-      "primary_item": {
-        "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-        "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-        "url": "https://www.aibase.com/news/32558",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6be7c06d9fd0",
-      "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-      "url": "https://www.aibase.com/news/32567",
-      "primary_url": "https://www.aibase.com/news/32567",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-          "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "url": "https://www.aibase.com/news/32567",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:49:19.005391Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-          "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "url": "https://www.aibase.com/news/32567",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:49:19.005391Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T04:49:19.005391Z",
-      "latest_at": "2026-11-27T04:49:19.005391Z",
-      "primary_item": {
-        "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-        "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-        "url": "https://www.aibase.com/news/32567",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_279fc9aeec18",
-      "title": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
-      "url": "https://www.aibase.com/news/32566",
-      "primary_url": "https://www.aibase.com/news/32566",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a8664b531a61e75c29028c0a1b74d2a54125616e",
-          "title": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
-          "url": "https://www.aibase.com/news/32566",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:49:19.005391Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a8664b531a61e75c29028c0a1b74d2a54125616e",
-          "title": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
-          "url": "https://www.aibase.com/news/32566",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T04:49:19.005391Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T04:49:19.005391Z",
-      "latest_at": "2026-11-27T04:49:19.005391Z",
-      "primary_item": {
-        "id": "a8664b531a61e75c29028c0a1b74d2a54125616e",
-        "title": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
-        "url": "https://www.aibase.com/news/32566",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2ba179e6a80a",
-      "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
-      "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-      "primary_url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
-          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
-          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-26T23:56:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
-          "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
-          "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-26T23:56:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7963,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T23:56:00Z",
-      "latest_at": "2026-11-26T23:56:00Z",
-      "primary_item": {
-        "id": "3afa83171b3cbc84f626cb4c19f0ed35244ec78a",
-        "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
-        "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_02a088434703",
-      "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-          "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-26T11:37:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-          "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-26T11:37:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.2833,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T11:37:17Z",
-      "latest_at": "2026-11-26T11:37:17Z",
-      "primary_item": {
-        "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-        "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e677c8a37bf1",
-      "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-      "url": "https://www.aibase.com/news/32554",
-      "primary_url": "https://www.aibase.com/news/32554",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "url": "https://www.aibase.com/news/32554",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T17:49:19.005391Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-          "url": "https://www.aibase.com/news/32554",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T17:49:19.005391Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5417,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T17:49:19.005391Z",
-      "latest_at": "2026-11-26T17:49:19.005391Z",
-      "primary_item": {
-        "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
-        "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
-        "url": "https://www.aibase.com/news/32554",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_621d4d2e1185",
-      "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-      "url": "https://www.aibase.com/news/32555",
-      "primary_url": "https://www.aibase.com/news/32555",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "url": "https://www.aibase.com/news/32555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T17:49:19.005391Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "url": "https://www.aibase.com/news/32555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T17:49:19.005391Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5417,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T17:49:19.005391Z",
-      "latest_at": "2026-11-26T17:49:19.005391Z",
-      "primary_item": {
-        "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-        "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-        "url": "https://www.aibase.com/news/32555",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_79ca40a374f4",
-      "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-      "url": "https://www.aibase.com/news/32556",
-      "primary_url": "https://www.aibase.com/news/32556",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
-          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "url": "https://www.aibase.com/news/32556",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T17:49:19.005391Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
-          "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-          "url": "https://www.aibase.com/news/32556",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T17:49:19.005391Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5417,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T17:49:19.005391Z",
-      "latest_at": "2026-11-26T17:49:19.005391Z",
-      "primary_item": {
-        "id": "8fff2caf8773da60e89b9cbde51dac67f3a4ec47",
-        "title": "点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭",
-        "url": "https://www.aibase.com/news/32556",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_51e2f1d1c883",
-      "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-      "url": "https://www.aibase.com/news/32553",
-      "primary_url": "https://www.aibase.com/news/32553",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
-          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "url": "https://www.aibase.com/news/32553",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T16:49:19.005391Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
-          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-          "url": "https://www.aibase.com/news/32553",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T16:49:19.005391Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.712,
-      "importance": 0.712,
-      "importance_score": 0.712,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T16:49:19.005391Z",
-      "latest_at": "2026-11-26T16:49:19.005391Z",
-      "primary_item": {
-        "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
-        "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
-        "url": "https://www.aibase.com/news/32553",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_84cfcaab2f2b",
-      "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
-      "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
-      "primary_url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
-      "source": "Ado Kukic",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "109703faef3119807708885c21c80f147acd34fc",
-          "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
-          "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
-          "source": "Ado Kukic",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-26T16:44:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ado Kukic"
-      ],
-      "items": [
-        {
-          "id": "109703faef3119807708885c21c80f147acd34fc",
-          "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
-          "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
-          "source": "Ado Kukic",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-26T16:44:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7114,
-      "importance": 0.7114,
-      "importance_score": 0.7114,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4969,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T16:44:47Z",
-      "latest_at": "2026-11-26T16:44:47Z",
-      "primary_item": {
-        "id": "109703faef3119807708885c21c80f147acd34fc",
-        "title": "Karpathy 用 Claude Code 和 Opus 5.5 把美国真实数据做成文明风格游戏地图",
-        "url": "https://aihot.news/items/gc4qp85ij5qzhu53qzkg8quqj",
-        "source": "Ado Kukic",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_983a52a48c0f",
-      "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-      "url": "https://www.aibase.com/news/32549",
-      "primary_url": "https://www.aibase.com/news/32549",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "url": "https://www.aibase.com/news/32549",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T15:49:19.005391Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-          "url": "https://www.aibase.com/news/32549",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T15:49:19.005391Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7037,
-      "importance": 0.7037,
-      "importance_score": 0.7037,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4583,
-        "story_heat": 0.0
-      },
-      "category": "watch",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-26T15:49:19.005391Z",
-      "latest_at": "2026-11-26T15:49:19.005391Z",
-      "primary_item": {
-        "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
-        "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
-        "url": "https://www.aibase.com/news/32549",
         "source": "AIbase",
         "source_name": "AIbase"
       }
